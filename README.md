@@ -13,3 +13,4 @@ Bookmark all my links into README.md
 - [How to Increase VCSA External PSC Disk Space in vSphere 6 | Virten.net](http://www.virten.net/2016/08/how-to-increase-vcsa-external-psc-disk-space-in-vsphere-6/) 
 - [How to Surround Yourself with Good People - Wahl Network](http://wahlnetwork.com/2016/08/08/how-to-surround-yourself-with-good-people/) 
 - [PowerCLI Script to Calculate VSAN vCAN Points Per Month - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/vsan-vcan-points-per-month-powercli-script/) 
+- [15 Things You Should Know About Ansible](http://codeheaven.io/15-things-you-should-know-about-ansible/) 
