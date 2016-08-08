@@ -9,4 +9,3 @@ Bookmark all my links into README.md
 - [The OVH group labs - RunAbove](https://www.runabove.com/index.xml#xtor-C1-2-[Runabove]) 
 - [Exposing Services using Ingress with On-Prem Kubernetes Clusters — Medium](https://medium.com/@rothgar/exposing-services-using-ingress-with-on-prem-kubernetes-clusters-f413d87b6d34#.k57n9g1ix) 
 - [kubernetes/taint-toleration-dedicated.md at release-1.3 · kubernetes/kubernetes](https://github.com/kubernetes/kubernetes/blob/release-1.3/docs/design/taint-toleration-dedicated.md#example-implementing-a-dedicated-nodes-policy) 
-- [Exposing Services using Ingress with On-Prem Kubernetes Clusters — Medium](https://medium.com/@rothgar/exposing-services-using-ingress-with-on-prem-kubernetes-clusters-f413d87b6d34#.k57n9g1ix) 
