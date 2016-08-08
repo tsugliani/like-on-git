@@ -10,3 +10,4 @@ Bookmark all my links into README.md
 - [Exposing Services using Ingress with On-Prem Kubernetes Clusters — Medium](https://medium.com/@rothgar/exposing-services-using-ingress-with-on-prem-kubernetes-clusters-f413d87b6d34#.k57n9g1ix) 
 - [kubernetes/taint-toleration-dedicated.md at release-1.3 · kubernetes/kubernetes](https://github.com/kubernetes/kubernetes/blob/release-1.3/docs/design/taint-toleration-dedicated.md#example-implementing-a-dedicated-nodes-policy) 
 - [Google Cloud Platform Blog: Google and Facebook share proposed new Open Rack Standard with 48-volt power architecture](https://cloudplatform.googleblog.com/2016/08/Google-and-Facebook-share-proposed-new-Open-Rack-Standard-with-48-volt-power-architecture.html) 
+- [How to Increase VCSA External PSC Disk Space in vSphere 6 | Virten.net](http://www.virten.net/2016/08/how-to-increase-vcsa-external-psc-disk-space-in-vsphere-6/) 
