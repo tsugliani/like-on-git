@@ -12,3 +12,4 @@ Bookmark all my links into README.md
 - [Google Cloud Platform Blog: Google and Facebook share proposed new Open Rack Standard with 48-volt power architecture](https://cloudplatform.googleblog.com/2016/08/Google-and-Facebook-share-proposed-new-Open-Rack-Standard-with-48-volt-power-architecture.html) 
 - [How to Increase VCSA External PSC Disk Space in vSphere 6 | Virten.net](http://www.virten.net/2016/08/how-to-increase-vcsa-external-psc-disk-space-in-vsphere-6/) 
 - [How to Surround Yourself with Good People - Wahl Network](http://wahlnetwork.com/2016/08/08/how-to-surround-yourself-with-good-people/) 
+- [PowerCLI Script to Calculate VSAN vCAN Points Per Month - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/vsan-vcan-points-per-month-powercli-script/) 
