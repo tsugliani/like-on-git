@@ -21,3 +21,4 @@ Bookmark all my links into README.md
 - [FanlessTech: EXCLUSIVE: Kaby Lake / Apollo Lake NUC specs](http://www.fanlesstech.com/2016/07/exclusive-kaby-lake-apollo-lake-nuc.html) 
 - [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
 - [Go Walkthrough: bytes + strings packages — Medium](https://medium.com/@benbjohnson/go-walkthrough-bytes-strings-packages-499be9f4b5bd#.hymk5sa8c) 
+- [The Netflix Tech Blog: Introducing Winston - Event driven Diagnostic and Remediation Platform](http://techblog.netflix.com/2016/08/introducing-winston-event-driven.html) 
