@@ -20,3 +20,4 @@ Bookmark all my links into README.md
 - [The missing piece in containers: storage!](http://blog.infinit.sh/the-missing-piece-in-containers-storage/) 
 - [FanlessTech: EXCLUSIVE: Kaby Lake / Apollo Lake NUC specs](http://www.fanlesstech.com/2016/07/exclusive-kaby-lake-apollo-lake-nuc.html) 
 - [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
+- [Go Walkthrough: bytes + strings packages — Medium](https://medium.com/@benbjohnson/go-walkthrough-bytes-strings-packages-499be9f4b5bd#.hymk5sa8c) 
