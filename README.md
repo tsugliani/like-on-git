@@ -18,3 +18,4 @@ Bookmark all my links into README.md
 
 ### August 9, 2016
 - [The missing piece in containers: storage!](http://blog.infinit.sh/the-missing-piece-in-containers-storage/) 
+- [FanlessTech: EXCLUSIVE: Kaby Lake / Apollo Lake NUC specs](http://www.fanlesstech.com/2016/07/exclusive-kaby-lake-apollo-lake-nuc.html) 
