@@ -23,3 +23,4 @@ Bookmark all my links into README.md
 - [Go Walkthrough: bytes + strings packages — Medium](https://medium.com/@benbjohnson/go-walkthrough-bytes-strings-packages-499be9f4b5bd#.hymk5sa8c) 
 - [The Netflix Tech Blog: Introducing Winston - Event driven Diagnostic and Remediation Platform](http://techblog.netflix.com/2016/08/introducing-winston-event-driven.html) 
 - [Kafka in a Nutshell : sookocheff.com](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/) 
+- [Heka, InfluxDB, and Grafana](https://jasonrogena.github.io/2016/01/02/heka-influxdb-and-grafana.html) 
