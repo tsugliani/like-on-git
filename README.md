@@ -29,3 +29,4 @@ Bookmark all my links into README.md
 ### August 10, 2016
 - [eBay/fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.](https://github.com/eBay/fabio#) 
 - [Træfɪk](https://traefik.io/) 
+- [Dynamic DNS Requirements – vNinja.net](http://vninja.net/homelab/dynamic-dns-requirements/) 
