@@ -33,3 +33,4 @@ Bookmark all my links into README.md
 - [Using CloudFlare for Dynamic DNS – vNinja.net](http://vninja.net/homelab/using-cloudflare-for-dynamic-dns/) 
 - [Gravitational Blog — Satellite: Monitoring Kubernetes in Production](http://blog.gravitational.com/satellite-monitoring-kubernetes-in-production/) 
 - [Home · Sourcegraph](https://sourcegraph.com/) 
+- [Go’s march to low-latency GC — Twitch Blog](https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7#.2g1y3s420) 
