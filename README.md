@@ -25,3 +25,6 @@ Bookmark all my links into README.md
 - [Kafka in a Nutshell : sookocheff.com](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/) 
 - [Heka, InfluxDB, and Grafana](https://jasonrogena.github.io/2016/01/02/heka-influxdb-and-grafana.html) 
 - [Live Monitoring FreeSWITCH & Newfies-Dialer](https://www.newfies-dialer.org/live-monitoring-freeswitch-newfies-dialer-with-grafana-influxdb-telegraf/) 
+
+### August 10, 2016
+- [eBay/fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.](https://github.com/eBay/fabio#) 
