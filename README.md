@@ -46,3 +46,4 @@ Bookmark all my links into README.md
 - [Go kit - A toolkit for microservices](http://gokit.io/) 
 - [Microservices - Not a free lunch! - High Scalability -](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html) 
 - [On being lost — Medium](https://medium.com/@swardley/on-being-lost-2ef5f05eb1ec#.7m9d98atf) 
+- [Finding a path — Medium](https://medium.com/@swardley/finding-a-path-cdb1249078c0#.rvx9f8hml) 
