@@ -45,3 +45,4 @@ Bookmark all my links into README.md
 - [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/) 
 - [Go kit - A toolkit for microservices](http://gokit.io/) 
 - [Microservices - Not a free lunch! - High Scalability -](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html) 
+- [On being lost — Medium](https://medium.com/@swardley/on-being-lost-2ef5f05eb1ec#.7m9d98atf) 
