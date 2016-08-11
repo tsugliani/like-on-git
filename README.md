@@ -36,3 +36,6 @@ Bookmark all my links into README.md
 - [Go’s march to low-latency GC — Twitch Blog](https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7#.2g1y3s420) 
 - [Intel's Skull Canyon NUC is the future of tiny desktops](https://www.engadget.com/2016/08/09/intel-skull-canyon-nuc-review/) 
 - [Paw – The most advanced API tool for Mac](https://paw.cloud/) 
+
+### August 11, 2016
+- [Working with maintenance mode in vROPs via PowerCLI - Virtu-Al.Net](http://www.virtu-al.net/2016/08/10/working-maintenance-mode-vrops-via-powercli/) 
