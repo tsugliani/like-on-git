@@ -43,3 +43,4 @@ Bookmark all my links into README.md
 - [GoConvey - Go testing in the browser](http://goconvey.co/) 
 - [Concourse: CI that scales with your project](https://concourse.ci/) 
 - [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/) 
+- [Go kit - A toolkit for microservices](http://gokit.io/) 
