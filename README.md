@@ -47,3 +47,6 @@ Bookmark all my links into README.md
 - [Microservices - Not a free lunch! - High Scalability -](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html) 
 - [On being lost — Medium](https://medium.com/@swardley/on-being-lost-2ef5f05eb1ec#.7m9d98atf) 
 - [Finding a path — Medium](https://medium.com/@swardley/finding-a-path-cdb1249078c0#.rvx9f8hml) 
+
+### August 12, 2016
+- [Distributed Logging Architecture in the Container Era | Treasure Data Blog](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/) 
