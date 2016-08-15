@@ -55,3 +55,4 @@ Bookmark all my links into README.md
 ### August 15, 2016
 - [Facebook moving to JBOF (just a bunch of flash) | RayOnStorage Blog](http://silvertonconsulting.com/blog/2016/08/13/facebook-moving-to-jbof-just-a-bunch-of-flash/#sthash.KkXkpAXR.dpbs) 
 - [kubernetes/CHANGELOG.md at master · kubernetes/kubernetes](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md/#v135) 
+- [CloudFlare Dynamic DNS Update Script (cf-ddns.sh) – vNinja.net](http://vninja.net/homelab/cloudflare-dynamic-dns-update-script-cf-ddns-sh/) 
