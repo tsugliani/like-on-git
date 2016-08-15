@@ -62,3 +62,4 @@ Bookmark all my links into README.md
 - [Distributed Logging Architecture in the Container Era | Treasure Data Blog](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/) 
 - [ACI Automation Deep Dive - Part 1](http://static-void.io/aci-automation-p1/) 
 - [VMware Horizon Client (PCoIP & Blast) Connection Workflow - Ray Heffer](https://www.rayheffer.com/vmware-horizon-client-pcoip-blast-connection-workflow/) 
+- [Operationalize SDDC program](http://virtual-red-dot.info/operationalize-sddc-program/) 
