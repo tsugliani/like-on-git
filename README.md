@@ -66,3 +66,4 @@ Bookmark all my links into README.md
 - [Jaco Labs: NodeJS + Docker - The missing manual](http://blog.getjaco.com/jaco-labs-nodejs-docker-missing-manual/) 
 - [VSAN Upgrades–NVMe & SATADOM](http://www.virtuallanger.com/2016/08/11/vsan-upgrades-nvme-satadom/) 
 - [Microservices: Real Architectural Patterns — Medium](https://medium.com/@skamille/microservices-real-architectural-patterns-68bd83bbb6cd#.mwx1lvgh3) 
+- [Jaco Labs: NodeJS + Docker - The missing manual](http://blog.getjaco.com/jaco-labs-nodejs-docker-missing-manual/) 
