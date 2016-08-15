@@ -61,3 +61,4 @@ Bookmark all my links into README.md
 - [Samsung Introduces 64-Layer V-NAND & A 32TB SAS SSD | StorageReview.com - Storage Reviews](http://www.storagereview.com/samsung_introduces_64layer_vnand_a_32tb_sas_ssd) 
 - [Distributed Logging Architecture in the Container Era | Treasure Data Blog](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/) 
 - [ACI Automation Deep Dive - Part 1](http://static-void.io/aci-automation-p1/) 
+- [VMware Horizon Client (PCoIP & Blast) Connection Workflow - Ray Heffer](https://www.rayheffer.com/vmware-horizon-client-pcoip-blast-connection-workflow/) 
