@@ -63,3 +63,4 @@ Bookmark all my links into README.md
 - [ACI Automation Deep Dive - Part 1](http://static-void.io/aci-automation-p1/) 
 - [VMware Horizon Client (PCoIP & Blast) Connection Workflow - Ray Heffer](https://www.rayheffer.com/vmware-horizon-client-pcoip-blast-connection-workflow/) 
 - [Operationalize SDDC program](http://virtual-red-dot.info/operationalize-sddc-program/) 
+- [Jaco Labs: NodeJS + Docker - The missing manual](http://blog.getjaco.com/jaco-labs-nodejs-docker-missing-manual/) 
