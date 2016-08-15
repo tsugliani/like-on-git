@@ -51,3 +51,6 @@ Bookmark all my links into README.md
 ### August 12, 2016
 - [Distributed Logging Architecture in the Container Era | Treasure Data Blog](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/) 
 - [ACI Automation Deep Dive - Part 1](http://static-void.io/aci-automation-p1/) 
+
+### August 15, 2016
+- [Facebook moving to JBOF (just a bunch of flash) | RayOnStorage Blog](http://silvertonconsulting.com/blog/2016/08/13/facebook-moving-to-jbof-just-a-bunch-of-flash/#sthash.KkXkpAXR.dpbs) 
