@@ -64,3 +64,4 @@ Bookmark all my links into README.md
 - [VMware Horizon Client (PCoIP & Blast) Connection Workflow - Ray Heffer](https://www.rayheffer.com/vmware-horizon-client-pcoip-blast-connection-workflow/) 
 - [Operationalize SDDC program](http://virtual-red-dot.info/operationalize-sddc-program/) 
 - [Jaco Labs: NodeJS + Docker - The missing manual](http://blog.getjaco.com/jaco-labs-nodejs-docker-missing-manual/) 
+- [VSAN Upgrades–NVMe & SATADOM](http://www.virtuallanger.com/2016/08/11/vsan-upgrades-nvme-satadom/) 
