@@ -59,3 +59,4 @@ Bookmark all my links into README.md
 - [Watchtower: Automatic Updates for Docker Containers - CenturyLink Cloud Developer Center](https://www.ctl.io/developers/blog/post/watchtower-automatic-updates-for-docker-containers/) 
 - [TNS Research: A Scan of the Container Vulnerability Scanner Landscape - The New Stack](http://thenewstack.io/draft-vulnerability-scanners/) 
 - [Samsung Introduces 64-Layer V-NAND & A 32TB SAS SSD | StorageReview.com - Storage Reviews](http://www.storagereview.com/samsung_introduces_64layer_vnand_a_32tb_sas_ssd) 
+- [Distributed Logging Architecture in the Container Era | Treasure Data Blog](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/) 
