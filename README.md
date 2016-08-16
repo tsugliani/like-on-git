@@ -68,3 +68,6 @@ Bookmark all my links into README.md
 - [Jaco Labs: NodeJS + Docker - The missing manual](http://blog.getjaco.com/jaco-labs-nodejs-docker-missing-manual/) 
 - [Supermicro X10SDV-4C-7TP4F server Bill-of-Materials | Erik Bussink](http://www.bussink.ch/?p=1766) 
 - [PowervRO - vRealize Orchestrator PowerShell Toolkit](https://www.helloitscraig.co.uk/2016/08/vro-powershell-powervro.html) 
+
+### August 16, 2016
+- [Go 1.7 Release Notes - The Go Programming Language](https://golang.org/doc/go1.7) 
