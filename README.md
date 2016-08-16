@@ -73,3 +73,4 @@ Bookmark all my links into README.md
 - [Go 1.7 Release Notes - The Go Programming Language](https://golang.org/doc/go1.7) 
 - [Kubernetes - Network Plugins](http://kubernetes.io/docs/admin/network-plugins/) 
 - [VMware VSAN 6.2 All-Flash Review | StorageReview.com - Storage Reviews](http://www.storagereview.com/vmware_vsan_62_allflash_review) 
+- [Log Insight: Converting Agent Groups into Manifests - SFlanders.net](http://sflanders.net/2016/08/16/log-insight-converting-agent-groups-manifests/) 
