@@ -80,3 +80,4 @@ Bookmark all my links into README.md
 ### August 17, 2016
 - [Automate vRealize Orchestrator with PowerShell: Introducing PowervRO | Jonathan Medd's Blog](http://www.jonathanmedd.net/2016/08/automate-vrealize-orchestrator-with-powershell-introducing-powervro.html) 
 - [@DuncanYB's recommended reads part 3 - Yellow Bricks](http://www.yellow-bricks.com/2016/08/17/duncanybs-recommended-reads-part-3/) 
+- [Deciphering Glyph :: Python Packaging Is Good Now](https://glyph.twistedmatrix.com/2016/08/python-packaging.html) 
