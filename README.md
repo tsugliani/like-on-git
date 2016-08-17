@@ -79,3 +79,4 @@ Bookmark all my links into README.md
 
 ### August 17, 2016
 - [Automate vRealize Orchestrator with PowerShell: Introducing PowervRO | Jonathan Medd's Blog](http://www.jonathanmedd.net/2016/08/automate-vrealize-orchestrator-with-powershell-introducing-powervro.html) 
+- [Automate vRealize Orchestrator with PowerShell: Introducing PowervRO | Jonathan Medd's Blog](http://www.jonathanmedd.net/2016/08/automate-vrealize-orchestrator-with-powershell-introducing-powervro.html?utm_content=buffer54bc6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
