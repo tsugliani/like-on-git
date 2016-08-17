@@ -76,3 +76,6 @@ Bookmark all my links into README.md
 - [Log Insight: Converting Agent Groups into Manifests - SFlanders.net](http://sflanders.net/2016/08/16/log-insight-converting-agent-groups-manifests/) 
 - [An Early Access Look at Rubrik Firefly - Wahl Network](http://wahlnetwork.com/2016/08/16/a-first-look-at-rubrik-firefly/) 
 - [Security Model](https://coreos.com/etcd/docs/latest/security.html) 
+
+### August 17, 2016
+- [Automate vRealize Orchestrator with PowerShell: Introducing PowervRO | Jonathan Medd's Blog](http://www.jonathanmedd.net/2016/08/automate-vrealize-orchestrator-with-powershell-introducing-powervro.html) 
