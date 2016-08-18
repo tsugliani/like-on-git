@@ -92,3 +92,4 @@ Bookmark all my links into README.md
 - [Kubernetes: Kubernetes Namespaces: use cases and insights](http://blog.kubernetes.io/2016/08/kubernetes-namespaces-use-cases-insights.html) 
 - [Deciphering Glyph :: Python Packaging Is Good Now](https://glyph.twistedmatrix.com/2016/08/python-packaging.html) 
 - [Custom Pattern as a Classification Value on NSX Data Security Regulation | blog.bertello.org](http://blog.bertello.org/2016/08/18/customized-regex-as-a-classification-value-on-nsx-data-security-regulation/) 
+- [Release vSphere Integrated Containers Version v0.5.0 · vmware/vic](https://github.com/vmware/vic/releases/tag/v0.5.0) 
