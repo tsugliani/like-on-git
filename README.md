@@ -90,3 +90,4 @@ Bookmark all my links into README.md
 - [As a software developer, this is how we view ALL end users. - GIF on Imgur](http://imgur.com/gallery/X17puIB) 
 - [Quick Tip – How to retrieve the ESXi Update Level using the vSphere API? | virtuallyGhetto](http://www.virtuallyghetto.com/2016/08/quick-tip-how-to-retrieve-the-esxi-update-level-using-the-vsphere-api.html) 
 - [Kubernetes: Kubernetes Namespaces: use cases and insights](http://blog.kubernetes.io/2016/08/kubernetes-namespaces-use-cases-insights.html) 
+- [Deciphering Glyph :: Python Packaging Is Good Now](https://glyph.twistedmatrix.com/2016/08/python-packaging.html) 
