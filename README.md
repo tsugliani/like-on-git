@@ -84,3 +84,4 @@ Bookmark all my links into README.md
 
 ### August 18, 2016
 - [Managing Compute Resources with OpenShift/Kubernetes – OpenShift Blog](https://blog.openshift.com/managing-compute-resources-openshiftkubernetes/#.V7V1NryLswM.twitter) 
+- [Containers – Clean up your House | Gabriel Schenker's Blog](https://lostechies.com/gabrielschenker/2016/08/14/containers-clean-up-your-house/) 
