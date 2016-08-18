@@ -81,3 +81,6 @@ Bookmark all my links into README.md
 - [Automate vRealize Orchestrator with PowerShell: Introducing PowervRO | Jonathan Medd's Blog](http://www.jonathanmedd.net/2016/08/automate-vrealize-orchestrator-with-powershell-introducing-powervro.html) 
 - [@DuncanYB's recommended reads part 3 - Yellow Bricks](http://www.yellow-bricks.com/2016/08/17/duncanybs-recommended-reads-part-3/) 
 - [Deciphering Glyph :: Python Packaging Is Good Now](https://glyph.twistedmatrix.com/2016/08/python-packaging.html) 
+
+### August 18, 2016
+- [Managing Compute Resources with OpenShift/Kubernetes – OpenShift Blog](https://blog.openshift.com/managing-compute-resources-openshiftkubernetes/#.V7V1NryLswM.twitter) 
