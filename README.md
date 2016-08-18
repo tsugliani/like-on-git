@@ -87,3 +87,4 @@ Bookmark all my links into README.md
 - [Containers – Clean up your House | Gabriel Schenker's Blog](https://lostechies.com/gabrielschenker/2016/08/14/containers-clean-up-your-house/) 
 - [Google's new Chrome extension settles debate over 'backspace' key](http://mashable.com/2016/08/17/google-chrome-backspace-extension/#xbytDNX8Emq7) 
 - [How to run OpenShift V3 on an existing Kubernetes Cluster · Jeremy Brown](https://www.tenfourty.com/2015/07/27/how-to-run-openshift-v3-on-an-existing-kubernetes-cluster/) 
+- [As a software developer, this is how we view ALL end users. - GIF on Imgur](http://imgur.com/gallery/X17puIB) 
