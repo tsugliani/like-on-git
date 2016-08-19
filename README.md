@@ -99,3 +99,4 @@ Bookmark all my links into README.md
 - [ipspace/NetOpsWorkshop: Test cases and scenarios for Network Automation workshop](https://github.com/ipspace/NetOpsWorkshop) 
 - [PowerShell is open sourced and is available on Linux | Blog | Microsoft Azure](https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/) 
 - [Wikiverse: a galactic reimagining of Wikipedia](http://wikiverse.io/) 
+- [How Rackspace Operates OpenStack at Scale - The Official Rackspace Blog](http://blog.rackspace.com/how-rackspace-operates-openstack-at-scale?utm_content=bufferf5996&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
