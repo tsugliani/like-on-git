@@ -97,3 +97,4 @@ Bookmark all my links into README.md
 ### August 19, 2016
 - [Simpler GitHub Pages publishing](https://github.com/blog/2228-simpler-github-pages-publishing) 
 - [ipspace/NetOpsWorkshop: Test cases and scenarios for Network Automation workshop](https://github.com/ipspace/NetOpsWorkshop) 
+- [PowerShell is open sourced and is available on Linux | Blog | Microsoft Azure](https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/) 
