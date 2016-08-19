@@ -96,3 +96,4 @@ Bookmark all my links into README.md
 
 ### August 19, 2016
 - [Simpler GitHub Pages publishing](https://github.com/blog/2228-simpler-github-pages-publishing) 
+- [ipspace/NetOpsWorkshop: Test cases and scenarios for Network Automation workshop](https://github.com/ipspace/NetOpsWorkshop) 
