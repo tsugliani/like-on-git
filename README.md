@@ -100,3 +100,6 @@ Bookmark all my links into README.md
 - [PowerShell is open sourced and is available on Linux | Blog | Microsoft Azure](https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/) 
 - [Wikiverse: a galactic reimagining of Wikipedia](http://wikiverse.io/) 
 - [How Rackspace Operates OpenStack at Scale - The Official Rackspace Blog](http://blog.rackspace.com/how-rackspace-operates-openstack-at-scale?utm_content=bufferf5996&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+
+### August 22, 2016
+- [Intel Xeon D-1518 (X10SDV-4C-7TP4F) ESXi & Storage server build notes | Erik Bussink](http://www.bussink.ch/?p=1787) 
