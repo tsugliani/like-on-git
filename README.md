@@ -106,3 +106,4 @@ Bookmark all my links into README.md
 - [Network core switch Cisco Nexus 3064PQ | Erik Bussink](http://www.bussink.ch/?p=1810) 
 - [How To Build Your Own Docker Images | Iron.io](https://www.iron.io/how-to-build-your-own-docker-images/) 
 - [Solving the routing mess for services using Docker — Medium](https://medium.com/@lherrera/solving-the-routing-mess-for-services-in-docker-73492c37b335#.mhdx7eu4v) 
+- [NUMA Deep Dive Part 5: ESXi VMkernel NUMA Constructs - frankdenneman.nl](http://frankdenneman.nl/2016/08/22/numa-deep-dive-part-5-esxi-vmkernel-numa-constructs/) 
