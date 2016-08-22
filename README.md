@@ -105,3 +105,4 @@ Bookmark all my links into README.md
 - [Intel Xeon D-1518 (X10SDV-4C-7TP4F) ESXi & Storage server build notes | Erik Bussink](http://www.bussink.ch/?p=1787) 
 - [Network core switch Cisco Nexus 3064PQ | Erik Bussink](http://www.bussink.ch/?p=1810) 
 - [How To Build Your Own Docker Images | Iron.io](https://www.iron.io/how-to-build-your-own-docker-images/) 
+- [Solving the routing mess for services using Docker — Medium](https://medium.com/@lherrera/solving-the-routing-mess-for-services-in-docker-73492c37b335#.mhdx7eu4v) 
