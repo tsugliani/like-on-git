@@ -103,3 +103,4 @@ Bookmark all my links into README.md
 
 ### August 22, 2016
 - [Intel Xeon D-1518 (X10SDV-4C-7TP4F) ESXi & Storage server build notes | Erik Bussink](http://www.bussink.ch/?p=1787) 
+- [Network core switch Cisco Nexus 3064PQ | Erik Bussink](http://www.bussink.ch/?p=1810) 
