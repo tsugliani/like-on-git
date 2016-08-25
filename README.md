@@ -116,3 +116,4 @@ Bookmark all my links into README.md
 - [Tutoriel Vidéo JavaScript Modernizr](https://www.grafikart.fr/tutoriels/javascript/modernizr-803) 
 - [License NSX via automation with PowerCLI – Network Inferno](http://networkinferno.net/license-nsx-via-automation-with-powercli) 
 - [Rubrik landed new funding round and announced version 3.0 - Yellow Bricks](http://www.yellow-bricks.com/2016/08/24/rubrik-landed-new-funding-round-announced-version-30/) 
+- [I Contributed To An Open-Source Editor, And So Can You – Smashing Magazine](https://www.smashingmagazine.com/2016/08/contributing-open-source/) 
