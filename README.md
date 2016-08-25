@@ -114,3 +114,4 @@ Bookmark all my links into README.md
 
 ### August 25, 2016
 - [Tutoriel Vidéo JavaScript Modernizr](https://www.grafikart.fr/tutoriels/javascript/modernizr-803) 
+- [License NSX via automation with PowerCLI – Network Inferno](http://networkinferno.net/license-nsx-via-automation-with-powercli) 
