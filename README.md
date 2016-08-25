@@ -117,3 +117,4 @@ Bookmark all my links into README.md
 - [License NSX via automation with PowerCLI – Network Inferno](http://networkinferno.net/license-nsx-via-automation-with-powercli) 
 - [Rubrik landed new funding round and announced version 3.0 - Yellow Bricks](http://www.yellow-bricks.com/2016/08/24/rubrik-landed-new-funding-round-announced-version-30/) 
 - [I Contributed To An Open-Source Editor, And So Can You – Smashing Magazine](https://www.smashingmagazine.com/2016/08/contributing-open-source/) 
+- [Use VMware Perl SDK to manage a vSphere infrastructure – room28.it](https://room28.it/index.php/2016/07/11/use-vmware-perl-sdk-to-manage-a-vsphere-infrastructure/) 
