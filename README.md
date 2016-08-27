@@ -126,3 +126,4 @@ Bookmark all my links into README.md
 - [Micro-segmentation Defined – NSX Securing "Anywhere" - Part I - The Network Virtualization Blog](https://blogs.vmware.com/networkvirtualization/2016/06/micro-segmentation-defined-nsx-securing-anywhere.html) 
 - [Physical Security in a Virtual World – NSX Securing “Anywhere” - Part II - The Network Virtualization Blog](https://blogs.vmware.com/networkvirtualization/2016/06/3479.html) 
 - [Operationalizing Micro-segmentation – NSX Securing "Anywhere" – Part III - The Network Virtualization Blog](https://blogs.vmware.com/networkvirtualization/2016/07/operationalizing-micro-segmentation-nsx-securing-anywhere-part-3.html) 
+- [Micro-segmentation with Service Insertion – NSX Securing "Anywhere" Part IV - The Network Virtualization Blog](https://blogs.vmware.com/networkvirtualization/2016/07/micro-segmentation-defined-nsx-securing-anywhere-part-iv.html) 
