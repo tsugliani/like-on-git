@@ -132,3 +132,4 @@ Bookmark all my links into README.md
 - [upmc-enterprises/kubernetes-secret-manager: Manage secrets with Vault inside a Kubernetes cluster](https://github.com/upmc-enterprises/kubernetes-secret-manager) 
 - [Ultimate PowerShell Prompt Customization and Git Setup Guide](https://hodgkins.io/ultimate-powershell-prompt-and-git-setup) 
 - [Easy Conference Tunneling - OSX, Sidestep, and Cloud Servers · Cody Bunch](http://blog.codybunch.com/2016/08/25/Easy-Conference-Tunneling-Sidestep-Cloud-Servers/) 
+- [GitLab 8.11 released with Issue Boards and Merge Conflict Resolution | GitLab](https://about.gitlab.com/2016/08/22/gitlab-8-11-released/) 
