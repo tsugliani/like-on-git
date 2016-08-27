@@ -131,3 +131,4 @@ Bookmark all my links into README.md
 - [Micro-segmentation Benchmark - NSX Securing "Anywhere" Part VI - The Network Virtualization Blog](https://blogs.vmware.com/networkvirtualization/2016/08/micro-segmentation-benchmark-nsx-securing-anywhere-part-vi.html) 
 - [upmc-enterprises/kubernetes-secret-manager: Manage secrets with Vault inside a Kubernetes cluster](https://github.com/upmc-enterprises/kubernetes-secret-manager) 
 - [Ultimate PowerShell Prompt Customization and Git Setup Guide](https://hodgkins.io/ultimate-powershell-prompt-and-git-setup) 
+- [Easy Conference Tunneling - OSX, Sidestep, and Cloud Servers · Cody Bunch](http://blog.codybunch.com/2016/08/25/Easy-Conference-Tunneling-Sidestep-Cloud-Servers/) 
