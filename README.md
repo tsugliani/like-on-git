@@ -129,3 +129,4 @@ Bookmark all my links into README.md
 - [Micro-segmentation with Service Insertion – NSX Securing "Anywhere" Part IV - The Network Virtualization Blog](https://blogs.vmware.com/networkvirtualization/2016/07/micro-segmentation-defined-nsx-securing-anywhere-part-iv.html) 
 - [Context, Visibility and Containment - NSX Securing “Anywhere” Part V - The Network Virtualization Blog](https://blogs.vmware.com/networkvirtualization/2016/08/nsx-securing-anywhere-part-v.html) 
 - [Micro-segmentation Benchmark - NSX Securing "Anywhere" Part VI - The Network Virtualization Blog](https://blogs.vmware.com/networkvirtualization/2016/08/micro-segmentation-benchmark-nsx-securing-anywhere-part-vi.html) 
+- [upmc-enterprises/kubernetes-secret-manager: Manage secrets with Vault inside a Kubernetes cluster](https://github.com/upmc-enterprises/kubernetes-secret-manager) 
