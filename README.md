@@ -134,3 +134,6 @@ Bookmark all my links into README.md
 - [Easy Conference Tunneling - OSX, Sidestep, and Cloud Servers · Cody Bunch](http://blog.codybunch.com/2016/08/25/Easy-Conference-Tunneling-Sidestep-Cloud-Servers/) 
 - [GitLab 8.11 released with Issue Boards and Merge Conflict Resolution | GitLab](https://about.gitlab.com/2016/08/22/gitlab-8-11-released/) 
 - [Testing Distributed Firewall heap usage – Network Inferno](http://networkinferno.net/testing-distributed-firewall-heap-usage) 
+
+### August 28, 2016
+- [SSH Server Auditing: ssh-audit](https://n0where.net/ssh-server-auditing-ssh-audit/) 
