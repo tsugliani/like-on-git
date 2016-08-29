@@ -138,3 +138,6 @@ Bookmark all my links into README.md
 ### August 28, 2016
 - [SSH Server Auditing: ssh-audit](https://n0where.net/ssh-server-auditing-ssh-audit/) 
 - [Two weeks with Terraform – charity.wtf](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) 
+
+### August 29, 2016
+- [bottkars/vmxtoolkit: vmxtoolkit is the Powershell extension to VMware Workstation](https://github.com/bottkars/vmxtoolkit) 
