@@ -149,3 +149,4 @@ Bookmark all my links into README.md
 - [VMware | CTO Blog](https://cto.vmware.com/introducing-vmware-validated-design-3-0/) 
 - [So a product manager asks you to fix a bug… – Free Code Camp](https://medium.freecodecamp.com/youre-asked-to-make-a-fix-e156b802ad92#.nulws7lu0) 
 - [vSphere Integrated Containers by VMware®](https://vmware.github.io/vic/) 
+- [Photon Platform Architecture – Think©Loud](http://thinkcloud.nl/2016/08/30/photon-platform-architecture/) 
