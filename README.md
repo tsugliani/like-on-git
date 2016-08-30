@@ -146,3 +146,4 @@ Bookmark all my links into README.md
 - [The Essentials of Creative Resume Design - Speckyboy Design Magazine](https://speckyboy.com/2016/08/30/essentials-creative-resume-design/) 
 - [Fork - a fast and friendly git client for Mac](https://git-fork.com/) 
 - [A Docker Fork: Talk of a Split Is Now on the Table - The New Stack](http://thenewstack.io/docker-fork-talk-split-now-table/) 
+- [VMware | CTO Blog](https://cto.vmware.com/introducing-vmware-validated-design-3-0/) 
