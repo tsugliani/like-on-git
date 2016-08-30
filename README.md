@@ -148,3 +148,4 @@ Bookmark all my links into README.md
 - [A Docker Fork: Talk of a Split Is Now on the Table - The New Stack](http://thenewstack.io/docker-fork-talk-split-now-table/) 
 - [VMware | CTO Blog](https://cto.vmware.com/introducing-vmware-validated-design-3-0/) 
 - [So a product manager asks you to fix a bug… – Free Code Camp](https://medium.freecodecamp.com/youre-asked-to-make-a-fix-e156b802ad92#.nulws7lu0) 
+- [vSphere Integrated Containers by VMware®](https://vmware.github.io/vic/) 
