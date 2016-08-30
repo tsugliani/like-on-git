@@ -141,3 +141,6 @@ Bookmark all my links into README.md
 
 ### August 29, 2016
 - [bottkars/vmxtoolkit: vmxtoolkit is the Powershell extension to VMware Workstation](https://github.com/bottkars/vmxtoolkit) 
+
+### August 30, 2016
+- [The Essentials of Creative Resume Design - Speckyboy Design Magazine](https://speckyboy.com/2016/08/30/essentials-creative-resume-design/) 
