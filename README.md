@@ -156,3 +156,4 @@ Bookmark all my links into README.md
 - [Photon OS with sshfs from source – Medium](https://medium.com/@hartsock/photon-os-with-sshfs-from-source-941a12cc554c#.x0dyk5ok8) 
 - [VMware{code} Hackathon – Network Inferno](http://networkinferno.net/vmwarecode-hackathon) 
 - [vCloud Director – retain IP/Mac | SOSTech](http://sostechblog.com/2016/08/30/vcloud-director-retain-ipmac/) 
+- [Why Is Stretched ACI Infinitely Better than OTV? « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/09/why-is-stretched-aci-infinitely-better.html) 
