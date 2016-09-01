@@ -158,3 +158,4 @@ Bookmark all my links into README.md
 - [vCloud Director – retain IP/Mac | SOSTech](http://sostechblog.com/2016/08/30/vcloud-director-retain-ipmac/) 
 - [Why Is Stretched ACI Infinitely Better than OTV? « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/09/why-is-stretched-aci-infinitely-better.html) 
 - [An Industry Roadmap: From storage to data management #STO7903 by @xtosk - Yellow Bricks](http://www.yellow-bricks.com/2016/09/01/industry-roadmap-storage-data-management-sto7903-xtosk/) 
+- [VMworld 2016: Cross Cloud Platform - Raw Thoughts - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/vmworld-2016-cloud-foundantion-raw-thoughts/) 
