@@ -151,3 +151,6 @@ Bookmark all my links into README.md
 - [vSphere Integrated Containers by VMware®](https://vmware.github.io/vic/) 
 - [Photon Platform Architecture – Think©Loud](http://thinkcloud.nl/2016/08/30/photon-platform-architecture/) 
 - [vSphere Integrated Containers – The Next Step – Think©Loud](http://thinkcloud.nl/2016/08/30/vsphere-integrated-containers/) 
+
+### September 1, 2016
+- [Photon OS with sshfs from source – Medium](https://medium.com/@hartsock/photon-os-with-sshfs-from-source-941a12cc554c#.x0dyk5ok8) 
