@@ -159,3 +159,6 @@ Bookmark all my links into README.md
 - [Why Is Stretched ACI Infinitely Better than OTV? « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/09/why-is-stretched-aci-infinitely-better.html) 
 - [An Industry Roadmap: From storage to data management #STO7903 by @xtosk - Yellow Bricks](http://www.yellow-bricks.com/2016/09/01/industry-roadmap-storage-data-management-sto7903-xtosk/) 
 - [VMworld 2016: Cross Cloud Platform - Raw Thoughts - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/vmworld-2016-cloud-foundantion-raw-thoughts/) 
+
+### September 2, 2016
+- [Photon OS with sshfs from source – Medium](https://medium.com/@hartsock/photon-os-with-sshfs-from-source-941a12cc554c#.x0dyk5ok8) 
