@@ -163,3 +163,4 @@ Bookmark all my links into README.md
 ### September 2, 2016
 - [Photon OS with sshfs from source – Medium](https://medium.com/@hartsock/photon-os-with-sshfs-from-source-941a12cc554c#.x0dyk5ok8) 
 - [Beta News – Flash Player NPAPI for Linux](http://blogs.adobe.com/flashplayer/2016/08/beta-news-flash-player-npapi-for-linux.html#sthash.WDoLkaNA.CZc6uZXq.dpbs) 
+- [400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs? – Medium](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.hj6ikxs1w) 
