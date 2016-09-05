@@ -189,3 +189,4 @@ Bookmark all my links into README.md
 - [How to Add a Linux Machine as PowerShell Host in vRO (Linux PS over SSH) (SKKB1030) | Spas Kaloferov's Blog](http://kaloferov.com/blog/how-to-add-a-linux-machine-as-powershell-host-in-vro-skkb1030/) 
 - [A blog about Technology (Cloud/Virtualization/Scripting): How to install and configure vRealize Network Insight 3.0](https://vlearner.blogspot.fr/2016/09/how-to-install-and-configure-vrealize.html) 
 - [Introduction | Introduction](http://zalando.github.io/restful-api-guidelines/index.html) 
+- [So a product manager asks you to fix a bug… – Free Code Camp](https://medium.freecodecamp.com/youre-asked-to-make-a-fix-e156b802ad92#.vvyvl2qq6) 
