@@ -182,3 +182,4 @@ Bookmark all my links into README.md
 - [Log Insight 3.6: Official API Documentation! - SFlanders.net](http://sflanders.net/2016/08/29/log-insight-3-6-official-api-documentation/) 
 - [Wercker - From code to containers](http://wercker.com/) 
 - [Nanobox Engines](https://engines.nanobox.io/releases/6cb96d8d-89c0-491f-a6a8-40bba58a780e) 
+- [Nanopack - Automated, API-Driven Infrastructure](http://nanopack.io/) 
