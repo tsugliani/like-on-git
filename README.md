@@ -176,3 +176,4 @@ Bookmark all my links into README.md
 - [kz8s/tack: Terraform module for creating Kubernetes cluster running on CoreOS in an AWS VPC](https://github.com/kz8s/tack) 
 - [samsung-cnct/kraken: Deploy a Kubernetes cluster using Terraform and Ansible on top of CoreOS.](https://github.com/samsung-cnct/kraken) 
 - [kubernetes/kops: kops deployment](https://github.com/kubernetes/kops) 
+- [NetData - Real-time performance monitoring, done right!](http://my-netdata.io/) 
