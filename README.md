@@ -166,3 +166,6 @@ Bookmark all my links into README.md
 - [400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs? – Medium](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.hj6ikxs1w) 
 - [vmware/admiral: Container management solution with an accent on modeling containerized applications and provide placement based on dynamic policy allocation](https://github.com/vmware/admiral) 
 - [Admiral™ by VMware®](https://vmware.github.io/admiral/) 
+
+### September 5, 2016
+- [Awesome Go Patterns by tmrts](http://tmrts.com/go-patterns/) 
