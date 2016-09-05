@@ -186,3 +186,4 @@ Bookmark all my links into README.md
 - [WahlNetwork/Vester: Easily validate and remediate your vSphere configuration](https://github.com/WahlNetwork/Vester) 
 - [New CentOS Atomic Host with Package Layering Support — Project Atomic](http://www.projectatomic.io/blog/2016/08/new-centos-atomic-host-with-package-layering-support/) 
 - [Ansible Best Practices: The Essentials](https://www.ansible.com/blog/ansible-best-practices-essentials#.V8ghlhkSI4c.twitter) 
+- [How to Add a Linux Machine as PowerShell Host in vRO (Linux PS over SSH) (SKKB1030) | Spas Kaloferov's Blog](http://kaloferov.com/blog/how-to-add-a-linux-machine-as-powershell-host-in-vro-skkb1030/) 
