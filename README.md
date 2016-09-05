@@ -171,3 +171,4 @@ Bookmark all my links into README.md
 - [Awesome Go Patterns by tmrts](http://tmrts.com/go-patterns/) 
 - [Released: PowerNSX v2 – Network Inferno](http://networkinferno.net/released-powernsx-v2) 
 - [Curated Material Design Color Palettes](http://material.colorion.co/) 
+- [NGINX as a Reverse Proxy for Docker Swarm Clusters | via @codeship](https://blog.codeship.com/nginx-reverse-proxy-docker-swarm-clusters/?_hsenc=p2ANqtz-_VoIharw4Rpj312hoCq8oYyCN2Jbc5_wgWHD3YFSmxiiif8_FI2GGvQuDNID7Lzgk0GmMoAIDfnG3rGdHKCRwJMeqy7w&_hsmi=33393166) 
