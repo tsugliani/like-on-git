@@ -184,3 +184,4 @@ Bookmark all my links into README.md
 - [Nanobox Engines](https://engines.nanobox.io/releases/6cb96d8d-89c0-491f-a6a8-40bba58a780e) 
 - [Nanopack - Automated, API-Driven Infrastructure](http://nanopack.io/) 
 - [WahlNetwork/Vester: Easily validate and remediate your vSphere configuration](https://github.com/WahlNetwork/Vester) 
+- [New CentOS Atomic Host with Package Layering Support — Project Atomic](http://www.projectatomic.io/blog/2016/08/new-centos-atomic-host-with-package-layering-support/) 
