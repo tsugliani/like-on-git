@@ -174,3 +174,4 @@ Bookmark all my links into README.md
 - [NGINX as a Reverse Proxy for Docker Swarm Clusters | via @codeship](https://blog.codeship.com/nginx-reverse-proxy-docker-swarm-clusters/?_hsenc=p2ANqtz-_VoIharw4Rpj312hoCq8oYyCN2Jbc5_wgWHD3YFSmxiiif8_FI2GGvQuDNID7Lzgk0GmMoAIDfnG3rGdHKCRwJMeqy7w&_hsmi=33393166) 
 - [Tipboard](http://allegro.tech/tipboard/) 
 - [kz8s/tack: Terraform module for creating Kubernetes cluster running on CoreOS in an AWS VPC](https://github.com/kz8s/tack) 
+- [samsung-cnct/kraken: Deploy a Kubernetes cluster using Terraform and Ansible on top of CoreOS.](https://github.com/samsung-cnct/kraken) 
