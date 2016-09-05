@@ -183,3 +183,4 @@ Bookmark all my links into README.md
 - [Wercker - From code to containers](http://wercker.com/) 
 - [Nanobox Engines](https://engines.nanobox.io/releases/6cb96d8d-89c0-491f-a6a8-40bba58a780e) 
 - [Nanopack - Automated, API-Driven Infrastructure](http://nanopack.io/) 
+- [WahlNetwork/Vester: Easily validate and remediate your vSphere configuration](https://github.com/WahlNetwork/Vester) 
