@@ -170,3 +170,4 @@ Bookmark all my links into README.md
 ### September 5, 2016
 - [Awesome Go Patterns by tmrts](http://tmrts.com/go-patterns/) 
 - [Released: PowerNSX v2 – Network Inferno](http://networkinferno.net/released-powernsx-v2) 
+- [Curated Material Design Color Palettes](http://material.colorion.co/) 
