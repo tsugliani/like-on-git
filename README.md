@@ -178,3 +178,4 @@ Bookmark all my links into README.md
 - [kubernetes/kops: kops deployment](https://github.com/kubernetes/kops) 
 - [NetData - Real-time performance monitoring, done right!](http://my-netdata.io/) 
 - [ScrollReveal](https://scrollrevealjs.org/) 
+- [charity.wtf – charity wtf's about technology, databases, startups, engineering management, and whiskey.](https://charity.wtf/) 
