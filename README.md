@@ -194,3 +194,6 @@ Bookmark all my links into README.md
 - [Do We Still Need OSPF Areas and Summarization? « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/09/do-we-still-need-ospf-areas-and.html) 
 - [30K Page Views for $0.21: A Serverless Story – FMLnerd](https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/) 
 - [The Hardest Part About Microservices: Your Data – Software Blog](http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/) 
+
+### September 6, 2016
+- [EdgeMAX EdgeRouter software release v1.9.0 - Ubiquiti Networks Community](http://community.ubnt.com/t5/EdgeMAX-Updates-Blog/EdgeMAX-EdgeRouter-software-release-v1-9-0/bc-p/1643335) 
