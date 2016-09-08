@@ -206,3 +206,4 @@ Bookmark all my links into README.md
 - [Scaleway : pas assez cher mon fils ! – vBlog.io](https://vblog.io/scaleway-pas-assez-cher-mon-fils/) 
 - [Improving collaboration with forks](https://github.com/blog/2247-improving-collaboration-with-forks) 
 - [Elasticsearch Templating - YouTube](https://www.youtube.com/watch?v=DH5xfTwAaCg) 
+- [vmware/priam: Go CLI tool for VMware Identity Manager portal](https://github.com/vmware/priam) 
