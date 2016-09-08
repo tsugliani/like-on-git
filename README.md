@@ -211,3 +211,4 @@ Bookmark all my links into README.md
 - [Sharing VMworld slides - Yellow Bricks](http://www.yellow-bricks.com/2016/09/07/sharing-vmworld-slides/) 
 - [lamw/vmworld2016-session-urls: Nice summary list of all VMworld 2016 playback URLs](https://github.com/lamw/vmworld2016-session-urls) 
 - [InfluxDB 1.0 GA Released: A Retrospective and What’s Next | InfluxData](https://www.influxdata.com/influxdb-1-0-ga-released-a-retrospective-and-whats-next/) 
+- [PowerCLI Stops Working After NSX 6.2.4 Upgrade | Tom Fojta's Blog](https://fojta.wordpress.com/2016/09/08/powercli-stops-working-after-nsx-6-2-4-upgrade/) 
