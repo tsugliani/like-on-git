@@ -198,3 +198,6 @@ Bookmark all my links into README.md
 ### September 6, 2016
 - [EdgeMAX EdgeRouter software release v1.9.0 - Ubiquiti Networks Community](http://community.ubnt.com/t5/EdgeMAX-Updates-Blog/EdgeMAX-EdgeRouter-software-release-v1-9-0/bc-p/1643335) 
 - [Using Vault as a Certificate Authority for Kubernetes](https://www.digitalocean.com/company/blog/vault-and-kubernetes/) 
+
+### September 8, 2016
+- [PowerNSX – Validating logging status on DFW rules – Network Inferno](http://networkinferno.net/powernsx-validating-logging-status-on-dfw-rules) 
