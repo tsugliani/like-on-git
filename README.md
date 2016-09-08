@@ -205,3 +205,4 @@ Bookmark all my links into README.md
 - [Wireshark · Wireshark 2.2.0 Release Notes](https://www.wireshark.org/docs/relnotes/wireshark-2.2.0.html) 
 - [Scaleway : pas assez cher mon fils ! – vBlog.io](https://vblog.io/scaleway-pas-assez-cher-mon-fils/) 
 - [Improving collaboration with forks](https://github.com/blog/2247-improving-collaboration-with-forks) 
+- [Elasticsearch Templating - YouTube](https://www.youtube.com/watch?v=DH5xfTwAaCg) 
