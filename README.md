@@ -210,3 +210,4 @@ Bookmark all my links into README.md
 - [What's new with vRealize Operations 6.3 - virtual red dot](http://virtual-red-dot.info/whats-new-with-vrealize-operations-6-3/) 
 - [Sharing VMworld slides - Yellow Bricks](http://www.yellow-bricks.com/2016/09/07/sharing-vmworld-slides/) 
 - [lamw/vmworld2016-session-urls: Nice summary list of all VMworld 2016 playback URLs](https://github.com/lamw/vmworld2016-session-urls) 
+- [InfluxDB 1.0 GA Released: A Retrospective and What’s Next | InfluxData](https://www.influxdata.com/influxdb-1-0-ga-released-a-retrospective-and-whats-next/) 
