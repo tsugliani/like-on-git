@@ -207,3 +207,4 @@ Bookmark all my links into README.md
 - [Improving collaboration with forks](https://github.com/blog/2247-improving-collaboration-with-forks) 
 - [Elasticsearch Templating - YouTube](https://www.youtube.com/watch?v=DH5xfTwAaCg) 
 - [vmware/priam: Go CLI tool for VMware Identity Manager portal](https://github.com/vmware/priam) 
+- [What's new with vRealize Operations 6.3 - virtual red dot](http://virtual-red-dot.info/whats-new-with-vrealize-operations-6-3/) 
