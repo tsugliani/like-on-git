@@ -202,3 +202,4 @@ Bookmark all my links into README.md
 ### September 8, 2016
 - [PowerNSX – Validating logging status on DFW rules – Network Inferno](http://networkinferno.net/powernsx-validating-logging-status-on-dfw-rules) 
 - [Wireshark 2.2 Released - Phoronix](http://www.phoronix.com/scan.php?page=news_item&px=Wireshark-2.2-Released) 
+- [Wireshark · Wireshark 2.2.0 Release Notes](https://www.wireshark.org/docs/relnotes/wireshark-2.2.0.html) 
