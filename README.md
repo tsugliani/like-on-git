@@ -229,3 +229,4 @@ Bookmark all my links into README.md
 - [Using Docker Datacenter to launch load test | Cloudification Services](http://blogs.cornell.edu/cloudification/2016/09/03/using-docker-datacenter-to-launch-load-test/?mkt_tok=eyJpIjoiT1RBeE1UZzFNVEZoT1RRdyIsInQiOiJaUHU4MHBoMWRWYWNZU2t1SENyVkNqODVSYlhwUERHbVwvSW14dzZhTmdLb2NXY05vWVFKZnF2UGYwMytZREh0Nm9KNThnQ2JlQUY0eHZ4NnFKVWVTcmFCTWJXNWx1RVwvVCtidkNuc1wvanZuQT0ifQ%3D%3D) 
 - [Disable Virtual SAN health check alarms - IVOBEERENS.nl](http://www.ivobeerens.nl/2016/09/07/disable-virtual-san-health-check-alarms/) 
 - [Visual Studio Code August 2016 1.5](https://code.visualstudio.com/updates#vscode) 
+- [jesseweed/seti-ui: A subtle dark colored UI theme for Atom.](https://github.com/jesseweed/seti-ui) 
