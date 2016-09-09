@@ -213,3 +213,6 @@ Bookmark all my links into README.md
 - [InfluxDB 1.0 GA Released: A Retrospective and What’s Next | InfluxData](https://www.influxdata.com/influxdb-1-0-ga-released-a-retrospective-and-whats-next/) 
 - [PowerCLI Stops Working After NSX 6.2.4 Upgrade | Tom Fojta's Blog](https://fojta.wordpress.com/2016/09/08/powercli-stops-working-after-nsx-6-2-4-upgrade/) 
 - [Outage Post-Mortem for August 22nd](https://building.buildkite.com/outage-post-mortem-for-august-23rd-82b619a3679b#.gu2e7bu3i) 
+
+### September 9, 2016
+- [ESXi Embedded Host Client](https://labs.vmware.com/flings/esxi-embedded-host-client#changelog) 
