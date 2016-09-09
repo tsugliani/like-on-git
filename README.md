@@ -222,3 +222,4 @@ Bookmark all my links into README.md
 - [Oh, shit, git!](http://ohshitgit.com/) 
 - [Stickers/Shirts - Yellow Bricks](http://www.yellow-bricks.com/stickersshirts/) 
 - [Docker Service and Swarm Mode to Create Couchbase Cluster](http://blog.couchbase.com/2016/september/docker-service-swarm-mode-couchbase-cluster?mkt_tok=eyJpIjoiT1RBeE1UZzFNVEZoT1RRdyIsInQiOiJaUHU4MHBoMWRWYWNZU2t1SENyVkNqODVSYlhwUERHbVwvSW14dzZhTmdLb2NXY05vWVFKZnF2UGYwMytZREh0Nm9KNThnQ2JlQUY0eHZ4NnFKVWVTcmFCTWJXNWx1RVwvVCtidkNuc1wvanZuQT0ifQ%3D%3D) 
+- [Docker Datacenter for AWS | Sreenivas Makam's Blog](https://sreeninet.wordpress.com/2016/09/03/docker-datacenter-for-aws/?mkt_tok=eyJpIjoiT1RBeE1UZzFNVEZoT1RRdyIsInQiOiJaUHU4MHBoMWRWYWNZU2t1SENyVkNqODVSYlhwUERHbVwvSW14dzZhTmdLb2NXY05vWVFKZnF2UGYwMytZREh0Nm9KNThnQ2JlQUY0eHZ4NnFKVWVTcmFCTWJXNWx1RVwvVCtidkNuc1wvanZuQT0ifQ%3D%3D) 
