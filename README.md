@@ -220,3 +220,4 @@ Bookmark all my links into README.md
 - [Direct playback & download URLs for all VMworld US 2016 sessions | virtuallyGhetto](http://www.virtuallyghetto.com/2016/09/direct-playback-urls-for-all-vmworld-us-2016-sessions.html) 
 - [Are you new around here? Introducing an on-demand course in GitHub basics](https://github.com/blog/2245-are-you-new-around-here-introducing-an-on-demand-course-in-github-basics) 
 - [Oh, shit, git!](http://ohshitgit.com/) 
+- [Stickers/Shirts - Yellow Bricks](http://www.yellow-bricks.com/stickersshirts/) 
