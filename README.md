@@ -218,3 +218,4 @@ Bookmark all my links into README.md
 - [ESXi Embedded Host Client](https://labs.vmware.com/flings/esxi-embedded-host-client#changelog) 
 - [A space error: $370 million for an integer overflow | How Not To Code](https://hownot2code.com/2016/09/02/a-space-error-370-million-for-an-integer-overflow/) 
 - [Direct playback & download URLs for all VMworld US 2016 sessions | virtuallyGhetto](http://www.virtuallyghetto.com/2016/09/direct-playback-urls-for-all-vmworld-us-2016-sessions.html) 
+- [Are you new around here? Introducing an on-demand course in GitHub basics](https://github.com/blog/2245-are-you-new-around-here-introducing-an-on-demand-course-in-github-basics) 
