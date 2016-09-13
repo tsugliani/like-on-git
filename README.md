@@ -233,3 +233,6 @@ Bookmark all my links into README.md
 
 ### September 10, 2016
 - [Release v0.9.0 · vmware/govmomi](https://github.com/vmware/govmomi/releases/tag/v0.9.0) 
+
+### September 13, 2016
+- [NSX Cross-VC Extensibility kit – VMware Professional Services](http://www.routetocloud.com/2016/09/nsx-cross-vc-extensibility-kit/) 
