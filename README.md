@@ -239,3 +239,4 @@ Bookmark all my links into README.md
 - [Your Life Is Tetris. Stop Playing It Like Chess. – The Mission – Medium](https://medium.com/the-mission/your-life-is-tetris-stop-playing-it-like-chess-4baac6b2750d#.g2cor4q5h) 
 - [How VMware Integrated Containers May Introduce Docker to the Enterprise - The New Stack](http://thenewstack.io/vmware-integrated-containers-may-introduce-docker-enterprise/) 
 - [Automatically Configuring an F5 BIG-IP Load Balancer for PSC 6.0 HA – have you tried reinstalling?](https://haveyoutriedreinstalling.com/2016/09/13/automatically-configuring-an-f5-big-ip-load-balancer-for-psc-6-0-ha/) 
+- [250 GB/day of logs with Graylog: The good, the bad and the ugly – The HFT Guy](https://thehftguy.wordpress.com/2016/09/12/250-gbday-of-logs-with-graylog-the-good-the-bad-and-the-ugly/) 
