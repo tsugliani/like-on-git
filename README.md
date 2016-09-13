@@ -236,3 +236,4 @@ Bookmark all my links into README.md
 
 ### September 13, 2016
 - [NSX Cross-VC Extensibility kit – VMware Professional Services](http://www.routetocloud.com/2016/09/nsx-cross-vc-extensibility-kit/) 
+- [Your Life Is Tetris. Stop Playing It Like Chess. – The Mission – Medium](https://medium.com/the-mission/your-life-is-tetris-stop-playing-it-like-chess-4baac6b2750d#.g2cor4q5h) 
