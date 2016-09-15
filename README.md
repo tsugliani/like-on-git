@@ -244,3 +244,6 @@ Bookmark all my links into README.md
 
 ### September 14, 2016
 - [ktbyers/netmiko: Multi-vendor library to simplify Paramiko SSH connections to network devices](https://github.com/ktbyers/netmiko) 
+
+### September 15, 2016
+- [Using Vagrant with AWS · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org/2016/09/15/using-vagrant-with-aws/) 
