@@ -247,3 +247,6 @@ Bookmark all my links into README.md
 
 ### September 15, 2016
 - [Using Vagrant with AWS · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org/2016/09/15/using-vagrant-with-aws/) 
+
+### September 16, 2016
+- [Announcing Envoy: C++ L7 proxy and communication bus](https://eng.lyft.com/announcing-envoy-c-l7-proxy-and-communication-bus-92520b6c8191#.6m21dlhor) 
