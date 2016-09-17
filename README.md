@@ -251,3 +251,6 @@ Bookmark all my links into README.md
 ### September 16, 2016
 - [Announcing Envoy: C++ L7 proxy and communication bus](https://eng.lyft.com/announcing-envoy-c-l7-proxy-and-communication-bus-92520b6c8191#.6m21dlhor) 
 - [Collect vCloud Director Cell Logs with Log Insight Agent | Tom Fojta's Blog](https://fojta.wordpress.com/2016/09/16/collect-vcloud-director-cell-logs-with-log-insight-agent/) 
+
+### September 17, 2016
+- [NSXv – DFW Log Format Change – SneakU](http://www.sneaku.com/2016/09/17/nsxv-dfw-log-format-change/) 
