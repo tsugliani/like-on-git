@@ -269,3 +269,4 @@ Bookmark all my links into README.md
 - [Collect vCloud Director Cell Logs with Log Insight Agent | Tom Fojta's Blog](https://fojta.wordpress.com/2016/09/16/collect-vcloud-director-cell-logs-with-log-insight-agent/) 
 - [virtualguido: VMware ESXi Claim Rules unleashed](http://virtualguido.blogspot.fr/2016/09/vmware-esxi-claim-rules-unleashed.html?spref=tw) 
 - [NSX Bytes: vCloud Director Can't Deploy NSX Edges - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/nsx-bytes-vcloud-director-cant-deploy-nsx-edges/) 
+- [Central CLI Update #1 for NSX 6.2.3/6.2.4 – SneakU](http://www.sneaku.com/2016/09/17/central-cli-update-1-for-nsx-6-2-36-2-4/) 
