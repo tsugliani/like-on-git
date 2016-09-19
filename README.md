@@ -261,3 +261,4 @@ Bookmark all my links into README.md
 - [GraphQL | A query language for your API](http://graphql.org/) 
 - [Consul 0.7 | HashiCorp](https://www.hashicorp.com/blog/consul-0-7.html) 
 - [ServiceNowITOM/snitom-cmdb-vmwrt: VMware Real-Time CMDB](https://github.com/ServiceNowITOM/snitom-cmdb-vmwrt) 
+- [vscode-powershell/troubleshooting.md at master · PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell/blob/master/docs/troubleshooting.md#1-powershell-intellisense-does-not-work-cant-debug-scripts) 
