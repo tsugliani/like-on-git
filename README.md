@@ -260,3 +260,4 @@ Bookmark all my links into README.md
 - [GitHub Octoverse 2016](https://octoverse.github.com/) 
 - [GraphQL | A query language for your API](http://graphql.org/) 
 - [Consul 0.7 | HashiCorp](https://www.hashicorp.com/blog/consul-0-7.html) 
+- [ServiceNowITOM/snitom-cmdb-vmwrt: VMware Real-Time CMDB](https://github.com/ServiceNowITOM/snitom-cmdb-vmwrt) 
