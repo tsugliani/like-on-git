@@ -266,3 +266,4 @@ Bookmark all my links into README.md
 - [Using Vagrant with AWS · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org/2016/09/15/using-vagrant-with-aws/) 
 - [Real-Time Stream Processors: A Survey and Decision Guidance](https://medium.baqend.com/real-time-stream-processors-a-survey-and-decision-guidance-6d248f692056#.6hjitojuu) 
 - [There is No REST API](http://blog.howarddierking.com/2016/09/15/there-is-no-rest-api/) 
+- [Collect vCloud Director Cell Logs with Log Insight Agent | Tom Fojta's Blog](https://fojta.wordpress.com/2016/09/16/collect-vcloud-director-cell-logs-with-log-insight-agent/) 
