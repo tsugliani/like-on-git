@@ -272,3 +272,4 @@ Bookmark all my links into README.md
 - [Central CLI Update #1 for NSX 6.2.3/6.2.4 – SneakU](http://www.sneaku.com/2016/09/17/central-cli-update-1-for-nsx-6-2-36-2-4/) 
 - [LucD notesOrphaned Files Revisited - LucD notes](http://www.lucd.info/2016/09/13/orphaned-files-revisited/) 
 - [How to tell if your vCenter Server Appliance (VCSA) was migrated from a Windows vCenter Server? | virtuallyGhetto](http://www.virtuallyghetto.com/2016/09/how-to-tell-if-your-vcenter-server-appliance-vcsa-was-migrated-from-a-windows-vcenter-server.html) 
+- [Log Insight 3.6: Content Pack Upgrade Instructions - SFlanders.net](http://sflanders.net/2016/09/19/log-insight-3-6-content-pack-upgrade-instructions/) 
