@@ -264,3 +264,4 @@ Bookmark all my links into README.md
 - [vscode-powershell/troubleshooting.md at master · PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell/blob/master/docs/troubleshooting.md#1-powershell-intellisense-does-not-work-cant-debug-scripts) 
 - [vCenter Server Appliance (VCSA) Migration Tool officially GAs w/vSphere 6.0 Update 2m | virtuallyGhetto](http://www.virtuallyghetto.com/2016/09/vcenter-server-appliance-vcsa-migration-tool-officially-gas-wvsphere-6-0-update-2m.html) 
 - [Using Vagrant with AWS · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org/2016/09/15/using-vagrant-with-aws/) 
+- [Real-Time Stream Processors: A Survey and Decision Guidance](https://medium.baqend.com/real-time-stream-processors-a-survey-and-decision-guidance-6d248f692056#.6hjitojuu) 
