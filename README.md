@@ -270,3 +270,4 @@ Bookmark all my links into README.md
 - [virtualguido: VMware ESXi Claim Rules unleashed](http://virtualguido.blogspot.fr/2016/09/vmware-esxi-claim-rules-unleashed.html?spref=tw) 
 - [NSX Bytes: vCloud Director Can't Deploy NSX Edges - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/nsx-bytes-vcloud-director-cant-deploy-nsx-edges/) 
 - [Central CLI Update #1 for NSX 6.2.3/6.2.4 – SneakU](http://www.sneaku.com/2016/09/17/central-cli-update-1-for-nsx-6-2-36-2-4/) 
+- [LucD notesOrphaned Files Revisited - LucD notes](http://www.lucd.info/2016/09/13/orphaned-files-revisited/) 
