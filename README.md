@@ -274,3 +274,6 @@ Bookmark all my links into README.md
 - [How to tell if your vCenter Server Appliance (VCSA) was migrated from a Windows vCenter Server? | virtuallyGhetto](http://www.virtuallyghetto.com/2016/09/how-to-tell-if-your-vcenter-server-appliance-vcsa-was-migrated-from-a-windows-vcenter-server.html) 
 - [Log Insight 3.6: Content Pack Upgrade Instructions - SFlanders.net](http://sflanders.net/2016/09/19/log-insight-3-6-content-pack-upgrade-instructions/) 
 - [HashiConf 2016 - YouTube](https://www.youtube.com/playlist?list=PL81sUbsFNc5bDS1lH0HPJFyBnAP8Iv4t0) 
+
+### September 20, 2016
+- [Welcome to Python cheatsheet! — python-cheatsheet 0.1.0 documentation](https://www.pythonsheets.com/) 
