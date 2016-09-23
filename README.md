@@ -280,3 +280,4 @@ Bookmark all my links into README.md
 
 ### September 23, 2016
 - [reorx/httpstat: curl statistics made simple](https://github.com/reorx/httpstat) 
+- [NSX Load Balancer: Virtual Server (VIP) Port Range](http://cloudmaniac.net/nsx-load-balancer-port-range/) 
