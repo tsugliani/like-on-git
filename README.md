@@ -289,3 +289,4 @@ Bookmark all my links into README.md
 - [VMware vCloud : This VM has a compliance failure against its Storage Policy. | Ping4info](http://pingforinfo.com/vmware-vcloud-this-vm-has-a-compliance-failure-against-its-storage-policy/) 
 - [PowerCLI to deploy VMs in VMware vCloud and connect to network | Ping4info](http://pingforinfo.com/powercli-script-to-deploy-vms-in-vmware-vcloud-and-connect-to-network/) 
 - [Windows 10 has an undocumented certificate pinning feature · HA](http://hexatomium.github.io/2016/09/24/hidden-w10-pins/) 
+- [photon/photon-admin-guide.md at master · vmware/photon](https://github.com/vmware/photon/blob/master/docs/photon-admin-guide.md#configuring-network-interfaces) 
