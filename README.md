@@ -288,3 +288,4 @@ Bookmark all my links into README.md
 - [Introducing TLS 1.3](https://blog.cloudflare.com/introducing-tls-1-3/) 
 - [VMware vCloud : This VM has a compliance failure against its Storage Policy. | Ping4info](http://pingforinfo.com/vmware-vcloud-this-vm-has-a-compliance-failure-against-its-storage-policy/) 
 - [PowerCLI to deploy VMs in VMware vCloud and connect to network | Ping4info](http://pingforinfo.com/powercli-script-to-deploy-vms-in-vmware-vcloud-and-connect-to-network/) 
+- [Windows 10 has an undocumented certificate pinning feature · HA](http://hexatomium.github.io/2016/09/24/hidden-w10-pins/) 
