@@ -290,3 +290,4 @@ Bookmark all my links into README.md
 - [PowerCLI to deploy VMs in VMware vCloud and connect to network | Ping4info](http://pingforinfo.com/powercli-script-to-deploy-vms-in-vmware-vcloud-and-connect-to-network/) 
 - [Windows 10 has an undocumented certificate pinning feature · HA](http://hexatomium.github.io/2016/09/24/hidden-w10-pins/) 
 - [photon/photon-admin-guide.md at master · vmware/photon](https://github.com/vmware/photon/blob/master/docs/photon-admin-guide.md#configuring-network-interfaces) 
+- [Architecture of Harbor: An Open Source Enterprise-class Registry Server | Thinking in Cloud](http://www.think-foundry.com/architecture-of-harbor-an-open-source-enterprise-class-registry-server/) 
