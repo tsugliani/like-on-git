@@ -285,3 +285,4 @@ Bookmark all my links into README.md
 ### September 26, 2016
 - [Big data and container orchestration get better in DC/OS 1.8](https://mesosphere.com/blog/2016/09/16/dcos-1-8-networking-container-security/) 
 - [UniFi 5.2.7 is released - ubnt](http://community.ubnt.com/t5/UniFi-Updates-Blog/UniFi-5-2-7-is-released/ba-p/1680663) 
+- [Introducing TLS 1.3](https://blog.cloudflare.com/introducing-tls-1-3/) 
