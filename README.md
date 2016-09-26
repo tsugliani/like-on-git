@@ -281,3 +281,6 @@ Bookmark all my links into README.md
 ### September 23, 2016
 - [reorx/httpstat: curl statistics made simple](https://github.com/reorx/httpstat) 
 - [NSX Load Balancer: Virtual Server (VIP) Port Range](http://cloudmaniac.net/nsx-load-balancer-port-range/) 
+
+### September 26, 2016
+- [Big data and container orchestration get better in DC/OS 1.8](https://mesosphere.com/blog/2016/09/16/dcos-1-8-networking-container-security/) 
