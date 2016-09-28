@@ -292,3 +292,6 @@ Bookmark all my links into README.md
 - [photon/photon-admin-guide.md at master · vmware/photon](https://github.com/vmware/photon/blob/master/docs/photon-admin-guide.md#configuring-network-interfaces) 
 - [Architecture of Harbor: An Open Source Enterprise-class Registry Server | Thinking in Cloud](http://www.think-foundry.com/architecture-of-harbor-an-open-source-enterprise-class-registry-server/) 
 - [About SaltStack | yet.org](http://www.yet.org/2016/09/salt/) 
+
+### September 28, 2016
+- [VPNSox/NSABlocklist: HOSTS file to block all known NSA / GCHQ / C.I.A. / F.B.I. spying servers](https://github.com/VPNSox/NSABlocklist) 
