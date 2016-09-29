@@ -295,3 +295,6 @@ Bookmark all my links into README.md
 
 ### September 28, 2016
 - [VPNSox/NSABlocklist: HOSTS file to block all known NSA / GCHQ / C.I.A. / F.B.I. spying servers](https://github.com/VPNSox/NSABlocklist) 
+
+### September 30, 2016
+- [Why I started to use Golang more than Python or Ruby?](https://www.whitesmith.co/blog/why-i-started-to-use-golang-more-than-python-or-ruby/) 
