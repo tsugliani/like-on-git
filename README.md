@@ -299,3 +299,4 @@ Bookmark all my links into README.md
 ### September 30, 2016
 - [Why I started to use Golang more than Python or Ruby?](https://www.whitesmith.co/blog/why-i-started-to-use-golang-more-than-python-or-ruby/) 
 - [Why I'm Now Using VirtualBox with Vagrant · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org/2016/09/28/why-now-using-virtualbox-with-vagrant/) 
+- [Task "CREATE_VM": step "RESERVE_RESOURCE" failed with error code "NetworkNotFound" - CormacHogan.com](http://cormachogan.com/2016/09/28/task-create_vm-step-reserve_resource-failed-error-code-networknotfound/) 
