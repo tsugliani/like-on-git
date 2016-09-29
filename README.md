@@ -302,3 +302,4 @@ Bookmark all my links into README.md
 - [Task "CREATE_VM": step "RESERVE_RESOURCE" failed with error code "NetworkNotFound" - CormacHogan.com](http://cormachogan.com/2016/09/28/task-create_vm-step-reserve_resource-failed-error-code-networknotfound/) 
 - [Red Hat, Google Engineers Work on a Way for Kubernetes to Run Containers Without Docker - The New Stack](http://thenewstack.io/oci-building-way-kubernetes-run-containers-without-docker/) 
 - [Microsoft Word - VSAN 6.2 POC Guide.docx](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/vsan/vmware-virtual-san6.2-proof-of-concept-guide.pdf) 
+- [VMware vRealize Network Insight Health and Availability - YouTube](https://www.youtube.com/watch?v=UNvXxfC8ZAs) 
