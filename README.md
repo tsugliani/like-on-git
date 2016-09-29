@@ -301,3 +301,4 @@ Bookmark all my links into README.md
 - [Why I'm Now Using VirtualBox with Vagrant · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org/2016/09/28/why-now-using-virtualbox-with-vagrant/) 
 - [Task "CREATE_VM": step "RESERVE_RESOURCE" failed with error code "NetworkNotFound" - CormacHogan.com](http://cormachogan.com/2016/09/28/task-create_vm-step-reserve_resource-failed-error-code-networknotfound/) 
 - [Red Hat, Google Engineers Work on a Way for Kubernetes to Run Containers Without Docker - The New Stack](http://thenewstack.io/oci-building-way-kubernetes-run-containers-without-docker/) 
+- [Microsoft Word - VSAN 6.2 POC Guide.docx](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/vsan/vmware-virtual-san6.2-proof-of-concept-guide.pdf) 
