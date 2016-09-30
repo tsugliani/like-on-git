@@ -306,3 +306,4 @@ Bookmark all my links into README.md
 - [Why Your Keyboard is Bad for Your Body](https://blog.forrestthewoods.com/why-your-keyboard-is-bad-for-your-body-40376fcec8c5#.mnz37vt1h) 
 - [VMware Validated Designs Documentation](https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html) 
 - [LXD, ZFS and bridged networking on Ubuntu 16.04 LTS | Jason Bayton](https://bayton.org/2016/05/lxd-zfs-and-bridged-networking-on-ubuntu-16-04-lts/) 
+- [Inoreader - The content reader for power users who want to save time.](http://www.inoreader.com/) 
