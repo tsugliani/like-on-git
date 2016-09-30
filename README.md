@@ -304,3 +304,4 @@ Bookmark all my links into README.md
 - [Microsoft Word - VSAN 6.2 POC Guide.docx](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/vsan/vmware-virtual-san6.2-proof-of-concept-guide.pdf) 
 - [VMware vRealize Network Insight Health and Availability - YouTube](https://www.youtube.com/watch?v=UNvXxfC8ZAs) 
 - [Why Your Keyboard is Bad for Your Body](https://blog.forrestthewoods.com/why-your-keyboard-is-bad-for-your-body-40376fcec8c5#.mnz37vt1h) 
+- [VMware Validated Designs Documentation](https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html) 
