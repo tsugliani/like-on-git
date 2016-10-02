@@ -307,3 +307,6 @@ Bookmark all my links into README.md
 - [VMware Validated Designs Documentation](https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html) 
 - [LXD, ZFS and bridged networking on Ubuntu 16.04 LTS | Jason Bayton](https://bayton.org/2016/05/lxd-zfs-and-bridged-networking-on-ubuntu-16-04-lts/) 
 - [Inoreader - The content reader for power users who want to save time.](http://www.inoreader.com/) 
+
+### October 2, 2016
+- [Query ESXi Hosts Serial Numbers | Tom Fojta's Blog](https://fojta.wordpress.com/2016/10/01/query-esxi-hosts-serial-numbers/) 
