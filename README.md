@@ -323,3 +323,4 @@ Bookmark all my links into README.md
 - [VPNSox/NSABlocklist: HOSTS file to block all known NSA / GCHQ / C.I.A. / F.B.I. spying servers](https://github.com/VPNSox/NSABlocklist) 
 - [Why Your Keyboard is Bad for Your Body](https://blog.forrestthewoods.com/why-your-keyboard-is-bad-for-your-body-40376fcec8c5#.mnz37vt1h) 
 - [How to check the size of your Config + Stats, Events, Alarms & Tasks (SEAT) data in the VCDB? | virtuallyGhetto](http://www.virtuallyghetto.com/2016/09/how-to-check-the-size-of-your-config-stats-events-alarms-tasks-seat-data-in-the-vcdb.html) 
+- [How to tell if an ESXi host is a VSAN Witness Virtual Appliance programmatically? | virtuallyGhetto](http://www.virtuallyghetto.com/2016/09/how-to-tell-if-an-esxi-host-is-a-vsan-witness-virtual-appliance-programmatically.html) 
