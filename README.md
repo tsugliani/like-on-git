@@ -316,3 +316,4 @@ Bookmark all my links into README.md
 - [Why Python Coders Are So In-Demand Around the Globe - DZone Web Dev](https://dzone.com/articles/why-python-coders-are-so-in-demand-around-the-glob?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fwebdev) 
 - [Automating the iland cloud using Microsoft Powershell and PowerCLI - Part One](http://blog.iland.com/cloud/automating-the-iland-cloud-using-microsoft-powershell-and-powercli-part-one) 
 - [Introduction to GraphQL | GraphQL](http://graphql.org/learn/) 
+- [1.7 Release of the FlashArray Workflow Package for vRealize Orchestrator | Cody Hosterman](http://www.codyhosterman.com/2016/09/1-7-release-of-the-flasharray-workflow-package-for-vrealize-orchestrator/) 
