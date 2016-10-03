@@ -310,3 +310,6 @@ Bookmark all my links into README.md
 
 ### October 2, 2016
 - [Query ESXi Hosts Serial Numbers | Tom Fojta's Blog](https://fojta.wordpress.com/2016/10/01/query-esxi-hosts-serial-numbers/) 
+
+### October 3, 2016
+- [One year on Google Cloud - Whats great, Whats not](http://blog.dripstat.com/one-year-on-google-cloud-whats-great-whats-not/) 
