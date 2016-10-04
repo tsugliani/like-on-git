@@ -325,3 +325,6 @@ Bookmark all my links into README.md
 - [How to check the size of your Config + Stats, Events, Alarms & Tasks (SEAT) data in the VCDB? | virtuallyGhetto](http://www.virtuallyghetto.com/2016/09/how-to-check-the-size-of-your-config-stats-events-alarms-tasks-seat-data-in-the-vcdb.html) 
 - [How to tell if an ESXi host is a VSAN Witness Virtual Appliance programmatically? | virtuallyGhetto](http://www.virtuallyghetto.com/2016/09/how-to-tell-if-an-esxi-host-is-a-vsan-witness-virtual-appliance-programmatically.html) 
 - [Grafana Screencasts #10 - Dashboard Discovery & Sharing - YouTube](https://www.youtube.com/watch?v=iUj6DwfBh88) 
+
+### October 4, 2016
+- [prashnts/hues: Colored terminal text made easy for Python and happiness.](https://github.com/prashnts/hues?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
