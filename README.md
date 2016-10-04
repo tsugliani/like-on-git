@@ -329,3 +329,4 @@ Bookmark all my links into README.md
 ### October 4, 2016
 - [prashnts/hues: Colored terminal text made easy for Python and happiness.](https://github.com/prashnts/hues?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 - [Building vSphere Plugins with the HTML Client SDK Fling - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/10/vsphere-html-client-sdk-fling.html) 
+- [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.7zedz02ww) 
