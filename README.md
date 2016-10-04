@@ -331,3 +331,4 @@ Bookmark all my links into README.md
 - [Building vSphere Plugins with the HTML Client SDK Fling - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/10/vsphere-html-client-sdk-fling.html) 
 - [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.7zedz02ww) 
 - [docker/infrakit: A toolkit for creating and managing declarative, self-healing infrastructure.](https://github.com/docker/infrakit) 
+- [Running OpenStack Rally tests from a Docker container – Juanma's Blog](http://blog.jreypo.io/openstack/networking/docker/running-openstack-rally-tests-from-a-docker-container/) 
