@@ -336,3 +336,4 @@ Bookmark all my links into README.md
 ### October 10, 2016
 - [No SDN Kubernetes – Medium](https://medium.com/@rothgar/no-sdn-kubernetes-5a0cb32070dd#.6ujmzlvnl) 
 - [Virtual Nomad: Organising remote access to your home lab with Sophos UTM](http://vmnomad.blogspot.fr/2016/09/remote-access-with-sophos-utm.html) 
+- [Build your infrastructure with Terraform, Nomad and Consul on Scaleway](https://blog.online.net/2016/09/14/build-your-infrastructure-with-terraform-nomad-and-consul-on-scaleway/) 
