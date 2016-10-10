@@ -332,3 +332,6 @@ Bookmark all my links into README.md
 - [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.7zedz02ww) 
 - [docker/infrakit: A toolkit for creating and managing declarative, self-healing infrastructure.](https://github.com/docker/infrakit) 
 - [Running OpenStack Rally tests from a Docker container – Juanma's Blog](http://blog.jreypo.io/openstack/networking/docker/running-openstack-rally-tests-from-a-docker-container/) 
+
+### October 10, 2016
+- [No SDN Kubernetes – Medium](https://medium.com/@rothgar/no-sdn-kubernetes-5a0cb32070dd#.6ujmzlvnl) 
