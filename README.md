@@ -339,3 +339,4 @@ Bookmark all my links into README.md
 - [Build your infrastructure with Terraform, Nomad and Consul on Scaleway](https://blog.online.net/2016/09/14/build-your-infrastructure-with-terraform-nomad-and-consul-on-scaleway/) 
 - [Powershell on Cumulus Linux | Open Networking Community](https://community.cumulusnetworks.com/cumulus/topics/powershell-on-cumulus-linux) 
 - [Revisiting BGP on Linux w/ Cumulus Topology Converter · Cody Bunch](http://blog.codybunch.com/2016/08/22/Revisiting-BGP-on-Linux-w-Cumulus-Topology-Converter/) 
+- [Hacking Photon OS to Do Your Bidding – timcarr.net](http://www.timcarr.net/?p=471) 
