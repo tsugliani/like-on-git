@@ -340,3 +340,6 @@ Bookmark all my links into README.md
 - [Powershell on Cumulus Linux | Open Networking Community](https://community.cumulusnetworks.com/cumulus/topics/powershell-on-cumulus-linux) 
 - [Revisiting BGP on Linux w/ Cumulus Topology Converter · Cody Bunch](http://blog.codybunch.com/2016/08/22/Revisiting-BGP-on-Linux-w-Cumulus-Topology-Converter/) 
 - [Hacking Photon OS to Do Your Bidding – timcarr.net](http://www.timcarr.net/?p=471) 
+
+### October 11, 2016
+- [Configuring Windows machines for Ansible - Virtual to the Core](http://www.virtualtothecore.com/en/configuring-windows-machines-for-ansible/) 
