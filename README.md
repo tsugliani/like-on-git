@@ -343,3 +343,6 @@ Bookmark all my links into README.md
 
 ### October 11, 2016
 - [Configuring Windows machines for Ansible - Virtual to the Core](http://www.virtualtothecore.com/en/configuring-windows-machines-for-ansible/) 
+
+### October 12, 2016
+- [Build Your Own Slack App and Bot | Viget](https://www.viget.com/articles/how-to-build-your-own-slack-app-and-bot) 
