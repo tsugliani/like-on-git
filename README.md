@@ -346,3 +346,4 @@ Bookmark all my links into README.md
 
 ### October 12, 2016
 - [Build Your Own Slack App and Bot | Viget](https://www.viget.com/articles/how-to-build-your-own-slack-app-and-bot) 
+- [ansible/galaxy: Source code behind Galaxy - http://galaxy.ansible.com](https://github.com/ansible/galaxy) 
