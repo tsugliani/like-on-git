@@ -350,3 +350,4 @@ Bookmark all my links into README.md
 
 ### October 14, 2016
 - [Released - vCloud Director SP 8.0.2 Important Upgrade for Zerto Clients - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/released-vcloud-director-sp-8-0-2-important-upgrade-for-zerto-clients/) 
+- [Released - vCloud Director SP 8.0.2 Important Upgrade for Zerto Clients - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/released-vcloud-director-sp-8-0-2-important-upgrade-for-zerto-clients/) 
