@@ -352,3 +352,4 @@ Bookmark all my links into README.md
 - [Released - vCloud Director SP 8.0.2 Important Upgrade for Zerto Clients - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/released-vcloud-director-sp-8-0-2-important-upgrade-for-zerto-clients/) 
 - [Released - vCloud Director SP 8.0.2 Important Upgrade for Zerto Clients - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/released-vcloud-director-sp-8-0-2-important-upgrade-for-zerto-clients/) 
 - [Getting Comfortable with vPostgres and the vCenter Server Appliance - Part 3 - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/10/getting-comfortable-vpostgres-vcenter-server-appliance-part-3.html) 
+- [Network Automation RFP Requirements « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/10/network-automation-rfp-requirements.html) 
