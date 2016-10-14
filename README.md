@@ -347,3 +347,6 @@ Bookmark all my links into README.md
 ### October 12, 2016
 - [Build Your Own Slack App and Bot | Viget](https://www.viget.com/articles/how-to-build-your-own-slack-app-and-bot) 
 - [ansible/galaxy: Source code behind Galaxy - http://galaxy.ansible.com](https://github.com/ansible/galaxy) 
+
+### October 14, 2016
+- [Released - vCloud Director SP 8.0.2 Important Upgrade for Zerto Clients - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/released-vcloud-director-sp-8-0-2-important-upgrade-for-zerto-clients/) 
