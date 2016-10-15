@@ -354,3 +354,6 @@ Bookmark all my links into README.md
 - [Getting Comfortable with vPostgres and the vCenter Server Appliance - Part 3 - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/10/getting-comfortable-vpostgres-vcenter-server-appliance-part-3.html) 
 - [Network Automation RFP Requirements « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/10/network-automation-rfp-requirements.html) 
 - [Preparing for a vCenter Server Migration using the vSphere 6.0 Update 2m Migration Tool - Part 2 - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/10/preparing-vcenter-server-migration-using-vsphere-6-0-update-2m-migration-tool-part-2.html) 
+
+### October 15, 2016
+- [Typora — a minimal markdown reading & writing app](https://www.typora.io/) 
