@@ -358,3 +358,6 @@ Bookmark all my links into README.md
 ### October 15, 2016
 - [Typora — a minimal markdown reading & writing app](https://www.typora.io/) 
 - [Jaykul/Tunable-SSL-Validator: A .Net class and PowerShell module to enable best practices for SSL validation even with self-signed certificates.](https://github.com/Jaykul/Tunable-SSL-Validator) 
+
+### October 16, 2016
+- [VMware on AWS - My Thoughts | Technodrone](http://technodrone.blogspot.com/2016/10/vmware-on-aws-my-thoughts.html) 
