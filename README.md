@@ -364,3 +364,4 @@ Bookmark all my links into README.md
 
 ### October 19, 2016
 - [Patching windows servers with Ansible - Virtual to the Core](http://www.virtualtothecore.com/en/patching-windows-servers-ansible/) 
+- [Does My Design Project Need a Strategy? | Viget](https://www.viget.com/articles/does-my-design-project-need-a-strategy) 
