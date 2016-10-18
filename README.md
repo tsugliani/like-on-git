@@ -361,3 +361,6 @@ Bookmark all my links into README.md
 
 ### October 16, 2016
 - [VMware on AWS - My Thoughts | Technodrone](http://technodrone.blogspot.com/2016/10/vmware-on-aws-my-thoughts.html) 
+
+### October 19, 2016
+- [Patching windows servers with Ansible - Virtual to the Core](http://www.virtualtothecore.com/en/patching-windows-servers-ansible/) 
