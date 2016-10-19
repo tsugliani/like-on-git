@@ -371,3 +371,4 @@ Bookmark all my links into README.md
 - [Principles of Automation](https://keepingitclassless.net/2016/10/principles-of-automation/) 
 - [No SDN Kubernetes – Medium](https://medium.com/@rothgar/no-sdn-kubernetes-5a0cb32070dd#.z1elvx4bo) 
 - [Revisiting BGP on Linux w/ Cumulus Topology Converter · Cody Bunch](http://blog.codybunch.com/2016/08/22/Revisiting-BGP-on-Linux-w-Cumulus-Topology-Converter/) 
+- [Powershell on Cumulus Linux | Open Networking Community](https://getsatisfaction.cumulusnetworks.com/cumulus/topics/powershell-on-cumulus-linux) 
