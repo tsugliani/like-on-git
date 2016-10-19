@@ -379,3 +379,4 @@ Bookmark all my links into README.md
 - [Migration from Cisco 1000v to VMware Virtual Distributed Switch (Part 1) « vSkilled.com](https://www.vskilled.com/2016/01/migration-from-cisco-1000v-to-vmware-virtual-distributed-switch-part-1/) 
 - [Preparing for a vCenter Server Migration using the vSphere 6.0 Update 2m Migration Tool - Part 3 - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/10/preparing-vcenter-server-migration-using-vsphere-6-0-update-2m-migration-tool-part-3.html) 
 - [Typora — a minimal markdown reading & writing app](http://www.typora.io/) 
+- [Nested ESXi Enhancements in vSphere 6.5 | virtuallyGhetto](http://www.virtuallyghetto.com/2016/10/nested-esxi-enhancements-in-vsphere-6-5.html) 
