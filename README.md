@@ -376,3 +376,4 @@ Bookmark all my links into README.md
 - [Hacking Photon OS to Do Your Bidding – timcarr.net](http://www.timcarr.net/?p=471) 
 - [Migration from Cisco 1000v to VMware Virtual Distributed Switch (Part 1) « vSkilled.com](https://www.vskilled.com/2016/01/migration-from-cisco-1000v-to-vmware-virtual-distributed-switch-part-1/) 
 - [A Survival Guide for Containerizing your Infrastructure — Part 1: Why switch? – Google Cloud Platform — Community – Medium](https://medium.com/google-cloud/a-survival-guide-for-containerizing-your-infrastructure-part-1-why-switch-8e8dee9fc66#.d7jnmxrn7) 
+- [Migration from Cisco 1000v to VMware Virtual Distributed Switch (Part 1) « vSkilled.com](https://www.vskilled.com/2016/01/migration-from-cisco-1000v-to-vmware-virtual-distributed-switch-part-1/) 
