@@ -369,3 +369,4 @@ Bookmark all my links into README.md
 - [Combining Heat with OpenStack Vagrant provider – Juanma's Blog](http://blog.jreypo.io/openstack/devops/sysadmin/combining-heat-with-openstack-vagrant-provider/) 
 - [VMware Gets Serious about RESTful APIs and Expanding PowerCLI - Wahl Network](http://wahlnetwork.com/2016/10/18/vmware-gets-serious-restful-apis-expanding-powercli/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+WahlNetwork+(Wahl+Network)) 
 - [Principles of Automation](https://keepingitclassless.net/2016/10/principles-of-automation/) 
+- [No SDN Kubernetes – Medium](https://medium.com/@rothgar/no-sdn-kubernetes-5a0cb32070dd#.z1elvx4bo) 
