@@ -366,3 +366,4 @@ Bookmark all my links into README.md
 - [Patching windows servers with Ansible - Virtual to the Core](http://www.virtualtothecore.com/en/patching-windows-servers-ansible/) 
 - [Does My Design Project Need a Strategy? | Viget](https://www.viget.com/articles/does-my-design-project-need-a-strategy) 
 - [Tunable-SSL-Validator/TunableSSLValidator.psm1 at master · Jaykul/Tunable-SSL-Validator](https://github.com/Jaykul/Tunable-SSL-Validator/blob/master/TunableSSLValidator.psm1) 
+- [Combining Heat with OpenStack Vagrant provider – Juanma's Blog](http://blog.jreypo.io/openstack/devops/sysadmin/combining-heat-with-openstack-vagrant-provider/) 
