@@ -378,3 +378,4 @@ Bookmark all my links into README.md
 - [A Survival Guide for Containerizing your Infrastructure — Part 1: Why switch? – Google Cloud Platform — Community – Medium](https://medium.com/google-cloud/a-survival-guide-for-containerizing-your-infrastructure-part-1-why-switch-8e8dee9fc66#.d7jnmxrn7) 
 - [Migration from Cisco 1000v to VMware Virtual Distributed Switch (Part 1) « vSkilled.com](https://www.vskilled.com/2016/01/migration-from-cisco-1000v-to-vmware-virtual-distributed-switch-part-1/) 
 - [Preparing for a vCenter Server Migration using the vSphere 6.0 Update 2m Migration Tool - Part 3 - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/10/preparing-vcenter-server-migration-using-vsphere-6-0-update-2m-migration-tool-part-3.html) 
+- [Typora — a minimal markdown reading & writing app](http://www.typora.io/) 
