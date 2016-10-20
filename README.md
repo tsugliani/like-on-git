@@ -380,3 +380,6 @@ Bookmark all my links into README.md
 - [Preparing for a vCenter Server Migration using the vSphere 6.0 Update 2m Migration Tool - Part 3 - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/10/preparing-vcenter-server-migration-using-vsphere-6-0-update-2m-migration-tool-part-3.html) 
 - [Typora — a minimal markdown reading & writing app](http://www.typora.io/) 
 - [Nested ESXi Enhancements in vSphere 6.5 | virtuallyGhetto](http://www.virtuallyghetto.com/2016/10/nested-esxi-enhancements-in-vsphere-6-5.html) 
+
+### October 20, 2016
+- [Building Network-Friendly Single-Page Apps](https://blog.newrelic.com/2016/10/17/network-friendly-single-page-apps/) 
