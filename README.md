@@ -388,3 +388,4 @@ Bookmark all my links into README.md
 
 ### October 21, 2016
 - [Hacker News](https://news.ycombinator.com/) 
+- [3.5 Announcement - Django REST framework](http://www.django-rest-framework.org/topics/3.5-announcement/) 
