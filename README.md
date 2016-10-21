@@ -391,3 +391,4 @@ Bookmark all my links into README.md
 - [3.5 Announcement - Django REST framework](http://www.django-rest-framework.org/topics/3.5-announcement/) 
 - [Top developers can have a life outside coding](https://belenalbeza.com/top-developers-can-have-a-life-outside-coding/) 
 - [Vision vs. Leverage | Clearleft](http://clearleft.com/thinks/408) 
+- [Loop through a collection of DOM elements](https://pawelgrzybek.com/loop-through-a-collection-of-dom-elements/) 
