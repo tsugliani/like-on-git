@@ -393,3 +393,6 @@ Bookmark all my links into README.md
 - [Vision vs. Leverage | Clearleft](http://clearleft.com/thinks/408) 
 - [Loop through a collection of DOM elements](https://pawelgrzybek.com/loop-through-a-collection-of-dom-elements/) 
 - [Fixing Python Performance with Rust](https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html) 
+
+### October 24, 2016
+- [Rancher Labs | Kubernetes, Mesos, and Swarm: Comparing the Rancher Orchestration Engine Options | Rancher Labs](http://rancher.com/comparing-rancher-orchestration-engine-options/) 
