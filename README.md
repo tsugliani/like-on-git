@@ -396,3 +396,4 @@ Bookmark all my links into README.md
 
 ### October 24, 2016
 - [Rancher Labs | Kubernetes, Mesos, and Swarm: Comparing the Rancher Orchestration Engine Options | Rancher Labs](http://rancher.com/comparing-rancher-orchestration-engine-options/) 
+- [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws#aws-data-transfer-costs) 
