@@ -404,3 +404,4 @@ Bookmark all my links into README.md
 - [ConEmu - Handy Windows Terminal](http://conemu.github.io/) 
 - [cbucher/console: This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.](https://github.com/cbucher/console) 
 - [NSX Bytes: Important Bug in 6.2.4 to be Aware of - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/nsx-bytes-important-bug-in-6-2-4-to-be-aware-of/) 
+- [Bending the Dynamic vs Static Language Tradeoff](http://jamie-wong.com/bending-the-pl-curve/) 
