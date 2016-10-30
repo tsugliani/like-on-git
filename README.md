@@ -402,3 +402,4 @@ Bookmark all my links into README.md
 - [neilpa/cmd-colors-solarized: Solarized color settings for Windows command prompt](https://github.com/neilpa/cmd-colors-solarized) 
 - [powerline/fonts: Patched fonts for Powerline users.](https://github.com/powerline/fonts) 
 - [ConEmu - Handy Windows Terminal](http://conemu.github.io/) 
+- [cbucher/console: This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.](https://github.com/cbucher/console) 
