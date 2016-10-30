@@ -406,3 +406,4 @@ Bookmark all my links into README.md
 - [NSX Bytes: Important Bug in 6.2.4 to be Aware of - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/nsx-bytes-important-bug-in-6-2-4-to-be-aware-of/) 
 - [Bending the Dynamic vs Static Language Tradeoff](http://jamie-wong.com/bending-the-pl-curve/) 
 - [Changelog.com is Open Source | Changelog](https://changelog.com/posts/changelog-is-open-source) 
+- [One of the better explanations of SDN « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/10/one-of-better-explanations-of-sdn.html) 
