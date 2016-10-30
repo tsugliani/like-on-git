@@ -400,3 +400,4 @@ Bookmark all my links into README.md
 
 ### October 30, 2016
 - [neilpa/cmd-colors-solarized: Solarized color settings for Windows command prompt](https://github.com/neilpa/cmd-colors-solarized) 
+- [powerline/fonts: Patched fonts for Powerline users.](https://github.com/powerline/fonts) 
