@@ -407,3 +407,6 @@ Bookmark all my links into README.md
 - [Bending the Dynamic vs Static Language Tradeoff](http://jamie-wong.com/bending-the-pl-curve/) 
 - [Changelog.com is Open Source | Changelog](https://changelog.com/posts/changelog-is-open-source) 
 - [One of the better explanations of SDN « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/10/one-of-better-explanations-of-sdn.html) 
+
+### November 12, 2016
+- [nanostra/Orange_DHCPIPV4_Edgrouteur_LiveBoxTVTel: Remplacer Livebox Orange pour Internet par Edgerouter + LIVEBOX DHCP pour TV et téléphone ARCHITECTURE ORANGE DHCP / IPV4](https://github.com/nanostra/Orange_DHCPIPV4_Edgrouteur_LiveBoxTVTel) 
