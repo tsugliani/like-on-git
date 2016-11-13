@@ -414,3 +414,4 @@ Bookmark all my links into README.md
 
 ### November 13, 2016
 - [Remplacer sa Livebox par un routeur Ubiquiti Edgemax](https://lafibre.info/remplacer-livebox/en-cours-remplacer-sa-livebox-par-un-routeur-ubiquiti-edgemax/) 
+- [Ubiquiti EdgeRouter X, NSX and vRealize Automation in network kinda harmony – Open902.com](http://open902.com/ubiquiti-edgerouter-x-nsx-and-vrealize-automation-in-network-kinda-harmony/) 
