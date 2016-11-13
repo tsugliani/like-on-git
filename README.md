@@ -411,3 +411,6 @@ Bookmark all my links into README.md
 ### November 12, 2016
 - [nanostra/Orange_DHCPIPV4_Edgrouteur_LiveBoxTVTel: Remplacer Livebox Orange pour Internet par Edgerouter + LIVEBOX DHCP pour TV et téléphone ARCHITECTURE ORANGE DHCP / IPV4](https://github.com/nanostra/Orange_DHCPIPV4_Edgrouteur_LiveBoxTVTel) 
 - [Surface Book review (2016): The laptop to beat doesn't come cheap](https://www.engadget.com/2016/11/10/surface-book-review-2016/) 
+
+### November 13, 2016
+- [Remplacer sa Livebox par un routeur Ubiquiti Edgemax](https://lafibre.info/remplacer-livebox/en-cours-remplacer-sa-livebox-par-un-routeur-ubiquiti-edgemax/) 
