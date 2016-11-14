@@ -418,3 +418,4 @@ Bookmark all my links into README.md
 
 ### November 14, 2016
 - [50 Tiny, Time-Saving, and Free Tools for Web Designers from 2016](https://speckyboy.com/free-time-saving-tools-web-designers/) 
+- [Pictures from the 100G DWDM interop lab – Kristian Larsson – Network Automation Ninja](http://plajjan.github.io/pictures-from-100G-dwdm-interop-lab/) 
