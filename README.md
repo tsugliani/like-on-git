@@ -420,3 +420,4 @@ Bookmark all my links into README.md
 - [50 Tiny, Time-Saving, and Free Tools for Web Designers from 2016](https://speckyboy.com/free-time-saving-tools-web-designers/) 
 - [Pictures from the 100G DWDM interop lab – Kristian Larsson – Network Automation Ninja](http://plajjan.github.io/pictures-from-100G-dwdm-interop-lab/) 
 - [Ubiquiti EdgeRouter X, NSX and vRealize Automation in network kinda harmony – Open902.com](http://open902.com/ubiquiti-edgerouter-x-nsx-and-vrealize-automation-in-network-kinda-harmony/) 
+- [The End of the General Purpose Operating System · More than seven](http://www.morethanseven.net/2016/11/05/the-end-of-the-general-purpose-operating-system-as-it-happens/) 
