@@ -426,3 +426,4 @@ Bookmark all my links into README.md
 - [How we reindexed 36 billion documents in 5 days within the same Elasticsearch cluster](https://thoughts.t37.net/how-we-reindexed-36-billions-documents-in-5-days-within-the-same-elasticsearch-cluster-cd9c054d1db8#.w55uksp2t) 
 - [An Advanced Elasticsearch Architecture for High-volume Reindexing](https://thoughts.t37.net/abusing-an-innocent-elasticsearch-cluster-for-a-mass-reindex-without-disturbing-your-clients-360384fca105#.kl961ebmu) 
 - [Reliability of Clustered Solutions: Another Data Point « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/11/reliability-of-clustered-solutions.html) 
+- [Blueprint Documentation & Styleguide](http://blueprintjs.com/docs/#colors.schemes.qualitative) 
