@@ -422,3 +422,4 @@ Bookmark all my links into README.md
 - [Ubiquiti EdgeRouter X, NSX and vRealize Automation in network kinda harmony – Open902.com](http://open902.com/ubiquiti-edgerouter-x-nsx-and-vrealize-automation-in-network-kinda-harmony/) 
 - [The End of the General Purpose Operating System · More than seven](http://www.morethanseven.net/2016/11/05/the-end-of-the-general-purpose-operating-system-as-it-happens/) 
 - [An Introduction to the VirtualBox CLI · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/10/intro-to-vbox-cli/) 
+- [Thinking Out Loud: The Future of Kubernetes · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/09/thinking-out-loud-future-of-kubernetes/) 
