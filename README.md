@@ -415,3 +415,6 @@ Bookmark all my links into README.md
 ### November 13, 2016
 - [Remplacer sa Livebox par un routeur Ubiquiti Edgemax](https://lafibre.info/remplacer-livebox/en-cours-remplacer-sa-livebox-par-un-routeur-ubiquiti-edgemax/) 
 - [Ubiquiti EdgeRouter X, NSX and vRealize Automation in network kinda harmony – Open902.com](http://open902.com/ubiquiti-edgerouter-x-nsx-and-vrealize-automation-in-network-kinda-harmony/) 
+
+### November 14, 2016
+- [50 Tiny, Time-Saving, and Free Tools for Web Designers from 2016](https://speckyboy.com/free-time-saving-tools-web-designers/) 
