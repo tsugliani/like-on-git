@@ -428,3 +428,4 @@ Bookmark all my links into README.md
 - [Reliability of Clustered Solutions: Another Data Point « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/11/reliability-of-clustered-solutions.html) 
 - [Blueprint Documentation & Styleguide](http://blueprintjs.com/docs/#colors.schemes.qualitative) 
 - [GoAccess - Visual Web Log Analyzer](https://goaccess.io/) 
+- [VMware Certificate Toolkit v0.1.8 | Pierrelx's LAB](http://pierrelx.com/vmware-certificate-toolkit-v0-1-8/) 
