@@ -424,3 +424,4 @@ Bookmark all my links into README.md
 - [An Introduction to the VirtualBox CLI · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/10/intro-to-vbox-cli/) 
 - [Thinking Out Loud: The Future of Kubernetes · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/09/thinking-out-loud-future-of-kubernetes/) 
 - [How we reindexed 36 billion documents in 5 days within the same Elasticsearch cluster](https://thoughts.t37.net/how-we-reindexed-36-billions-documents-in-5-days-within-the-same-elasticsearch-cluster-cd9c054d1db8#.w55uksp2t) 
+- [An Advanced Elasticsearch Architecture for High-volume Reindexing](https://thoughts.t37.net/abusing-an-innocent-elasticsearch-cluster-for-a-mass-reindex-without-disturbing-your-clients-360384fca105#.kl961ebmu) 
