@@ -432,3 +432,4 @@ Bookmark all my links into README.md
 
 ### November 15, 2016
 - [Unable to remove the Guest Introspection service - IVOBEERENS.nl](http://www.ivobeerens.nl/2016/11/09/unable-remove-guest-introspection-service/) 
+- [Clarity Design System](https://vmware.github.io/clarity/index.html) 
