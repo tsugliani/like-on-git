@@ -433,3 +433,6 @@ Bookmark all my links into README.md
 ### November 15, 2016
 - [Unable to remove the Guest Introspection service - IVOBEERENS.nl](http://www.ivobeerens.nl/2016/11/09/unable-remove-guest-introspection-service/) 
 - [Clarity Design System](https://vmware.github.io/clarity/index.html) 
+
+### November 17, 2016
+- [Seagate Unveils the IronWolf Pro 10TB NAS HDD | StorageReview.com - Storage Reviews](http://www.storagereview.com/seagate_unveils_the_ironwolf_pro_10tb_nas_hdd) 
