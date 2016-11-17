@@ -446,3 +446,4 @@ Bookmark all my links into README.md
 - [VMware Certificate Toolkit v0.1.8 | Pierrelx's LAB](http://pierrelx.com/vmware-certificate-toolkit-v0-1-8/) 
 - [Can VMware NSX and Cisco ACI Interoperate over VXLAN? « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/11/can-vmware-nsx-and-cisco-aci.html) 
 - [Avere Systems - is it a cache, is it a tier, does it even matter?](https://blog.edmorgan.info/sfd11/2016/11/14/SFD11-Avere.html) 
+- [Introduction | VMware vSphere Integrated Containers Engine Installation, version 0.7.0](https://vmware.github.io/vic/assets/files/html/vic_installation/index.html) 
