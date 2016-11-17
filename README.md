@@ -443,3 +443,4 @@ Bookmark all my links into README.md
 - [Veriflow Launches Disruptive Platform; Survey Reveals Complexity, Change and Human Factors Cause Network Outages and Vulnerabilities | Veriflow](http://www.veriflow.net/veriflow-launches-disruptive-platform-survey-reveals-complexity-change-human-factors-cause-network-outages-vulnerabilities/) 
 - [Use HCIBench Like a Pro – Part 2 - Virtual Blocks](http://blogs.vmware.com/virtualblocks/2016/11/03/use-hcibench-like-pro-part-2/) 
 - [NSX Identity Firewall – Deep Dive – VMware Professional Services](http://www.routetocloud.com/2016/11/nsx-identity-firewall-deep-dive/) 
+- [VMware Certificate Toolkit v0.1.8 | Pierrelx's LAB](http://pierrelx.com/vmware-certificate-toolkit-v0-1-8/) 
