@@ -439,3 +439,4 @@ Bookmark all my links into README.md
 - [HomeLab - SuperMicro 5028D-TNT4 Storage Driver Performance Issues and Fix - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/homelab-supermicro-5020d-tnt4-storage-driver-performance-issues-and-fix/) 
 - [SysSet – A Syslog Configuration Tool for NSX Edges – Network Inferno](http://networkinferno.net/sysset-a-syslog-configuration-tool-for-nsx-edges) 
 - [All vSphere 6.5 release notes & download links | virtuallyGhetto](http://www.virtuallyghetto.com/2016/11/vsphere65.html) 
+- [How To Setup VPC Peering With Ansible · darrylcauldwell.com](http://darrylcauldwell.com/ansible-vpc-peering/) 
