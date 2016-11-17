@@ -444,3 +444,4 @@ Bookmark all my links into README.md
 - [Use HCIBench Like a Pro – Part 2 - Virtual Blocks](http://blogs.vmware.com/virtualblocks/2016/11/03/use-hcibench-like-pro-part-2/) 
 - [NSX Identity Firewall – Deep Dive – VMware Professional Services](http://www.routetocloud.com/2016/11/nsx-identity-firewall-deep-dive/) 
 - [VMware Certificate Toolkit v0.1.8 | Pierrelx's LAB](http://pierrelx.com/vmware-certificate-toolkit-v0-1-8/) 
+- [Can VMware NSX and Cisco ACI Interoperate over VXLAN? « ipSpace.net by @ioshints](http://blog.ipspace.net/2016/11/can-vmware-nsx-and-cisco-aci.html) 
