@@ -440,3 +440,4 @@ Bookmark all my links into README.md
 - [SysSet – A Syslog Configuration Tool for NSX Edges – Network Inferno](http://networkinferno.net/sysset-a-syslog-configuration-tool-for-nsx-edges) 
 - [All vSphere 6.5 release notes & download links | virtuallyGhetto](http://www.virtuallyghetto.com/2016/11/vsphere65.html) 
 - [How To Setup VPC Peering With Ansible · darrylcauldwell.com](http://darrylcauldwell.com/ansible-vpc-peering/) 
+- [Veriflow Launches Disruptive Platform; Survey Reveals Complexity, Change and Human Factors Cause Network Outages and Vulnerabilities | Veriflow](http://www.veriflow.net/veriflow-launches-disruptive-platform-survey-reveals-complexity-change-human-factors-cause-network-outages-vulnerabilities/) 
