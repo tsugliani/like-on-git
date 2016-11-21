@@ -455,3 +455,4 @@ Bookmark all my links into README.md
 - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/) 
 - [New Home Lab Build | vWilmo](https://vwilmo.wordpress.com/2016/11/14/new-home-lab-build/) 
 - [Bensdoings – Contain Your Enthusiasm](http://bensdoings.com/) 
+- [What’s new in ESXi 6.5 Storage Part I: UNMAP | Cody Hosterman](http://www.codyhosterman.com/2016/11/whats-new-in-esxi-6-5-storage-part-i-unmap/) 
