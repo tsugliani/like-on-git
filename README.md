@@ -472,3 +472,4 @@ Bookmark all my links into README.md
 - [The vSAN Witness Appliance in vCloud Air: Part 4 (Deployment) - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2016/11/16/vsan-witness-in-vca-p4/) 
 - [RoliSoft/WSL-Distribution-Switcher: Scripts to replace the distribution behind Windows Subsystem for Linux with any other Linux distribution published on Docker Hub.](https://github.com/RoliSoft/WSL-Distribution-Switcher) 
 - [Microsoft Surface Studio Reviews: Apple Fans Might Be 'Tempted to Switch Camps', Despite High Price](https://flipboard.com/@flipboard/flip.it%2F4TZCFs-microsoft-surface-studio-reviews-apple-/f-1efa5bae57%2Fmacrumors.com?utm_content=bufferbd6f8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+- [casualjim/dclone: Generate a docker command-line from a running container so you don't have to](https://github.com/casualjim/dclone) 
