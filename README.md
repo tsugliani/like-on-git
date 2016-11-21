@@ -474,3 +474,4 @@ Bookmark all my links into README.md
 - [Microsoft Surface Studio Reviews: Apple Fans Might Be 'Tempted to Switch Camps', Despite High Price](https://flipboard.com/@flipboard/flip.it%2F4TZCFs-microsoft-surface-studio-reviews-apple-/f-1efa5bae57%2Fmacrumors.com?utm_content=bufferbd6f8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [casualjim/dclone: Generate a docker command-line from a running container so you don't have to](https://github.com/casualjim/dclone) 
 - [lamw/vghetto-vsphere-automated-lab-deployment: vGhetto vSphere Automated Lab Deployment (VVLD) for vSphere 6.0u2 & 6.5](https://github.com/lamw/vghetto-vsphere-automated-lab-deployment) 
+- [1.1.0 — Homebrew](http://brew.sh/2016/11/07/homebrew-1.1.0/) 
