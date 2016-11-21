@@ -463,3 +463,4 @@ Bookmark all my links into README.md
 - [An Introduction to the VirtualBox CLI · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/10/intro-to-vbox-cli/) 
 - [SABnzbd Forums • View topic - SABnzbd 1.1.1 has been released](https://forums.sabnzbd.org/viewtopic.php?f=8&t=21754) 
 - [Log Insight 3.6: User Impersonation - SFlanders.net](http://sflanders.net/2016/11/07/log-insight-3-6-user-impersonation/) 
+- [Migrating an Angular 1 App to Angular 2 - Part 2](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-2/) 
