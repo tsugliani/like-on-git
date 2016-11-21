@@ -475,3 +475,4 @@ Bookmark all my links into README.md
 - [casualjim/dclone: Generate a docker command-line from a running container so you don't have to](https://github.com/casualjim/dclone) 
 - [lamw/vghetto-vsphere-automated-lab-deployment: vGhetto vSphere Automated Lab Deployment (VVLD) for vSphere 6.0u2 & 6.5](https://github.com/lamw/vghetto-vsphere-automated-lab-deployment) 
 - [1.1.0 — Homebrew](http://brew.sh/2016/11/07/homebrew-1.1.0/) 
+- [Log Insight 4.0: Supported Deployment API - SFlanders.net](http://sflanders.net/2016/11/21/log-insight-4-0-supported-deployment-api/) 
