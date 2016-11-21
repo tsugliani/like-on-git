@@ -459,3 +459,4 @@ Bookmark all my links into README.md
 - [Clarity Design System](https://vmware.github.io/clarity/index.html) 
 - [lu on Twitter: "tout ce qu'il dit est vrai, arrêtez vous deux minutes pour écouter https://t.co/V38lnzwG7a"](https://twitter.com/thirlinski/status/794837676423806976) 
 - [Share IT!: Quickly Identify Whether My Virtual Machines Get All CPU Resources They Need](http://shirazerosagon.blogspot.fr/2016/11/quickly-identify-cpu-contention-with-vrops.html) 
+- [Why should students learn to write code? - major.io](https://major.io/2016/10/10/why-should-students-learn-to-write-code/) 
