@@ -467,3 +467,4 @@ Bookmark all my links into README.md
 - [VCSA 6.5 Installer Gotchas - SFlanders.net](http://sflanders.net/2016/11/18/vcsa-6-5-installer-gotchas/) 
 - [VMware Front Experience: ESXi 6.5 Release Notes for free license and white box users](http://www.v-front.de/2016/11/esxi-65-release-notes-for-free-license.html) 
 - [VMware Front Experience: ESXi 6.5 Release Notes for free license and white box users](http://www.v-front.de/2016/11/esxi-65-release-notes-for-free-license.html) 
+- [New ESXCLI Commands in vSphere 6.5 | Virten.net](http://www.virten.net/2016/11/new-esxcli-commands-in-vsphere-6-5/) 
