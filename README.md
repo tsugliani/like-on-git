@@ -469,3 +469,4 @@ Bookmark all my links into README.md
 - [VMware Front Experience: ESXi 6.5 Release Notes for free license and white box users](http://www.v-front.de/2016/11/esxi-65-release-notes-for-free-license.html) 
 - [New ESXCLI Commands in vSphere 6.5 | Virten.net](http://www.virten.net/2016/11/new-esxcli-commands-in-vsphere-6-5/) 
 - [A History of Hard Drives](https://www.backblaze.com/blog/history-hard-drives/?utm_source=Social&utm_medium=Twitter&utm_term=blog%2Bpost&utm_content=tweet) 
+- [The vSAN Witness Appliance in vCloud Air: Part 4 (Deployment) - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2016/11/16/vsan-witness-in-vca-p4/) 
