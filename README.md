@@ -453,3 +453,4 @@ Bookmark all my links into README.md
 
 ### November 21, 2016
 - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/) 
+- [New Home Lab Build | vWilmo](https://vwilmo.wordpress.com/2016/11/14/new-home-lab-build/) 
