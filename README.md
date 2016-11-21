@@ -465,3 +465,4 @@ Bookmark all my links into README.md
 - [Log Insight 3.6: User Impersonation - SFlanders.net](http://sflanders.net/2016/11/07/log-insight-3-6-user-impersonation/) 
 - [Migrating an Angular 1 App to Angular 2 - Part 2](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-2/) 
 - [VCSA 6.5 Installer Gotchas - SFlanders.net](http://sflanders.net/2016/11/18/vcsa-6-5-installer-gotchas/) 
+- [VMware Front Experience: ESXi 6.5 Release Notes for free license and white box users](http://www.v-front.de/2016/11/esxi-65-release-notes-for-free-license.html) 
