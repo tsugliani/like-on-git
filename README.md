@@ -450,3 +450,6 @@ Bookmark all my links into README.md
 
 ### November 18, 2016
 - [My Python Virtual Env Setup Instructions – SneakU](http://www.sneaku.com/2016/11/17/my-python-virtual-env-setup-instructions/) 
+
+### November 21, 2016
+- [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/) 
