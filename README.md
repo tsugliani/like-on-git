@@ -477,3 +477,6 @@ Bookmark all my links into README.md
 - [1.1.0 — Homebrew](http://brew.sh/2016/11/07/homebrew-1.1.0/) 
 - [Log Insight 4.0: Supported Deployment API - SFlanders.net](http://sflanders.net/2016/11/21/log-insight-4-0-supported-deployment-api/) 
 - [vGhetto Automated vSphere Lab Deployment for vSphere 6.0u2 & vSphere 6.5 | virtuallyGhetto](http://www.virtuallyghetto.com/2016/11/vghetto-automated-vsphere-lab-deployment-for-vsphere-6-0u2-vsphere-6-5.html) 
+
+### November 22, 2016
+- [Node Placement and Scheduling Explained – OpenShift Blog](https://blog.openshift.com/node-placement-scheduling-explained/?utm_content=bufferc0c19&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
