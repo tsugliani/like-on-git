@@ -480,3 +480,6 @@ Bookmark all my links into README.md
 
 ### November 22, 2016
 - [Node Placement and Scheduling Explained – OpenShift Blog](https://blog.openshift.com/node-placement-scheduling-explained/?utm_content=bufferc0c19&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+
+### November 23, 2016
+- [Using GNOME Keyring as Git Credential Helper · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/21/gnome-keyring-git-credential-helper/) 
