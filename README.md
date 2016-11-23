@@ -483,3 +483,4 @@ Bookmark all my links into README.md
 
 ### November 23, 2016
 - [Using GNOME Keyring as Git Credential Helper · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/21/gnome-keyring-git-credential-helper/) 
+- [Whitepaper on vSphere Virtual Machine Encryption Performance - VMware VROOM! Blog - VMware Blogs](http://blogs.vmware.com/performance/2016/11/vsphere-vm-encryption-performance-whitepaper.html) 
