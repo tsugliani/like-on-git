@@ -486,3 +486,6 @@ Bookmark all my links into README.md
 - [Whitepaper on vSphere Virtual Machine Encryption Performance - VMware VROOM! Blog - VMware Blogs](http://blogs.vmware.com/performance/2016/11/vsphere-vm-encryption-performance-whitepaper.html) 
 - [vGhetto Automated vSphere Lab Deployment for vSphere 6.0u2 & vSphere 6.5 | virtuallyGhetto](http://www.virtuallyghetto.com/2016/11/vghetto-automated-vsphere-lab-deployment-for-vsphere-6-0u2-vsphere-6-5.html) 
 - [Why We Should Build Our Cities Upward, Not Outward](http://sploid.gizmodo.com/why-we-should-build-our-cities-upward-not-outward-1789225888) 
+
+### November 24, 2016
+- [The coming of the Kubernetes distributions · More than seven](http://www.morethanseven.net/2016/11/23/the-coming-of-the-kubernetes-distributions/) 
