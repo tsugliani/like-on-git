@@ -493,3 +493,4 @@ Bookmark all my links into README.md
 ### November 25, 2016
 - [Using GNOME Keyring for Git Credentials on Fedora 25 · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/23/gnome-keyring-git-credential-fedora/) 
 - [Moving VMs from ESX to Workstation (pt2) | SOSTech](http://sostechblog.com/2016/11/24/moving-vms-from-esx-to-workstation-pt2/) 
+- [Virtual Machines 1 (TestTrack Unplugged) | SOSTech](http://sostechblog.com/2016/11/24/virtual-machines-1-testtrack-unplugged/) 
