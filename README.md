@@ -513,3 +513,4 @@ Bookmark all my links into README.md
 - [vSAN 2 Nodes ROBO Setup | What's Next...?](http://billho.website/?p=40) 
 - [NSX in Real Life | What's Next...?](http://billho.website/?p=56) 
 - [vRealize Operation Manager, Who Needs it? | What's Next...?](http://billho.website/?p=74) 
+- [VMware Virtual SAN (vSAN) Day 2 Operation – Scaling your vSAN | What's Next...?](http://billho.website/?p=106) 
