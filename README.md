@@ -502,3 +502,4 @@ Bookmark all my links into README.md
 - [Storage 3 (TestTrack unplugged series) | SOSTech](http://sostechblog.com/2016/11/23/storage-3-test-track-unplugged-series/) 
 - [Networking 2 (TestTrack Unplugged Series) | SOSTech](http://sostechblog.com/2016/11/23/networking-2-testtrack-unplugged-series/) 
 - [Networking 3 (TestTrack Unplugged Series) | SOSTech](http://sostechblog.com/2016/11/24/networking-3-testtrack-unplugged-series/) 
+- [Getting started with VMware](https://help.github.com/enterprise/11.10.340/admin/articles/getting-started-with-vmware/) 
