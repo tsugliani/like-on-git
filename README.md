@@ -507,3 +507,4 @@ Bookmark all my links into README.md
 - [Why the fuss about serverless? – Medium](https://medium.com/@swardley/why-the-fuss-about-serverless-4370b1596da0#.xcys29zia) 
 - [Awaiting too long for this!!! vCenter HA – Part 1 | What's Next...?](http://billho.website/?p=141) 
 - [Awaiting too long for this!!! vCenter HA – Part 2 | What's Next...?](http://billho.website/?p=152) 
+- [Awaiting too long for this!!! vCenter HA – Part 3 | What's Next...?](http://billho.website/?p=205) 
