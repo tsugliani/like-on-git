@@ -489,3 +489,6 @@ Bookmark all my links into README.md
 
 ### November 24, 2016
 - [The coming of the Kubernetes distributions · More than seven](http://www.morethanseven.net/2016/11/23/the-coming-of-the-kubernetes-distributions/) 
+
+### November 25, 2016
+- [Using GNOME Keyring for Git Credentials on Fedora 25 · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/23/gnome-keyring-git-credential-fedora/) 
