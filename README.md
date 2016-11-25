@@ -498,3 +498,4 @@ Bookmark all my links into README.md
 - [Veeam 9.5 Released: Top New Features - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/veeam-9-5-released-top-new-features/) 
 - [Spectacle](https://www.spectacleapp.com/) 
 - [TestTrack Unplugged (Storage 1) | SOSTech](http://sostechblog.com/2016/11/23/testtrack-unplugged-storage-1/) 
+- [Storage 2 (TestTrack Unplugged series) | SOSTech](http://sostechblog.com/2016/11/23/storage-2-testtrack-unplugged-series/) 
