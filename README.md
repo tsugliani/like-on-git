@@ -497,3 +497,4 @@ Bookmark all my links into README.md
 - [VMware vSAN: 2016 Edition – vNinja.net](http://vninja.net/virtualization/vmware-vsan-2016-edition/) 
 - [Veeam 9.5 Released: Top New Features - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/veeam-9-5-released-top-new-features/) 
 - [Spectacle](https://www.spectacleapp.com/) 
+- [TestTrack Unplugged (Storage 1) | SOSTech](http://sostechblog.com/2016/11/23/testtrack-unplugged-storage-1/) 
