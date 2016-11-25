@@ -509,3 +509,4 @@ Bookmark all my links into README.md
 - [Awaiting too long for this!!! vCenter HA – Part 2 | What's Next...?](http://billho.website/?p=152) 
 - [Awaiting too long for this!!! vCenter HA – Part 3 | What's Next...?](http://billho.website/?p=205) 
 - [Awaiting too long for this!!! vCenter HA – Part 4 | What's Next...?](http://billho.website/?p=230) 
+- [vSphere Daily Environment Checking | What's Next...?](http://billho.website/?p=17) 
