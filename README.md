@@ -511,3 +511,4 @@ Bookmark all my links into README.md
 - [Awaiting too long for this!!! vCenter HA – Part 4 | What's Next...?](http://billho.website/?p=230) 
 - [vSphere Daily Environment Checking | What's Next...?](http://billho.website/?p=17) 
 - [vSAN 2 Nodes ROBO Setup | What's Next...?](http://billho.website/?p=40) 
+- [NSX in Real Life | What's Next...?](http://billho.website/?p=56) 
