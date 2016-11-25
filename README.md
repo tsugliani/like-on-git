@@ -504,3 +504,4 @@ Bookmark all my links into README.md
 - [Networking 3 (TestTrack Unplugged Series) | SOSTech](http://sostechblog.com/2016/11/24/networking-3-testtrack-unplugged-series/) 
 - [Getting started with VMware](https://help.github.com/enterprise/11.10.340/admin/articles/getting-started-with-vmware/) 
 - [RunKit is Node prototyping](https://runkit.com/home) 
+- [Why the fuss about serverless? – Medium](https://medium.com/@swardley/why-the-fuss-about-serverless-4370b1596da0#.xcys29zia) 
