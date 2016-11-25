@@ -505,3 +505,4 @@ Bookmark all my links into README.md
 - [Getting started with VMware](https://help.github.com/enterprise/11.10.340/admin/articles/getting-started-with-vmware/) 
 - [RunKit is Node prototyping](https://runkit.com/home) 
 - [Why the fuss about serverless? – Medium](https://medium.com/@swardley/why-the-fuss-about-serverless-4370b1596da0#.xcys29zia) 
+- [Awaiting too long for this!!! vCenter HA – Part 1 | What's Next...?](http://billho.website/?p=141) 
