@@ -523,3 +523,4 @@ Bookmark all my links into README.md
 - [Stacked Diffs: Keeping Phabricator Diffs Small – Medium](https://medium.com/@kurtisnusbaum/stacked-diffs-keeping-phabricator-diffs-small-d9964f4dcfa6#.l8n4f1wir) 
 - [Journey to HTTP/2 · @kamranahmedse](http://kamranahmed.info/blog/2016/08/13/http-in-depth/) 
 - [Is Apple’s Cloud Key Vault a crypto backdoor? – A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/2016/08/13/is-apples-cloud-key-vault-crypto/) 
+- [DOOM (2016) - Graphics Study - Adrian Courrèges](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/) 
