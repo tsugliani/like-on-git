@@ -521,3 +521,4 @@ Bookmark all my links into README.md
 - [www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/vum-vsphere65-perf.pdf](http://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/vum-vsphere65-perf.pdf) 
 - [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) 
 - [Stacked Diffs: Keeping Phabricator Diffs Small – Medium](https://medium.com/@kurtisnusbaum/stacked-diffs-keeping-phabricator-diffs-small-d9964f4dcfa6#.l8n4f1wir) 
+- [Journey to HTTP/2 · @kamranahmedse](http://kamranahmed.info/blog/2016/08/13/http-in-depth/) 
