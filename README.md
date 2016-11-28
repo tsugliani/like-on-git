@@ -519,3 +519,4 @@ Bookmark all my links into README.md
 ### November 28, 2016
 - [jimdigriz/debian-mssp4: Installing Debian on the Microsoft Surface Pro 4](https://github.com/jimdigriz/debian-mssp4) 
 - [www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/vum-vsphere65-perf.pdf](http://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/vum-vsphere65-perf.pdf) 
+- [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) 
