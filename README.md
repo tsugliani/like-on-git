@@ -525,3 +525,6 @@ Bookmark all my links into README.md
 - [Is Apple’s Cloud Key Vault a crypto backdoor? – A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/2016/08/13/is-apples-cloud-key-vault-crypto/) 
 - [DOOM (2016) - Graphics Study - Adrian Courrèges](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/) 
 - [How to break Python](http://www.b-list.org/weblog/2016/nov/28/break-python/) 
+
+### November 29, 2016
+- [vCenter 6.5: #SRM, #vSphere Replication, #NSX problems after SSL change (LS_Update_certs.py) – vLenzker](http://vlenzker.net/2016/11/vcenter-6-5-srm-vsphere-replication-nsx-problems-after-ssl-change-ls_update_certs-py/) 
