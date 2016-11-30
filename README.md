@@ -541,3 +541,4 @@ Bookmark all my links into README.md
 - [{ Flynn Bundy } | Getting to know Consul](https://flynnbundy.com/service-discovery/2016/11/26/getting-to-know-consul.html) 
 - [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.k5suigm32) 
 - [prsyahmi/GpuRamDrive: RamDrive that is backed by GPU Memory](https://github.com/prsyahmi/GpuRamDrive) 
+- [34 – Q-in-VNI and EFP for Hosting Providers | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1381) 
