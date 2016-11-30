@@ -532,3 +532,4 @@ Bookmark all my links into README.md
 
 ### November 30, 2016
 - [Liveblog: Scaling to Your First 10 Million Users · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/29/scaling-first-10mil-users/) 
+- [Liveblog: Hybrid Architectures, Bridging the Gap to the Cloud · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/29/hybrid-bridging-gap-to-cloud/) 
