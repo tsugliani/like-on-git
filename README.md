@@ -529,3 +529,6 @@ Bookmark all my links into README.md
 ### November 29, 2016
 - [vCenter 6.5: #SRM, #vSphere Replication, #NSX problems after SSL change (LS_Update_certs.py) – vLenzker](http://vlenzker.net/2016/11/vcenter-6-5-srm-vsphere-replication-nsx-problems-after-ssl-change-ls_update_certs-py/) 
 - [What’s new in ESXi 6.5 Storage Part III: Thin hot extend | Cody Hosterman](http://www.codyhosterman.com/2016/11/whats-new-in-esxi-6-5-storage-part-iii-thinhotextend/) 
+
+### November 30, 2016
+- [Liveblog: Scaling to Your First 10 Million Users · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/29/scaling-first-10mil-users/) 
