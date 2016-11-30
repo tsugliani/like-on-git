@@ -536,3 +536,4 @@ Bookmark all my links into README.md
 - [Liveblog: Getting the Most Bang for Your Buck with EC2 · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/29/getting-bang-buck-ec2/) 
 - [Thoughts on AWS re:Invent Day 1 · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/11/29/thoughts-aws-reinvent-day-1/) 
 - [Agile Testing: Kubernetes resource graphing with Heapster, InfluxDB and Grafana](http://agiletesting.blogspot.fr/2016/11/kubernetes-resource-graphing-with.html) 
+- [Troubleshoot OpenStack Neutron + NSX - Virtual Elephant](http://virtualelephant.com/2016/11/29/troubleshoot-openstack-neutron-nsx/) 
