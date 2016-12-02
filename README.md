@@ -542,3 +542,6 @@ Bookmark all my links into README.md
 - [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.k5suigm32) 
 - [prsyahmi/GpuRamDrive: RamDrive that is backed by GPU Memory](https://github.com/prsyahmi/GpuRamDrive) 
 - [34 – Q-in-VNI and EFP for Hosting Providers | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1381) 
+
+### December 2, 2016
+- [Neat Project to Install PowerShell Modules from GitHub Projects - Wahl Network](http://wahlnetwork.com/2016/12/01/neat-project-install-powershell-modules-github-projects/) 
