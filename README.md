@@ -546,3 +546,4 @@ Bookmark all my links into README.md
 ### December 2, 2016
 - [Neat Project to Install PowerShell Modules from GitHub Projects - Wahl Network](http://wahlnetwork.com/2016/12/01/neat-project-install-powershell-modules-github-projects/) 
 - [prsyahmi/GpuRamDrive: RamDrive that is backed by GPU Memory](https://github.com/prsyahmi/GpuRamDrive) 
+- [Using Ubiquiti Networks in the home and lab - Michael Ryom](https://michaelryom.dk/using-ubiquiti-networks-in-the-home-and-lab/?doing_wp_cron=1480668868.8807280063629150390625) 
