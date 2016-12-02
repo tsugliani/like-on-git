@@ -547,3 +547,4 @@ Bookmark all my links into README.md
 - [Neat Project to Install PowerShell Modules from GitHub Projects - Wahl Network](http://wahlnetwork.com/2016/12/01/neat-project-install-powershell-modules-github-projects/) 
 - [prsyahmi/GpuRamDrive: RamDrive that is backed by GPU Memory](https://github.com/prsyahmi/GpuRamDrive) 
 - [Using Ubiquiti Networks in the home and lab - Michael Ryom](https://michaelryom.dk/using-ubiquiti-networks-in-the-home-and-lab/?doing_wp_cron=1480668868.8807280063629150390625) 
+- [KMIP Server Docker Container for evaluating VM Encryption in vSphere 6.5 | virtuallyGhetto](http://www.virtuallyghetto.com/2016/12/kmip-server-docker-container-for-evaluating-vm-encryption-in-vsphere-6-5.html) 
