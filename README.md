@@ -555,3 +555,4 @@ Bookmark all my links into README.md
 - [Building an Infinite* Plex Media Server | Automated Media Centre](https://amc.ovh/2015/08/13/infinite-media-server.html) 
 - [Building an infinite Plex Media Server using Amazon Cloud Drive — For average computer users. – Medium](https://medium.com/@privatewahts/building-an-infinite-plex-media-server-using-amazon-cloud-drive-for-average-computer-users-d16caab62d14#.9h8owa6n2) 
 - [ShiftyBlog – Unlimited Plex Media Server (using Amazon's Unlimited Storage Backend) Pt1](http://makeshift.ninja/unlimited-plex-media-server-using-amazons-unlimited-storage-backend-pt1.html#unlimited-plex-media-server-using-amazons-unlimited-storage-backend-pt1) 
+- [ShiftyBlog – Unlimited Plex Media Server (using Amazon's Unlimited Storage Backend) Pt2](http://makeshift.ninja/unlimited-plex-media-server-using-amazons-unlimited-storage-backend-pt2.html#unlimited-plex-media-server-using-amazons-unlimited-storage-backend-pt2) 
