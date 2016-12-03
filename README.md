@@ -548,3 +548,6 @@ Bookmark all my links into README.md
 - [prsyahmi/GpuRamDrive: RamDrive that is backed by GPU Memory](https://github.com/prsyahmi/GpuRamDrive) 
 - [Using Ubiquiti Networks in the home and lab - Michael Ryom](https://michaelryom.dk/using-ubiquiti-networks-in-the-home-and-lab/?doing_wp_cron=1480668868.8807280063629150390625) 
 - [KMIP Server Docker Container for evaluating VM Encryption in vSphere 6.5 | virtuallyGhetto](http://www.virtuallyghetto.com/2016/12/kmip-server-docker-container-for-evaluating-vm-encryption-in-vsphere-6-5.html) 
+
+### December 3, 2016
+- [Virtual Machines 2 (TestTrack Unplugged) | SOSTech](http://sostechblog.com/2016/12/01/virtual-machines-2-testtrack-unplugged/) 
