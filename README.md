@@ -554,3 +554,4 @@ Bookmark all my links into README.md
 - [HCI Automated Deployment & Configuration: vSphere, vSAN, NSX, VIO The DevOps Way - PunchingClouds](http://www.punchingclouds.com/2016/11/29/hci-automated-deployment-configuration-vsphere-vsan-nsx-vio-the-devops-way/) 
 - [Building an Infinite* Plex Media Server | Automated Media Centre](https://amc.ovh/2015/08/13/infinite-media-server.html) 
 - [Building an infinite Plex Media Server using Amazon Cloud Drive — For average computer users. – Medium](https://medium.com/@privatewahts/building-an-infinite-plex-media-server-using-amazon-cloud-drive-for-average-computer-users-d16caab62d14#.9h8owa6n2) 
+- [ShiftyBlog – Unlimited Plex Media Server (using Amazon's Unlimited Storage Backend) Pt1](http://makeshift.ninja/unlimited-plex-media-server-using-amazons-unlimited-storage-backend-pt1.html#unlimited-plex-media-server-using-amazons-unlimited-storage-backend-pt1) 
