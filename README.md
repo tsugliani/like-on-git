@@ -551,3 +551,4 @@ Bookmark all my links into README.md
 
 ### December 3, 2016
 - [Virtual Machines 2 (TestTrack Unplugged) | SOSTech](http://sostechblog.com/2016/12/01/virtual-machines-2-testtrack-unplugged/) 
+- [HCI Automated Deployment & Configuration: vSphere, vSAN, NSX, VIO The DevOps Way - PunchingClouds](http://www.punchingclouds.com/2016/11/29/hci-automated-deployment-configuration-vsphere-vsan-nsx-vio-the-devops-way/) 
