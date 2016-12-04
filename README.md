@@ -559,3 +559,4 @@ Bookmark all my links into README.md
 
 ### December 4, 2016
 - [www.devtty.uk/homelab/How-I-Built-a-Lego-Rack-for-the-Intel-NUCs/](http://www.devtty.uk/homelab/How-I-Built-a-Lego-Rack-for-the-Intel-NUCs/) 
+- [ChatOps for VMware vSphere | Dennis Zimmer | Pulse | LinkedIn](https://www.linkedin.com/pulse/chatops-vmware-vsphere-dennis-zimmer) 
