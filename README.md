@@ -563,3 +563,4 @@ Bookmark all my links into README.md
 
 ### December 5, 2016
 - [What’s new in ESXi 6.5 Storage Part IV: In-Guest UNMAP CBT Support | Cody Hosterman](http://www.codyhosterman.com/2016/12/whats-new-in-esxi-6-5-storage-part-iv-in-guest-unmap-cbt-support/) 
+- [Automate vCD Networks Redeployment with PowerShell | blog.bertello.org](http://blog.bertello.org/2016/12/04/automate-vcd-networks-redeployment-with-powershell/) 
