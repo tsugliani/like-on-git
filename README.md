@@ -560,3 +560,6 @@ Bookmark all my links into README.md
 ### December 4, 2016
 - [www.devtty.uk/homelab/How-I-Built-a-Lego-Rack-for-the-Intel-NUCs/](http://www.devtty.uk/homelab/How-I-Built-a-Lego-Rack-for-the-Intel-NUCs/) 
 - [ChatOps for VMware vSphere | Dennis Zimmer | Pulse | LinkedIn](https://www.linkedin.com/pulse/chatops-vmware-vsphere-dennis-zimmer) 
+
+### December 5, 2016
+- [What’s new in ESXi 6.5 Storage Part IV: In-Guest UNMAP CBT Support | Cody Hosterman](http://www.codyhosterman.com/2016/12/whats-new-in-esxi-6-5-storage-part-iv-in-guest-unmap-cbt-support/) 
