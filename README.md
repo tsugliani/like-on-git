@@ -580,3 +580,4 @@ Bookmark all my links into README.md
 - [Using UnionFS-FUSE with Amazon Cloud Drive Encrypted Files | Automated Media Centre](https://amc.ovh/2015/08/15/uniting-encrypted-encfs-filesystems.html) 
 - [Sonarr and Amazon Cloud Drive : PleX](https://www.reddit.com/r/PleX/comments/44sz9k/sonarr_and_amazon_cloud_drive/) 
 - [How We Knew It Was Time to Leave the Cloud | GitLab](https://about.gitlab.com/2016/11/10/why-choose-bare-metal/) 
+- [New Release: vSphere Command-Line Interface 6.5 - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/12/vcli-65-release.html) 
