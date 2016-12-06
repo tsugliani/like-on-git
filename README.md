@@ -571,3 +571,4 @@ Bookmark all my links into README.md
 - [jp9000/obs-studio: OBS - Free and open source software for live streaming and screen recording](https://github.com/jp9000/obs-studio) 
 - [simeji/jid: json incremental digger](https://github.com/simeji/jid) 
 - [ChatOps for VMware vSphere | Dennis Zimmer | Pulse | LinkedIn](https://www.linkedin.com/pulse/chatops-vmware-vsphere-dennis-zimmer) 
+- [Virtual Machine IOps Measurement Detect your noisy neighbor | Dennis Zimmer | Pulse | LinkedIn](https://www.linkedin.com/pulse/virtual-machine-iops-measurement-detect-your-noisy-neighbor-zimmer) 
