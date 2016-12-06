@@ -570,3 +570,4 @@ Bookmark all my links into README.md
 - [Setup vSphere Integrated Container v0.8.0-rc3 | What's Next...?](http://billho.website/?p=801) 
 - [jp9000/obs-studio: OBS - Free and open source software for live streaming and screen recording](https://github.com/jp9000/obs-studio) 
 - [simeji/jid: json incremental digger](https://github.com/simeji/jid) 
+- [ChatOps for VMware vSphere | Dennis Zimmer | Pulse | LinkedIn](https://www.linkedin.com/pulse/chatops-vmware-vsphere-dennis-zimmer) 
