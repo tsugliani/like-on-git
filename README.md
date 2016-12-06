@@ -567,3 +567,4 @@ Bookmark all my links into README.md
 
 ### December 6, 2016
 - [Backup performance of VMware VVOLs - Virtual to the Core](http://www.virtualtothecore.com/en/backups-of-vmware-vvols/) 
+- [Setup vSphere Integrated Container v0.8.0-rc3 | What's Next...?](http://billho.website/?p=801) 
