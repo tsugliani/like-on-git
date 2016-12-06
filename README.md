@@ -579,3 +579,4 @@ Bookmark all my links into README.md
 - [Sonarr deleting files on transfer to Amazon Cloud Drive (via acd_cli FUSE) - Help & Support - sonarr :: forums](https://forums.sonarr.tv/t/sonarr-deleting-files-on-transfer-to-amazon-cloud-drive-via-acd-cli-fuse/12375) 
 - [Using UnionFS-FUSE with Amazon Cloud Drive Encrypted Files | Automated Media Centre](https://amc.ovh/2015/08/15/uniting-encrypted-encfs-filesystems.html) 
 - [Sonarr and Amazon Cloud Drive : PleX](https://www.reddit.com/r/PleX/comments/44sz9k/sonarr_and_amazon_cloud_drive/) 
+- [How We Knew It Was Time to Leave the Cloud | GitLab](https://about.gitlab.com/2016/11/10/why-choose-bare-metal/) 
