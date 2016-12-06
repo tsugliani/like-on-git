@@ -586,3 +586,4 @@ Bookmark all my links into README.md
 - [VSAN 6.2 study notes (Part 1) by @davidmirror – #vBrownBag](http://vbrownbag.com/2016/12/vsan-6-2-study-notes-part-1-by-davidmirror/) 
 - [Storage Challenges with Cloud Native Apps [video] - CormacHogan.com](http://cormachogan.com/2016/12/06/storage-challenges-cloud-native-apps-video/) 
 - [Find vCNS/NSX Manager Edge IDs from vCD | blog.bertello.org](http://blog.bertello.org/2016/10/16/find-vcns-nsx-manager-edge-id-from-vcd/) 
+- [Docker acquires Infinit: a new data layer for distributed applications - Docker Blog](https://blog.docker.com/2016/12/docker-acquires-infinit/) 
