@@ -584,3 +584,4 @@ Bookmark all my links into README.md
 - [HTML5 based vSphere Client and vSphere Web Client in vSphere 6.5](https://blogs.vmware.com/vsphere/2016/12/new-vcenter-management-clients-vsphere-6-5.html) 
 - [Working with VMware’s API via Python – Technical stuff from some geek](http://rbcollins.net/working-with-vmwares-api-via-python/) 
 - [VSAN 6.2 study notes (Part 1) by @davidmirror – #vBrownBag](http://vbrownbag.com/2016/12/vsan-6-2-study-notes-part-1-by-davidmirror/) 
+- [Storage Challenges with Cloud Native Apps [video] - CormacHogan.com](http://cormachogan.com/2016/12/06/storage-challenges-cloud-native-apps-video/) 
