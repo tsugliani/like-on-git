@@ -582,3 +582,4 @@ Bookmark all my links into README.md
 - [How We Knew It Was Time to Leave the Cloud | GitLab](https://about.gitlab.com/2016/11/10/why-choose-bare-metal/) 
 - [New Release: vSphere Command-Line Interface 6.5 - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/12/vcli-65-release.html) 
 - [HTML5 based vSphere Client and vSphere Web Client in vSphere 6.5](https://blogs.vmware.com/vsphere/2016/12/new-vcenter-management-clients-vsphere-6-5.html) 
+- [Working with VMware’s API via Python – Technical stuff from some geek](http://rbcollins.net/working-with-vmwares-api-via-python/) 
