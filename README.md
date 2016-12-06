@@ -574,3 +574,4 @@ Bookmark all my links into README.md
 - [Virtual Machine IOps Measurement Detect your noisy neighbor | Dennis Zimmer | Pulse | LinkedIn](https://www.linkedin.com/pulse/virtual-machine-iops-measurement-detect-your-noisy-neighbor-zimmer) 
 - [New Release: vSphere Command-Line Interface 6.5 - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/12/vcli-65-release.html) 
 - [vRO: Securing Your PowerShell Execution and Password in vRO (SKKB1035) | Spas Kaloferov's Blog](http://kaloferov.com/blog/vro-securing-your-powershell-execution-and-password-in-vro-skkb1035/) 
+- [Those of you who use Amazon Cloud Drive for backend Plex storage : PleX](https://www.reddit.com/r/PleX/comments/436py8/those_of_you_who_use_amazon_cloud_drive_for/) 
