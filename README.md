@@ -578,3 +578,4 @@ Bookmark all my links into README.md
 - [Tutorial: Setting up a Plex Media Server with Amazon Cloud Drive Backend(More functionality coming soon!) : PleX](https://www.reddit.com/r/PleX/comments/3cfpfb/tutorial_setting_up_a_plex_media_server_with/) 
 - [Sonarr deleting files on transfer to Amazon Cloud Drive (via acd_cli FUSE) - Help & Support - sonarr :: forums](https://forums.sonarr.tv/t/sonarr-deleting-files-on-transfer-to-amazon-cloud-drive-via-acd-cli-fuse/12375) 
 - [Using UnionFS-FUSE with Amazon Cloud Drive Encrypted Files | Automated Media Centre](https://amc.ovh/2015/08/15/uniting-encrypted-encfs-filesystems.html) 
+- [Sonarr and Amazon Cloud Drive : PleX](https://www.reddit.com/r/PleX/comments/44sz9k/sonarr_and_amazon_cloud_drive/) 
