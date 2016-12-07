@@ -598,3 +598,4 @@ Bookmark all my links into README.md
 - [What’s new in ESXi 6.5 Storage Part IV: In-Guest UNMAP CBT Support | Cody Hosterman](http://www.codyhosterman.com/2016/12/whats-new-in-esxi-6-5-storage-part-iv-in-guest-unmap-cbt-support/) 
 - [dockerfiles-windows/PowerShellTricks.md at master · StefanScherer/dockerfiles-windows](https://github.com/StefanScherer/dockerfiles-windows/blob/master/PowerShellTricks.md#elapsed-time-of-another-command-for-each-line-of-stdout) 
 - [It Was Never About Ops – Michael Biven](http://biven.org/it-was-never-about-ops/) 
+- [mycloudrevolution/vSphere-Modules: This is my Module Collection for VMware vSphere](https://github.com/mycloudrevolution/vSphere-Modules/) 
