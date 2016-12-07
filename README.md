@@ -599,3 +599,4 @@ Bookmark all my links into README.md
 - [dockerfiles-windows/PowerShellTricks.md at master · StefanScherer/dockerfiles-windows](https://github.com/StefanScherer/dockerfiles-windows/blob/master/PowerShellTricks.md#elapsed-time-of-another-command-for-each-line-of-stdout) 
 - [It Was Never About Ops – Michael Biven](http://biven.org/it-was-never-about-ops/) 
 - [mycloudrevolution/vSphere-Modules: This is my Module Collection for VMware vSphere](https://github.com/mycloudrevolution/vSphere-Modules/) 
+- [Automate media eject for all vCD VMs | blog.bertello.org](http://blog.bertello.org/2016/12/05/automate-media-eject-from-all-vcd-vms/) 
