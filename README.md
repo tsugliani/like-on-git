@@ -600,3 +600,4 @@ Bookmark all my links into README.md
 - [It Was Never About Ops – Michael Biven](http://biven.org/it-was-never-about-ops/) 
 - [mycloudrevolution/vSphere-Modules: This is my Module Collection for VMware vSphere](https://github.com/mycloudrevolution/vSphere-Modules/) 
 - [Automate media eject for all vCD VMs | blog.bertello.org](http://blog.bertello.org/2016/12/05/automate-media-eject-from-all-vcd-vms/) 
+- [vRO: Securing Your PowerShell Execution and Password in vRO (SKKB1035) | Spas Kaloferov's Blog](http://kaloferov.com/blog/vro-securing-your-powershell-execution-and-password-in-vro-skkb1035/#UseCase3) 
