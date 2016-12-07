@@ -595,3 +595,4 @@ Bookmark all my links into README.md
 - [Automating the build of your vSphere 6.5 home lab - Virtu-Al.Net](http://www.virtu-al.net/2016/12/06/automating-build-vsphere-6-5-home-lab/) 
 - [Kubernetes - Træfɪk](https://docs.traefik.io/user-guide/kubernetes/) 
 - [How We Knew It Was Time to Leave the Cloud | GitLab](https://about.gitlab.com/2016/11/10/why-choose-bare-metal/) 
+- [What’s new in ESXi 6.5 Storage Part IV: In-Guest UNMAP CBT Support | Cody Hosterman](http://www.codyhosterman.com/2016/12/whats-new-in-esxi-6-5-storage-part-iv-in-guest-unmap-cbt-support/) 
