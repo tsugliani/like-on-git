@@ -591,3 +591,4 @@ Bookmark all my links into README.md
 ### December 7, 2016
 - [I'm giving up on PGP](https://blog.filippo.io/giving-up-on-long-term-pgp/) 
 - [Who Would Win in a Fight Between Kubernetes and ECS? – Microscaling Systems – Medium](https://medium.com/microscaling-systems/who-would-win-in-a-fight-between-kubernetes-and-ecs-ee47ac782342#.je153bbah) 
+- [Eight Ways to Keep Kubernetes Growing Fast and Strong - The New Stack](http://thenewstack.io/eight-ways-keep-kubernetes-growing-fast-strong/?utm_content=buffereda89&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
