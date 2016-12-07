@@ -594,3 +594,4 @@ Bookmark all my links into README.md
 - [Eight Ways to Keep Kubernetes Growing Fast and Strong - The New Stack](http://thenewstack.io/eight-ways-keep-kubernetes-growing-fast-strong/?utm_content=buffereda89&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [Automating the build of your vSphere 6.5 home lab - Virtu-Al.Net](http://www.virtu-al.net/2016/12/06/automating-build-vsphere-6-5-home-lab/) 
 - [Kubernetes - Træfɪk](https://docs.traefik.io/user-guide/kubernetes/) 
+- [How We Knew It Was Time to Leave the Cloud | GitLab](https://about.gitlab.com/2016/11/10/why-choose-bare-metal/) 
