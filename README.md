@@ -604,3 +604,6 @@ Bookmark all my links into README.md
 - [Blox - Open Source Tools for Amazon ECS](https://blox.github.io/) 
 - [Why Heptio is a Kubernetes company, not a Kubernetes distribution](https://blog.heptio.com/why-heptio-is-a-kubernetes-company-not-a-kubernetes-distribution-df35bb0a559f#.la8mf89se) 
 - [aker-gateway/Aker: SSH bastion/jump host](https://github.com/aker-gateway/Aker) 
+
+### December 8, 2016
+- [Installing an OpenShift Origin Cluster on Fedora 25 Atomic Host: Part 1 — Project Atomic](http://www.projectatomic.io/blog/2016/12/part1-install-origin-on-f25-atomic-host/) 
