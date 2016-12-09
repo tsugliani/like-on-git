@@ -612,3 +612,4 @@ Bookmark all my links into README.md
 - [vSphere Integrated Containers is GA - CormacHogan.com](http://cormachogan.com/2016/12/09/vsphere-integrated-containers-ga/) 
 - [What’s New in vSphere 6.5: vSphere Integrated Containers - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2016/12/whats-new-in-vsphere-6-5-vsphere-integrated-containers.html) 
 - [VMware Announces General Availability of vSphere Integrated Containers - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2016/12/vmware-announces-general-availability-of-vsphere-integrated-containers.html) 
+- [vCenter Server High Availability (VCHA) PowerCLI 6.5 community module | virtuallyGhetto](http://www.virtuallyghetto.com/2016/12/vcenter-server-high-availability-vcha-powercli-6-5-community-module.html) 
