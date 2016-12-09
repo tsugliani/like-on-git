@@ -607,3 +607,6 @@ Bookmark all my links into README.md
 
 ### December 8, 2016
 - [Installing an OpenShift Origin Cluster on Fedora 25 Atomic Host: Part 1 — Project Atomic](http://www.projectatomic.io/blog/2016/12/part1-install-origin-on-f25-atomic-host/) 
+
+### December 9, 2016
+- [vSphere Integrated Containers is GA - CormacHogan.com](http://cormachogan.com/2016/12/09/vsphere-integrated-containers-ga/) 
