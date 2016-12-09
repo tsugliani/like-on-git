@@ -613,3 +613,4 @@ Bookmark all my links into README.md
 - [What’s New in vSphere 6.5: vSphere Integrated Containers - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2016/12/whats-new-in-vsphere-6-5-vsphere-integrated-containers.html) 
 - [VMware Announces General Availability of vSphere Integrated Containers - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2016/12/vmware-announces-general-availability-of-vsphere-integrated-containers.html) 
 - [vCenter Server High Availability (VCHA) PowerCLI 6.5 community module | virtuallyGhetto](http://www.virtuallyghetto.com/2016/12/vcenter-server-high-availability-vcha-powercli-6-5-community-module.html) 
+- [just-containers/s6-overlay: s6 overlay for containers (includes execline, s6-portable-utils & a custom init)](https://github.com/just-containers/s6-overlay) 
