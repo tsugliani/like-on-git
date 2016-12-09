@@ -610,3 +610,4 @@ Bookmark all my links into README.md
 
 ### December 9, 2016
 - [vSphere Integrated Containers is GA - CormacHogan.com](http://cormachogan.com/2016/12/09/vsphere-integrated-containers-ga/) 
+- [What’s New in vSphere 6.5: vSphere Integrated Containers - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2016/12/whats-new-in-vsphere-6-5-vsphere-integrated-containers.html) 
