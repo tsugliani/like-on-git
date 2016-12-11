@@ -624,3 +624,4 @@ Bookmark all my links into README.md
 - [The World According to BenBob: "Should I Stay or Should I Go Now?" and Other Bits of Career Advice](http://benbobsworld.blogspot.fr/2016/11/should-i-stay-or-should-i-go-now-and.html) 
 - [vCenter Server High Availability (VCHA) PowerCLI 6.5 community module | virtuallyGhetto](http://www.virtuallyghetto.com/2016/12/vcenter-server-high-availability-vcha-powercli-6-5-community-module.html) 
 - [titpetric/netdata - Docker Hub](https://hub.docker.com/r/titpetric/netdata/) 
+- [Sexilog Deep-Dive – Récupérer les logs vCenter VCSA et ESXi - Virt 4 Dummies](http://virt4dummies.com/sexilog/sexilog-deep-dive-recuperer-logs-vcenter-vcsa-esxi/) 
