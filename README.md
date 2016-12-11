@@ -621,3 +621,4 @@ Bookmark all my links into README.md
 ### December 11, 2016
 - [Custom Rest Notification Plugin for vRops 6.3/6.4 | Pierrelx's LAB](http://pierrelx.com/custom-rest-notification-plugin-for-vrops-6-36-4/) 
 - [Technology Short Take #74 · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/12/09/technology-short-take-74/) 
+- [The World According to BenBob: "Should I Stay or Should I Go Now?" and Other Bits of Career Advice](http://benbobsworld.blogspot.fr/2016/11/should-i-stay-or-should-i-go-now-and.html) 
