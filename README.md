@@ -617,3 +617,6 @@ Bookmark all my links into README.md
 
 ### December 10, 2016
 - [ESXi Embedded Host Client](https://labs.vmware.com/flings/esxi-embedded-host-client#changelog) 
+
+### December 11, 2016
+- [Custom Rest Notification Plugin for vRops 6.3/6.4 | Pierrelx's LAB](http://pierrelx.com/custom-rest-notification-plugin-for-vrops-6-36-4/) 
