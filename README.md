@@ -636,3 +636,4 @@ Bookmark all my links into README.md
 - [Docker-Compose Example](https://gist.github.com/Mirabis/fc7cd79adab6622cae46b8eff10f310a) 
 - [{ Flynn Bundy } | Dynamic Inventory with Consul and Ansible](https://flynnbundy.com/ansible/2016/12/04/dynamic-inventory-with-consul-and-ansible.html) 
 - [{ Flynn Bundy } | Dynamic Inventory with Consul and Ansible](https://flynnbundy.com/ansible/2016/12/04/dynamic-inventory-with-consul-and-ansible.html) 
+- [My search for a MacBook Pro alternative – Broken Window – Medium](https://medium.com/broken-window/my-search-for-a-macbook-pro-alternative-e549ea2b2dee#.7514vclqm) 
