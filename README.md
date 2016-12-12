@@ -631,3 +631,4 @@ Bookmark all my links into README.md
 - [Faster, More Reliable CI Builds with Yarn – JavaScript Scene – Medium](https://medium.com/javascript-scene/faster-more-reliable-ci-builds-with-yarn-7dbc0ef31580#.lv8hfk7ym) 
 - [Un Mac pour le prix de deux. – Guillaume Briday](https://blog.guillaumebriday.fr/2016/11/18/un-mac-pour-le-prix-de-deux/) 
 - [Checkout VMware’s Latest EUC Product Releases - The SLOG – SimonLong/Blog](http://www.simonlong.co.uk/blog/2016/12/09/checkout-vmwares-latest-euc-product-releases/?utm_source=feedly&utm_medium=rss&utm_campaign=rss) 
+- [Retour sur le MacBook Pro 15″ Touch Bar | b0b.fr](https://b0b.fr/2016/12/11/retour-sur-le-macbook-pro-15-touch-bar/) 
