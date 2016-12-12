@@ -625,3 +625,6 @@ Bookmark all my links into README.md
 - [vCenter Server High Availability (VCHA) PowerCLI 6.5 community module | virtuallyGhetto](http://www.virtuallyghetto.com/2016/12/vcenter-server-high-availability-vcha-powercli-6-5-community-module.html) 
 - [titpetric/netdata - Docker Hub](https://hub.docker.com/r/titpetric/netdata/) 
 - [Sexilog Deep-Dive – Récupérer les logs vCenter VCSA et ESXi - Virt 4 Dummies](http://virt4dummies.com/sexilog/sexilog-deep-dive-recuperer-logs-vcenter-vcsa-esxi/) 
+
+### December 12, 2016
+- [Building a Nested ESXi Lab For Your Company | Virtual Insanity](http://virtualinsanity.com/index.php/2016/12/11/building-a-nested-esxi-lab-for-your-company/) 
