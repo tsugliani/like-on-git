@@ -635,3 +635,4 @@ Bookmark all my links into README.md
 - [Comment j’utilise Git ? Mes astuces et bonnes pratiques – Guillaume Briday](https://blog.guillaumebriday.fr/2016/11/07/comment-jutilise-git-mes-astuces-et-bonnes-pratiques/) 
 - [Docker-Compose Example](https://gist.github.com/Mirabis/fc7cd79adab6622cae46b8eff10f310a) 
 - [{ Flynn Bundy } | Dynamic Inventory with Consul and Ansible](https://flynnbundy.com/ansible/2016/12/04/dynamic-inventory-with-consul-and-ansible.html) 
+- [{ Flynn Bundy } | Dynamic Inventory with Consul and Ansible](https://flynnbundy.com/ansible/2016/12/04/dynamic-inventory-with-consul-and-ansible.html) 
