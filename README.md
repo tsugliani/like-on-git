@@ -638,3 +638,4 @@ Bookmark all my links into README.md
 - [{ Flynn Bundy } | Dynamic Inventory with Consul and Ansible](https://flynnbundy.com/ansible/2016/12/04/dynamic-inventory-with-consul-and-ansible.html) 
 - [My search for a MacBook Pro alternative – Broken Window – Medium](https://medium.com/broken-window/my-search-for-a-macbook-pro-alternative-e549ea2b2dee#.7514vclqm) 
 - [VMware DRS rule manipulation using PowerCLI (EMC VPLEX use case) Part 1. – Pragmatic IO](http://www.pragmaticio.com/2016/11/vmware-drs-rule-manipulation-using-powercli-emc-vplex-use-case/) 
+- [Decoupling of Cores per Socket from Virtual NUMA Topology in vSphere 6.5 - frankdenneman.nl](http://frankdenneman.nl/2016/12/12/decoupling-cores-per-socket-virtual-numa-topology-vsphere-6-5/) 
