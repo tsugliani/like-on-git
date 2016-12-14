@@ -642,3 +642,6 @@ Bookmark all my links into README.md
 
 ### December 14, 2016
 - [The Saga of Go Dependency Management](https://blog.gopheracademy.com/advent-2016/saga-go-dependency-management/) 
+
+### December 15, 2016
+- [Managing VMware vSphere environment with Go and Lua by using Gru orchestration framework – Marin Atanasov Nikolov – A place about Open Source Software, Operating Systems and some random thoughts](http://dnaeon.github.io/gru-vmware-vsphere-mgmt/) 
