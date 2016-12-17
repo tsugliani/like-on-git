@@ -650,3 +650,4 @@ Bookmark all my links into README.md
 - [Build your own Anycast network in 9 steps | Samir Jafferali | Pulse | LinkedIn](https://www.linkedin.com/pulse/build-your-own-anycast-network-9-steps-samir-jafferali) 
 - [Terraform 0.8 | HashiCorp](https://www.hashicorp.com/blog/terraform-0-8.html) 
 - [Developers’ side projects – Joel on Software](https://www.joelonsoftware.com/2016/12/09/developers-side-projects/) 
+- [How to build a Windows 2016 VMware Template | Notes from MWhite](https://notesfrommwhite.net/2016/12/11/how-to-build-a-windows-2016-vmware-template/) 
