@@ -653,3 +653,4 @@ Bookmark all my links into README.md
 - [How to build a Windows 2016 VMware Template | Notes from MWhite](https://notesfrommwhite.net/2016/12/11/how-to-build-a-windows-2016-vmware-template/) 
 - [The Saga of Go Dependency Management](https://blog.gopheracademy.com/advent-2016/saga-go-dependency-management/) 
 - [Managing VMware vSphere environment with Go and Lua by using Gru orchestration framework – Marin Atanasov Nikolov – A place about Open Source Software, Operating Systems and some random thoughts](http://dnaeon.github.io/gru-vmware-vsphere-mgmt/) 
+- [More details about containerd, Docker’s core container runtime component - Docker Blog](https://blog.docker.com/2016/12/containerd-core-runtime-component/) 
