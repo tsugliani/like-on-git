@@ -645,3 +645,6 @@ Bookmark all my links into README.md
 
 ### December 15, 2016
 - [Managing VMware vSphere environment with Go and Lua by using Gru orchestration framework – Marin Atanasov Nikolov – A place about Open Source Software, Operating Systems and some random thoughts](http://dnaeon.github.io/gru-vmware-vsphere-mgmt/) 
+
+### December 17, 2016
+- [Build your own Anycast network in 9 steps | Samir Jafferali | Pulse | LinkedIn](https://www.linkedin.com/pulse/build-your-own-anycast-network-9-steps-samir-jafferali) 
