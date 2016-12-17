@@ -652,3 +652,4 @@ Bookmark all my links into README.md
 - [Developers’ side projects – Joel on Software](https://www.joelonsoftware.com/2016/12/09/developers-side-projects/) 
 - [How to build a Windows 2016 VMware Template | Notes from MWhite](https://notesfrommwhite.net/2016/12/11/how-to-build-a-windows-2016-vmware-template/) 
 - [The Saga of Go Dependency Management](https://blog.gopheracademy.com/advent-2016/saga-go-dependency-management/) 
+- [Managing VMware vSphere environment with Go and Lua by using Gru orchestration framework – Marin Atanasov Nikolov – A place about Open Source Software, Operating Systems and some random thoughts](http://dnaeon.github.io/gru-vmware-vsphere-mgmt/) 
