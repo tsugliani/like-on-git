@@ -648,3 +648,4 @@ Bookmark all my links into README.md
 
 ### December 17, 2016
 - [Build your own Anycast network in 9 steps | Samir Jafferali | Pulse | LinkedIn](https://www.linkedin.com/pulse/build-your-own-anycast-network-9-steps-samir-jafferali) 
+- [Terraform 0.8 | HashiCorp](https://www.hashicorp.com/blog/terraform-0-8.html) 
