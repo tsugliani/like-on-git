@@ -656,3 +656,4 @@ Bookmark all my links into README.md
 - [More details about containerd, Docker’s core container runtime component - Docker Blog](https://blog.docker.com/2016/12/containerd-core-runtime-component/) 
 - [PowerCLI for VM Encryption - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/12/powercli-for-vm-encryption.html) 
 - [NSX Load Balancer: Under the Hood](http://cloudmaniac.net/nsx-load-balancer-under-the-hood/) 
+- [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058) 
