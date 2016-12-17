@@ -654,3 +654,4 @@ Bookmark all my links into README.md
 - [The Saga of Go Dependency Management](https://blog.gopheracademy.com/advent-2016/saga-go-dependency-management/) 
 - [Managing VMware vSphere environment with Go and Lua by using Gru orchestration framework – Marin Atanasov Nikolov – A place about Open Source Software, Operating Systems and some random thoughts](http://dnaeon.github.io/gru-vmware-vsphere-mgmt/) 
 - [More details about containerd, Docker’s core container runtime component - Docker Blog](https://blog.docker.com/2016/12/containerd-core-runtime-component/) 
+- [PowerCLI for VM Encryption - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/12/powercli-for-vm-encryption.html) 
