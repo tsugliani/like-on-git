@@ -657,3 +657,6 @@ Bookmark all my links into README.md
 - [PowerCLI for VM Encryption - VMware vSphere Blog](http://blogs.vmware.com/vsphere/2016/12/powercli-for-vm-encryption.html) 
 - [NSX Load Balancer: Under the Hood](http://cloudmaniac.net/nsx-load-balancer-under-the-hood/) 
 - [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058) 
+
+### December 18, 2016
+- [Cost Reduction for Home Lab… Instant clone ESXi for vSAN testing :) | What's Next...?](http://billho.website/?p=821) 
