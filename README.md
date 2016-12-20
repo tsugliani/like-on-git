@@ -666,3 +666,4 @@ Bookmark all my links into README.md
 - [vCloud Director 8.10.1, best way to learn cloud AND… – Part 2 | What's Next...?](http://billho.website/?p=855) 
 - [vCloud Director 8.10.1, best way to learn cloud AND… – Part 3 | What's Next...?](http://billho.website/?p=922) 
 - [OpenStack Salt - cheatsheet | yet.org](http://www.yet.org/2016/12/os-salt-sl/) 
+- [One Sure-Fire Way to Improve Your Coding | Changelog](https://changelog.com/posts/one-sure-fire-way-to-improve-your-coding) 
