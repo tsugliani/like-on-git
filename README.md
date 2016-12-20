@@ -660,3 +660,6 @@ Bookmark all my links into README.md
 
 ### December 18, 2016
 - [Cost Reduction for Home Lab… Instant clone ESXi for vSAN testing :) | What's Next...?](http://billho.website/?p=821) 
+
+### December 20, 2016
+- [vCloud Director 8.10.1, best way to learn cloud AND… – Part 1 | What's Next...?](http://billho.website/?p=845) 
