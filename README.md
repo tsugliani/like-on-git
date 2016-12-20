@@ -668,3 +668,4 @@ Bookmark all my links into README.md
 - [OpenStack Salt - cheatsheet | yet.org](http://www.yet.org/2016/12/os-salt-sl/) 
 - [One Sure-Fire Way to Improve Your Coding | Changelog](https://changelog.com/posts/one-sure-fire-way-to-improve-your-coding) 
 - [Govmomi and listening for vSphere events » Philippe Dellaert](https://dellaert.org/2016/12/19/govmomi-and-listening-for-vsphere-events/) 
+- [How to automate the deployment of an un-configured VCSA 6.5 (Stage 1 only)? | virtuallyGhetto](http://www.virtuallyghetto.com/2016/12/how-to-automate-the-deployment-of-an-un-configured-vcsa-6-5-stage-1-only.html) 
