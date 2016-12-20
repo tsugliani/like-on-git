@@ -663,3 +663,4 @@ Bookmark all my links into README.md
 
 ### December 20, 2016
 - [vCloud Director 8.10.1, best way to learn cloud AND… – Part 1 | What's Next...?](http://billho.website/?p=845) 
+- [vCloud Director 8.10.1, best way to learn cloud AND… – Part 2 | What's Next...?](http://billho.website/?p=855) 
