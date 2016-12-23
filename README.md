@@ -672,3 +672,6 @@ Bookmark all my links into README.md
 
 ### December 21, 2016
 - [Automated deployment and setup of vRealize Network Insight (vRNI) | virtuallyGhetto](http://www.virtuallyghetto.com/2016/12/automated-deployment-and-setup-of-vrealize-network-insight-vrni.html) 
+
+### December 23, 2016
+- [Get-EsxTop - Another Look - LucD notes](http://www.lucd.info/2016/12/23/get-esxtop-another-look/) 
