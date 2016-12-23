@@ -675,3 +675,4 @@ Bookmark all my links into README.md
 
 ### December 23, 2016
 - [Get-EsxTop - Another Look - LucD notes](http://www.lucd.info/2016/12/23/get-esxtop-another-look/) 
+- [PowerNSX Core #](https://powernsx.github.io/powernsxcore/) 
