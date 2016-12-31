@@ -676,3 +676,6 @@ Bookmark all my links into README.md
 ### December 23, 2016
 - [Get-EsxTop - Another Look - LucD notes](http://www.lucd.info/2016/12/23/get-esxtop-another-look/) 
 - [PowerNSX Core #](https://powernsx.github.io/powernsxcore/) 
+
+### December 31, 2016
+- [Technology Short Take #75 · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/12/30/technology-short-take-75/) 
