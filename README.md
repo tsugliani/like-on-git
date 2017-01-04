@@ -679,3 +679,6 @@ Bookmark all my links into README.md
 
 ### December 31, 2016
 - [Technology Short Take #75 · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2016/12/30/technology-short-take-75/) 
+
+### January 4, 2017
+- [Recalbox - the micro retro gaming console](https://www.recalbox.com/) 
