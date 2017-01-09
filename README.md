@@ -691,3 +691,4 @@ Bookmark all my links into README.md
 - [NSX for vSphere 6.2.5 Release Notes](http://pubs.vmware.com/Release_Notes/en/nsx/6.2.5/releasenotes_nsx_vsphere_625.html#resolvedissues) 
 - [Keep your Windows Containers up to date](https://stefanscherer.github.io/keep-your-windows-containers-up-to-date/) 
 - [Winspector - a tool to inspect your and other's Windows images](https://stefanscherer.github.io/winspector/) 
+- [ESXi 6.5 support for Apple Mac Pro 6,1 | virtuallyGhetto](http://www.virtuallyghetto.com/2017/01/esxi-6-5-support-for-apple-mac-pro-61.html) 
