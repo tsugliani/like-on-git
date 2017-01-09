@@ -689,3 +689,4 @@ Bookmark all my links into README.md
 - [Digital Project Manager Resolutions for 2017 | Viget](https://www.viget.com/articles/digital-project-manager-resolutions-2017) 
 - [Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/Microsoft/vscode-tips-and-tricks#extensions) 
 - [NSX for vSphere 6.2.5 Release Notes](http://pubs.vmware.com/Release_Notes/en/nsx/6.2.5/releasenotes_nsx_vsphere_625.html#resolvedissues) 
+- [Keep your Windows Containers up to date](https://stefanscherer.github.io/keep-your-windows-containers-up-to-date/) 
