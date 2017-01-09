@@ -686,3 +686,4 @@ Bookmark all my links into README.md
 ### January 9, 2017
 - [How to Design the Perfect Resume](https://design.tutsplus.com/articles/the-building-blocks-of-a-perfect-resume-design--cms-27878) 
 - [Automating the VSAN HCL with PowerCLI - Virtu-Al.Net](http://www.virtu-al.net/2017/01/06/updating-the-vsan-hcl-from-powercli/) 
+- [Digital Project Manager Resolutions for 2017 | Viget](https://www.viget.com/articles/digital-project-manager-resolutions-2017) 
