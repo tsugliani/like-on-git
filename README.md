@@ -682,3 +682,6 @@ Bookmark all my links into README.md
 
 ### January 4, 2017
 - [Recalbox - the micro retro gaming console](https://www.recalbox.com/) 
+
+### January 9, 2017
+- [How to Design the Perfect Resume](https://design.tutsplus.com/articles/the-building-blocks-of-a-perfect-resume-design--cms-27878) 
