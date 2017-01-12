@@ -695,3 +695,6 @@ Bookmark all my links into README.md
 
 ### January 10, 2017
 - [mreferre/vic-product-machine: A script to automate simple vSphere Integrated Containers deployments](https://github.com/mreferre/vic-product-machine) 
+
+### January 12, 2017
+- [VMs not getting killed after vMSC partition has lifted - Yellow Bricks](http://www.yellow-bricks.com/2017/01/12/vms-not-getting-killed-vmsc-partition-lifted/) 
