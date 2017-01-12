@@ -698,3 +698,4 @@ Bookmark all my links into README.md
 
 ### January 12, 2017
 - [VMs not getting killed after vMSC partition has lifted - Yellow Bricks](http://www.yellow-bricks.com/2017/01/12/vms-not-getting-killed-vmsc-partition-lifted/) 
+- [Edgerouter and Chromecast – Cron Blog](http://www.cron.dk/edgerouter-and-chromecast/) 
