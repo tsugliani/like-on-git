@@ -700,3 +700,6 @@ Bookmark all my links into README.md
 - [VMs not getting killed after vMSC partition has lifted - Yellow Bricks](http://www.yellow-bricks.com/2017/01/12/vms-not-getting-killed-vmsc-partition-lifted/) 
 - [Edgerouter and Chromecast – Cron Blog](http://www.cron.dk/edgerouter-and-chromecast/) 
 - [Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows - Scott Hanselman](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx) 
+
+### January 15, 2017
+- [Setup Site-to-Site VPN between AWS and vCloud Director – Tom Fojta's Blog](https://fojta.wordpress.com/2017/01/14/setup-site-to-site-vpn-between-aws-and-vcloud-director/) 
