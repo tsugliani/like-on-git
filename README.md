@@ -706,3 +706,6 @@ Bookmark all my links into README.md
 - [How to Netboot install ESXi onto Apple Mac Hardware? | virtuallyGhetto](http://www.virtuallyghetto.com/2017/01/how-to-netboot-install-esxi-onto-apple-mac-hardware.html) 
 - [How to change console keymap on Photon OS - vReality](https://v-reality.info/2017/01/change-console-keymap-photon-os/) 
 - [How Functional Animation Helps Improve User Experience – Smashing Magazine](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/) 
+
+### January 16, 2017
+- [astefanutti/decktape: PDF exporter for HTML presentation frameworks](https://github.com/astefanutti/decktape) 
