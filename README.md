@@ -48,3 +48,4 @@ Bookmark all my links into README.md
 - [The Best API Documentation](https://bradfults.com/the-best-api-documentation-b9e46400379a#.m1wxwx6td) 
 - [Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) 
 - [A Quick and Easy Guide to tmux](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) 
+- [VIC’s Uncool GA – Bensdoings](http://bensdoings.com/2017/01/19/vics-uncool-ga/) 
