@@ -714,3 +714,4 @@ Bookmark all my links into README.md
 - [Limiting your Attack Surface in the AWS cloud – aws advent](https://www.awsadvent.com/2016/12/15/limiting-your-attack-surface-in-the-aws-cloud/) 
 - [Reboot All Hosts in vCloud Director – Tom Fojta's Blog](https://fojta.wordpress.com/2016/03/18/reboot-all-hosts-in-vcloud-director/) 
 - [Immutable Infrastructure with AWS and Ansible - Part 1 - Setup - VCDXpert](http://vcdxpert.com/?p=105) 
+- [Immutable Infrastructure with AWS and Ansible - Part 2 - Workstation - VCDXpert](http://vcdxpert.com/?p=148) 
