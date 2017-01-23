@@ -709,3 +709,6 @@ Bookmark all my links into README.md
 
 ### January 16, 2017
 - [astefanutti/decktape: PDF exporter for HTML presentation frameworks](https://github.com/astefanutti/decktape) 
+
+### January 23, 2017
+- [Limiting your Attack Surface in the AWS cloud – aws advent](https://www.awsadvent.com/2016/12/15/limiting-your-attack-surface-in-the-aws-cloud/) 
