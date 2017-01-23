@@ -41,3 +41,4 @@ Bookmark all my links into README.md
 - [Containers from Scratch](https://ericchiang.github.io/post/containers-from-scratch/) 
 - [Basic Network Configuration with vSphere Integrated Containers Engine - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/01/basic-network-configuration-with-vsphere-integrated-containers-engine.html) 
 - [What's Next...?](http://billho.website/) 
+- [vSphere 6.5 Auto Deploy (EFI based) on (Lab) Nested ESXi – Part 1 | What's Next...?](http://billho.website/?p=949) 
