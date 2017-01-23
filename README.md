@@ -46,3 +46,4 @@ Bookmark all my links into README.md
 - [The (Almost) Complete Guide to Creating the Ultimate Plex Server | enzTV](https://enztv.wordpress.com/2016/10/23/the-almost-complete-guide-to-creating-the-ultimate-plex-server/) 
 - [The Best API Documentation](https://bradfults.com/the-best-api-documentation-b9e46400379a#.m1wxwx6td) 
 - [The Best API Documentation](https://bradfults.com/the-best-api-documentation-b9e46400379a#.m1wxwx6td) 
+- [Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) 
