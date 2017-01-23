@@ -49,3 +49,4 @@ Bookmark all my links into README.md
 - [Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) 
 - [A Quick and Easy Guide to tmux](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) 
 - [VIC’s Uncool GA – Bensdoings](http://bensdoings.com/2017/01/19/vics-uncool-ga/) 
+- [35 – East-West Endpoint localization with LISP IGP Assist | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1419) 
