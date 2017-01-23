@@ -43,3 +43,4 @@ Bookmark all my links into README.md
 - [What's Next...?](http://billho.website/) 
 - [vSphere 6.5 Auto Deploy (EFI based) on (Lab) Nested ESXi – Part 1 | What's Next...?](http://billho.website/?p=949) 
 - [vSphere 6.5 Auto Deploy (EFI based) on (Lab) Nested ESXi – Part 2 | What's Next...?](http://billho.website/?p=959) 
+- [The (Almost) Complete Guide to Creating the Ultimate Plex Server | enzTV](https://enztv.wordpress.com/2016/10/23/the-almost-complete-guide-to-creating-the-ultimate-plex-server/) 
