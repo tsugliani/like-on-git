@@ -50,3 +50,6 @@ Bookmark all my links into README.md
 - [A Quick and Easy Guide to tmux](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) 
 - [VIC’s Uncool GA – Bensdoings](http://bensdoings.com/2017/01/19/vics-uncool-ga/) 
 - [35 – East-West Endpoint localization with LISP IGP Assist | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1419) 
+
+### January 29, 2017
+- [“My Code is Self-Documenting” — Eric Holscher - Surfing in Kansas](http://ericholscher.com/blog/2017/jan/27/code-is-self-documenting/) 
