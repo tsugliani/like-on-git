@@ -54,3 +54,6 @@ Bookmark all my links into README.md
 ### January 29, 2017
 - [“My Code is Self-Documenting” — Eric Holscher - Surfing in Kansas](http://ericholscher.com/blog/2017/jan/27/code-is-self-documenting/) 
 - [15 Things You Should Know About Ansible](http://codeheaven.io/15-things-you-should-know-about-ansible/?utm_content=buffer0a2e5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+
+### January 30, 2017
+- [Managing VSAN 6.5 with the Ruby vSphere Console (RVC) – The Wifi-Cable](https://thewificable.com/2017/01/24/managing-vsan-6-5-with-the-ruby-vsphere-console-rvc/) 
