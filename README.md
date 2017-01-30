@@ -57,3 +57,4 @@ Bookmark all my links into README.md
 
 ### January 30, 2017
 - [Managing VSAN 6.5 with the Ruby vSphere Console (RVC) – The Wifi-Cable](https://thewificable.com/2017/01/24/managing-vsan-6-5-with-the-ruby-vsphere-console-rvc/) 
+- [NSX Logical Switch Packet Walk – The Wifi-Cable](https://thewificable.com/2017/01/30/nsx-logical-switch-packet-walk/) 
