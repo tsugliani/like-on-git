@@ -61,3 +61,6 @@ Bookmark all my links into README.md
 
 ### January 31, 2017
 - [Finding an Alternative to Mac OS X — Part 2 - Bit Cannon](http://bitcannon.net/post/finding-an-alternative-to-mac-os-x-part-2/) 
+
+### February 2, 2017
+- [Inverse Path - USB armory](http://inversepath.com/usbarmory.html#usbarmory_enclosure-tab) 
