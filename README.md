@@ -66,3 +66,4 @@ Bookmark all my links into README.md
 - [Inverse Path - USB armory](http://inversepath.com/usbarmory.html#usbarmory_enclosure-tab) 
 - [REST Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) 
 - [How Kafka’s Storage Internals Work](https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026#.4gxcudpse) 
+- [How to purge all logs in vRealize Log Insight? | virtuallyGhetto](http://www.virtuallyghetto.com/2017/02/how-to-purge-all-logs-in-vrealize-log-insight.html) 
