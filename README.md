@@ -65,3 +65,4 @@ Bookmark all my links into README.md
 ### February 2, 2017
 - [Inverse Path - USB armory](http://inversepath.com/usbarmory.html#usbarmory_enclosure-tab) 
 - [REST Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) 
+- [How Kafka’s Storage Internals Work](https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026#.4gxcudpse) 
