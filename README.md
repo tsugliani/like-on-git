@@ -64,3 +64,4 @@ Bookmark all my links into README.md
 
 ### February 2, 2017
 - [Inverse Path - USB armory](http://inversepath.com/usbarmory.html#usbarmory_enclosure-tab) 
+- [REST Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) 
