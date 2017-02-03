@@ -85,3 +85,4 @@ Bookmark all my links into README.md
 - [Getting started with Windows Containers - Glenn Sarti](http://glennsarti.github.io/blog/getting-started-with-windows-containers/) 
 - [Your Password is Too Damn Short](https://blog.codinghorror.com/your-password-is-too-damn-short/) 
 - [Designing vSAN Disk groups - All Flash Cache Ratio Update - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2017/01/18/designing-vsan-disk-groups-cache-ratio-revisited/) 
+- [Managing In-Guest UNMAP and Automatic VMFS-6 UNMAP with PowerCLI | Cody Hosterman](http://www.codyhosterman.com/2017/01/managing-in-guest-unmap-and-automatic-vmfs-6-unmap-with-powercli/) 
