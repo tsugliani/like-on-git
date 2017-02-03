@@ -87,3 +87,4 @@ Bookmark all my links into README.md
 - [Designing vSAN Disk groups - All Flash Cache Ratio Update - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2017/01/18/designing-vsan-disk-groups-cache-ratio-revisited/) 
 - [Managing In-Guest UNMAP and Automatic VMFS-6 UNMAP with PowerCLI | Cody Hosterman](http://www.codyhosterman.com/2017/01/managing-in-guest-unmap-and-automatic-vmfs-6-unmap-with-powercli/) 
 - [Playing with Docker 1.13 & Minio](https://media-glass.es/playing-with-docker-1-13-minio-9b38a36e88b#.4istrrll7) 
+- [Detecting what FlashArray VMFS Volumes Have Dead Space | Cody Hosterman](http://www.codyhosterman.com/2017/01/detecting-what-flasharray-vmfs-volumes-have-dead-space/) 
