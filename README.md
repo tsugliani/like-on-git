@@ -79,3 +79,4 @@ Bookmark all my links into README.md
 - [From OSX to Ubuntu | Code | Nicolas Perriault](https://nicolas.perriault.net/code/2016/from-osx-to-ubuntu/) 
 - [Nothing To Be Done – Medium](https://medium.com/@edelwax/nothing-to-be-done-bfe2ce71a3a2#.rjxvbblcn) 
 - [Hitless TLS Certificate Rotation in Go](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/?utm_content=bufferb478b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+- [A Couple of Things - vSential](https://vsential.com/2017/01/13/a-couple-of-things) 
