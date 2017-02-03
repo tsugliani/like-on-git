@@ -92,3 +92,4 @@ Bookmark all my links into README.md
 - [A look inside iland Cloud - David Hill](http://www.davidhill.co/2017/01/a-look-inside-iland-cloud/) 
 - [Million requests per second with Python – Medium](https://medium.com/@squeaky_pl/million-requests-per-second-with-python-95c137af319#.jq0wj9jc1) 
 - [Developers: Stop undervaluing software](https://blog.reifyworks.com/developers-stop-undervaluing-software-2db16b0f5641#.qnyf40lcz) 
+- [Stopping team dysfunction (even before it starts) – Smells Like Team Spirit – Medium](https://medium.com/smells-like-team-spirit/stopping-team-dysfunction-before-it-starts-a5d27a1fd32a#.56ldb1105) 
