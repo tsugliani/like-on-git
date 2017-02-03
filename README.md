@@ -76,3 +76,4 @@ Bookmark all my links into README.md
 - [Installing latest PowerShell Core 6.0 Release on Linux just got easier! | Windows PowerShell Blog](https://blogs.msdn.microsoft.com/powershell/2017/02/01/installing-latest-powershell-core-6-0-release-on-linux-just-got-easier/) 
 - [Getting Fired & Taking a Sabbatical ... and How it Changed Things for Me - Datacenter Dude](http://www.datacenterdude.com/life/getting-fired-taking-sabbatical/?utm_content=bufferc5bad&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [Pros and Cons of a Multi Cloud approach – Medium](https://medium.com/@cloud_opinion/pros-and-cons-of-a-multi-cloud-approach-10c2dfd628e9#.2qn98op1j) 
+- [From OSX to Ubuntu | Code | Nicolas Perriault](https://nicolas.perriault.net/code/2016/from-osx-to-ubuntu/) 
