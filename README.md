@@ -72,3 +72,4 @@ Bookmark all my links into README.md
 
 ### February 3, 2017
 - [How to purge all logs in vRealize Log Insight? | virtuallyGhetto](http://www.virtuallyghetto.com/2017/02/how-to-purge-all-logs-in-vrealize-log-insight.html) 
+- [Getting Started with the vSphere Automation SDK for REST - VMware {code} - VMware Blogs](https://blogs.vmware.com/code/2017/02/02/getting-started-vsphere-automation-sdk-rest/) 
