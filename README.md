@@ -77,3 +77,4 @@ Bookmark all my links into README.md
 - [Getting Fired & Taking a Sabbatical ... and How it Changed Things for Me - Datacenter Dude](http://www.datacenterdude.com/life/getting-fired-taking-sabbatical/?utm_content=bufferc5bad&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [Pros and Cons of a Multi Cloud approach – Medium](https://medium.com/@cloud_opinion/pros-and-cons-of-a-multi-cloud-approach-10c2dfd628e9#.2qn98op1j) 
 - [From OSX to Ubuntu | Code | Nicolas Perriault](https://nicolas.perriault.net/code/2016/from-osx-to-ubuntu/) 
+- [Nothing To Be Done – Medium](https://medium.com/@edelwax/nothing-to-be-done-bfe2ce71a3a2#.rjxvbblcn) 
