@@ -82,3 +82,4 @@ Bookmark all my links into README.md
 - [A Couple of Things - vSential](https://vsential.com/2017/01/13/a-couple-of-things) 
 - [Working Remote: How We Successfully Run Clarity as a Completely Remote Team – Clarity Design System – Medium](https://medium.com/claritydesignsystem/working-remote-how-we-successfully-run-clarity-as-a-completely-remote-team-273e5880896b#.g2opfgfkf) 
 - [We reverse engineered 16k apps, here’s what we found](https://hackernoon.com/we-reverse-engineered-16k-apps-heres-what-we-found-51bdf3b456bb#.njxcpu4ao) 
+- [Getting started with Windows Containers - Glenn Sarti](http://glennsarti.github.io/blog/getting-started-with-windows-containers/) 
