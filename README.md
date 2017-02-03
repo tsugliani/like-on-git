@@ -91,3 +91,4 @@ Bookmark all my links into README.md
 - [Docker orchestration (and why we need it)](https://ideas.ataccama.com/docker-orchestration-and-why-we-need-it-d66bdffad2e#.liqsfhyaz) 
 - [A look inside iland Cloud - David Hill](http://www.davidhill.co/2017/01/a-look-inside-iland-cloud/) 
 - [Million requests per second with Python – Medium](https://medium.com/@squeaky_pl/million-requests-per-second-with-python-95c137af319#.jq0wj9jc1) 
+- [Developers: Stop undervaluing software](https://blog.reifyworks.com/developers-stop-undervaluing-software-2db16b0f5641#.qnyf40lcz) 
