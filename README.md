@@ -84,3 +84,4 @@ Bookmark all my links into README.md
 - [We reverse engineered 16k apps, here’s what we found](https://hackernoon.com/we-reverse-engineered-16k-apps-heres-what-we-found-51bdf3b456bb#.njxcpu4ao) 
 - [Getting started with Windows Containers - Glenn Sarti](http://glennsarti.github.io/blog/getting-started-with-windows-containers/) 
 - [Your Password is Too Damn Short](https://blog.codinghorror.com/your-password-is-too-damn-short/) 
+- [Designing vSAN Disk groups - All Flash Cache Ratio Update - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2017/01/18/designing-vsan-disk-groups-cache-ratio-revisited/) 
