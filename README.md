@@ -73,3 +73,4 @@ Bookmark all my links into README.md
 ### February 3, 2017
 - [How to purge all logs in vRealize Log Insight? | virtuallyGhetto](http://www.virtuallyghetto.com/2017/02/how-to-purge-all-logs-in-vrealize-log-insight.html) 
 - [Getting Started with the vSphere Automation SDK for REST - VMware {code} - VMware Blogs](https://blogs.vmware.com/code/2017/02/02/getting-started-vsphere-automation-sdk-rest/) 
+- [Installing latest PowerShell Core 6.0 Release on Linux just got easier! | Windows PowerShell Blog](https://blogs.msdn.microsoft.com/powershell/2017/02/01/installing-latest-powershell-core-6-0-release-on-linux-just-got-easier/) 
