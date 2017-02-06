@@ -93,3 +93,6 @@ Bookmark all my links into README.md
 - [Million requests per second with Python – Medium](https://medium.com/@squeaky_pl/million-requests-per-second-with-python-95c137af319#.jq0wj9jc1) 
 - [Developers: Stop undervaluing software](https://blog.reifyworks.com/developers-stop-undervaluing-software-2db16b0f5641#.qnyf40lcz) 
 - [Stopping team dysfunction (even before it starts) – Smells Like Team Spirit – Medium](https://medium.com/smells-like-team-spirit/stopping-team-dysfunction-before-it-starts-a5d27a1fd32a#.56ldb1105) 
+
+### February 6, 2017
+- [NSX Bytes: NSX-v 6.3 Host Preparation Fails with Agent VIB module not installed - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/nsx-bytes-nsx-v-6-3-host-preparation-fails-with-agent-vib-module-not-installed/) 
