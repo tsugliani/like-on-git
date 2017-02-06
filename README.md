@@ -96,3 +96,4 @@ Bookmark all my links into README.md
 
 ### February 6, 2017
 - [NSX Bytes: NSX-v 6.3 Host Preparation Fails with Agent VIB module not installed - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/nsx-bytes-nsx-v-6-3-host-preparation-fails-with-agent-vib-module-not-installed/) 
+- [Don’t cripple your NSX installation with Host Profiles (and the C# Client) | virtualhobbit](https://virtualhobbit.com/2017/01/27/dont-cripple-your-nsx-installation-with-host-profiles-and-the-c-client/) 
