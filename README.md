@@ -100,3 +100,4 @@ Bookmark all my links into README.md
 
 ### February 7, 2017
 - [Rancher - Creating a highly available container orchestration cluster on AWS](https://www.tastycidr.net/rancher-creating-a-highly-available-container-orchestration-cluster-on-ec2/) 
+- [Connecting Containers Directly to External Networks - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/02/connecting-containers-directly-external-networks.html) 
