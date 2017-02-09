@@ -106,3 +106,4 @@ Bookmark all my links into README.md
 - [A Makefile for your Go project | Vincent Bernat](https://vincent.bernat.im/en/blog/2017-makefile-build-golang) 
 - [Tutorial: Project Clarity and Angular CLI – Medium](https://medium.com/@beeman/tutorial-project-clarity-and-angular-cli-50d845a24d5b#.h2en4jxgw) 
 - [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git) 
+- [Rancher - Creating a highly available container orchestration cluster on AWS](https://www.tastycidr.net/rancher-creating-a-highly-available-container-orchestration-cluster-on-ec2/) 
