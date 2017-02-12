@@ -111,3 +111,6 @@ Bookmark all my links into README.md
 
 ### February 10, 2017
 - [Ubiquiti in the Lab - The IT Hollow](http://theithollow.com/2017/02/06/ubiquiti-in-the-lab/?utm_content=bufferf5467&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+
+### February 12, 2017
+- [Designer or Architect? It’s A Matter Of Choice | The Networking Nerd](https://networkingnerd.net/2016/10/27/designer-or-architect-its-a-matter-of-choice/?utm_content=bufferafec5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
