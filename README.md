@@ -121,3 +121,4 @@ Bookmark all my links into README.md
 
 ### February 13, 2017
 - [Sean O'Dell on Twitter: "Fresh OVA deployment or upgrade to Network Insight 3.2, please apply the patch found in this KB. #RunNSX w/ #vRNI https://t.co/SBzO61IIRm"](https://twitter.com/theseanodell/status/830162496736653313) 
+- [GitHub - nodesocket/jsonlite: A simple, self-contained, serverless, zero-configuration, json document store.](https://github.com/nodesocket/jsonlite) 
