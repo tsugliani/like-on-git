@@ -118,3 +118,6 @@ Bookmark all my links into README.md
 - [Introducing the Hyperconverged Home Lab! | Virtually Sober](https://virtuallysober.com/2017/02/10/introducing-the-hyperconverged-home-lab/) 
 - [Designer or Architect? It’s A Matter Of Choice | The Networking Nerd](https://networkingnerd.net/2016/10/27/designer-or-architect-its-a-matter-of-choice/?utm_content=bufferafec5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [Uila, the art of visualization - vInfrastructure Blog](http://vinfrastructure.it/2017/02/uila-art-visualization/) 
+
+### February 13, 2017
+- [Sean O'Dell on Twitter: "Fresh OVA deployment or upgrade to Network Insight 3.2, please apply the patch found in this KB. #RunNSX w/ #vRNI https://t.co/SBzO61IIRm"](https://twitter.com/theseanodell/status/830162496736653313) 
