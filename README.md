@@ -123,3 +123,6 @@ Bookmark all my links into README.md
 - [Sean O'Dell on Twitter: "Fresh OVA deployment or upgrade to Network Insight 3.2, please apply the patch found in this KB. #RunNSX w/ #vRNI https://t.co/SBzO61IIRm"](https://twitter.com/theseanodell/status/830162496736653313) 
 - [GitHub - nodesocket/jsonlite: A simple, self-contained, serverless, zero-configuration, json document store.](https://github.com/nodesocket/jsonlite) 
 - [How to create span sessions with Cisco ACI - SDN troubleshooting](http://static-void.io/aci-span-intro/) 
+
+### February 16, 2017
+- [Use minio as docker registry storage driver – Medium](https://medium.com/@enne/use-minio-as-docker-registry-storage-driver-c9c72c72cc87#.kmin3vi1m) 
