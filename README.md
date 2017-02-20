@@ -136,3 +136,4 @@ Bookmark all my links into README.md
 
 ### February 20, 2017
 - [Home - BigBoards](http://bigboards.io/) 
+- [DRaaS dreams come true! vCloud Availability for vCloud Director (vCAV) – Appendix | What's Next...?](http://billho.website/?p=1246) 
