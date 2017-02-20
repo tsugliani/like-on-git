@@ -138,3 +138,4 @@ Bookmark all my links into README.md
 - [Home - BigBoards](http://bigboards.io/) 
 - [DRaaS dreams come true! vCloud Availability for vCloud Director (vCAV) – Appendix | What's Next...?](http://billho.website/?p=1246) 
 - [DRaaS dreams come true! vCloud Availability for vCloud Director (vCAV) – Introduction | What's Next...?](http://billho.website/?p=1188) 
+- [DRaaS dreams come true! vCloud Availability for vCloud Director (vCAV) – For Tenant | What's Next...?](http://billho.website/?p=1196) 
