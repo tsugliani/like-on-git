@@ -142,3 +142,4 @@ Bookmark all my links into README.md
 
 ### February 22, 2017
 - [Script - Get ESXi NIC Firmware and Driver Details - my cloud-(r)evolution](http://mycloudrevolution.com/2017/02/20/script-get-esxi-nic-firmware-and-driver-details/) 
+- [Is there a Windows Docker image for ...?](https://stefanscherer.github.io/is-there-a-windows-docker-image-for/) 
