@@ -139,3 +139,6 @@ Bookmark all my links into README.md
 - [DRaaS dreams come true! vCloud Availability for vCloud Director (vCAV) – Appendix | What's Next...?](http://billho.website/?p=1246) 
 - [DRaaS dreams come true! vCloud Availability for vCloud Director (vCAV) – Introduction | What's Next...?](http://billho.website/?p=1188) 
 - [DRaaS dreams come true! vCloud Availability for vCloud Director (vCAV) – For Tenant | What's Next...?](http://billho.website/?p=1196) 
+
+### February 22, 2017
+- [Script - Get ESXi NIC Firmware and Driver Details - my cloud-(r)evolution](http://mycloudrevolution.com/2017/02/20/script-get-esxi-nic-firmware-and-driver-details/) 
