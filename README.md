@@ -147,3 +147,4 @@ Bookmark all my links into README.md
 
 ### February 24, 2017
 - [Released: vCloud Director SP 8.20 with HTML5 Goodness! - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/released-vcloud-director-sp-8-20-with-html5-goodness/) 
+- [vCloud Director 8.20: VM Auto-import – Tom Fojta's Blog](https://fojta.wordpress.com/2017/02/23/vcloud-director-8-20-vm-auto-import/) 
