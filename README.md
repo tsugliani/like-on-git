@@ -144,3 +144,6 @@ Bookmark all my links into README.md
 - [Script - Get ESXi NIC Firmware and Driver Details - my cloud-(r)evolution](http://mycloudrevolution.com/2017/02/20/script-get-esxi-nic-firmware-and-driver-details/) 
 - [Is there a Windows Docker image for ...?](https://stefanscherer.github.io/is-there-a-windows-docker-image-for/) 
 - [Download PuTTY: release 0.68](http://www.chiark.greenend.org.uk/~sgtatham/putty/releases/0.68.html) 
+
+### February 24, 2017
+- [Released: vCloud Director SP 8.20 with HTML5 Goodness! - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/released-vcloud-director-sp-8-20-with-html5-goodness/) 
