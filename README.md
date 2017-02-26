@@ -153,3 +153,4 @@ Bookmark all my links into README.md
 
 ### February 26, 2017
 - [VCDNI to VXLAN Migration – Tom Fojta's Blog](https://fojta.wordpress.com/2017/02/25/vcdni-to-vxlan-migration/) 
+- [vCloud Director 8.20: Orchestrated Upgrade – Tom Fojta's Blog](https://fojta.wordpress.com/2017/02/26/vcloud-director-8-20-orchestrated-upgrade/) 
