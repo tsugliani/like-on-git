@@ -150,3 +150,6 @@ Bookmark all my links into README.md
 - [vCloud Director 8.20: VM Auto-import – Tom Fojta's Blog](https://fojta.wordpress.com/2017/02/23/vcloud-director-8-20-vm-auto-import/) 
 - [Monitor your GitHub Repos with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/?utm_content=buffer6e918&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [Continuous Delusion at the Infrastructure Layer | Cloudscaling](http://cloudscaling.com/blog/devops/continuous-delusion-at-the-infrastructure-layer/) 
+
+### February 26, 2017
+- [VCDNI to VXLAN Migration – Tom Fojta's Blog](https://fojta.wordpress.com/2017/02/25/vcdni-to-vxlan-migration/) 
