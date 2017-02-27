@@ -160,3 +160,4 @@ Bookmark all my links into README.md
 - [Using the vSphere API in vCenter Server to collect ESXTOP & vscsiStats metrics | virtuallyGhetto](http://www.virtuallyghetto.com/2017/02/using-the-vsphere-api-in-vcenter-server-to-collect-esxtop-vscsistats-metrics.html) 
 - [Deploying to Microsoft Azure with Terraform](http://orlandobayo.com/blog/deploying-to-microsoft-azure-with-terraform/) 
 - [vCSA: Consolidating SSO Domains and Ensuring a Successful Migration | Virtual Insanity](http://virtualinsanity.com/index.php/2017/02/25/vcsa-consolidating-sso-domains-and-ensuring-a-successful-migration/) 
+- [Exploring Performance of etcd, Zookeeper and Consul Consistent Key-value Datastores](https://coreos.com/blog/performance-of-etcd.html) 
