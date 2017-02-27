@@ -158,3 +158,4 @@ Bookmark all my links into README.md
 ### February 27, 2017
 - [Visualizing latency variance with grafana](https://hveem.no/visualizing-latency-variance-with-grafana) 
 - [Using the vSphere API in vCenter Server to collect ESXTOP & vscsiStats metrics | virtuallyGhetto](http://www.virtuallyghetto.com/2017/02/using-the-vsphere-api-in-vcenter-server-to-collect-esxtop-vscsistats-metrics.html) 
+- [Deploying to Microsoft Azure with Terraform](http://orlandobayo.com/blog/deploying-to-microsoft-azure-with-terraform/) 
