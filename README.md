@@ -165,3 +165,4 @@ Bookmark all my links into README.md
 ### March 1, 2017
 - [vSAN performance enhancements delivered with vSphere 6.0 Update 3 (2149127) | VMware KB](https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2149127) 
 - [3 tricks for mastering Docker with Python](https://hackernoon.com/3-tricks-for-mastering-docker-with-python-99876412348d#.bh5vgeazd) 
+- [Using SD cards for embedded ESXi and vSAN? - Virtual Ramblings](http://thenicholson.com/using-sd-cards-embedded-esxi-vsan/) 
