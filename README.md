@@ -161,3 +161,6 @@ Bookmark all my links into README.md
 - [Deploying to Microsoft Azure with Terraform](http://orlandobayo.com/blog/deploying-to-microsoft-azure-with-terraform/) 
 - [vCSA: Consolidating SSO Domains and Ensuring a Successful Migration | Virtual Insanity](http://virtualinsanity.com/index.php/2017/02/25/vcsa-consolidating-sso-domains-and-ensuring-a-successful-migration/) 
 - [Exploring Performance of etcd, Zookeeper and Consul Consistent Key-value Datastores](https://coreos.com/blog/performance-of-etcd.html) 
+
+### March 1, 2017
+- [vSAN performance enhancements delivered with vSphere 6.0 Update 3 (2149127) | VMware KB](https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2149127) 
