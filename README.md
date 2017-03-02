@@ -169,3 +169,4 @@ Bookmark all my links into README.md
 
 ### March 2, 2017
 - [Dodging S3 Downtime With Nginx and HAProxy](https://blog.sentry.io/2017/03/01/dodging-s3-downtime-with-nginx-and-haproxy.html) 
+- [5 Things You Need To Know About The AWS S3 Outage - ITSM.tools](https://itsm.tools/2017/03/01/5-things-aws-s3-outage/?utm_content=buffercdba4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
