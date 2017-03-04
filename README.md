@@ -171,3 +171,6 @@ Bookmark all my links into README.md
 - [Dodging S3 Downtime With Nginx and HAProxy](https://blog.sentry.io/2017/03/01/dodging-s3-downtime-with-nginx-and-haproxy.html) 
 - [5 Things You Need To Know About The AWS S3 Outage - ITSM.tools](https://itsm.tools/2017/03/01/5-things-aws-s3-outage/?utm_content=buffercdba4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [The Linux Migration: Other Users' Stories, Part 1 · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org/2017/03/01/linux-migration-other-users-stories-pt1/) 
+
+### March 4, 2017
+- [Data Munging with Ansible and Jinja2 - Building Network Automation Solutions](http://automation.ipspace.net/Example:Data_Munging_with_Ansible_and_Jinja2) 
