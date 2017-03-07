@@ -174,3 +174,6 @@ Bookmark all my links into README.md
 
 ### March 4, 2017
 - [Data Munging with Ansible and Jinja2 - Building Network Automation Solutions](http://automation.ipspace.net/Example:Data_Munging_with_Ansible_and_Jinja2) 
+
+### March 7, 2017
+- [Why learning to code Alexa Skills is the gateway to a cloud computing job](https://medium.freecodecamp.com/why-learning-to-code-alexa-skills-is-the-gateway-to-a-cloud-computing-job-fa13c1c0c853#.7grxi4mfi) 
