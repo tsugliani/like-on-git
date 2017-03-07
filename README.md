@@ -177,3 +177,4 @@ Bookmark all my links into README.md
 
 ### March 7, 2017
 - [Why learning to code Alexa Skills is the gateway to a cloud computing job](https://medium.freecodecamp.com/why-learning-to-code-alexa-skills-is-the-gateway-to-a-cloud-computing-job-fa13c1c0c853#.7grxi4mfi) 
+- [The Top 50 Overall VMware Influencers – Influence Marketing Council – Medium](https://medium.com/influence-marketing-council/the-top-50-overall-vmware-influencers-7fc7ec32500e#.aco90lm7d) 
