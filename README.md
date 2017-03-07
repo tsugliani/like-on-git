@@ -182,3 +182,4 @@ Bookmark all my links into README.md
 - [What’s New: VMware vRealize Operations 6.5 - VMware Cloud Management](https://blogs.vmware.com/management/2017/03/whats-new-vmware-vrealize-operations-6-5.html) 
 - [Spammers expose their entire operation through bad backups | CSO Online](http://www.csoonline.com/article/3176433/security/spammers-expose-their-entire-operation-through-bad-backups.html) 
 - [Why I left Mac for Windows: Apple has given up](http://char.gd/microsoft/why-i-left-mac-for-windows/) 
+- [Google Cloud Platform Blog: Partnering on open source: Google and HashiCorp engineers on managing GCP infrastructure](https://cloudplatform.googleblog.com/2017/03/partnering-on-open-source-Google-and-HashiCorp-engineers-on-managing-GCP-infrastructure.html) 
