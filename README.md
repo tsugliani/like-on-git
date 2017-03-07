@@ -180,3 +180,4 @@ Bookmark all my links into README.md
 - [The Top 50 Overall VMware Influencers – Influence Marketing Council – Medium](https://medium.com/influence-marketing-council/the-top-50-overall-vmware-influencers-7fc7ec32500e#.aco90lm7d) 
 - [StefanScherer/windows-docker-machine: Work with Windows containers on your Mac](https://github.com/StefanScherer/windows-docker-machine) 
 - [What’s New: VMware vRealize Operations 6.5 - VMware Cloud Management](https://blogs.vmware.com/management/2017/03/whats-new-vmware-vrealize-operations-6-5.html) 
+- [Spammers expose their entire operation through bad backups | CSO Online](http://www.csoonline.com/article/3176433/security/spammers-expose-their-entire-operation-through-bad-backups.html) 
