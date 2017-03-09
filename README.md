@@ -184,3 +184,6 @@ Bookmark all my links into README.md
 - [Why I left Mac for Windows: Apple has given up](http://char.gd/microsoft/why-i-left-mac-for-windows/) 
 - [Google Cloud Platform Blog: Partnering on open source: Google and HashiCorp engineers on managing GCP infrastructure](https://cloudplatform.googleblog.com/2017/03/partnering-on-open-source-Google-and-HashiCorp-engineers-on-managing-GCP-infrastructure.html) 
 - [vmware-vcloud-director-whats-new-820-technical-white-paper.pdf](http://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/vcloud/vmware-vcloud-director-whats-new-820-technical-white-paper.pdf) 
+
+### March 9, 2017
+- [Perform VMFS UNMAP using PowerCLI - Enterprise Daddy](http://www.enterprisedaddy.com/2017/03/perform-vmfs-unmap-using-powercli/) 
