@@ -188,3 +188,6 @@ Bookmark all my links into README.md
 ### March 9, 2017
 - [Perform VMFS UNMAP using PowerCLI - Enterprise Daddy](http://www.enterprisedaddy.com/2017/03/perform-vmfs-unmap-using-powercli/) 
 - [A Simple Terraform on vSphere Build · Cody Bunch](http://blog.codybunch.com/2017/03/08/A-Simple-Terraform-on-vSphere-Build/) 
+
+### March 10, 2017
+- [Setup a Windows Docker CI with AppVeyor](https://stefanscherer.github.io/setup-windows-docker-ci-appveyor/) 
