@@ -195,3 +195,4 @@ Bookmark all my links into README.md
 
 ### March 13, 2017
 - [Virtual Machine vCPU and vNUMA Rightsizing - Rules of Thumb - VMware VROOM! Blog - VMware Blogs](https://blogs.vmware.com/performance/2017/03/virtual-machine-vcpu-and-vnuma-rightsizing-rules-of-thumb.html) 
+- [Minio, simple storage for your cluster](http://larmog.github.io/2017/03/07/minio-simple-storage-for-your-cluster/) 
