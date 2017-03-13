@@ -200,3 +200,4 @@ Bookmark all my links into README.md
 - [The Dark Side of DevOps](https://chrisshort.net/the-dark-side-of-devops/) 
 - [How to run encrypted Windows websites with Docker and Træfɪk](https://stefanscherer.github.io/how-to-run-encrypted-windows-websites-with-docker-and-traefik/) 
 - [Cockroach Labs](https://www.cockroachlabs.com/) 
+- [PSC HA 6.5 Guide – have you tried reinstalling?](https://haveyoutriedreinstalling.com/2017/03/07/psc-ha-6-5-guide/) 
