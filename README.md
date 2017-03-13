@@ -192,3 +192,6 @@ Bookmark all my links into README.md
 ### March 10, 2017
 - [Setup a Windows Docker CI with AppVeyor](https://stefanscherer.github.io/setup-windows-docker-ci-appveyor/) 
 - [ctop](https://bcicen.github.io/ctop/) 
+
+### March 13, 2017
+- [Virtual Machine vCPU and vNUMA Rightsizing - Rules of Thumb - VMware VROOM! Blog - VMware Blogs](https://blogs.vmware.com/performance/2017/03/virtual-machine-vcpu-and-vnuma-rightsizing-rules-of-thumb.html) 
