@@ -204,3 +204,4 @@ Bookmark all my links into README.md
 
 ### March 14, 2017
 - [NSX Issues After Replacing VMware Self-Signed Certs - The IT Hollow](http://theithollow.com/2017/03/13/nsx-issues-replacing-vmware-self-signed-certs/) 
+- [Registering NSX Manager to Lookup Service with External Platform Service Controller (PSC) fails with the error: server certificate chain not verified (2132645) | VMware KB](https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2132645) 
