@@ -209,3 +209,4 @@ Bookmark all my links into README.md
 
 ### March 15, 2017
 - [NSX-v Cross-VC 6.2 Control Plane Agent to Controller “Unknown” Status and NSX Manager UUID | blog.bertello.org](http://blog.bertello.org/2017/01/nsx-cross-vc-6-2-control-plane-agent-to-controller-unknown-status-and-nsx-manager-uuid/) 
+- [PowerCLI module for Proactive HA (including simulation) | virtuallyGhetto](http://www.virtuallyghetto.com/2017/03/powercli-module-for-proactive-ha-including-simulation.html) 
