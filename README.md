@@ -213,3 +213,6 @@ Bookmark all my links into README.md
 
 ### March 18, 2017
 - [Nightonke/Gitee: Gitee, OS X status bar application for Github](https://github.com/Nightonke/Gitee?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
+
+### March 20, 2017
+- [Complexity and Strategy](https://hackernoon.com/complexity-and-strategy-325cd7f59a92#.98d776mzd) 
