@@ -216,3 +216,6 @@ Bookmark all my links into README.md
 
 ### March 20, 2017
 - [Complexity and Strategy](https://hackernoon.com/complexity-and-strategy-325cd7f59a92#.98d776mzd) 
+
+### March 23, 2017
+- [Horizon 7.1 unauthenticated access Horizon App | What's Next...?](http://billho.website/?p=1332) 
