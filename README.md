@@ -219,3 +219,4 @@ Bookmark all my links into README.md
 
 ### March 23, 2017
 - [Horizon 7.1 unauthenticated access Horizon App | What's Next...?](http://billho.website/?p=1332) 
+- [vSphere Automation SDKs, PowerShell and you - Part 1 - LucD notes](http://www.lucd.info/2017/03/10/vsphere-automation-sdks-powershell-part-1/) 
