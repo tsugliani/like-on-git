@@ -65,3 +65,4 @@ Bookmark all my links into README.md
 ### March 27, 2017
 - [Cisco Wants You to Use APIs and It Shows | project:me10](https://projectme10.wordpress.com/2017/03/06/cisco-wants-you-to-use-apis-and-it-shows/) 
 - [accidentaldeveloper/windows-development-environment: Turning Windows into an environment ready for modern development](https://github.com/accidentaldeveloper/windows-development-environment) 
+- [Using Packer to Create vSphere and AWS Images - The IT Hollow](http://theithollow.com/2017/03/06/using-packer-create-vsphere-aws-images/) 
