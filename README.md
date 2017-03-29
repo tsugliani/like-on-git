@@ -69,3 +69,6 @@ Bookmark all my links into README.md
 
 ### March 28, 2017
 - [Basic Automated Windows 10 post-install · Cody Bunch](http://blog.codybunch.com/2017/03/27/Basic-Automated-Windows-10-post-install/) 
+
+### March 29, 2017
+- [Report EdgeGateway IP Allocations and SubAlloca... |VMware Communities](https://communities.vmware.com/message/2663121?et=watches.email.thread#2663121) 
