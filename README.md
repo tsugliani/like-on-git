@@ -72,3 +72,6 @@ Bookmark all my links into README.md
 
 ### March 29, 2017
 - [Report EdgeGateway IP Allocations and SubAlloca... |VMware Communities](https://communities.vmware.com/message/2663121?et=watches.email.thread#2663121) 
+
+### April 2, 2017
+- [Intel 7600K @ 5.3GHz Boxed Processor – Silicon Lottery](https://siliconlottery.com/collections/all/products/7600k53g) 
