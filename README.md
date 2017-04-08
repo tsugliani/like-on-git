@@ -82,3 +82,4 @@ Bookmark all my links into README.md
 - [StefanScherer/windows-docker-machine: Work with Windows containers on your Mac](https://github.com/StefanScherer/windows-docker-machine) 
 - [Consul v0.8 | HashiCorp](https://www.hashicorp.com/blog/consul-0-8/) 
 - [UKCloud/maloja: A Python toolkit for use with your VMware cloud. You can survey existing infrastructure and automate the task of building VApps.](https://github.com/UKCloud/maloja) 
+- [Additions To vGhetto Automated vSphere Lab Deployment | Virtual Tassie](http://virtualtassie.com/2017/additions-to-vghetto-automated-vsphere-lab-deployment/) 
