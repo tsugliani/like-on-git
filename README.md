@@ -81,3 +81,4 @@ Bookmark all my links into README.md
 - [A Visual Guide to What's New in Swagger 3.0](https://blog.readme.io/an-example-filled-guide-to-swagger-3-2/) 
 - [StefanScherer/windows-docker-machine: Work with Windows containers on your Mac](https://github.com/StefanScherer/windows-docker-machine) 
 - [Consul v0.8 | HashiCorp](https://www.hashicorp.com/blog/consul-0-8/) 
+- [UKCloud/maloja: A Python toolkit for use with your VMware cloud. You can survey existing infrastructure and automate the task of building VApps.](https://github.com/UKCloud/maloja) 
