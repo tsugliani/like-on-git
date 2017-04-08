@@ -75,3 +75,6 @@ Bookmark all my links into README.md
 
 ### April 2, 2017
 - [Intel 7600K @ 5.3GHz Boxed Processor – Silicon Lottery](https://siliconlottery.com/collections/all/products/7600k53g) 
+
+### April 8, 2017
+- [Kubernetes and VMware NSX - The Network Virtualization Blog](https://blogs.vmware.com/networkvirtualization/2017/03/kubecon-2017.html) 
