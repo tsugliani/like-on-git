@@ -83,3 +83,6 @@ Bookmark all my links into README.md
 - [Consul v0.8 | HashiCorp](https://www.hashicorp.com/blog/consul-0-8/) 
 - [UKCloud/maloja: A Python toolkit for use with your VMware cloud. You can survey existing infrastructure and automate the task of building VApps.](https://github.com/UKCloud/maloja) 
 - [Additions To vGhetto Automated vSphere Lab Deployment | Virtual Tassie](http://virtualtassie.com/2017/additions-to-vghetto-automated-vsphere-lab-deployment/) 
+
+### April 9, 2017
+- [vCloud Director SP 8.20 - NSX Advanced Networking Overview - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/vcloud-director-sp-8-20-nsx-advanced-networking-overview/) 
