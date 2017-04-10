@@ -86,3 +86,6 @@ Bookmark all my links into README.md
 
 ### April 9, 2017
 - [vCloud Director SP 8.20 - NSX Advanced Networking Overview - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/vcloud-director-sp-8-20-nsx-advanced-networking-overview/) 
+
+### April 10, 2017
+- [Test de Qubes, l'OS recommandé par Snowden : la sécurité ultime vaut bien quelques migraines - Tech - Numerama](http://www.numerama.com/tech/242144-test-de-qubes-los-recommande-par-snowden-la-securite-ultime-vaut-bien-quelques-migraines.html) 
