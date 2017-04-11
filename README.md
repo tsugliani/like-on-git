@@ -94,3 +94,4 @@ Bookmark all my links into README.md
 ### April 11, 2017
 - [What's new in vSAN 6.6? - CormacHogan.com](http://cormachogan.com/2017/04/11/whats-new-vsan-6-6/) 
 - [Worth a Repost: "VMware Doubles Down" VMware vCloud Director 8.20 - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/worth-a-repost-vmware-doubles-down-vmware-vcloud-director-8-20/) 
+- [vSAN 6.6 Released | TheSaffaGeek](https://thesaffageek.co.uk/2017/04/11/vsan-6-6-released/) 
