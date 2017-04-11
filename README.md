@@ -98,3 +98,4 @@ Bookmark all my links into README.md
 - [Working with vCloud Metadata in PowerCLI – Part 1 – KiwiCloud.ninja](http://kiwicloud.ninja/2016/02/working-with-vcloud-metadata-in-powercli-part-1/) 
 - [Welcome to Mastodon – Hacker Noon](https://hackernoon.com/welcome-to-mastodon-111d9227e56a) 
 - [Everything Is Broken – The Message – Medium](https://medium.com/message/everything-is-broken-81e5f33a24e1) 
+- [vCloud Director SP 8.20 - NSX Advanced Networking Overview - VIRTUALIZATION IS LIFE!](http://anthonyspiteri.net/vcloud-director-sp-8-20-nsx-advanced-networking-overview/) 
