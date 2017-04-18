@@ -103,3 +103,6 @@ Bookmark all my links into README.md
 ### April 14, 2017
 - [Cisco IOS-XR: the buggy XML API](https://mirceaulinic.net/2017-04-14-cisco-xr-xml-agent-fun/) 
 - [Why two stretched clusters cannot cross-host each others witness appliances! - CormacHogan.com](http://cormachogan.com/2017/04/13/two-stretched-clusters-cannot-cross-host-others-witness-appliances/) 
+
+### April 18, 2017
+- [Enable Bonjour on UBNT USG-4P · Cody Bunch](http://blog.codybunch.com/2017/04/17/Enable-Bonjour-on-UBNT-USG-4P/) 
