@@ -106,3 +106,4 @@ Bookmark all my links into README.md
 
 ### April 18, 2017
 - [Enable Bonjour on UBNT USG-4P · Cody Bunch](http://blog.codybunch.com/2017/04/17/Enable-Bonjour-on-UBNT-USG-4P/) 
+- [Comment avoir une excellente configuration HTTPS en 2017 ?](https://psychedeli.cat/configuration-https-2017/) 
