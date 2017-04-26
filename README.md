@@ -111,3 +111,6 @@ Bookmark all my links into README.md
 
 ### April 21, 2017
 - [Introducing Docker Multi-Stage Builds – mikesir87's blog](https://blog.mikesir87.io/2017/03/introducing-docker-multi-stage-builds/) 
+
+### April 26, 2017
+- [Deploying vSphere Integrated Containers (VIC) 1.1 | The Humble Lab](https://www.thehumblelab.com/deploying-vsphere-integrated-containers/) 
