@@ -114,3 +114,6 @@ Bookmark all my links into README.md
 
 ### April 26, 2017
 - [Deploying vSphere Integrated Containers (VIC) 1.1 | The Humble Lab](https://www.thehumblelab.com/deploying-vsphere-integrated-containers/) 
+
+### April 28, 2017
+- [vmware/powerclicore: PowerCLI Core Dockerfile](https://github.com/vmware/powerclicore) 
