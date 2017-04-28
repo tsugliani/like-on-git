@@ -118,3 +118,4 @@ Bookmark all my links into README.md
 ### April 28, 2017
 - [vmware/powerclicore: PowerCLI Core Dockerfile](https://github.com/vmware/powerclicore) 
 - [lamw/vghetto-vsphere-automated-lab-deployment: vGhetto vSphere Automated Lab Deployment (VVLD) for vSphere 6.0u2 & 6.5](https://github.com/lamw/vghetto-vsphere-automated-lab-deployment) 
+- [Spending 100K USD in 4,5 days on Amazon Web Services | OlinData](https://www.olindata.com/en/blog/2017/04/spending-100k-usd-45-days-amazon-web-services) 
