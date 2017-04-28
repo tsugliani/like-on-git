@@ -117,3 +117,4 @@ Bookmark all my links into README.md
 
 ### April 28, 2017
 - [vmware/powerclicore: PowerCLI Core Dockerfile](https://github.com/vmware/powerclicore) 
+- [lamw/vghetto-vsphere-automated-lab-deployment: vGhetto vSphere Automated Lab Deployment (VVLD) for vSphere 6.0u2 & 6.5](https://github.com/lamw/vghetto-vsphere-automated-lab-deployment) 
