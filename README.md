@@ -119,3 +119,6 @@ Bookmark all my links into README.md
 - [vmware/powerclicore: PowerCLI Core Dockerfile](https://github.com/vmware/powerclicore) 
 - [lamw/vghetto-vsphere-automated-lab-deployment: vGhetto vSphere Automated Lab Deployment (VVLD) for vSphere 6.0u2 & 6.5](https://github.com/lamw/vghetto-vsphere-automated-lab-deployment) 
 - [Spending 100K USD in 4,5 days on Amazon Web Services | OlinData](https://www.olindata.com/en/blog/2017/04/spending-100k-usd-45-days-amazon-web-services) 
+
+### May 2, 2017
+- [Building a NSX-T nested lab with virtualised physical switches, BGP, ECMP and the kitchen sink attached.](https://vxsan.com/building-a-nsx-t-nested-lab-2/) 
