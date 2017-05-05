@@ -126,3 +126,4 @@ Bookmark all my links into README.md
 ### May 5, 2017
 - [How to Export Running VM from vCloud Director – Tom Fojta's Blog](https://fojta.wordpress.com/2017/05/05/how-to-export-running-vm-from-vcloud-director/) 
 - [evilsocket/opensnitch: OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.](https://github.com/evilsocket/opensnitch) 
+- [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back) 
