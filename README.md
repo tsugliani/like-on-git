@@ -132,3 +132,4 @@ Bookmark all my links into README.md
 - [LinuxKit 101: Getting Started with LinuxKit for Google Cloud Platform – Collabnix](http://collabnix.com/archives/2929) 
 - [Whats in the Lab for 2017? - The IT Hollow](http://theithollow.com/2017/05/01/whats-lab-2017/?utm_content=buffer4ce0d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [VXLAN & Linux | Vincent Bernat](https://vincent.bernat.im/en/blog/2017-vxlan-linux) 
+- [How to Export Running VM from vCloud Director – Tom Fojta's Blog](https://fojta.wordpress.com/2017/05/05/how-to-export-running-vm-from-vcloud-director/) 
