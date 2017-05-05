@@ -122,3 +122,6 @@ Bookmark all my links into README.md
 
 ### May 2, 2017
 - [Building a NSX-T nested lab with virtualised physical switches, BGP, ECMP and the kitchen sink attached.](https://vxsan.com/building-a-nsx-t-nested-lab-2/) 
+
+### May 5, 2017
+- [How to Export Running VM from vCloud Director – Tom Fojta's Blog](https://fojta.wordpress.com/2017/05/05/how-to-export-running-vm-from-vcloud-director/) 
