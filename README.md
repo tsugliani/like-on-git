@@ -136,3 +136,4 @@ Bookmark all my links into README.md
 
 ### May 12, 2017
 - [Change the vmnic order on vSphere 6.x - vMBaggum](https://www.vmbaggum.nl/2017/04/change-vmnic-order-vsphere-6-x/) 
+- [Catch a Glimpse of Zero-Touch vSphere Auto Deploy Clusters from Tomorrow - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/05/catch-glimpse-zero-touch-vsphere-auto-deploy-clusters-tomorrow.html) 
