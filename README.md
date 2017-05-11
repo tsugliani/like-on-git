@@ -138,3 +138,4 @@ Bookmark all my links into README.md
 - [Change the vmnic order on vSphere 6.x - vMBaggum](https://www.vmbaggum.nl/2017/04/change-vmnic-order-vsphere-6-x/) 
 - [Catch a Glimpse of Zero-Touch vSphere Auto Deploy Clusters from Tomorrow - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/05/catch-glimpse-zero-touch-vsphere-auto-deploy-clusters-tomorrow.html) 
 - [Project USB to SDDC – Part 3 | virtuallyGhetto](http://www.virtuallyghetto.com/2017/05/project-usb-to-sddc-part-3.html) 
+- [VMware - VCSA or PSC appliance won't boot after hard shutdown – Ludovic Rivallain – VMware SysAdmin](https://lri.ovh/2017/05/10/VMware-VCSA-PSC-wont-boot/) 
