@@ -139,3 +139,4 @@ Bookmark all my links into README.md
 - [Catch a Glimpse of Zero-Touch vSphere Auto Deploy Clusters from Tomorrow - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/05/catch-glimpse-zero-touch-vsphere-auto-deploy-clusters-tomorrow.html) 
 - [Project USB to SDDC – Part 3 | virtuallyGhetto](http://www.virtuallyghetto.com/2017/05/project-usb-to-sddc-part-3.html) 
 - [VMware - VCSA or PSC appliance won't boot after hard shutdown – Ludovic Rivallain – VMware SysAdmin](https://lri.ovh/2017/05/10/VMware-VCSA-PSC-wont-boot/) 
+- [Cloning and Snapshots on vSAN when policy requirements cannot be met - CormacHogan.com](http://cormachogan.com/2017/05/11/cloning-snapshots-vsan-policy-requirements-cannot-met/) 
