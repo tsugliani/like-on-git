@@ -133,3 +133,6 @@ Bookmark all my links into README.md
 - [Whats in the Lab for 2017? - The IT Hollow](http://theithollow.com/2017/05/01/whats-lab-2017/?utm_content=buffer4ce0d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [VXLAN & Linux | Vincent Bernat](https://vincent.bernat.im/en/blog/2017-vxlan-linux) 
 - [How to Export Running VM from vCloud Director – Tom Fojta's Blog](https://fojta.wordpress.com/2017/05/05/how-to-export-running-vm-from-vcloud-director/) 
+
+### May 12, 2017
+- [Change the vmnic order on vSphere 6.x - vMBaggum](https://www.vmbaggum.nl/2017/04/change-vmnic-order-vsphere-6-x/) 
