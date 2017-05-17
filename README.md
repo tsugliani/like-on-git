@@ -140,3 +140,6 @@ Bookmark all my links into README.md
 - [Project USB to SDDC – Part 3 | virtuallyGhetto](http://www.virtuallyghetto.com/2017/05/project-usb-to-sddc-part-3.html) 
 - [VMware - VCSA or PSC appliance won't boot after hard shutdown – Ludovic Rivallain – VMware SysAdmin](https://lri.ovh/2017/05/10/VMware-VCSA-PSC-wont-boot/) 
 - [Cloning and Snapshots on vSAN when policy requirements cannot be met - CormacHogan.com](http://cormachogan.com/2017/05/11/cloning-snapshots-vsan-policy-requirements-cannot-met/) 
+
+### May 17, 2017
+- [Using Tags with Storage Policy Based Management - CormacHogan.com](http://cormachogan.com/2017/05/16/using-tags-storage-policy-based-management/) 
