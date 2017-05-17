@@ -149,3 +149,4 @@ Bookmark all my links into README.md
 - [Introducing Docker Multi-Stage Builds – mikesir87's blog](https://blog.mikesir87.io/2017/03/introducing-docker-multi-stage-builds/) 
 - [VMware cloud design decisions: LACP part 1 - Cumulus Networks Blog](https://cumulusnetworks.com/blog/vmware-cloud-design-lacp/) 
 - [How MLAG interacts with the host: LACP part 2 - Cumulus Networks Blog](https://cumulusnetworks.com/blog/mlag-and-lacp/) 
+- [Sharing state between host and upstream network: LACP part 3 - Cumulus Networks Blog](https://cumulusnetworks.com/blog/sharing-state-between-host-and-upstream-network%E2%80%A8-lacp-3/) 
