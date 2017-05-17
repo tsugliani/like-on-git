@@ -145,3 +145,4 @@ Bookmark all my links into README.md
 - [Using Tags with Storage Policy Based Management - CormacHogan.com](http://cormachogan.com/2017/05/16/using-tags-storage-policy-based-management/) 
 - [Appcanary - Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html) 
 - [WannaCry — The largest ransom-ware infection in History](https://blog.comae.io/wannacry-the-largest-ransom-ware-infection-in-history-f37da8e30a58) 
+- [Building a NSX-T nested lab with virtualised physical switches, BGP, ECMP and the kitchen sink attached.](https://vxsan.com/building-a-nsx-t-nested-lab-2/) 
