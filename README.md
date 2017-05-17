@@ -147,3 +147,4 @@ Bookmark all my links into README.md
 - [WannaCry — The largest ransom-ware infection in History](https://blog.comae.io/wannacry-the-largest-ransom-ware-infection-in-history-f37da8e30a58) 
 - [Building a NSX-T nested lab with virtualised physical switches, BGP, ECMP and the kitchen sink attached.](https://vxsan.com/building-a-nsx-t-nested-lab-2/) 
 - [Introducing Docker Multi-Stage Builds – mikesir87's blog](https://blog.mikesir87.io/2017/03/introducing-docker-multi-stage-builds/) 
+- [VMware cloud design decisions: LACP part 1 - Cumulus Networks Blog](https://cumulusnetworks.com/blog/vmware-cloud-design-lacp/) 
