@@ -144,3 +144,4 @@ Bookmark all my links into README.md
 ### May 17, 2017
 - [Using Tags with Storage Policy Based Management - CormacHogan.com](http://cormachogan.com/2017/05/16/using-tags-storage-policy-based-management/) 
 - [Appcanary - Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html) 
+- [WannaCry — The largest ransom-ware infection in History](https://blog.comae.io/wannacry-the-largest-ransom-ware-infection-in-history-f37da8e30a58) 
