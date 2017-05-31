@@ -162,3 +162,4 @@ Bookmark all my links into README.md
 - [Installation · firehol/netdata Wiki](https://github.com/firehol/netdata/wiki/Installation) 
 - [Home Made OBN - LucD notes](http://www.lucd.info/2017/05/30/home-made-obn/) 
 - [Homelab - Lab Access Made Easy with Free Veeam Powered Network - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/homelab-lab-access-made-easy-with-free-veeam-powered-network/) 
+- [Timothy Perrett · Envoy with Nomad and Consul](http://timperrett.com/2017/05/13/nomad-with-envoy-and-consul) 
