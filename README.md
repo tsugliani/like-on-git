@@ -154,3 +154,6 @@ Bookmark all my links into README.md
 ### May 23, 2017
 - [GitHub - docker-slim/docker-slim: DockerSlim (docker-slim): Optimize and secure your Docker containers (free and open source)](https://github.com/docker-slim/docker-slim) 
 - [vSphere 5.5/6 DNS failover mechanism – ET goes virtual .com](http://www.etgoesvirtual.com/vmware/vsphere-6-dns-failover-mechanism/) 
+
+### May 31, 2017
+- [Log Insight 4.3: Outbound Notifications and URLs - SFlanders.net](http://sflanders.net/2017/05/30/log-insight-43-outbound-notifications-urls/) 
