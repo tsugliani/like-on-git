@@ -164,3 +164,4 @@ Bookmark all my links into README.md
 - [Homelab - Lab Access Made Easy with Free Veeam Powered Network - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/homelab-lab-access-made-easy-with-free-veeam-powered-network/) 
 - [Timothy Perrett · Envoy with Nomad and Consul](http://timperrett.com/2017/05/13/nomad-with-envoy-and-consul) 
 - [Technology Short Take #83 · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2017/05/26/technology-short-take-83/) 
+- [Managing you Docker images in the cloud with Azure Container Registry – Juanma's Blog](http://blog.jreypo.io/containers/microsoft/azure/cloud/cloud-native/managing-you-docker-images-in-the-cloud-with-azure-container-registry/) 
