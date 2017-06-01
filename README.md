@@ -165,3 +165,6 @@ Bookmark all my links into README.md
 - [Timothy Perrett · Envoy with Nomad and Consul](http://timperrett.com/2017/05/13/nomad-with-envoy-and-consul) 
 - [Technology Short Take #83 · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org//2017/05/26/technology-short-take-83/) 
 - [Managing you Docker images in the cloud with Azure Container Registry – Juanma's Blog](http://blog.jreypo.io/containers/microsoft/azure/cloud/cloud-native/managing-you-docker-images-in-the-cloud-with-azure-container-registry/) 
+
+### June 1, 2017
+- [Docker Reference Architecture: Development Pipeline Best Practices Using Docker EE - Docker, Inc.](https://success.docker.com/Architecture/Docker_Reference_Architecture%3A_Development_Pipeline_Best_Practices_Using_Docker_EE) 
