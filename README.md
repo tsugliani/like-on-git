@@ -168,3 +168,6 @@ Bookmark all my links into README.md
 
 ### June 1, 2017
 - [Docker Reference Architecture: Development Pipeline Best Practices Using Docker EE - Docker, Inc.](https://success.docker.com/Architecture/Docker_Reference_Architecture%3A_Development_Pipeline_Best_Practices_Using_Docker_EE) 
+
+### June 6, 2017
+- [Integrating Amazon Echo and VMware API’s | The Humble Lab](https://www.thehumblelab.com/integrating-echo-vmware/) 
