@@ -173,3 +173,6 @@ Bookmark all my links into README.md
 - [Integrating Amazon Echo and VMware API’s | The Humble Lab](https://www.thehumblelab.com/integrating-echo-vmware/) 
 - [Part 2: SuperMicro SuperServer E300-8D deep dive - Michael Ryom](https://michaelryom.dk/part-2-supermicro-superserver-e300-8d-deep-dive/?doing_wp_cron=1496776465.0431599617004394531250) 
 - [On Conference Speaking · Hynek Schlawack](https://hynek.me/articles/speaking/) 
+
+### June 8, 2017
+- [Our Lessons Learned Building a Backend-as-a-Service: A Technical Deep Dive](https://medium.baqend.com/how-to-develop-a-backend-as-a-service-from-scratch-lessons-learned-a9fac618c2ce) 
