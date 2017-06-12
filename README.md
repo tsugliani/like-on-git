@@ -186,3 +186,4 @@ Bookmark all my links into README.md
 - [VSAN 6.5 to 6.6 Upgrade Issues with CLOMD Liveness | Lab-Rat](https://lab-rat.com.au/2017/05/26/vsan-6-5-to-6-6-upgrade-issues-clomd-liveness/) 
 - [How to Auto Deploy stateless nested ESXi hosts with NICs on trunked VLAN port groups - Bearded Cloud Crusader](http://www.kanecharles.com/?p=158) 
 - [Manage Existing vCenter Servers via vCloud Director - VMware vCloud](https://blogs.vmware.com/vcloud/2017/06/manage-existing-vcenter-servers-via-vcloud-director.html) 
+- [18F: Digital service delivery | From launch to landing: How NASA took control of its HTTPS mission](https://18f.gsa.gov/2017/05/25/from-launch-to-landing-how-nasa-took-control-of-its-https-mission/) 
