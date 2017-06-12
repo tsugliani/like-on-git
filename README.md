@@ -183,3 +183,4 @@ Bookmark all my links into README.md
 
 ### June 12, 2017
 - [You Are Not Google – Bradfield](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) 
+- [VSAN 6.5 to 6.6 Upgrade Issues with CLOMD Liveness | Lab-Rat](https://lab-rat.com.au/2017/05/26/vsan-6-5-to-6-6-upgrade-issues-clomd-liveness/) 
