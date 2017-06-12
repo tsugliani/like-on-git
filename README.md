@@ -180,3 +180,6 @@ Bookmark all my links into README.md
 ### June 9, 2017
 - [Kubernetes pod networking and beyond with BGP](https://cloudnativelabs.github.io/post/2017-05-22-kube-pod-networking/) 
 - [Timothy Perrett · Envoy with Nomad and Consul](http://timperrett.com/2017/05/13/nomad-with-envoy-and-consul) 
+
+### June 12, 2017
+- [You Are Not Google – Bradfield](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) 
