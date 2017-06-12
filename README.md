@@ -187,3 +187,4 @@ Bookmark all my links into README.md
 - [How to Auto Deploy stateless nested ESXi hosts with NICs on trunked VLAN port groups - Bearded Cloud Crusader](http://www.kanecharles.com/?p=158) 
 - [Manage Existing vCenter Servers via vCloud Director - VMware vCloud](https://blogs.vmware.com/vcloud/2017/06/manage-existing-vcenter-servers-via-vcloud-director.html) 
 - [18F: Digital service delivery | From launch to landing: How NASA took control of its HTTPS mission](https://18f.gsa.gov/2017/05/25/from-launch-to-landing-how-nasa-took-control-of-its-https-mission/) 
+- [Retrieving vCloud Director VM Chain Length with PowerCLI | orchestration.io](https://orchestration.io/2015/11/20/retrieving-vcloud-director-vm-chain-length-with-powercli/) 
