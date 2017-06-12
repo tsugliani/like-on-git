@@ -185,3 +185,4 @@ Bookmark all my links into README.md
 - [You Are Not Google – Bradfield](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) 
 - [VSAN 6.5 to 6.6 Upgrade Issues with CLOMD Liveness | Lab-Rat](https://lab-rat.com.au/2017/05/26/vsan-6-5-to-6-6-upgrade-issues-clomd-liveness/) 
 - [How to Auto Deploy stateless nested ESXi hosts with NICs on trunked VLAN port groups - Bearded Cloud Crusader](http://www.kanecharles.com/?p=158) 
+- [Manage Existing vCenter Servers via vCloud Director - VMware vCloud](https://blogs.vmware.com/vcloud/2017/06/manage-existing-vcenter-servers-via-vcloud-director.html) 
