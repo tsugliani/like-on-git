@@ -189,3 +189,6 @@ Bookmark all my links into README.md
 - [18F: Digital service delivery | From launch to landing: How NASA took control of its HTTPS mission](https://18f.gsa.gov/2017/05/25/from-launch-to-landing-how-nasa-took-control-of-its-https-mission/) 
 - [Retrieving vCloud Director VM Chain Length with PowerCLI | orchestration.io](https://orchestration.io/2015/11/20/retrieving-vcloud-director-vm-chain-length-with-powercli/) 
 - [Introducing Alexa to a few more VMware APIs | virtuallyGhetto](http://www.virtuallyghetto.com/2017/06/introducing-alexa-to-a-few-more-vmware-apis.html) 
+
+### June 13, 2017
+- [Welcome to my VMware-vCD-Module Module — VMware-vCD-Module latest documentation](http://vmware-vcd-module.readthedocs.io/en/latest/#) 
