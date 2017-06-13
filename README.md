@@ -193,3 +193,4 @@ Bookmark all my links into README.md
 ### June 13, 2017
 - [Welcome to my VMware-vCD-Module Module — VMware-vCD-Module latest documentation](http://vmware-vcd-module.readthedocs.io/en/latest/#) 
 - [PowerCLI vCloud Director Customer Provisioning - my cloud-(r)evolution](https://mycloudrevolution.com/2017/06/13/powercli-vcloud-director-customer-provisioning/) 
+- [Pragmatic API Versioning](https://fly.io/articles/pragmatic-api-versioning/) 
