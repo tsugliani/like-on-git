@@ -194,3 +194,4 @@ Bookmark all my links into README.md
 - [Welcome to my VMware-vCD-Module Module — VMware-vCD-Module latest documentation](http://vmware-vcd-module.readthedocs.io/en/latest/#) 
 - [PowerCLI vCloud Director Customer Provisioning - my cloud-(r)evolution](https://mycloudrevolution.com/2017/06/13/powercli-vcloud-director-customer-provisioning/) 
 - [Pragmatic API Versioning](https://fly.io/articles/pragmatic-api-versioning/) 
+- [Introducing vSphere Virtual Volumes on the FlashArray | Cody Hosterman](http://www.codyhosterman.com/2017/06/introducing-vsphere-virtual-volumes-on-the-flasharray/) 
