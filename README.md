@@ -195,3 +195,6 @@ Bookmark all my links into README.md
 - [PowerCLI vCloud Director Customer Provisioning - my cloud-(r)evolution](https://mycloudrevolution.com/2017/06/13/powercli-vcloud-director-customer-provisioning/) 
 - [Pragmatic API Versioning](https://fly.io/articles/pragmatic-api-versioning/) 
 - [Introducing vSphere Virtual Volumes on the FlashArray | Cody Hosterman](http://www.codyhosterman.com/2017/06/introducing-vsphere-virtual-volumes-on-the-flasharray/) 
+
+### June 14, 2017
+- [FreeNAS 11.0 is Now Here - FreeNAS - Open Source Storage Operating System](http://www.freenas.org/blog/freenas-11-0/?utm_source=twitter.com&utm_medium=social&utm_campaign=freenas+11#) 
