@@ -198,3 +198,6 @@ Bookmark all my links into README.md
 
 ### June 14, 2017
 - [FreeNAS 11.0 is Now Here - FreeNAS - Open Source Storage Operating System](http://www.freenas.org/blog/freenas-11-0/?utm_source=twitter.com&utm_medium=social&utm_campaign=freenas+11#) 
+
+### June 15, 2017
+- [PowerCLI in Production: What You Need To Know](http://vmkdaily.ghost.io/powercli-in-production-what-you-need-to-know/) 
