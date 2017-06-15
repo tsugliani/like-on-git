@@ -40,3 +40,6 @@ Bookmark all my links into README.md
 - [Using the vCenter 6.5 API to Deploy Virtual Machines with PowerCLI](http://vmkdaily.ghost.io/using-the-vcenter-6-5-api-to-deploy-virtual-machines-with-powercli/) 
 - [How changing ‘localhost’ to ‘127.0.0.1’ sped up my test suite by 1,800%](https://hackernoon.com/how-changing-localhost-to-127-0-0-1-sped-up-my-test-suite-by-1-800-8143ce770736) 
 - [Spotlight on the New DRS Groups and VM-Host Rule Cmdlets! - VMware PowerCLI Blog - VMware Blogs](https://blogs.vmware.com/PowerCLI/2017/06/spotlight-new-drs-cmdlets.html) 
+
+### June 16, 2017
+- [Reading NSX VXLAN Encapsulated Frames in Wireshark ~ CCIE5851](http://ccie5851.blogspot.fr/2017/06/reading-nsx-vxlan-encapsulated-frames.html) 
