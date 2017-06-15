@@ -37,5 +37,4 @@ Bookmark all my links into README.md
 
 ### June 15, 2017
 - [PowerCLI in Production: What You Need To Know](http://vmkdaily.ghost.io/powercli-in-production-what-you-need-to-know/) 
-- [PowerCLI in Production: What You Need To Know](http://vmkdaily.ghost.io/powercli-in-production-what-you-need-to-know/) 
 - [Using the vCenter 6.5 API to Deploy Virtual Machines with PowerCLI](http://vmkdaily.ghost.io/using-the-vcenter-6-5-api-to-deploy-virtual-machines-with-powercli/) 
