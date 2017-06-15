@@ -39,3 +39,4 @@ Bookmark all my links into README.md
 - [PowerCLI in Production: What You Need To Know](http://vmkdaily.ghost.io/powercli-in-production-what-you-need-to-know/) 
 - [Using the vCenter 6.5 API to Deploy Virtual Machines with PowerCLI](http://vmkdaily.ghost.io/using-the-vcenter-6-5-api-to-deploy-virtual-machines-with-powercli/) 
 - [How changing ‘localhost’ to ‘127.0.0.1’ sped up my test suite by 1,800%](https://hackernoon.com/how-changing-localhost-to-127-0-0-1-sped-up-my-test-suite-by-1-800-8143ce770736) 
+- [Spotlight on the New DRS Groups and VM-Host Rule Cmdlets! - VMware PowerCLI Blog - VMware Blogs](https://blogs.vmware.com/PowerCLI/2017/06/spotlight-new-drs-cmdlets.html) 
