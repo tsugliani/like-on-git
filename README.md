@@ -201,3 +201,4 @@ Bookmark all my links into README.md
 
 ### June 15, 2017
 - [PowerCLI in Production: What You Need To Know](http://vmkdaily.ghost.io/powercli-in-production-what-you-need-to-know/) 
+- [PowerCLI in Production: What You Need To Know](http://vmkdaily.ghost.io/powercli-in-production-what-you-need-to-know/) 
