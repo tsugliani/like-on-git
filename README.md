@@ -43,3 +43,4 @@ Bookmark all my links into README.md
 
 ### June 16, 2017
 - [Reading NSX VXLAN Encapsulated Frames in Wireshark ~ CCIE5851](http://ccie5851.blogspot.fr/2017/06/reading-nsx-vxlan-encapsulated-frames.html) 
+- [Metrics and events collection in Ingenico Payment Services | Jean Lubatti | Pulse | LinkedIn](https://www.linkedin.com/pulse/metrics-events-collection-ingenico-payment-services-jean-lubatti) 
