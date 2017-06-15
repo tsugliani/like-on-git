@@ -38,3 +38,4 @@ Bookmark all my links into README.md
 ### June 15, 2017
 - [PowerCLI in Production: What You Need To Know](http://vmkdaily.ghost.io/powercli-in-production-what-you-need-to-know/) 
 - [Using the vCenter 6.5 API to Deploy Virtual Machines with PowerCLI](http://vmkdaily.ghost.io/using-the-vcenter-6-5-api-to-deploy-virtual-machines-with-powercli/) 
+- [How changing ‘localhost’ to ‘127.0.0.1’ sped up my test suite by 1,800%](https://hackernoon.com/how-changing-localhost-to-127-0-0-1-sped-up-my-test-suite-by-1-800-8143ce770736) 
