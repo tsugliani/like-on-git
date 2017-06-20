@@ -60,3 +60,4 @@ Bookmark all my links into README.md
 - [VMware VAMI PowerCLi module – ps1code.com](https://ps1code.com/2017/05/11/vami-powercli-module/) 
 - [VMware VSAN PowerCLi module – ps1code.com](https://ps1code.com/2017/05/08/vsan-health-check/) 
 - [How to configure NTP settings on ESXi hosts w/PowerCLi – ps1code.com](https://ps1code.com/2016/03/10/set-esxi-ntp-powercli/) 
+- [How to enable/disable SSH on all ESXi hosts in a cluster w/PowerCLi – ps1code.com](https://ps1code.com/2016/02/07/enable-disable-ssh-esxi-powercli/) 
