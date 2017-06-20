@@ -54,3 +54,4 @@ Bookmark all my links into README.md
 ### June 20, 2017
 - [LinuxKit meets AWS, a technical POC](https://bee42.com/blog/linuxkit-with-initial-aws-support/) 
 - [Auditing/Logging vCenter Server authentication & authorization activities | virtuallyGhetto](http://www.virtuallyghetto.com/2017/06/auditinglogging-vcenter-server-authentication-authorization-activities.html) 
+- [VMware NSX Achieves Common Criteria EAL 2+ Certification - Network Virtualization](https://blogs.vmware.com/networkvirtualization/2017/06/vmware-nsx-common-criteria.html/) 
