@@ -62,3 +62,4 @@ Bookmark all my links into README.md
 - [How to configure NTP settings on ESXi hosts w/PowerCLi – ps1code.com](https://ps1code.com/2016/03/10/set-esxi-ntp-powercli/) 
 - [How to enable/disable SSH on all ESXi hosts in a cluster w/PowerCLi – ps1code.com](https://ps1code.com/2016/02/07/enable-disable-ssh-esxi-powercli/) 
 - [How to know ESXi servers BIOS/Firmware version w/PowerCLi – ps1code.com](https://ps1code.com/2016/01/09/esxi-bios-firmware-version-powercli/) 
+- [How to convert Thin Provision VMDK disks to Eager Zeroed Thick w/PowerCLi – ps1code.com](https://ps1code.com/2015/11/05/convert-vmdk-thin2thick-powercli/) 
