@@ -57,3 +57,4 @@ Bookmark all my links into README.md
 - [VMware NSX Achieves Common Criteria EAL 2+ Certification - Network Virtualization](https://blogs.vmware.com/networkvirtualization/2017/06/vmware-nsx-common-criteria.html/) 
 - [Kubernetes Ingress – Jay Gorrell – Medium](https://medium.com/@cashisclay/kubernetes-ingress-82aa960f658e) 
 - [Build Your Very Own VMware Hands-On-Labs! (with vRA and NSX) | Virtual Insanity](http://virtualinsanity.com/index.php/2017/02/05/build-your-very-own-vmware-hands-on-labs-with-vra-and-nsx/) 
+- [VMware VAMI PowerCLi module – ps1code.com](https://ps1code.com/2017/05/11/vami-powercli-module/) 
