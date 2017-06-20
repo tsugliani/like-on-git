@@ -50,3 +50,6 @@ Bookmark all my links into README.md
 - [How to retry commands in PowerShell | endjin blog](https://blogs.endjin.com/2014/07/how-to-retry-commands-in-powershell/) 
 - [Block Retry using Powershell - ALEX BEVILACQUA](http://www.alexbevi.com/blog/2015/02/06/block-retry-using-powershell/) 
 - [What Is A Static Website](http://nilclass.com/courses/what-is-a-static-website/#1) 
+
+### June 20, 2017
+- [LinuxKit meets AWS, a technical POC](https://bee42.com/blog/linuxkit-with-initial-aws-support/) 
