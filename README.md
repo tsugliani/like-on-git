@@ -65,3 +65,6 @@ Bookmark all my links into README.md
 - [How to convert Thin Provision VMDK disks to Eager Zeroed Thick w/PowerCLi – ps1code.com](https://ps1code.com/2015/11/05/convert-vmdk-thin2thick-powercli/) 
 - [PowerShell - How to format Write-Host with multiple colors - Evotec](https://evotec.xyz/powershell-how-to-format-powershell-write-host-with-multiple-colors) 
 - [Managing Secrets in Docker Swarm – Hacker Noon](https://hackernoon.com/managing-secrets-in-docker-swarm-6da766f1357d) 
+
+### June 21, 2017
+- [CPU Overallocation and Poor Network Performance in vCD - Beware of Resource Pools - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/cpu-overallocation-and-poor-network-performance-in-vcd-beware-of-resource-pools/) 
