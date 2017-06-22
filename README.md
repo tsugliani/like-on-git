@@ -71,3 +71,4 @@ Bookmark all my links into README.md
 
 ### June 22, 2017
 - [How to Customize vCloud Director UI – Tom Fojta's Blog](https://fojta.wordpress.com/2017/06/22/how-to-customize-vcloud-director-ui/) 
+- [Log Insight 4.5: Active Directory Deprecation - SFlanders.net](http://sflanders.net/2017/06/22/log-insight-4-5-active-directory-deprecation/) 
