@@ -68,3 +68,6 @@ Bookmark all my links into README.md
 
 ### June 21, 2017
 - [CPU Overallocation and Poor Network Performance in vCD - Beware of Resource Pools - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/cpu-overallocation-and-poor-network-performance-in-vcd-beware-of-resource-pools/) 
+
+### June 22, 2017
+- [How to Customize vCloud Director UI – Tom Fojta's Blog](https://fojta.wordpress.com/2017/06/22/how-to-customize-vcloud-director-ui/) 
