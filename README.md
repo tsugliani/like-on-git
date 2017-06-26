@@ -80,3 +80,4 @@ Bookmark all my links into README.md
 - [IPv4 route lookup on Linux | Vincent Bernat](https://vincent.bernat.im/en/blog/2017-ipv4-route-lookup-linux) 
 - [Going open-source in monitoring, part 0: Intro – Sergey Nuzhdin – Medium](https://medium.com/@SergeyNuzhdin/going-open-source-in-monitoring-part-0-intro-dffa2b40665f) 
 - [Going open-source in monitoring, part II: Creating the first dashboard in Grafana](https://medium.com/@SergeyNuzhdin/going-open-source-in-monitoring-part-ii-creating-the-first-dashboard-in-grafana-ada59a4ced2e?__s=me1qpmgt4arywa7zdfsa) 
+- [Quick Tip To Find Out What Your Background Jobs Are Doing | Learn Powershell | Achieve More](https://learn-powershell.net/2011/11/04/quick-tip-to-find-out-what-your-background-jobs-are-doing/) 
