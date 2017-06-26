@@ -78,3 +78,4 @@ Bookmark all my links into README.md
 
 ### June 26, 2017
 - [IPv4 route lookup on Linux | Vincent Bernat](https://vincent.bernat.im/en/blog/2017-ipv4-route-lookup-linux) 
+- [Going open-source in monitoring, part 0: Intro – Sergey Nuzhdin – Medium](https://medium.com/@SergeyNuzhdin/going-open-source-in-monitoring-part-0-intro-dffa2b40665f) 
