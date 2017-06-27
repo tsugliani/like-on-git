@@ -86,3 +86,4 @@ Bookmark all my links into README.md
 ### June 27, 2017
 - [New Nested ESXi 6.x Content Library  | virtuallyGhetto](http://www.virtuallyghetto.com/2017/06/new-nested-esxi-6-x-content-library.html) 
 - [vCloud Tools](http://gds-operations.github.io/vcloud-tools/) 
+- [SSO for vCloud Availability Portal UI – Tom Fojta's Blog](https://fojta.wordpress.com/2017/06/23/sso-for-vcloud-availability-portal-ui/) 
