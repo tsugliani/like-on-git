@@ -82,3 +82,6 @@ Bookmark all my links into README.md
 - [Going open-source in monitoring, part II: Creating the first dashboard in Grafana](https://medium.com/@SergeyNuzhdin/going-open-source-in-monitoring-part-ii-creating-the-first-dashboard-in-grafana-ada59a4ced2e?__s=me1qpmgt4arywa7zdfsa) 
 - [Quick Tip To Find Out What Your Background Jobs Are Doing | Learn Powershell | Achieve More](https://learn-powershell.net/2011/11/04/quick-tip-to-find-out-what-your-background-jobs-are-doing/) 
 - [Useful Resources to Teach Yourself PowerShell DSC · Nicholas Dille](http://dille.name/blog/2014/12/10/useful-resources-to-teach-yourself-powershell-dsc/) 
+
+### June 27, 2017
+- [New Nested ESXi 6.x Content Library  | virtuallyGhetto](http://www.virtuallyghetto.com/2017/06/new-nested-esxi-6-x-content-library.html) 
