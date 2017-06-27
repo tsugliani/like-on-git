@@ -87,3 +87,4 @@ Bookmark all my links into README.md
 - [New Nested ESXi 6.x Content Library  | virtuallyGhetto](http://www.virtuallyghetto.com/2017/06/new-nested-esxi-6-x-content-library.html) 
 - [vCloud Tools](http://gds-operations.github.io/vcloud-tools/) 
 - [SSO for vCloud Availability Portal UI – Tom Fojta's Blog](https://fojta.wordpress.com/2017/06/23/sso-for-vcloud-availability-portal-ui/) 
+- [How to convert vSAN RVC commands into PowerCLI and/or other vSphere SDKs? | virtuallyGhetto](http://www.virtuallyghetto.com/2017/06/how-to-convert-vsan-rvc-commands-into-powercli-andor-other-vsphere-sdks.html) 
