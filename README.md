@@ -92,3 +92,4 @@ Bookmark all my links into README.md
 ### June 28, 2017
 - [How to convert vSAN RVC commands into PowerCLI and/or other vSphere SDKs? | virtuallyGhetto](http://www.virtuallyghetto.com/2017/06/how-to-convert-vsan-rvc-commands-into-powercli-andor-other-vsphere-sdks.html) 
 - [PowerCLI - Create vCloud Director Edge Gateway - my cloud-(r)evolution](https://mycloudrevolution.com/2017/06/27/powercli-create-vcloud-director-edge-gateway/) 
+- [Git and GitHub Integration comes to Atom | Atom Blog](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html) 
