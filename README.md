@@ -88,3 +88,6 @@ Bookmark all my links into README.md
 - [vCloud Tools](http://gds-operations.github.io/vcloud-tools/) 
 - [SSO for vCloud Availability Portal UI – Tom Fojta's Blog](https://fojta.wordpress.com/2017/06/23/sso-for-vcloud-availability-portal-ui/) 
 - [How to convert vSAN RVC commands into PowerCLI and/or other vSphere SDKs? | virtuallyGhetto](http://www.virtuallyghetto.com/2017/06/how-to-convert-vsan-rvc-commands-into-powercli-andor-other-vsphere-sdks.html) 
+
+### June 28, 2017
+- [How to convert vSAN RVC commands into PowerCLI and/or other vSphere SDKs? | virtuallyGhetto](http://www.virtuallyghetto.com/2017/06/how-to-convert-vsan-rvc-commands-into-powercli-andor-other-vsphere-sdks.html) 
