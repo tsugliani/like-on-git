@@ -95,3 +95,6 @@ Bookmark all my links into README.md
 - [Git and GitHub Integration comes to Atom | Atom Blog](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html) 
 - [Why does Red Hat Enterprise Linux 6 and above invalidate / discard packets when the route for outbound traffic differs from the route of incoming traffic? - Red Hat Customer Portal](https://access.redhat.com/solutions/53031) 
 - [Is it possible to host Facebook on AWS? | The Official SQLizer Blog](http://blog.sqlizer.io/posts/facebook-on-aws/) 
+
+### June 29, 2017
+- [mkosi — A Tool for Generating OS Images](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html) 
