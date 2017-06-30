@@ -101,3 +101,4 @@ Bookmark all my links into README.md
 
 ### June 30, 2017
 - [PowerShell: Deploying vCenter High Availability in Advanced Mode – DefinIT](https://www.definit.co.uk/2017/06/powershell-deploying-vcenter-high-availability-in-advanced-mode/) 
+- [golang-alpine - Build golang binaries for alpine linux](https://www.blang.io/posts/2015-04_golang-alpine-build-golang-binaries-for-alpine-linux/) 
