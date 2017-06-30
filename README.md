@@ -103,3 +103,4 @@ Bookmark all my links into README.md
 - [PowerShell: Deploying vCenter High Availability in Advanced Mode – DefinIT](https://www.definit.co.uk/2017/06/powershell-deploying-vcenter-high-availability-in-advanced-mode/) 
 - [golang-alpine - Build golang binaries for alpine linux](https://www.blang.io/posts/2015-04_golang-alpine-build-golang-binaries-for-alpine-linux/) 
 - [Building Minimal Docker Containers for Go Applications | Codeship | via @codeship](https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/) 
+- [Provisioning Clones using Modified Customization Specifications and Specific Port Groups - Wahl Network](http://wahlnetwork.com/2015/04/06/customization-specifications/) 
