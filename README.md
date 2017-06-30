@@ -98,3 +98,6 @@ Bookmark all my links into README.md
 
 ### June 29, 2017
 - [mkosi — A Tool for Generating OS Images](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html) 
+
+### June 30, 2017
+- [PowerShell: Deploying vCenter High Availability in Advanced Mode – DefinIT](https://www.definit.co.uk/2017/06/powershell-deploying-vcenter-high-availability-in-advanced-mode/) 
