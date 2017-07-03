@@ -111,3 +111,4 @@ Bookmark all my links into README.md
 - [Horizon View API - The SLOG – SimonLong/Blog](http://www.simonlong.co.uk/blog/horizon-view-api/#Desktop_Pools) 
 - [PowerShell: Deploying vCenter High Availability in Advanced Mode – DefinIT](https://www.definit.co.uk/2017/06/powershell-deploying-vcenter-high-availability-in-advanced-mode/) 
 - [Changing the SSH Login Banner on a NSX Edge Device | vWud.net](https://vwud.net/2017/06/29/changing-the-ssh-login-banner-on-a-nsx-edge-device/) 
+- [Hugo tranquilpeak theme](https://themes.gohugo.io/theme/hugo-tranquilpeak-theme/) 
