@@ -104,3 +104,6 @@ Bookmark all my links into README.md
 - [golang-alpine - Build golang binaries for alpine linux](https://www.blang.io/posts/2015-04_golang-alpine-build-golang-binaries-for-alpine-linux/) 
 - [Building Minimal Docker Containers for Go Applications | Codeship | via @codeship](https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/) 
 - [Provisioning Clones using Modified Customization Specifications and Specific Port Groups - Wahl Network](http://wahlnetwork.com/2015/04/06/customization-specifications/) 
+
+### July 3, 2017
+- [Is it possible to host Facebook on AWS? | The Official SQLizer Blog](http://blog.sqlizer.io/posts/facebook-on-aws/) 
