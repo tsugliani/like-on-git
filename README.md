@@ -109,3 +109,4 @@ Bookmark all my links into README.md
 - [Is it possible to host Facebook on AWS? | The Official SQLizer Blog](http://blog.sqlizer.io/posts/facebook-on-aws/) 
 - [Automating VMware Horizon 7 with VMware PowerCLI 6.5 - VMware End-User Computing Blog](https://blogs.vmware.com/euc/2017/01/vmware-horizon-7-powercli-6-5.html) 
 - [Horizon View API - The SLOG – SimonLong/Blog](http://www.simonlong.co.uk/blog/horizon-view-api/#Desktop_Pools) 
+- [PowerShell: Deploying vCenter High Availability in Advanced Mode – DefinIT](https://www.definit.co.uk/2017/06/powershell-deploying-vcenter-high-availability-in-advanced-mode/) 
