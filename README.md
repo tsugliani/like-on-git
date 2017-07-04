@@ -116,3 +116,4 @@ Bookmark all my links into README.md
 ### July 4, 2017
 - [bento/debian-9.0-amd64.json at master · chef/bento](https://github.com/chef/bento/blob/master/debian-9.0-amd64.json) 
 - [AWS Certified Solutions Architect – Associate | TheSaffaGeek](https://thesaffageek.co.uk/aws/aws-certified-solutions-architect-associate/) 
+- [PowerShell - Overwriting line written with Write-Host - Stack Overflow](https://stackoverflow.com/questions/25846889/powershell-overwriting-line-written-with-write-host) 
