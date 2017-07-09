@@ -124,3 +124,4 @@ Bookmark all my links into README.md
 
 ### July 9, 2017
 - [How We Test Our Ansible Roles with Molecule - The Zapier Engineering Blog - Zapier](https://zapier.com/engineering/ansible-molecule/) 
+- [How to integrate AWS and vRealize Network Insight (vRNI) 3.4 - jeffreykusters.nl](https://www.jeffreykusters.nl/2017/07/04/integrate-aws-vrealize-network-insight-vrni-3-4/) 
