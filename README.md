@@ -121,3 +121,6 @@ Bookmark all my links into README.md
 - [37 – DCI is dead, long live to DCI | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1588) 
 - [Performance progression of IPv4 route lookup on Linux | Vincent Bernat](https://vincent.bernat.im/en/blog/2017-performance-progression-ipv4-route-lookup-linux) 
 - [Gagallium : How I found a bug in Intel Skylake processors](http://gallium.inria.fr/blog/intel-skylake-bug/) 
+
+### July 9, 2017
+- [How We Test Our Ansible Roles with Molecule - The Zapier Engineering Blog - Zapier](https://zapier.com/engineering/ansible-molecule/) 
