@@ -130,3 +130,4 @@ Bookmark all my links into README.md
 - [VMkernel Observations (VOBs) - Yellow Bricks](http://www.yellow-bricks.com/2017/07/07/vmkernel-observations-vobs/) 
 - [37 – DCI is dead, long live to DCI | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1588) 
 - [The Last Windows 7 ISO You’ll Ever Need: How to Slipstream the Convenience Rollup](https://www.howtogeek.com/255540/the-last-windows-7-iso-youll-ever-need-how-to-slipstream-the-convenience-rollup/) 
+- [MikroTik Routers and Wireless - Software](https://www.mikrotik.com/thedude) 
