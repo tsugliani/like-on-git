@@ -128,3 +128,4 @@ Bookmark all my links into README.md
 
 ### July 10, 2017
 - [VMkernel Observations (VOBs) - Yellow Bricks](http://www.yellow-bricks.com/2017/07/07/vmkernel-observations-vobs/) 
+- [37 – DCI is dead, long live to DCI | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1588) 
