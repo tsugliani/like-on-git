@@ -132,3 +132,6 @@ Bookmark all my links into README.md
 - [The Last Windows 7 ISO You’ll Ever Need: How to Slipstream the Convenience Rollup](https://www.howtogeek.com/255540/the-last-windows-7-iso-youll-ever-need-how-to-slipstream-the-convenience-rollup/) 
 - [MikroTik Routers and Wireless - Software](https://www.mikrotik.com/thedude) 
 - [Animated Icons | Icons8](https://icons8.com/c/animated-icons) 
+
+### July 11, 2017
+- [Spotting a Million Dollars in Your AWS Account · Segment Blog](https://segment.com/blog/spotting-a-million-dollars-in-your-aws-account/?utm_content=bufferba810&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
