@@ -138,3 +138,4 @@ Bookmark all my links into README.md
 
 ### July 12, 2017
 - [Uniquely identifying VMs in vSphere Part 3: Enhanced Linked Mode & Cross VC-vMotion | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/uniquely-identifying-vms-in-vsphere-part-3-enhanced-linked-mode-cross-vc-vmotion.html) 
+- [Samy Kamkar - pwnat: NAT to NAT client-server communication](https://samy.pl/pwnat/#HOW) 
