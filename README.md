@@ -135,3 +135,6 @@ Bookmark all my links into README.md
 
 ### July 11, 2017
 - [Spotting a Million Dollars in Your AWS Account · Segment Blog](https://segment.com/blog/spotting-a-million-dollars-in-your-aws-account/?utm_content=bufferba810&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+
+### July 12, 2017
+- [Uniquely identifying VMs in vSphere Part 3: Enhanced Linked Mode & Cross VC-vMotion | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/uniquely-identifying-vms-in-vsphere-part-3-enhanced-linked-mode-cross-vc-vmotion.html) 
