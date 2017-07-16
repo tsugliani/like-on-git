@@ -142,3 +142,6 @@ Bookmark all my links into README.md
 
 ### July 13, 2017
 - [ZFS Is the Best Filesystem (For Now...) - Stephen Foskett, Pack Rat](http://blog.fosketts.net/2017/07/10/zfs-best-filesystem-now/) 
+
+### July 16, 2017
+- [mmistakes/minimal-mistakes: A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.](https://github.com/mmistakes/minimal-mistakes/) 
