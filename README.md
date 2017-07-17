@@ -151,3 +151,4 @@ Bookmark all my links into README.md
 ### July 17, 2017
 - [Building A Self-Sufficient Docker Cluster | Technology Conversations](https://technologyconversations.com/2017/07/17/building-a-self-sufficient-docker-cluster/) 
 - [VMware NSX and 3rd Party Integration SVM Failure Scenarios – doOdzZZ'sNotes](http://notes.doodzzz.net/2017/07/17/vmware-nsx-and-3rd-party-integration-svm-failure-scenarios/) 
+- [Visualizing live network traffic on the vCenter Server Appliance using net-glimpse | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/visualizing-live-network-traffic-on-the-vcenter-server-appliance-using-net-glimpse.html) 
