@@ -153,3 +153,6 @@ Bookmark all my links into README.md
 - [VMware NSX and 3rd Party Integration SVM Failure Scenarios – doOdzZZ'sNotes](http://notes.doodzzz.net/2017/07/17/vmware-nsx-and-3rd-party-integration-svm-failure-scenarios/) 
 - [Visualizing live network traffic on the vCenter Server Appliance using net-glimpse | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/visualizing-live-network-traffic-on-the-vcenter-server-appliance-using-net-glimpse.html) 
 - [kris-nova/kubicorn: Simple. Kubernetes. Infrastructure.](https://github.com/kris-nova/kubicorn?utm_content=bufferdedf3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+
+### July 18, 2017
+- [VMware and FlashArray PowerShell GUI tool v2.7 | Cody Hosterman](http://www.codyhosterman.com/2017/07/vmware-and-flasharray-powershell-gui-tool-v2-7/) 
