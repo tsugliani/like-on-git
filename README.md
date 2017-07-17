@@ -147,3 +147,6 @@ Bookmark all my links into README.md
 - [mmistakes/minimal-mistakes: A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.](https://github.com/mmistakes/minimal-mistakes/) 
 - [net-glimpse/README.md at master · kristian-lange/net-glimpse](https://github.com/kristian-lange/net-glimpse/blob/master/README.md) 
 - [GitHub - docker/labs: This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.](https://github.com/docker/labs) 
+
+### July 17, 2017
+- [Building A Self-Sufficient Docker Cluster | Technology Conversations](https://technologyconversations.com/2017/07/17/building-a-self-sufficient-docker-cluster/) 
