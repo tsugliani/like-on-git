@@ -165,3 +165,4 @@ Bookmark all my links into README.md
 - [Log Insight VIDM: Redirect URL Host - SFlanders.net](http://sflanders.net/2017/07/18/log-insight-vidm-redirect-url-host/) 
 - [VMware Fusion 2017 Tech Preview adds REST API support | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/vmware-fusion-2017-tech-preview-adds-rest-api-support.html) 
 - [Native OVF support for Fusion/Workstation 2017 Tech Preview  | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/native-ovf-support-for-fusionworkstation-2017-tech-preview.html) 
+- [Utiliser Docker pour administrer des bases de données. Une idée folle ?](https://www.ovh.com/fr/blog/docker-administrer-bases-de-donnees-une-idee-folle#xtor=CS1-2-[Docker]) 
