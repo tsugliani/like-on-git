@@ -163,3 +163,4 @@ Bookmark all my links into README.md
 - [Behind the scene of a major infrastructure company](https://blog.online.net/2017/07/18/behind-the-scene-of-a-major-infrastructure-company/) 
 - [Systemd vs. the Linux Kernel - The New Stack](https://thenewstack.io/systemd-vs-linux-kernel/) 
 - [Log Insight VIDM: Redirect URL Host - SFlanders.net](http://sflanders.net/2017/07/18/log-insight-vidm-redirect-url-host/) 
+- [VMware Fusion 2017 Tech Preview adds REST API support | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/vmware-fusion-2017-tech-preview-adds-rest-api-support.html) 
