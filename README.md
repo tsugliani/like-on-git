@@ -159,3 +159,4 @@ Bookmark all my links into README.md
 - [Building A Self-Sufficient Docker Cluster | Technology Conversations](https://technologyconversations.com/2017/07/17/building-a-self-sufficient-docker-cluster/) 
 - [vic-product/installer at master · vmware/vic-product](https://github.com/vmware/vic-product/tree/master/installer) 
 - [Fabulous macOS Tips & Tricks – 🦄 Sindre Sorhus’ blog](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8) 
+- [SeeminglyScience/EditorServicesCommandSuite: Collection of editor commands for use in PowerShell Editor Services.](https://github.com/SeeminglyScience/EditorServicesCommandSuite) 
