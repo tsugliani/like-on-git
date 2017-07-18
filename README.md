@@ -162,3 +162,4 @@ Bookmark all my links into README.md
 - [SeeminglyScience/EditorServicesCommandSuite: Collection of editor commands for use in PowerShell Editor Services.](https://github.com/SeeminglyScience/EditorServicesCommandSuite) 
 - [Behind the scene of a major infrastructure company](https://blog.online.net/2017/07/18/behind-the-scene-of-a-major-infrastructure-company/) 
 - [Systemd vs. the Linux Kernel - The New Stack](https://thenewstack.io/systemd-vs-linux-kernel/) 
+- [Log Insight VIDM: Redirect URL Host - SFlanders.net](http://sflanders.net/2017/07/18/log-insight-vidm-redirect-url-host/) 
