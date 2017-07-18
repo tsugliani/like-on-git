@@ -160,3 +160,4 @@ Bookmark all my links into README.md
 - [vic-product/installer at master · vmware/vic-product](https://github.com/vmware/vic-product/tree/master/installer) 
 - [Fabulous macOS Tips & Tricks – 🦄 Sindre Sorhus’ blog](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8) 
 - [SeeminglyScience/EditorServicesCommandSuite: Collection of editor commands for use in PowerShell Editor Services.](https://github.com/SeeminglyScience/EditorServicesCommandSuite) 
+- [Behind the scene of a major infrastructure company](https://blog.online.net/2017/07/18/behind-the-scene-of-a-major-infrastructure-company/) 
