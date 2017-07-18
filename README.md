@@ -157,3 +157,4 @@ Bookmark all my links into README.md
 ### July 18, 2017
 - [VMware and FlashArray PowerShell GUI tool v2.7 | Cody Hosterman](http://www.codyhosterman.com/2017/07/vmware-and-flasharray-powershell-gui-tool-v2-7/) 
 - [Building A Self-Sufficient Docker Cluster | Technology Conversations](https://technologyconversations.com/2017/07/17/building-a-self-sufficient-docker-cluster/) 
+- [vic-product/installer at master · vmware/vic-product](https://github.com/vmware/vic-product/tree/master/installer) 
