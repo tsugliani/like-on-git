@@ -68,3 +68,4 @@ Bookmark all my links into README.md
 ### July 19, 2017 
 - [Using the vCenter Login Banner for RSA SecurID support – Mike Foley](https://www.yelof.com/2017/07/19/using-the-vcenter-login-banner-for-rsa-securid-support/) 
 - [Cloud to Cloud to Cloud Networking with Veeam Powered Network - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/cloud-to-cloud-to-cloud-networking-with-veeam-powered-network/) 
+- [The Best Keyboard Ever Is Back](http://www.popularmechanics.com/technology/gadgets/a27123/model-f-project-buckling-spring-keyboard/) 
