@@ -69,3 +69,6 @@ Bookmark all my links into README.md
 - [Using the vCenter Login Banner for RSA SecurID support – Mike Foley](https://www.yelof.com/2017/07/19/using-the-vcenter-login-banner-for-rsa-securid-support/) 
 - [Cloud to Cloud to Cloud Networking with Veeam Powered Network - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/cloud-to-cloud-to-cloud-networking-with-veeam-powered-network/) 
 - [The Best Keyboard Ever Is Back](http://www.popularmechanics.com/technology/gadgets/a27123/model-f-project-buckling-spring-keyboard/) 
+
+### July 20, 2017 
+- [VMware Fusion 2017 Tech Preview adds REST API support | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/vmware-fusion-2017-tech-preview-adds-rest-api-support.html) 
