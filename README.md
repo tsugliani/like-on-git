@@ -72,3 +72,6 @@ Bookmark all my links into README.md
 
 ### July 20, 2017 
 - [VMware Fusion 2017 Tech Preview adds REST API support | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/vmware-fusion-2017-tech-preview-adds-rest-api-support.html) 
+
+### July 23, 2017 
+- [Story of a successful migration to Google Cloud Platform](https://medium.com/meilleursagents-engineering/story-of-a-successful-migration-to-google-cloud-platform-6bc7fa0798e8) 
