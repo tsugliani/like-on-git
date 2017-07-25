@@ -75,3 +75,6 @@ Bookmark all my links into README.md
 
 ### July 23, 2017 
 - [Story of a successful migration to Google Cloud Platform](https://medium.com/meilleursagents-engineering/story-of-a-successful-migration-to-google-cloud-platform-6bc7fa0798e8) 
+
+### July 25, 2017 
+- [Invoking Central CLI commands from NSX Manager API | blog.bertello.org](http://blog.bertello.org/2017/07/invoking-central-cli-commands-from-nsx-manager-api/) 
