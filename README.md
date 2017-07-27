@@ -86,3 +86,4 @@ Bookmark all my links into README.md
 
 ### July 27, 2017 
 - [VMware Cloud on AWS - Predictable Capacity Provisioning - frankdenneman.nl](http://frankdenneman.nl/2017/07/26/vmware-cloud-aws-predictable-capacity-provisioning/) 
+- [Quick Tip – Locating SRM Placeholder VMs using the vSphere API | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/quick-tip-locating-srm-placeholder-vms-using-the-vsphere-api.html) 
