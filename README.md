@@ -83,3 +83,6 @@ Bookmark all my links into README.md
 
 ### July 26, 2017 
 - [Multi-stage Docker builds for tiny IoT images](https://resin.io/blog/multi-stage-docker-builds-for-tiny-iot-images/) 
+
+### July 27, 2017 
+- [VMware Cloud on AWS - Predictable Capacity Provisioning - frankdenneman.nl](http://frankdenneman.nl/2017/07/26/vmware-cloud-aws-predictable-capacity-provisioning/) 
