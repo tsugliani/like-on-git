@@ -93,3 +93,4 @@ Bookmark all my links into README.md
 - [Introducing vSAN 6.6.1 and New Operational Savings - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2017/07/27/introducing-hci-powered-by-vsan-6-6-1/) 
 - [Second vSphere Client (HTML5) update in vSphere 6.5U1 - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/07/second-vsphere-client-html5-update-in-vsphere-6-5u1.html) 
 - [vSphere 6.5 Update 1 - Under the Hood - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/07/vsphere-6-5-update-1-hood.html) 
+- [AHCI (vmw_ahci) performance issue resolved in ESXi 6.5 Update 1 | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/ahci-vmw_ahci-performance-issue-resolved-in-esxi-6-5-update-1.html) 
