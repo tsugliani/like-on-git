@@ -88,3 +88,6 @@ Bookmark all my links into README.md
 - [VMware Cloud on AWS - Predictable Capacity Provisioning - frankdenneman.nl](http://frankdenneman.nl/2017/07/26/vmware-cloud-aws-predictable-capacity-provisioning/) 
 - [Quick Tip – Locating SRM Placeholder VMs using the vSphere API | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/quick-tip-locating-srm-placeholder-vms-using-the-vsphere-api.html) 
 - [Integrating Log Insight Alerts into vSphere with Operations Management - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/07/integrate-log-insight-alerts-into-vsphere.html) 
+
+### July 28, 2017 
+- [Introducing vSAN 6.6.1 and New Operational Savings - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2017/07/27/introducing-hci-powered-by-vsan-6-6-1/) 
