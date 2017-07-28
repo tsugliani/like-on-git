@@ -94,3 +94,4 @@ Bookmark all my links into README.md
 - [Second vSphere Client (HTML5) update in vSphere 6.5U1 - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/07/second-vsphere-client-html5-update-in-vsphere-6-5u1.html) 
 - [vSphere 6.5 Update 1 - Under the Hood - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/07/vsphere-6-5-update-1-hood.html) 
 - [AHCI (vmw_ahci) performance issue resolved in ESXi 6.5 Update 1 | virtuallyGhetto](http://www.virtuallyghetto.com/2017/07/ahci-vmw_ahci-performance-issue-resolved-in-esxi-6-5-update-1.html) 
+- [Where’s all my CPU and memory gone? The answer: Slack](https://medium.com/@matt.at.ably/wheres-all-my-cpu-and-memory-gone-the-answer-slack-9e5c39207cab) 
