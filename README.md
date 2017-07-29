@@ -97,3 +97,6 @@ Bookmark all my links into README.md
 - [Where’s all my CPU and memory gone? The answer: Slack](https://medium.com/@matt.at.ably/wheres-all-my-cpu-and-memory-gone-the-answer-slack-9e5c39207cab) 
 - [Routing with NSX using multiple sites using Locale ID (with eBGP all the way) - Iwan’s wiki](http://www.iwan.wiki/Routing_with_NSX_using_multiple_sites_using_Locale_ID_(with_eBGP_all_the_way)) 
 - [Using PowerCLI to Add vRealize Operations License Key – davidstamen.com](http://davidstamen.com/vrealize%20operations/using-powercli-to-add-vrealize-operations-license-key/) 
+
+### July 29, 2017 
+- [Tracing a packet journey using Linux tracepoints, perf and eBPF | Yet another enthusiast blog!](https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/) 
