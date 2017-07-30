@@ -100,3 +100,6 @@ Bookmark all my links into README.md
 
 ### July 29, 2017 
 - [Tracing a packet journey using Linux tracepoints, perf and eBPF | Yet another enthusiast blog!](https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/) 
+
+### July 30, 2017 
+- [Troy Hunt: Passwords Evolved: Authentication Guidance for the Modern Era](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/) 
