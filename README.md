@@ -103,3 +103,6 @@ Bookmark all my links into README.md
 
 ### July 30, 2017 
 - [Troy Hunt: Passwords Evolved: Authentication Guidance for the Modern Era](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/) 
+
+### July 31, 2017 
+- [Scaling a Web Service: Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/) 
