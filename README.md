@@ -109,3 +109,4 @@ Bookmark all my links into README.md
 
 ### August 1, 2017 
 - [The Packer Book](https://packerbook.com/) 
+- [Veeam Availability Console series #2: Setup your service provider company - Virtual to the Core](https://www.virtualtothecore.com/en/veeam-availability-console-series-2-setup-your-service-provider-company/) 
