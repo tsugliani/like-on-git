@@ -106,3 +106,6 @@ Bookmark all my links into README.md
 
 ### July 31, 2017 
 - [Scaling a Web Service: Load Balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/) 
+
+### August 1, 2017 
+- [The Packer Book](https://packerbook.com/) 
