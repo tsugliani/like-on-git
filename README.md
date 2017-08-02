@@ -110,3 +110,6 @@ Bookmark all my links into README.md
 ### August 1, 2017 
 - [The Packer Book](https://packerbook.com/) 
 - [Veeam Availability Console series #2: Setup your service provider company - Virtual to the Core](https://www.virtualtothecore.com/en/veeam-availability-console-series-2-setup-your-service-provider-company/) 
+
+### August 2, 2017 
+- [How to design Clarity Icons – Clarity Design System – Medium](https://medium.com/claritydesignsystem/how-to-design-clarity-icons-a443b19ad84b) 
