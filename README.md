@@ -118,3 +118,4 @@ Bookmark all my links into README.md
 ### August 3, 2017 
 - [VMware - Explore vCloud Director catalog publishing feature – Ludovic Rivallain – VMware SysAdmin](https://lri.ovh/2017/08/02/VMware-ExploreVCD-catalog-publishing-feature/) 
 - [vSphere Client Login UI customizations do not persist in VCSA 6.5 Update 1 | virtuallyGhetto](http://www.virtuallyghetto.com/2017/08/vsphere-client-login-ui-customizations-do-not-persist-in-vcsa-6-5-update-1.html) 
+- [Envoy threading model – mattklein123 – Medium](https://medium.com/@mattklein123/envoy-threading-model-a8d44b922310) 
