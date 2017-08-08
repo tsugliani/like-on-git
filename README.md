@@ -124,3 +124,4 @@ Bookmark all my links into README.md
 ### August 8, 2017 
 - [Amazon S3 Filesystem for Python](https://www.willmcgugan.com/blog/tech/post/amazon-s3-filesystem-for-python/#screen-shot-2017-08-06-at-171543) 
 - [3rd Party Content Library on Synology | BRIAN GRAF](https://www.brianjgraf.com/2017/04/14/3rd-party-content-library-synology-s3/) 
+- [Deploying a new HyTrust KMS on vSphere 6.5 - CormacHogan.com](http://cormachogan.com/2017/08/08/deploying-new-hytrust-kms-vsphere-6-5/) 
