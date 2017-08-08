@@ -120,3 +120,6 @@ Bookmark all my links into README.md
 - [vSphere Client Login UI customizations do not persist in VCSA 6.5 Update 1 | virtuallyGhetto](http://www.virtuallyghetto.com/2017/08/vsphere-client-login-ui-customizations-do-not-persist-in-vcsa-6-5-update-1.html) 
 - [Envoy threading model – mattklein123 – Medium](https://medium.com/@mattklein123/envoy-threading-model-a8d44b922310) 
 - [Use vCloud Director LDAP authentication with Veeam self-service portal](https://www.virtualtothecore.com/en/use-vcloud-director-ldap-authentication-with-veeam-self-service-portal/) 
+
+### August 8, 2017 
+- [Amazon S3 Filesystem for Python](https://www.willmcgugan.com/blog/tech/post/amazon-s3-filesystem-for-python/#screen-shot-2017-08-06-at-171543) 
