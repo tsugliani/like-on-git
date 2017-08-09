@@ -24,3 +24,4 @@ Bookmark all my links into README.md
 
 ### August 9, 2017 
 - [Bitcoin, Ethereum, Blockchain, Tokens, ICOs: Why should anyone care?](https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06) 
+- [Apple, it’s time to merge iOS with macOS – UX Planet](https://uxplanet.org/apple-its-time-to-merge-ios-with-macos-4f04c947c19d) 
