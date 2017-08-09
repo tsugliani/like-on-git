@@ -34,3 +34,4 @@ Bookmark all my links into README.md
 - [Orbifolds and Other Games - Python as a DSL](https://orbifold.xyz/python-dsl.html) 
 - [New Release: VMware PowerCLI 6.5.2 - VMware PowerCLI Blog - VMware Blogs](https://blogs.vmware.com/PowerCLI/2017/08/new-release-powercli-652.html) 
 - [Updating PowerCLI through the PowerShell Gallery - VMware PowerCLI Blog - VMware Blogs](https://blogs.vmware.com/PowerCLI/2017/08/updating-powercli-powershell-gallery.html) 
+- [Log Insight: Aliasing Feature - SFlanders.net](http://sflanders.net/2017/08/09/log-insight-aliasing-feature/) 
