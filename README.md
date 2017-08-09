@@ -29,3 +29,4 @@ Bookmark all my links into README.md
 - [Making Money – Tess Rinearson – Medium](https://medium.com/@tessr/making-money-530d2bb2b8f7) 
 - [Making Money Trustworthy – Tess Rinearson – Medium](https://medium.com/@tessr/making-money-trustworthy-6c552a1cfc25) 
 - [Programming isn’t easy, coding is. – Hacker Noon](https://hackernoon.com/programming-isnt-easy-coding-is-a1efcf97a264) 
+- [Backing up Files to Backblaze B2 with Rclone](https://dev.to/hunterparks/backing-up-files-to-backblaze-b2-with-rclone) 
