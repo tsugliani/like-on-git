@@ -27,3 +27,4 @@ Bookmark all my links into README.md
 - [Apple, it’s time to merge iOS with macOS – UX Planet](https://uxplanet.org/apple-its-time-to-merge-ios-with-macos-4f04c947c19d) 
 - [REST APIs are REST-in-Peace APIs. Long Live GraphQL.](https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4) 
 - [Making Money – Tess Rinearson – Medium](https://medium.com/@tessr/making-money-530d2bb2b8f7) 
+- [Making Money Trustworthy – Tess Rinearson – Medium](https://medium.com/@tessr/making-money-trustworthy-6c552a1cfc25) 
