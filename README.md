@@ -28,3 +28,4 @@ Bookmark all my links into README.md
 - [REST APIs are REST-in-Peace APIs. Long Live GraphQL.](https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4) 
 - [Making Money – Tess Rinearson – Medium](https://medium.com/@tessr/making-money-530d2bb2b8f7) 
 - [Making Money Trustworthy – Tess Rinearson – Medium](https://medium.com/@tessr/making-money-trustworthy-6c552a1cfc25) 
+- [Programming isn’t easy, coding is. – Hacker Noon](https://hackernoon.com/programming-isnt-easy-coding-is-a1efcf97a264) 
