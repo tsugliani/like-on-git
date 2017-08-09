@@ -126,3 +126,6 @@ Bookmark all my links into README.md
 - [3rd Party Content Library on Synology | BRIAN GRAF](https://www.brianjgraf.com/2017/04/14/3rd-party-content-library-synology-s3/) 
 - [Deploying a new HyTrust KMS on vSphere 6.5 - CormacHogan.com](http://cormachogan.com/2017/08/08/deploying-new-hytrust-kms-vsphere-6-5/) 
 - [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html) 
+
+### August 9, 2017 
+- [Bitcoin, Ethereum, Blockchain, Tokens, ICOs: Why should anyone care?](https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06) 
