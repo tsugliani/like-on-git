@@ -32,3 +32,4 @@ Bookmark all my links into README.md
 - [Backing up Files to Backblaze B2 with Rclone](https://dev.to/hunterparks/backing-up-files-to-backblaze-b2-with-rclone) 
 - [How to Create NSX Security Policies with Rules using PowerNSX - VirtualizeStuff](https://www.virtualizestuff.com/2017/08/07/create-nsx-security-policies-rules-powernsx/) 
 - [Orbifolds and Other Games - Python as a DSL](https://orbifold.xyz/python-dsl.html) 
+- [New Release: VMware PowerCLI 6.5.2 - VMware PowerCLI Blog - VMware Blogs](https://blogs.vmware.com/PowerCLI/2017/08/new-release-powercli-652.html) 
