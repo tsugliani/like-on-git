@@ -43,3 +43,4 @@ Bookmark all my links into README.md
 - [vCloud Director 8.20 Edge Gateway Roles – KiwiCloud.ninja](http://kiwicloud.ninja/2017/08/vcloud-director-8-20-edge-gateway-roles/) 
 - [Using Independent Disks in vCloud – KiwiCloud.ninja](http://kiwicloud.ninja/2017/02/using-independent-disks-in-vcloud/) 
 - [Independent Disks in vCloud via PowerCLI – KiwiCloud.ninja](http://kiwicloud.ninja/2017/02/independent-disks-in-vcloud-via-powercli/) 
+- [Detailed VM Storage Information in vCloud Director – KiwiCloud.ninja](http://kiwicloud.ninja/2017/01/detailed-vm-storage-information-in-vcloud-director/) 
