@@ -41,3 +41,4 @@ Bookmark all my links into README.md
 - [Seagate Announces 64TB NVMe SSD & New Nytro SSDs At FMS | StorageReview.com - Storage Reviews](http://www.storagereview.com/seagate_announces_64tb_nvme_ssd_new_nytro_ssds_at_fms) 
 - [aaronduino/asciidots: AsciiDots - The result of combining ascii art, electrical engineering, and programming](https://github.com/aaronduino/asciidots) 
 - [vCloud Director 8.20 Edge Gateway Roles – KiwiCloud.ninja](http://kiwicloud.ninja/2017/08/vcloud-director-8-20-edge-gateway-roles/) 
+- [Using Independent Disks in vCloud – KiwiCloud.ninja](http://kiwicloud.ninja/2017/02/using-independent-disks-in-vcloud/) 
