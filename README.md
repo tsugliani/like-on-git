@@ -47,3 +47,4 @@ Bookmark all my links into README.md
 
 ### August 16, 2017 
 - [VMware vCloud Director Upgrade 8.10 to 8.20 - my cloud-(r)evolution](https://mycloudrevolution.com/2017/08/16/vmware-vcloud-director-upgrade-8-10-to-8-20/) 
+- [Stretched cluster with NSX - NielsHagoort.com](http://nielshagoort.com/2016/04/19/stretched-cluster-with-nsx/) 
