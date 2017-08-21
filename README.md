@@ -56,3 +56,4 @@ Bookmark all my links into README.md
 - [Transparent Hugepages: measuring the performance impact - The mole is digging](https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/) 
 - [Why Go is my favorite programming language](https://michael.stapelberg.de/Artikel/golang_favorite) 
 - [halting problem : Dev v Ops](https://www.bassi.io/articles/2017/08/10/dev-v-ops/) 
+- [The tragic tale of the deadlocking Python queue - Code Without Rules](https://codewithoutrules.com/2017/08/16/concurrency-python/) 
