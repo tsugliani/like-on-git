@@ -54,3 +54,4 @@ Bookmark all my links into README.md
 - [vCloud Director console proxy and UI on a single IP - Blah, Cloud.](https://blah.cloud/cloud/vcloud-director-console-proxy-ui-single-ip/) 
 - [Everything You Always Wanted to Know About Optical Networking – But Were Afraid to Ask ](https://www.nanog.org/sites/default/files/2_Steenbergen_Tutorial_New_And_v2.pdf) 
 - [Transparent Hugepages: measuring the performance impact - The mole is digging](https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/) 
+- [Why Go is my favorite programming language](https://michael.stapelberg.de/Artikel/golang_favorite) 
