@@ -51,3 +51,4 @@ Bookmark all my links into README.md
 
 ### August 21, 2017 
 - [IPv6 route lookup on Linux | Vincent Bernat](https://vincent.bernat.im/en/blog/2017-ipv6-route-lookup-linux) 
+- [vCloud Director console proxy and UI on a single IP - Blah, Cloud.](https://blah.cloud/cloud/vcloud-director-console-proxy-ui-single-ip/) 
