@@ -57,3 +57,6 @@ Bookmark all my links into README.md
 - [Why Go is my favorite programming language](https://michael.stapelberg.de/Artikel/golang_favorite) 
 - [halting problem : Dev v Ops](https://www.bassi.io/articles/2017/08/10/dev-v-ops/) 
 - [The tragic tale of the deadlocking Python queue - Code Without Rules](https://codewithoutrules.com/2017/08/16/concurrency-python/) 
+
+### August 24, 2017 
+- [Managing CSS & JS in an HTTP/2 World | Viget](https://www.viget.com/articles/managing-css-js-http-2) 
