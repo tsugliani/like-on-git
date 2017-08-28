@@ -65,3 +65,6 @@ Bookmark all my links into README.md
 - [FRRouting](https://frrouting.org/) 
 - [Alternate forwarding planes: VPP · FRRouting/frr Wiki](https://github.com/FRRouting/frr/wiki/Alternate-forwarding-planes:-VPP) 
 - [BGP/OSPF/RIP lab with FRRouting [BSD Router Project]](https://bsdrp.net/documentation/examples/simple_bgp-rip-ospf_lab) 
+
+### August 28, 2017 
+- [Recovering a Deleted Virtual Machine with VVols | Cody Hosterman](https://www.codyhosterman.com/2017/08/recovering-a-deleted-virtual-machine-with-vvols/) 
