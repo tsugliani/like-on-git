@@ -68,3 +68,4 @@ Bookmark all my links into README.md
 
 ### August 28, 2017 
 - [Recovering a Deleted Virtual Machine with VVols | Cody Hosterman](https://www.codyhosterman.com/2017/08/recovering-a-deleted-virtual-machine-with-vvols/) 
+- [[automation step by step] series – Networker and Coder](https://networkerandcoder.wordpress.com/automation-step-by-step-series/) 
