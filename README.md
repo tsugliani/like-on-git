@@ -73,3 +73,4 @@ Bookmark all my links into README.md
 - [Introducing kube-spawn: a tool to create local, multi-node Kubernetes clusters | Kinvolk](https://kinvolk.io/blog/2017/08/introducing-kube-spawn-a-tool-to-create-local-multi-node-kubernetes-clusters/) 
 - [Slow Ansible playbook? Check ansible.cfg! | Jeff Geerling](https://www.jeffgeerling.com/blog/2017/slow-ansible-playbook-check-ansiblecfg) 
 - [vSphere 6.5 Upgrade Considerations Part-2 - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/07/vsphere-6-5-upgrade-considerations-part-2.html) 
+- [vSphere 6.5 Upgrade Considerations Part-3 - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/08/vsphere-6-5-upgrade-considerations-part-3.html) 
