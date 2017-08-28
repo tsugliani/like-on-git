@@ -80,3 +80,4 @@ Bookmark all my links into README.md
 - [Project Hatchway by VMware®](https://vmware.github.io/hatchway/#overview) 
 - [Article Detail - VMware Blog](https://blog.cloud.vmware.com/s/content/a1y6A000000e6l5QAA/article-introducing-vmware-nsx-cloud) 
 - [Docker Reference Architecture: MTA Design Considerations and Best Practices - Docker, Inc.](https://success.docker.com/Architecture/Docker_Reference_Architecture:_MTA_Design_Considerations_and_Best_Practices?utm_content=buffer6a370&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+- [#STO1490BU : vSAN Vision - The Future of HCI - Yellow Bricks](http://www.yellow-bricks.com/2017/08/28/sto1490bu-vsan-vision-future-hci/) 
