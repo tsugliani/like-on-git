@@ -78,3 +78,4 @@ Bookmark all my links into README.md
 - [Backup in VMware Cloud on AWS? Yes, Veeam does it! | Notes from MWhite](https://notesfrommwhite.net/2017/08/28/backup-in-vmware-cloud-on-aws-yes-veeam-does-it/) 
 - [VMware NSX Cloud | Cloud Networking & Security](https://cloud.vmware.com/nsx-cloud) 
 - [Project Hatchway by VMware®](https://vmware.github.io/hatchway/#overview) 
+- [Article Detail - VMware Blog](https://blog.cloud.vmware.com/s/content/a1y6A000000e6l5QAA/article-introducing-vmware-nsx-cloud) 
