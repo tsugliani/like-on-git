@@ -86,3 +86,4 @@ Bookmark all my links into README.md
 - [VMworld 2017: VxRack SDDC 2.0 and VMware Cloud Foundation 2.2 - Virtual Geek](http://virtualgeek.typepad.com/virtual_geek/2017/08/vmworld-2017-vxrack-sddc-20-and-vmware-cloud-foundation-22.html) 
 - [VMware AppDefense Announced at #VMworld US | TheSaffaGeek](https://thesaffageek.co.uk/2017/08/28/vmware-appdefense-announced-at-vmworld-us/) 
 - [VMware Cloud Services | TheSaffaGeek](https://thesaffageek.co.uk/2017/08/28/vmware-cloud-services/) 
+- [VMware Cloud on AWS Technical Overview - frankdenneman.nl](http://frankdenneman.nl/2017/08/29/vmware-cloud-aws-technical-overview/) 
