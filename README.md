@@ -94,3 +94,4 @@ Bookmark all my links into README.md
 - [/threads](https://docs.nylas.com/reference#get-threads) 
 - [Terminus](https://eugeny.github.io/terminus/) 
 - [exa - A modern replacement for ls](https://the.exa.website/) 
+- [The Stress Terminal UI: s-tui | s-tui](https://amanusk.github.io/s-tui/) 
