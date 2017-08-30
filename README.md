@@ -95,3 +95,4 @@ Bookmark all my links into README.md
 - [Terminus](https://eugeny.github.io/terminus/) 
 - [exa - A modern replacement for ls](https://the.exa.website/) 
 - [The Stress Terminal UI: s-tui | s-tui](https://amanusk.github.io/s-tui/) 
+- [dylanaraps/neofetch: 🖼️ A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX, IRIX and Windows (Cygwin/MSYS2/MinGW/Windows 10 Linux subsystem)](https://github.com/dylanaraps/neofetch) 
