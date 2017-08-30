@@ -93,3 +93,4 @@ Bookmark all my links into README.md
 - [Tutoriel Vidéo Linux Présentation d'i3wm](https://www.grafikart.fr/tutoriels/linux/i3wm-presentation-916) 
 - [/threads](https://docs.nylas.com/reference#get-threads) 
 - [Terminus](https://eugeny.github.io/terminus/) 
+- [exa - A modern replacement for ls](https://the.exa.website/) 
