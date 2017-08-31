@@ -100,3 +100,4 @@ Bookmark all my links into README.md
 
 ### August 31, 2017 
 - [c-bata/kube-prompt: An interactive kubernetes client featuring auto-complete using go-prompt.](https://github.com/c-bata/kube-prompt) 
+- [Zerto Virtual Replication 5.5 Demo: Showcasing Failback from Azure | Zerto](https://www.zerto.com/zvr-5-5/zerto-virtual-replication-5-5-demo-showcasing-failback-azure/?sthash.veo6wHE0.mjjo) 
