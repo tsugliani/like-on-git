@@ -106,3 +106,6 @@ Bookmark all my links into README.md
 - [Cloud Is Not a Digital Transformation Strategy (Unless You Are Amazon)](https://hackernoon.com/cloud-is-not-a-digital-transformation-strategy-unless-you-are-amazon-aec1c470cf8f) 
 - [Migrate vApps between vCloud Director installations using Veeam](https://www.virtualtothecore.com/en/migrate-vapps-between-vcloud-director-installations-using-veeam/) 
 - [VMworld 2017 Python SDK Hackathon | vsphere-automation-sdk-python](https://vmware.github.io/vsphere-automation-sdk-python/lab.html) 
+
+### September 6, 2017 
+- [Little UI Details](https://twitter.com/i/moments/880688233641848832) 
