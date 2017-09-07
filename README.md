@@ -115,3 +115,4 @@ Bookmark all my links into README.md
 - [Using Keybase with GPG on macOS - Scott's Weblog - The weblog of an IT pro specializing in cloud computing, virtualization, and networking, all with an open source view](https://blog.scottlowe.org/2017/09/06/using-keybase-gpg-macos/) 
 - [Network Monitoring With Slack Alerting – JerryGamblin.com](https://jerrygamblin.com/2017/09/04/network-monitoring-with-slack-alerting/) 
 - [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots/) 
+- [NSX-v: Where is my object used that I am trying to delete? – SneakU](http://www.sneaku.com/2017/09/07/nsx-v-where-is-my-object-used-that-i-am-trying-to-delete/) 
