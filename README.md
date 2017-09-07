@@ -114,3 +114,4 @@ Bookmark all my links into README.md
 - [List all "thick" swap files on vSAN - Yellow Bricks](http://www.yellow-bricks.com/2017/09/06/list-thick-swap-files-vsan/) 
 - [Using Keybase with GPG on macOS - Scott's Weblog - The weblog of an IT pro specializing in cloud computing, virtualization, and networking, all with an open source view](https://blog.scottlowe.org/2017/09/06/using-keybase-gpg-macos/) 
 - [Network Monitoring With Slack Alerting – JerryGamblin.com](https://jerrygamblin.com/2017/09/04/network-monitoring-with-slack-alerting/) 
+- [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots/) 
