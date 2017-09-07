@@ -112,3 +112,4 @@ Bookmark all my links into README.md
 
 ### September 7, 2017 
 - [List all "thick" swap files on vSAN - Yellow Bricks](http://www.yellow-bricks.com/2017/09/06/list-thick-swap-files-vsan/) 
+- [Using Keybase with GPG on macOS - Scott's Weblog - The weblog of an IT pro specializing in cloud computing, virtualization, and networking, all with an open source view](https://blog.scottlowe.org/2017/09/06/using-keybase-gpg-macos/) 
