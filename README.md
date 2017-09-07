@@ -109,3 +109,6 @@ Bookmark all my links into README.md
 
 ### September 6, 2017 
 - [Little UI Details](https://twitter.com/i/moments/880688233641848832) 
+
+### September 7, 2017 
+- [List all "thick" swap files on vSAN - Yellow Bricks](http://www.yellow-bricks.com/2017/09/06/list-thick-swap-files-vsan/) 
