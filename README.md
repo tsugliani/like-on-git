@@ -116,3 +116,6 @@ Bookmark all my links into README.md
 - [Network Monitoring With Slack Alerting – JerryGamblin.com](https://jerrygamblin.com/2017/09/04/network-monitoring-with-slack-alerting/) 
 - [How to Generate FiveThirtyEight Graphs in Python](https://www.dataquest.io/blog/making-538-plots/) 
 - [NSX-v: Where is my object used that I am trying to delete? – SneakU](http://www.sneaku.com/2017/09/07/nsx-v-where-is-my-object-used-that-i-am-trying-to-delete/) 
+
+### September 8, 2017 
+- [Migrate vApps between vCloud Director installations using Veeam](https://www.virtualtothecore.com/en/migrate-vapps-between-vcloud-director-installations-using-veeam/) 
