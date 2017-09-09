@@ -120,3 +120,6 @@ Bookmark all my links into README.md
 ### September 8, 2017 
 - [Migrate vApps between vCloud Director installations using Veeam](https://www.virtualtothecore.com/en/migrate-vapps-between-vcloud-director-installations-using-veeam/) 
 - [Mastodon: The Open Source Alternative To Twitter](https://itsfoss.com/mastodon-open-source-alternative-twitter/) 
+
+### September 9, 2017 
+- [Linuxkit on AWS, with Terraform – DevOps College](https://devops.college/linuxkit-on-aws-with-terraform-86786c51d894) 
