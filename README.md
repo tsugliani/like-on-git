@@ -127,3 +127,6 @@ Bookmark all my links into README.md
 - [Kubernetes on Azure with Azure Container Service – Juanma's Blog](http://blog.jreypo.io/containers/microsoft/azure/cloud/cloud-native/kubernetes-on-azure-with-azure-container-service/) 
 - [It’s time for makefiles to make a comeback – Jason Olson – Medium](https://medium.com/@jolson88/its-time-for-makefiles-to-make-a-comeback-36cbc358bb0a) 
 - [My quick take on Helm – Juanma's Blog](http://blog.jreypo.io/containers/microsoft/azure/cloud/cloud-native/my-quick-take-on-helm/) 
+
+### September 10, 2017 
+- [cloudfoundation-quick-reference/README.md at master · tenthirtyam/cloudfoundation-quick-reference](https://github.com/tenthirtyam/cloudfoundation-quick-reference/blob/master/README.md) 
