@@ -123,3 +123,4 @@ Bookmark all my links into README.md
 
 ### September 9, 2017 
 - [Linuxkit on AWS, with Terraform – DevOps College](https://devops.college/linuxkit-on-aws-with-terraform-86786c51d894) 
+- [The two metrics that matter for host security](https://diogomonica.com/2017/08/31/two-metrics-that-matter-for-host-security/?utm_content=buffer97ff3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
