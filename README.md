@@ -131,3 +131,6 @@ Bookmark all my links into README.md
 ### September 10, 2017 
 - [cloudfoundation-quick-reference/README.md at master · tenthirtyam/cloudfoundation-quick-reference](https://github.com/tenthirtyam/cloudfoundation-quick-reference/blob/master/README.md) 
 - [Installing Veeam Agent for Linux | Notes from MWhite](https://notesfrommwhite.net/2017/09/10/installing-veeam-agent-for-linux/) 
+
+### September 11, 2017 
+- [mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/mr-mig/every-programmer-should-know?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
