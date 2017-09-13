@@ -134,3 +134,6 @@ Bookmark all my links into README.md
 
 ### September 11, 2017 
 - [mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/mr-mig/every-programmer-should-know?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
+
+### September 13, 2017 
+- [VSAN and vSphere 6.5… |](http://www.beyondcli.com/201/vsan-and-vsphere-6-5/) 
