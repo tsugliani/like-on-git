@@ -137,3 +137,6 @@ Bookmark all my links into README.md
 
 ### September 13, 2017 
 - [VSAN and vSphere 6.5… |](http://www.beyondcli.com/201/vsan-and-vsphere-6-5/) 
+
+### September 14, 2017 
+- [Become — How I went from selling food in the street to working for top firms in tech](https://medium.com/@old_sound/become-how-i-went-from-selling-food-in-the-street-to-working-for-top-firms-in-tech-6aa61a2d0629) 
