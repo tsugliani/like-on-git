@@ -140,3 +140,4 @@ Bookmark all my links into README.md
 
 ### September 14, 2017 
 - [Become — How I went from selling food in the street to working for top firms in tech](https://medium.com/@old_sound/become-how-i-went-from-selling-food-in-the-street-to-working-for-top-firms-in-tech-6aa61a2d0629) 
+- [Sublime Text 3.0 - News - Sublime Text](https://www.sublimetext.com/blog/articles/sublime-text-3-point-0) 
