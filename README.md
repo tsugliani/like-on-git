@@ -145,3 +145,6 @@ Bookmark all my links into README.md
 
 ### September 15, 2017 
 - [Why I Switched To Sketch For UI Design (And Never Looked Back) – Smashing Magazine](https://www.smashingmagazine.com/2017/09/ideal-sketch-setup-ui-design/) 
+
+### September 16, 2017 
+- [Advanced Tips with the Clarity UI Template – Clarity Design System – Medium](https://medium.com/claritydesignsystem/advanced-tips-with-the-clarity-ui-template-da7e594581ef) 
