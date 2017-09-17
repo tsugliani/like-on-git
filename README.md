@@ -148,3 +148,6 @@ Bookmark all my links into README.md
 
 ### September 16, 2017 
 - [Advanced Tips with the Clarity UI Template – Clarity Design System – Medium](https://medium.com/claritydesignsystem/advanced-tips-with-the-clarity-ui-template-da7e594581ef) 
+
+### September 17, 2017 
+- [Go vs Rust? Choose Go. | Matthias Endler](http://matthias-endler.de/2017/go-vs-rust/) 
