@@ -151,3 +151,6 @@ Bookmark all my links into README.md
 
 ### September 17, 2017 
 - [Go vs Rust? Choose Go. | Matthias Endler](http://matthias-endler.de/2017/go-vs-rust/) 
+
+### September 18, 2017 
+- [Introducing Keybase Teams](https://keybase.io/blog/introducing-keybase-teams) 
