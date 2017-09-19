@@ -155,3 +155,6 @@ Bookmark all my links into README.md
 ### September 18, 2017 
 - [Introducing Keybase Teams](https://keybase.io/blog/introducing-keybase-teams) 
 - [Distributed Storage Network Topology - NielsHagoort.com](https://nielshagoort.com/2017/09/18/distributed-storage-network-topology/) 
+
+### September 19, 2017 
+- [Free NSX Books: 580 pages of awesomeness](http://cloudmaniac.net/vmware-nsx-books/) 
