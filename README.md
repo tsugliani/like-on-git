@@ -158,3 +158,6 @@ Bookmark all my links into README.md
 
 ### September 19, 2017 
 - [Free NSX Books: 580 pages of awesomeness](http://cloudmaniac.net/vmware-nsx-books/) 
+
+### September 22, 2017 
+- [M80ARM - Virtualization Warrior: vRealize Network Insight 3.5 NTP Changes](http://www.m80arm.co.uk/2017/09/vrealize-network-insight-35-ntp-changes.html) 
