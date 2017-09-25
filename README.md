@@ -170,3 +170,4 @@ Bookmark all my links into README.md
 - [Using Caddy to HTTPS all the things · graham gilbert](https://grahamgilbert.com/blog/2017/04/04/using-caddy-to-https-all-the-things/) 
 - [axiros/terminal_markdown_viewer: Styled Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 - [Announcing GitHub Desktop 1.0](https://github.com/blog/2437-announcing-github-desktop-1-0) 
+- [PowerCLI module to manage Organisation Rights in vCloud Director 8.20 | Pigeon Nuggets](http://www.pigeonnuggets.com/2017/05/powercli-module-to-manage-organisation-rights-in-vcloud-director-8-20/) 
