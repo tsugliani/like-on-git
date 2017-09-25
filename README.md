@@ -164,3 +164,6 @@ Bookmark all my links into README.md
 
 ### September 23, 2017 
 - [832 TB – ZFS on Linux – Project “Cheap and Deep”: Part 1 | JonKensy.com](http://www.jonkensy.com/832-tb-zfs-on-linux-project-cheap-and-deep-part-1/) 
+
+### September 25, 2017 
+- [terriblecode - Deploying Static Sites With Docker and SSL](https://terriblecode.com/blog/deploying-static-sites-with-docker-and-ssl/) 
