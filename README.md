@@ -169,3 +169,4 @@ Bookmark all my links into README.md
 - [terriblecode - Deploying Static Sites With Docker and SSL](https://terriblecode.com/blog/deploying-static-sites-with-docker-and-ssl/) 
 - [Using Caddy to HTTPS all the things · graham gilbert](https://grahamgilbert.com/blog/2017/04/04/using-caddy-to-https-all-the-things/) 
 - [axiros/terminal_markdown_viewer: Styled Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
+- [Announcing GitHub Desktop 1.0](https://github.com/blog/2437-announcing-github-desktop-1-0) 
