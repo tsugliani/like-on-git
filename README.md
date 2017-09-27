@@ -171,3 +171,6 @@ Bookmark all my links into README.md
 - [axiros/terminal_markdown_viewer: Styled Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 - [Announcing GitHub Desktop 1.0](https://github.com/blog/2437-announcing-github-desktop-1-0) 
 - [PowerCLI module to manage Organisation Rights in vCloud Director 8.20 | Pigeon Nuggets](http://www.pigeonnuggets.com/2017/05/powercli-module-to-manage-organisation-rights-in-vcloud-director-8-20/) 
+
+### September 27, 2017 
+- [VMworld vSAN Sessions Playlist - Yellow Bricks](http://www.yellow-bricks.com/2017/09/27/vmworld-vsan-sessions-playlist/) 
