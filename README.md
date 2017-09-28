@@ -174,3 +174,6 @@ Bookmark all my links into README.md
 
 ### September 27, 2017 
 - [VMworld vSAN Sessions Playlist - Yellow Bricks](http://www.yellow-bricks.com/2017/09/27/vmworld-vsan-sessions-playlist/) 
+
+### September 28, 2017 
+- [Beacon Probing Deep Dive | vswitchzero](https://vswitchzero.com/2017/06/18/beacon-probing-deep-dive/) 
