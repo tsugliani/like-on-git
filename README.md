@@ -177,3 +177,6 @@ Bookmark all my links into README.md
 
 ### September 28, 2017 
 - [Beacon Probing Deep Dive | vswitchzero](https://vswitchzero.com/2017/06/18/beacon-probing-deep-dive/) 
+
+### September 30, 2017 
+- [vCloud Director 9: What’s New – Tom Fojta's Blog](https://fojta.wordpress.com/2017/09/29/vcloud-director-9-whats-new/) 
