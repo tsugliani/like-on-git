@@ -181,3 +181,4 @@ Bookmark all my links into README.md
 ### September 30, 2017 
 - [vCloud Director 9: What’s New – Tom Fojta's Blog](https://fojta.wordpress.com/2017/09/29/vcloud-director-9-whats-new/) 
 - [vCloud Director 9: Create VXLAN Network Pool – Tom Fojta's Blog](https://fojta.wordpress.com/2017/09/29/vcloud-director-9-create-vxlan-network-pool/) 
+- [Automating VM keystrokes using the vSphere API & PowerCLI | virtuallyGhetto](http://www.virtuallyghetto.com/2017/09/automating-vm-keystrokes-using-the-vsphere-api-powercli.html) 
