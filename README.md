@@ -183,3 +183,4 @@ Bookmark all my links into README.md
 - [vCloud Director 9: Create VXLAN Network Pool – Tom Fojta's Blog](https://fojta.wordpress.com/2017/09/29/vcloud-director-9-create-vxlan-network-pool/) 
 - [Automating VM keystrokes using the vSphere API & PowerCLI | virtuallyGhetto](http://www.virtuallyghetto.com/2017/09/automating-vm-keystrokes-using-the-vsphere-api-powercli.html) 
 - [Enhanced Linked Mode (ELM) vs Hybrid Linked Mode (HLM) | virtuallyGhetto](http://www.virtuallyghetto.com/2017/09/enhanced-linked-mode-elm-vs-hybrid-linked-mode-hlm.html) 
+- [Why we chose vSAN for our business critical apps - NielsHagoort.com](https://nielshagoort.com/2017/09/26/vsan-for-our-business-critical-apps/) 
