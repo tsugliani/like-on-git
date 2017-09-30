@@ -185,3 +185,4 @@ Bookmark all my links into README.md
 - [Enhanced Linked Mode (ELM) vs Hybrid Linked Mode (HLM) | virtuallyGhetto](http://www.virtuallyghetto.com/2017/09/enhanced-linked-mode-elm-vs-hybrid-linked-mode-hlm.html) 
 - [Why we chose vSAN for our business critical apps - NielsHagoort.com](https://nielshagoort.com/2017/09/26/vsan-for-our-business-critical-apps/) 
 - [Article Detail - VMware Blog](https://blog.cloud.vmware.com/s/content/a1y6A000000aEjBQAU/vmware-cloud-on-aws-preparing-to-onboard) 
+- [vCloud Architecture Toolkit for Service Provider Update – Tom Fojta's Blog](https://fojta.wordpress.com/2017/09/14/vcloud-architecture-toolkit-for-service-provider-update/) 
