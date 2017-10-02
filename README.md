@@ -186,3 +186,6 @@ Bookmark all my links into README.md
 - [Why we chose vSAN for our business critical apps - NielsHagoort.com](https://nielshagoort.com/2017/09/26/vsan-for-our-business-critical-apps/) 
 - [Article Detail - VMware Blog](https://blog.cloud.vmware.com/s/content/a1y6A000000aEjBQAU/vmware-cloud-on-aws-preparing-to-onboard) 
 - [vCloud Architecture Toolkit for Service Provider Update – Tom Fojta's Blog](https://fojta.wordpress.com/2017/09/14/vcloud-architecture-toolkit-for-service-provider-update/) 
+
+### October 2, 2017 
+- [New Network Load Balancer – Effortless Scaling to Millions of Requests per Second | AWS Blog](https://aws.amazon.com/blogs/aws/new-network-load-balancer-effortless-scaling-to-millions-of-requests-per-second/?utm_content=buffer4da92&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
