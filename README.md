@@ -191,3 +191,4 @@ Bookmark all my links into README.md
 - [New Network Load Balancer – Effortless Scaling to Millions of Requests per Second | AWS Blog](https://aws.amazon.com/blogs/aws/new-network-load-balancer-effortless-scaling-to-millions-of-requests-per-second/?utm_content=buffer4da92&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [vCloud Director 9: NSX Distributed Logical Router – Tom Fojta's Blog](https://fojta.wordpress.com/2017/10/02/vcloud-director-9-nsx-distributed-logical-router/) 
 - [Start with Kubernetes in less than 5 minutes with Minikube](http://cloudmaniac.net/minikube-kubernetes-in-5-minutes/) 
+- [paunin/PostDock: PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment](https://github.com/paunin/PostDock) 
