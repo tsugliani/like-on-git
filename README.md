@@ -192,3 +192,6 @@ Bookmark all my links into README.md
 - [vCloud Director 9: NSX Distributed Logical Router – Tom Fojta's Blog](https://fojta.wordpress.com/2017/10/02/vcloud-director-9-nsx-distributed-logical-router/) 
 - [Start with Kubernetes in less than 5 minutes with Minikube](http://cloudmaniac.net/minikube-kubernetes-in-5-minutes/) 
 - [paunin/PostDock: PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment](https://github.com/paunin/PostDock) 
+
+### October 3, 2017 
+- [vSAN Operations: Maintenance Mode - No Data Evacuation - Caution When PFTT=0 - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2017/10/02/vsan-operations-maint-mode-no-data-evac-caution-pftt0/) 
