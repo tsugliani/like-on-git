@@ -197,3 +197,4 @@ Bookmark all my links into README.md
 - [vSAN Operations: Maintenance Mode - No Data Evacuation - Caution When PFTT=0 - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2017/10/02/vsan-operations-maint-mode-no-data-evac-caution-pftt0/) 
 - [paunin/PostDock: PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment](https://github.com/paunin/PostDock) 
 - [KiwiCloud.ninja – Assorted ramblings on infrastructure and virtualisation](http://kiwicloud.ninja/) 
+- [A vSphere Focused Guide to the Intel Xeon Scalable Family - Memory Subsystem - frankdenneman.nl](http://frankdenneman.nl/2017/10/03/vsphere-focused-guide-intel-xeon-scalable-family-memory-subsystem/) 
