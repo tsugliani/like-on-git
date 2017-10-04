@@ -198,3 +198,6 @@ Bookmark all my links into README.md
 - [paunin/PostDock: PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment](https://github.com/paunin/PostDock) 
 - [KiwiCloud.ninja – Assorted ramblings on infrastructure and virtualisation](http://kiwicloud.ninja/) 
 - [A vSphere Focused Guide to the Intel Xeon Scalable Family - Memory Subsystem - frankdenneman.nl](http://frankdenneman.nl/2017/10/03/vsphere-focused-guide-intel-xeon-scalable-family-memory-subsystem/) 
+
+### October 4, 2017 
+- [Kubernetes in the Enterprise: A VMware guide on how to design, deploy and operate K8SaaS with NSX-T and vRA – Hany Michaels](http://www.hanymichaels.com/2017/10/04/kubernetes-in-the-enterprise-a-vmware-guide-on-how-to-design-deploy-and-operate-k8saas-with-nsx-t-and-vra/) 
