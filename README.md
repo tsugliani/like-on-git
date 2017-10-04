@@ -201,3 +201,4 @@ Bookmark all my links into README.md
 
 ### October 4, 2017 
 - [Kubernetes in the Enterprise: A VMware guide on how to design, deploy and operate K8SaaS with NSX-T and vRA – Hany Michaels](http://www.hanymichaels.com/2017/10/04/kubernetes-in-the-enterprise-a-vmware-guide-on-how-to-design-deploy-and-operate-k8saas-with-nsx-t-and-vra/) 
+- [Understanding the Impacts of Mixed-Version vCenter Server Deployments - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/09/understanding-the-impacts-of-mixed-version-vcenter-server-deployments.html) 
