@@ -205,3 +205,4 @@ Bookmark all my links into README.md
 
 ### October 5, 2017 
 - [Introduction to NSX and Kubernetes – Route to Cloud](http://www.routetocloud.com/2017/10/introduction-to-nsx-and-kubernetes/) 
+- [Understanding the Impacts of Mixed-Version vCenter Server Deployments - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/09/understanding-the-impacts-of-mixed-version-vcenter-server-deployments.html) 
