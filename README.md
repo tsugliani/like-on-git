@@ -210,3 +210,4 @@ Bookmark all my links into README.md
 
 ### October 6, 2017 
 - [Automating vSphere Global Permissions with PowerCLI | virtuallyGhetto](http://www.virtuallyghetto.com/2017/03/automating-vsphere-global-permissions-with-powercli.html) 
+- [New and noteworthy vSAN KB's worth a read. - Virtual Ramblings](http://thenicholson.com/new-noteworthy-vsan-kbs-worth-read/) 
