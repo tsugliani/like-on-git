@@ -211,3 +211,4 @@ Bookmark all my links into README.md
 ### October 6, 2017 
 - [Automating vSphere Global Permissions with PowerCLI | virtuallyGhetto](http://www.virtuallyghetto.com/2017/03/automating-vsphere-global-permissions-with-powercli.html) 
 - [New and noteworthy vSAN KB's worth a read. - Virtual Ramblings](http://thenicholson.com/new-noteworthy-vsan-kbs-worth-read/) 
+- [NSX Engineering Mode ‘root shell’ Access Now Available to Customers | vswitchzero](https://vswitchzero.com/2017/10/02/nsx-engineering-mode-root-shell-access-now-available-to-customers/) 
