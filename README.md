@@ -31,3 +31,4 @@ Bookmark all my links into README.md
 
 ### October 8, 2017 
 - [Integrate NSX-T with VMware Identity Manager (vIDM)](http://cloudmaniac.net/nsx-t-vidm-integration/) 
+- [What if the VM Memory Config Exceeds the Memory Capacity of the Physical NUMA Node? - frankdenneman.nl](http://frankdenneman.nl/2017/10/05/vm-memory-config-exceeds-memory-capacity-physical-numa-node/) 
