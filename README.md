@@ -42,3 +42,4 @@ Bookmark all my links into README.md
 - [Introduction to NSX and Kubernetes – Route to Cloud](http://www.routetocloud.com/2017/10/introduction-to-nsx-and-kubernetes/) 
 - [Using PowerShell to create a vCloud Director Tenant HTML Report - my cloud-(r)evolution](https://mycloudrevolution.com/2017/10/09/using-powershell-to-create-a-vcloud-director-tenant-html-report/) 
 - [TCP servers that run like clockwork | Sahil Muthoo](https://sahilm.com/tcp-servers-that-run-like-clockwork/) 
+- [Scaleway September 2017 Amsterdam Network Outage](https://blog.online.net/2017/09/22/scaleway-september-2017-amsterdam-network-outage/amp/) 
