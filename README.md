@@ -39,3 +39,4 @@ Bookmark all my links into README.md
 
 ### October 10, 2017 
 - [What is the overhead for Swap in a stretched cluster? - Yellow Bricks](http://www.yellow-bricks.com/2017/10/10/overhead-swap-stretched-cluster/) 
+- [Introduction to NSX and Kubernetes – Route to Cloud](http://www.routetocloud.com/2017/10/introduction-to-nsx-and-kubernetes/) 
