@@ -36,3 +36,6 @@ Bookmark all my links into README.md
 
 ### October 9, 2017 
 - [Enabling, Configuring and Viewing Metrics in vCloud Director 9.0 - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/enabling-configuring-and-viewing-metrics-in-vcloud-director-9-0/) 
+
+### October 10, 2017 
+- [What is the overhead for Swap in a stretched cluster? - Yellow Bricks](http://www.yellow-bricks.com/2017/10/10/overhead-swap-stretched-cluster/) 
