@@ -44,3 +44,4 @@ Bookmark all my links into README.md
 - [TCP servers that run like clockwork | Sahil Muthoo](https://sahilm.com/tcp-servers-that-run-like-clockwork/) 
 - [Scaleway September 2017 Amsterdam Network Outage](https://blog.online.net/2017/09/22/scaleway-september-2017-amsterdam-network-outage/amp/) 
 - [New Release: PowerCLI 6.5.3 - VMware PowerCLI Blog - VMware Blogs](https://blogs.vmware.com/PowerCLI/2017/10/new-release-powercli-6-5-3.html) 
+- [VPN Configuration to VMware Cloud on AWS using pfSense | virtuallyGhetto](http://www.virtuallyghetto.com/2017/10/vpn-configuration-to-vmware-cloud-on-aws-using-pfsense.html) 
