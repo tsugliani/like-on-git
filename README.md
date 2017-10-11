@@ -46,3 +46,6 @@ Bookmark all my links into README.md
 - [New Release: PowerCLI 6.5.3 - VMware PowerCLI Blog - VMware Blogs](https://blogs.vmware.com/PowerCLI/2017/10/new-release-powercli-6-5-3.html) 
 - [VPN Configuration to VMware Cloud on AWS using pfSense | virtuallyGhetto](http://www.virtuallyghetto.com/2017/10/vpn-configuration-to-vmware-cloud-on-aws-using-pfsense.html) 
 - [vSphere 6.5 RESTful APIs with Kyle Ruddy (@kmruddy) – vBrownBag](https://vbrownbag.com/2017/10/vsphere-6-5-restful-apis-with-kyle-ruddy-kmruddy/) 
+
+### October 11, 2017 
+- [Kubernetes Introduction for VMware Users – Hany Michaels](http://www.hanymichaels.com/2017/10/11/kubernetes-introduction-for-vmware-users/) 
