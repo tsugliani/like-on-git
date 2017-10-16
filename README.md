@@ -51,3 +51,6 @@ Bookmark all my links into README.md
 - [Kubernetes Introduction for VMware Users – Hany Michaels](http://www.hanymichaels.com/2017/10/11/kubernetes-introduction-for-vmware-users/) 
 - [Using vSphere Integrated Containers to Solve Container Networking Challenges - Cloud-Native Apps](https://blogs.vmware.com/cloudnative/2017/10/10/solving-container-networking-challenges-vsphere-integrated-containers/) 
 - [Migrate vCloud Director 9.0 DB from MSSQL to Postgres – Virtual Reality](http://www.vstellar.com/2017/10/02/migrate-vcloud-director-9-0-db-from-mssql-to-postgres/) 
+
+### October 16, 2017 
+- [“Shockwave Flash has crashed” workaround for vSphere Web (Flash) Client | virtuallyGhetto](http://www.virtuallyghetto.com/2017/10/shockwave-flash-has-crashed-workaround-for-vsphere-web-flash-client.html) 
