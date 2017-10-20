@@ -56,3 +56,6 @@ Bookmark all my links into README.md
 - [“Shockwave Flash has crashed” workaround for vSphere Web (Flash) Client | virtuallyGhetto](http://www.virtuallyghetto.com/2017/10/shockwave-flash-has-crashed-workaround-for-vsphere-web-flash-client.html) 
 - [PSC Load Balancing with NSX - Pascal's Wereld](https://pascalswereld.nl/2017/10/13/psc-load-balancing-nsx/) 
 - [containerD Deep Dive: Intro to containerD · Container42](https://container42.com/2017/10/14/containerd-deep-dive-intro/) 
+
+### October 20, 2017 
+- [Making Royal TSX Even More Awesome – vNinja.net](http://vninja.net/osx/making-royal-tsx-even-more-awesome/) 
