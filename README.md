@@ -59,3 +59,6 @@ Bookmark all my links into README.md
 
 ### October 20, 2017 
 - [Making Royal TSX Even More Awesome – vNinja.net](http://vninja.net/osx/making-royal-tsx-even-more-awesome/) 
+
+### October 21, 2017 
+- [Ultimate Guide to BOSH](http://ultimateguidetobosh.com/) 
