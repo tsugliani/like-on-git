@@ -63,3 +63,6 @@ Bookmark all my links into README.md
 ### October 21, 2017 
 - [Ultimate Guide to BOSH](http://ultimateguidetobosh.com/) 
 - [vRops – vSan DiskGroup Count Super Metric at Host System | vMan](http://vman.ch/vrops-vsan-diskgroup-count-super-metric-at-host-system/) 
+
+### October 22, 2017 
+- [#Blogtober Pt 2 - vSphere and Infrastructure as Code](https://blog.edmorgan.info/blogtober/2017/10/21/Blogtober-2.html?utm_content=buffer325cd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
