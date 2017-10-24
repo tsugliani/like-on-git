@@ -69,4 +69,4 @@ Bookmark all my links into README.md
 
 ### October 24, 2017 
 - [VMware Cloud on AWS – VM Creation Date available in vSphere API | virtuallyGhetto](https://www.virtuallyghetto.com/2017/10/vmware-cloud-on-aws-vm-creation-date-available-in-vsphere-api.html) 
-- [Article Detail - VMware Blog](https://blog.cloud.vmware.com/s/content/a1y6A000000aEjBQAU/vmware-cloud-on-aws-preparing-to-onboard) 
+- [VMware Cloud on AWS: Preparing to On-Board - VMware Blog](https://blog.cloud.vmware.com/s/content/a1y6A000000aEjBQAU/vmware-cloud-on-aws-preparing-to-onboard) 
