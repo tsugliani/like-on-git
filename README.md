@@ -66,3 +66,6 @@ Bookmark all my links into README.md
 
 ### October 22, 2017 
 - [#Blogtober Pt 2 - vSphere and Infrastructure as Code](https://blog.edmorgan.info/blogtober/2017/10/21/Blogtober-2.html?utm_content=buffer325cd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+
+### October 24, 2017 
+- [VMware Cloud on AWS – VM Creation Date available in vSphere API | virtuallyGhetto](https://www.virtuallyghetto.com/2017/10/vmware-cloud-on-aws-vm-creation-date-available-in-vsphere-api.html) 
