@@ -71,3 +71,6 @@ Bookmark all my links into README.md
 - [VMware Cloud on AWS – VM Creation Date available in vSphere API | virtuallyGhetto](https://www.virtuallyghetto.com/2017/10/vmware-cloud-on-aws-vm-creation-date-available-in-vsphere-api.html) 
 - [VMware Cloud on AWS: Preparing to On-Board - VMware Blog](https://blog.cloud.vmware.com/s/content/a1y6A000000aEjBQAU/vmware-cloud-on-aws-preparing-to-onboard) 
 - [Released: vCloud Director 8.10 and 8.20 Point Updates - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/released-vcloud-director-8-10-and-8-20-point-updates/) 
+
+### October 25, 2017 
+- [AKS, the new Kubernetes managed service on Azure – Juanma's Blog](http://blog.jreypo.io/containers/microsoft/azure/cloud/cloud-native/aks-the-new-kubernetes-managed-service-on-azure/) 
