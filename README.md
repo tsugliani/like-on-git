@@ -74,3 +74,6 @@ Bookmark all my links into README.md
 
 ### October 25, 2017 
 - [AKS, the new Kubernetes managed service on Azure – Juanma's Blog](http://blog.jreypo.io/containers/microsoft/azure/cloud/cloud-native/aks-the-new-kubernetes-managed-service-on-azure/) 
+
+### October 26, 2017 
+- [Article Detail - VMware Blog](https://blog.cloud.vmware.com/s/content/a1y6A000000aFANQA2/vmware-cloud-on-aws-operations-blog-series-part-1) 
