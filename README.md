@@ -77,3 +77,6 @@ Bookmark all my links into README.md
 
 ### October 26, 2017 
 - [Article Detail - VMware Blog](https://blog.cloud.vmware.com/s/content/a1y6A000000aFANQA2/vmware-cloud-on-aws-operations-blog-series-part-1) 
+
+### October 27, 2017 
+- [Technology Short Take 89 - Scott's Weblog - The weblog of an IT pro specializing in cloud computing, virtualization, and networking, all with an open source view](https://blog.scottlowe.org/2017/10/27/Technology-Short-Take-89/) 
