@@ -80,3 +80,4 @@ Bookmark all my links into README.md
 
 ### October 27, 2017 
 - [Technology Short Take 89 - Scott's Weblog - The weblog of an IT pro specializing in cloud computing, virtualization, and networking, all with an open source view](https://blog.scottlowe.org/2017/10/27/Technology-Short-Take-89/) 
+- [How did I get started with the vSphere Python SDK “pyvmomi” on ubuntu distro? | vThinkBeyondVM](http://vthinkbeyondvm.com/how-did-i-get-started-with-the-vsphere-python-sdk-pyvmomi-on-ubuntu-distro/) 
