@@ -82,3 +82,6 @@ Bookmark all my links into README.md
 - [Technology Short Take 89 - Scott's Weblog - The weblog of an IT pro specializing in cloud computing, virtualization, and networking, all with an open source view](https://blog.scottlowe.org/2017/10/27/Technology-Short-Take-89/) 
 - [How did I get started with the vSphere Python SDK “pyvmomi” on ubuntu distro? | vThinkBeyondVM](http://vthinkbeyondvm.com/how-did-i-get-started-with-the-vsphere-python-sdk-pyvmomi-on-ubuntu-distro/) 
 - [VMware vCenter Server 6.5 Update 1b Release Notes](https://docs.vmware.com/en/VMware-vSphere/65/rn/vsphere-vcenter-server-65u1b-release-notes.html#resolvedissues) 
+
+### October 30, 2017 
+- [The iPad Pro as main computer for programming](https://jann.is/ipad-pro-for-programming/) 
