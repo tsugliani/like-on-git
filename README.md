@@ -85,3 +85,4 @@ Bookmark all my links into README.md
 
 ### October 30, 2017 
 - [The iPad Pro as main computer for programming](https://jann.is/ipad-pro-for-programming/) 
+- [New whitepaper available: vSphere Metro Storage Cluster Recommended Practices (6.5 update) - Yellow Bricks](http://www.yellow-bricks.com/2017/10/24/new-whitepaper-available-vsphere-metro-storage-cluster-recommended-practices-6-5-update/) 
