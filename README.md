@@ -88,3 +88,4 @@ Bookmark all my links into README.md
 - [New whitepaper available: vSphere Metro Storage Cluster Recommended Practices (6.5 update) - Yellow Bricks](http://www.yellow-bricks.com/2017/10/24/new-whitepaper-available-vsphere-metro-storage-cluster-recommended-practices-6-5-update/) 
 - [Persisting state between AWS EC2 spot instances | peteris.rocks](https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/) 
 - [Jan-Piet Mens :: A shell command to create JSON: jo](http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/) 
+- [Using vSphere Integrated Containers to Provide Persistent Storage for Legacy Applications - Cloud-Native Apps](https://blogs.vmware.com/cloudnative/2017/10/24/vsphere-integrated-containers-provide-persistent-storage/) 
