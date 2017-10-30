@@ -89,3 +89,4 @@ Bookmark all my links into README.md
 - [Persisting state between AWS EC2 spot instances | peteris.rocks](https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/) 
 - [Jan-Piet Mens :: A shell command to create JSON: jo](http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/) 
 - [Using vSphere Integrated Containers to Provide Persistent Storage for Legacy Applications - Cloud-Native Apps](https://blogs.vmware.com/cloudnative/2017/10/24/vsphere-integrated-containers-provide-persistent-storage/) 
+- [janikvonrotz/awesome-powershell: A curated list of delightful PowerShell modules and resources](https://github.com/janikvonrotz/awesome-powershell) 
