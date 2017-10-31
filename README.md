@@ -95,3 +95,4 @@ Bookmark all my links into README.md
 - [NSX-T PowerCLI community module | virtuallyGhetto](https://www.virtuallyghetto.com/2017/10/nsx-t-powercli-community-module.html) 
 - [Debunking the VM Link Speed Myth! | vswitchzero](https://vswitchzero.com/2017/10/30/debunking-the-vm-link-speed-myth/) 
 - [An Opinion in Defence of NATs](http://www.circleid.com/posts/20170905_an_opinion_in_defence_of_nats/) 
+- [Tuning the performance of Intel Optane SSDs on Linux Operating Systems - IT Peer Network](https://itpeernetwork.intel.com/tuning-performance-intel-optane-ssds-linux-operating-systems/) 
