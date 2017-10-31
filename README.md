@@ -90,3 +90,6 @@ Bookmark all my links into README.md
 - [Jan-Piet Mens :: A shell command to create JSON: jo](http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/) 
 - [Using vSphere Integrated Containers to Provide Persistent Storage for Legacy Applications - Cloud-Native Apps](https://blogs.vmware.com/cloudnative/2017/10/24/vsphere-integrated-containers-provide-persistent-storage/) 
 - [janikvonrotz/awesome-powershell: A curated list of delightful PowerShell modules and resources](https://github.com/janikvonrotz/awesome-powershell) 
+
+### October 31, 2017 
+- [NSX-T PowerCLI community module | virtuallyGhetto](https://www.virtuallyghetto.com/2017/10/nsx-t-powercli-community-module.html) 
