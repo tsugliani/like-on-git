@@ -93,3 +93,4 @@ Bookmark all my links into README.md
 
 ### October 31, 2017 
 - [NSX-T PowerCLI community module | virtuallyGhetto](https://www.virtuallyghetto.com/2017/10/nsx-t-powercli-community-module.html) 
+- [Debunking the VM Link Speed Myth! | vswitchzero](https://vswitchzero.com/2017/10/30/debunking-the-vm-link-speed-myth/) 
