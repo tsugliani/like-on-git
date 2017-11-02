@@ -101,3 +101,4 @@ Bookmark all my links into README.md
 
 ### November 2, 2017 
 - [vSphere and iSCSI storage best practices - Yellow Bricks](http://www.yellow-bricks.com/2017/11/01/vsphere-iscsi-storage-best-practices/) 
+- [vSAN Deduplication and Compression Tips! - Virtual Ramblings](http://thenicholson.com/vsan-deduplication-compression-tips/) 
