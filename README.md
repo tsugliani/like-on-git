@@ -98,3 +98,6 @@ Bookmark all my links into README.md
 - [Tuning the performance of Intel Optane SSDs on Linux Operating Systems - IT Peer Network](https://itpeernetwork.intel.com/tuning-performance-intel-optane-ssds-linux-operating-systems/) 
 - [SQL Fundamentals](https://www.dataquest.io/blog/sql-fundamentals/) 
 - [Updating OVF properties for a VM using vSphere API and PowerCLI  | virtuallyGhetto](https://www.virtuallyghetto.com/2017/10/updating-ovf-properties-for-a-vm-using-vsphere-api-and-powercli.html) 
+
+### November 2, 2017 
+- [vSphere and iSCSI storage best practices - Yellow Bricks](http://www.yellow-bricks.com/2017/11/01/vsphere-iscsi-storage-best-practices/) 
