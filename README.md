@@ -103,3 +103,4 @@ Bookmark all my links into README.md
 - [vSphere and iSCSI storage best practices - Yellow Bricks](http://www.yellow-bricks.com/2017/11/01/vsphere-iscsi-storage-best-practices/) 
 - [vSAN Deduplication and Compression Tips! - Virtual Ramblings](http://thenicholson.com/vsan-deduplication-compression-tips/) 
 - [Platform Services Controller (PSC) 6.x FAQ Now Available - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/10/platform-services-controller-psc-6-x-faq-now-available.html) 
+- [New Product Walkthrough - Hybrid vSphere SSL Certificate Replacement - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/01/walkthrough-hybrid-ssl-certificate-replacement.html) 
