@@ -105,3 +105,6 @@ Bookmark all my links into README.md
 - [Platform Services Controller (PSC) 6.x FAQ Now Available - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/10/platform-services-controller-psc-6-x-faq-now-available.html) 
 - [New Product Walkthrough - Hybrid vSphere SSL Certificate Replacement - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/01/walkthrough-hybrid-ssl-certificate-replacement.html) 
 - [Kubernetes in the Enterprise: The Design Guide – Hany Michaels](http://www.hanymichaels.com/2017/11/02/kubernetes-in-the-enterprise-the-design-guide/) 
+
+### November 3, 2017 
+- [[Release] Project Magpie for NSX | Network Inferno](http://networkinferno.net/release-project-magpie-for-nsx) 
