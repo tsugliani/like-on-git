@@ -108,3 +108,4 @@ Bookmark all my links into README.md
 
 ### November 3, 2017 
 - [[Release] Project Magpie for NSX | Network Inferno](http://networkinferno.net/release-project-magpie-for-nsx) 
+- [#10 Things To Know Before Starting with NSX-T](http://cloudmaniac.net/nsx-t-things-to-know/) 
