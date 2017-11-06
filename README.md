@@ -109,3 +109,6 @@ Bookmark all my links into README.md
 ### November 3, 2017 
 - [[Release] Project Magpie for NSX | Network Inferno](http://networkinferno.net/release-project-magpie-for-nsx) 
 - [#10 Things To Know Before Starting with NSX-T](http://cloudmaniac.net/nsx-t-things-to-know/) 
+
+### November 6, 2017 
+- [k88hudson/git-flight-rules: Flight rules for git - a work in progress!](https://github.com/k88hudson/git-flight-rules?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
