@@ -112,3 +112,4 @@ Bookmark all my links into README.md
 
 ### November 6, 2017 
 - [k88hudson/git-flight-rules: Flight rules for git - a work in progress!](https://github.com/k88hudson/git-flight-rules?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
+- [vCloud Director Automation with RES – Virtual Bonzo](https://virtualbonzo.com/2017/11/06/vcloud-director-automation-with-res/) 
