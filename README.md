@@ -118,3 +118,4 @@ Bookmark all my links into README.md
 - [Tuning the performance of Intel Optane SSDs on Linux Operating Systems - IT Peer Network](https://itpeernetwork.intel.com/tuning-performance-intel-optane-ssds-linux-operating-systems/) 
 - [Using Packer to Automate vSphere Template Builds · TheHumbleLab](https://www.thehumblelab.com/automate-vsphere-template-builds-packer/) 
 - [PCIe Server Storage I/O Network Fundamentals #blogtober - StorageIOblog](https://storageioblog.com/pcie-server-storage-io-network-fundamentals-blogtober/) 
+- [Virtual Nomad: Validating NSX VTEP connectivity](http://vmnomad.blogspot.fr/2017/11/validating-nsx-vtep-connectivity.html?spref=tw) 
