@@ -122,3 +122,4 @@ Bookmark all my links into README.md
 - [VUM Challenges During vCenter 6.5 Upgrade | vswitchzero](https://vswitchzero.com/2017/11/06/vum-challenges-during-vcenter-6-5-upgrade/) 
 - [How Docker Swarm Container Networking Works - Under the Hood](https://neuvector.com/blog/docker-swarm-container-networking/) 
 - [Preventing selection of certain datastores with SPBM - CormacHogan.com](https://cormachogan.com/2017/11/07/preventing-selection-certain-datastores-spbm/) 
+- [GitHub welcomes all CI tools](https://github.com/blog/2463-github-welcomes-all-ci-tools) 
