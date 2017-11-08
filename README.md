@@ -123,3 +123,4 @@ Bookmark all my links into README.md
 - [How Docker Swarm Container Networking Works - Under the Hood](https://neuvector.com/blog/docker-swarm-container-networking/) 
 - [Preventing selection of certain datastores with SPBM - CormacHogan.com](https://cormachogan.com/2017/11/07/preventing-selection-certain-datastores-spbm/) 
 - [GitHub welcomes all CI tools](https://github.com/blog/2463-github-welcomes-all-ci-tools) 
+- [Git Lens — git blame annotations, code lens, and more - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) 
