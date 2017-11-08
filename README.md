@@ -119,3 +119,4 @@ Bookmark all my links into README.md
 - [Using Packer to Automate vSphere Template Builds · TheHumbleLab](https://www.thehumblelab.com/automate-vsphere-template-builds-packer/) 
 - [PCIe Server Storage I/O Network Fundamentals #blogtober - StorageIOblog](https://storageioblog.com/pcie-server-storage-io-network-fundamentals-blogtober/) 
 - [Virtual Nomad: Validating NSX VTEP connectivity](http://vmnomad.blogspot.fr/2017/11/validating-nsx-vtep-connectivity.html?spref=tw) 
+- [VUM Challenges During vCenter 6.5 Upgrade | vswitchzero](https://vswitchzero.com/2017/11/06/vum-challenges-during-vcenter-6-5-upgrade/) 
