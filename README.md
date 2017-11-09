@@ -127,3 +127,4 @@ Bookmark all my links into README.md
 
 ### November 9, 2017 
 - [vSphere HA heartbeat datastores, the isolation address and vSAN - Yellow Bricks](http://www.yellow-bricks.com/2017/11/08/vsphere-ha-heartbeat-datastores-isolation-address-vsan/) 
+- [How to Tag Docker Images with Git Commit Information - Scott's Weblog - The weblog of an IT pro specializing in cloud computing, virtualization, and networking, all with an open source view](https://blog.scottlowe.org/2017/11/08/how-tag-docker-images-git-commit-information/) 
