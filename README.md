@@ -134,3 +134,4 @@ Bookmark all my links into README.md
 
 ### November 13, 2017 
 - [All you need to know about whiteboard markers – graphicfacilitation – Medium](https://medium.com/graphicfacilitation/all-you-need-to-know-about-whiteboard-markers-2a25d1249911) 
+- [All you need to know about whiteboard markers – graphicfacilitation – Medium](https://medium.com/graphicfacilitation/all-you-need-to-know-about-whiteboard-markers-2a25d1249911) 
