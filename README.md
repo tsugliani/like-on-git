@@ -131,3 +131,6 @@ Bookmark all my links into README.md
 
 ### November 10, 2017 
 - [ECMP Path Determination in NSX | vswitchzero](https://vswitchzero.com/2017/08/07/ecmp-path-determination-in-nsx/) 
+
+### November 13, 2017 
+- [All you need to know about whiteboard markers – graphicfacilitation – Medium](https://medium.com/graphicfacilitation/all-you-need-to-know-about-whiteboard-markers-2a25d1249911) 
