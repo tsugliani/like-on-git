@@ -135,3 +135,4 @@ Bookmark all my links into README.md
 ### November 13, 2017 
 - [All you need to know about whiteboard markers – graphicfacilitation – Medium](https://medium.com/graphicfacilitation/all-you-need-to-know-about-whiteboard-markers-2a25d1249911) 
 - [All you need to know about whiteboard markers – graphicfacilitation – Medium](https://medium.com/graphicfacilitation/all-you-need-to-know-about-whiteboard-markers-2a25d1249911) 
+- [Rehoming the Hyperconverged Home Lab – Virtually Sober](https://virtuallysober.com/2017/11/13/rehoming-the-hyperconverged-home-lab/) 
