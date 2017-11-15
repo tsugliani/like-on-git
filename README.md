@@ -137,3 +137,6 @@ Bookmark all my links into README.md
 - [All you need to know about whiteboard markers – graphicfacilitation – Medium](https://medium.com/graphicfacilitation/all-you-need-to-know-about-whiteboard-markers-2a25d1249911) 
 - [Rehoming the Hyperconverged Home Lab – Virtually Sober](https://virtuallysober.com/2017/11/13/rehoming-the-hyperconverged-home-lab/) 
 - [Waymo’s fully self-driving vehicles are here – Waymo – Medium](https://medium.com/waymo/with-waymo-in-the-drivers-seat-fully-self-driving-vehicles-can-transform-the-way-we-get-around-75e9622e829a) 
+
+### November 15, 2017 
+- [vCenter (VCSA) and using Let's Encrypt for SSL Certificates](http://jjasghar.github.io/blog/2017/11/14/vcenter-vcsa-and-using-lets-encrypt/) 
