@@ -144,3 +144,4 @@ Bookmark all my links into README.md
 
 ### November 16, 2017 
 - [cilium/cilium: Linux Native, HTTP Aware Networking and Security for Containers](https://github.com/cilium/cilium) 
+- [Infrastructure-as-Code: Bootstrap CoreOS with Ignition - Virtual Elephant](http://virtualelephant.com/2017/11/14/infrastructure-as-code-bootstrap-coreos-with-ignition/) 
