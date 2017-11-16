@@ -141,3 +141,6 @@ Bookmark all my links into README.md
 ### November 15, 2017 
 - [vCenter (VCSA) and using Let's Encrypt for SSL Certificates](http://jjasghar.github.io/blog/2017/11/14/vcenter-vcsa-and-using-lets-encrypt/) 
 - [Introducing Visual Studio Live Share](https://code.visualstudio.com/blogs/2017/11/15/live-share) 
+
+### November 16, 2017 
+- [cilium/cilium: Linux Native, HTTP Aware Networking and Security for Containers](https://github.com/cilium/cilium) 
