@@ -148,3 +148,6 @@ Bookmark all my links into README.md
 
 ### November 19, 2017 
 - [How To Disable Local System Administrator Accounts in vCloud Director – Tom Fojta's Blog](https://fojta.wordpress.com/2017/11/19/how-to-disable-local-system-administrator-accounts-in-vcloud-director/) 
+
+### November 21, 2017 
+- [Improved Powershell script for Let's Encrypt certificate renewals - Virtual to the Core](https://www.virtualtothecore.com/en/improved-powershell-script-encrypt-certificate-renewals/) 
