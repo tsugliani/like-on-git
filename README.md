@@ -154,3 +154,4 @@ Bookmark all my links into README.md
 
 ### November 22, 2017 
 - [User experience design for APIs](https://blog.keras.io/user-experience-design-for-apis.html) 
+- [User experience design for APIs | Hacker News](https://news.ycombinator.com/item?id=15752365) 
