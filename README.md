@@ -151,3 +151,6 @@ Bookmark all my links into README.md
 
 ### November 21, 2017 
 - [Improved Powershell script for Let's Encrypt certificate renewals - Virtual to the Core](https://www.virtualtothecore.com/en/improved-powershell-script-encrypt-certificate-renewals/) 
+
+### November 22, 2017 
+- [User experience design for APIs](https://blog.keras.io/user-experience-design-for-apis.html) 
