@@ -155,3 +155,6 @@ Bookmark all my links into README.md
 ### November 22, 2017 
 - [User experience design for APIs](https://blog.keras.io/user-experience-design-for-apis.html) 
 - [User experience design for APIs | Hacker News](https://news.ycombinator.com/item?id=15752365) 
+
+### November 23, 2017 
+- [Infosight s'ouvre à 3PAR](https://www.julienmousqueton.fr/2017/11/22/infosight-souvre-a-3par/) 
