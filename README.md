@@ -158,3 +158,4 @@ Bookmark all my links into README.md
 
 ### November 23, 2017 
 - [Infosight s'ouvre à 3PAR](https://www.julienmousqueton.fr/2017/11/22/infosight-souvre-a-3par/) 
+- [Finding the NSX VIB Download URL | vswitchzero](https://vswitchzero.com/2017/07/17/finding-the-nsx-vib-download-url/) 
