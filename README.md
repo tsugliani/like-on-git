@@ -160,3 +160,6 @@ Bookmark all my links into README.md
 - [Infosight s'ouvre à 3PAR](https://www.julienmousqueton.fr/2017/11/22/infosight-souvre-a-3par/) 
 - [Finding the NSX VIB Download URL | vswitchzero](https://vswitchzero.com/2017/07/17/finding-the-nsx-vib-download-url/) 
 - [REX sur l’incident réseau du 9/11/2017 sur le site de Roubaix](https://www.ovh.com/fr/blog/retour-experience-incident-reseau-9-novembre-2017-site-de-roubaix#xtor=CS1-2-[RBX]) 
+
+### November 28, 2017 
+- [My VM is lighter (and safer) than your container | the morning paper](https://blog.acolyer.org/2017/11/02/my-vm-is-lighter-and-safer-than-your-container/) 
