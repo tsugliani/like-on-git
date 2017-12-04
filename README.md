@@ -166,3 +166,4 @@ Bookmark all my links into README.md
 
 ### December 4, 2017 
 - [NSX Troubleshooting Scenario 1 | vswitchzero](https://vswitchzero.com/2017/12/01/nsx-troubleshooting-scenario-1/) 
+- [vCloud Director Postgres migrate from MSSQL to POSTGRESQL (test&dev only!) | evoila GmbH](https://www.evoila.de/2017/10/20/vcloud-director-postgres-migrate-from-mssql-to-postgresql-testdev-only/) 
