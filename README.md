@@ -163,3 +163,6 @@ Bookmark all my links into README.md
 
 ### November 28, 2017 
 - [My VM is lighter (and safer) than your container | the morning paper](https://blog.acolyer.org/2017/11/02/my-vm-is-lighter-and-safer-than-your-container/) 
+
+### December 4, 2017 
+- [NSX Troubleshooting Scenario 1 | vswitchzero](https://vswitchzero.com/2017/12/01/nsx-troubleshooting-scenario-1/) 
