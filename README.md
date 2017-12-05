@@ -170,3 +170,4 @@ Bookmark all my links into README.md
 
 ### December 5, 2017 
 - [NSX Bytes - What's new in NSX-T 2.1 - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/nsx-bytes-whats-new-in-nsx-t-2-1/) 
+- [All About Data Protection Part 6 – Nested and Combination RAID](http://www.deepstorage.net/NEW/all-about-data-protection-part-6-nested-and-combination-raid/) 
