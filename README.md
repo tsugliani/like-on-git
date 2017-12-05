@@ -171,3 +171,4 @@ Bookmark all my links into README.md
 ### December 5, 2017 
 - [NSX Bytes - What's new in NSX-T 2.1 - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/nsx-bytes-whats-new-in-nsx-t-2-1/) 
 - [All About Data Protection Part 6 – Nested and Combination RAID](http://www.deepstorage.net/NEW/all-about-data-protection-part-6-nested-and-combination-raid/) 
+- [Dynamic Configuration with the HAProxy Runtime API - HAProxy Technologies](https://www.haproxy.com/blog/dynamic-configuration-haproxy-runtime-api/?utm_content=64023928&utm_medium=social&utm_source=twitter) 
