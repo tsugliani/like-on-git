@@ -172,3 +172,6 @@ Bookmark all my links into README.md
 - [NSX Bytes - What's new in NSX-T 2.1 - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/nsx-bytes-whats-new-in-nsx-t-2-1/) 
 - [All About Data Protection Part 6 – Nested and Combination RAID](http://www.deepstorage.net/NEW/all-about-data-protection-part-6-nested-and-combination-raid/) 
 - [Dynamic Configuration with the HAProxy Runtime API - HAProxy Technologies](https://www.haproxy.com/blog/dynamic-configuration-haproxy-runtime-api/?utm_content=64023928&utm_medium=social&utm_source=twitter) 
+
+### December 6, 2017 
+- [Announcing cni-ipvlan-vpc-k8s: IPvlan overlay-free Kubernetes Networking in AWS](https://eng.lyft.com/announcing-cni-ipvlan-vpc-k8s-ipvlan-overlay-free-kubernetes-networking-in-aws-95191201476e) 
