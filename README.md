@@ -180,3 +180,4 @@ Bookmark all my links into README.md
 ### December 7, 2017 
 - [Concourse: CI that scales with your project](https://concourse.ci/index.html) 
 - [NSX-T API: Embedded Documentation and Postman Collection](http://cloudmaniac.net/nsx-t-api-embedded-documentation-and-postman-collection/) 
+- [https://jsimon-public.s3.amazonaws.com/reinvent2017.html](https://jsimon-public.s3.amazonaws.com/reinvent2017.html) 
