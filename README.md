@@ -176,3 +176,6 @@ Bookmark all my links into README.md
 ### December 6, 2017 
 - [Announcing cni-ipvlan-vpc-k8s: IPvlan overlay-free Kubernetes Networking in AWS](https://eng.lyft.com/announcing-cni-ipvlan-vpc-k8s-ipvlan-overlay-free-kubernetes-networking-in-aws-95191201476e) 
 - [NSX-T + Kubernetes Integration Demo: How to secure containerized applications using NSX-T - YouTube](https://www.youtube.com/watch?v=lyrxY6Tj-7A&feature=youtu.be) 
+
+### December 7, 2017 
+- [Concourse: CI that scales with your project](https://concourse.ci/index.html) 
