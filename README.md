@@ -181,3 +181,6 @@ Bookmark all my links into README.md
 - [Concourse: CI that scales with your project](https://concourse.ci/index.html) 
 - [NSX-T API: Embedded Documentation and Postman Collection](http://cloudmaniac.net/nsx-t-api-embedded-documentation-and-postman-collection/) 
 - [https://jsimon-public.s3.amazonaws.com/reinvent2017.html](https://jsimon-public.s3.amazonaws.com/reinvent2017.html) 
+
+### December 9, 2017 
+- [Technology Short Take 91 - Scott's Weblog - The weblog of an IT pro specializing in cloud computing, virtualization, and networking, all with an open source view](https://blog.scottlowe.org/2017/12/08/technology-short-take-91/) 
