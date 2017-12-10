@@ -184,3 +184,6 @@ Bookmark all my links into README.md
 
 ### December 9, 2017 
 - [Technology Short Take 91 - Scott's Weblog - The weblog of an IT pro specializing in cloud computing, virtualization, and networking, all with an open source view](https://blog.scottlowe.org/2017/12/08/technology-short-take-91/) 
+
+### December 10, 2017 
+- [Powering on virtual machines in VMware vCloud Director fails with the error: insufficient resources (2107908)](https://kb.vmware.com/s/article/2107908) 
