@@ -188,3 +188,4 @@ Bookmark all my links into README.md
 ### December 10, 2017 
 - [Powering on virtual machines in VMware vCloud Director fails with the error: insufficient resources (2107908)](https://kb.vmware.com/s/article/2107908) 
 - [NSX Troubleshooting Scenario 2 | vswitchzero](https://vswitchzero.com/2017/12/09/nsx-troubleshooting-scenario-2/) 
+- [Maximizing Throughput for Akka Streams](http://blog.colinbreck.com/maximizing-throughput-for-akka-streams/) 
