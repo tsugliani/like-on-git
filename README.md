@@ -192,3 +192,4 @@ Bookmark all my links into README.md
 
 ### December 11, 2017 
 - [1.4 Billion Clear Text Credentials Discovered in a Single Database](https://medium.com/4iqdelvedeep/1-4-billion-clear-text-credentials-discovered-in-a-single-database-3131d0a1ae14) 
+- [Security problems of Kops default deployments – DevOpsLinks – Medium](https://medium.com/devopslinks/security-problems-of-kops-default-deployments-2819c157bc90) 
