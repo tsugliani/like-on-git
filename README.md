@@ -189,3 +189,6 @@ Bookmark all my links into README.md
 - [Powering on virtual machines in VMware vCloud Director fails with the error: insufficient resources (2107908)](https://kb.vmware.com/s/article/2107908) 
 - [NSX Troubleshooting Scenario 2 | vswitchzero](https://vswitchzero.com/2017/12/09/nsx-troubleshooting-scenario-2/) 
 - [Maximizing Throughput for Akka Streams](http://blog.colinbreck.com/maximizing-throughput-for-akka-streams/) 
+
+### December 11, 2017 
+- [1.4 Billion Clear Text Credentials Discovered in a Single Database](https://medium.com/4iqdelvedeep/1-4-billion-clear-text-credentials-discovered-in-a-single-database-3131d0a1ae14) 
