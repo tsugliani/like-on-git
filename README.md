@@ -194,3 +194,4 @@ Bookmark all my links into README.md
 - [1.4 Billion Clear Text Credentials Discovered in a Single Database](https://medium.com/4iqdelvedeep/1-4-billion-clear-text-credentials-discovered-in-a-single-database-3131d0a1ae14) 
 - [Security problems of Kops default deployments – DevOpsLinks – Medium](https://medium.com/devopslinks/security-problems-of-kops-default-deployments-2819c157bc90) 
 - [Running Kubernetes in Production — Kubernetes on AWS 0.1 documentation](http://kubernetes-on-aws.readthedocs.io/en/latest/admin-guide/kubernetes-in-production.html) 
+- [Deployment models for vSphere Content Library | virtuallyGhetto](https://www.virtuallyghetto.com/2017/12/deployment-models-for-vsphere-content-library.html) 
