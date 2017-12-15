@@ -195,3 +195,6 @@ Bookmark all my links into README.md
 - [Security problems of Kops default deployments – DevOpsLinks – Medium](https://medium.com/devopslinks/security-problems-of-kops-default-deployments-2819c157bc90) 
 - [Running Kubernetes in Production — Kubernetes on AWS 0.1 documentation](http://kubernetes-on-aws.readthedocs.io/en/latest/admin-guide/kubernetes-in-production.html) 
 - [Deployment models for vSphere Content Library | virtuallyGhetto](https://www.virtuallyghetto.com/2017/12/deployment-models-for-vsphere-content-library.html) 
+
+### December 15, 2017 
+- [Bioinformatics with Pachyderm — Shell Scripts at Scale](https://medium.com/pachyderm-data/bioinformatics-with-pachyderm-shell-scripts-at-scale-ae1cce672b83) 
