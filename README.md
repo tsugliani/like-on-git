@@ -198,3 +198,6 @@ Bookmark all my links into README.md
 
 ### December 15, 2017 
 - [Bioinformatics with Pachyderm — Shell Scripts at Scale](https://medium.com/pachyderm-data/bioinformatics-with-pachyderm-shell-scripts-at-scale-ae1cce672b83) 
+
+### December 16, 2017 
+- [Has NVMe Killed off NVDIMM? - Architecting IT](https://blog.architecting.it/has-nvme-killed-off-nvdimm/) 
