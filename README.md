@@ -201,3 +201,6 @@ Bookmark all my links into README.md
 
 ### December 16, 2017 
 - [Has NVMe Killed off NVDIMM? - Architecting IT](https://blog.architecting.it/has-nvme-killed-off-nvdimm/) 
+
+### December 22, 2017 
+- [Christmas Came Early: NSX-T 2.1.0 Released](http://cloudmaniac.net/nsx-t-2-1-released/) 
