@@ -204,3 +204,4 @@ Bookmark all my links into README.md
 
 ### December 22, 2017 
 - [Christmas Came Early: NSX-T 2.1.0 Released](http://cloudmaniac.net/nsx-t-2-1-released/) 
+- [ESXI 6.5 Patch 2 - vSAN Support Insight! - Virtual Ramblings](http://thenicholson.com/esxi-6-5-patch-2-vsan-support-insight/) 
