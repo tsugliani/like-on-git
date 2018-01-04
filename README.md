@@ -208,3 +208,6 @@ Bookmark all my links into README.md
 
 ### December 31, 2017 
 - [Ghost S1 MkII by LOUQE SWEDEN — Kickstarter](https://www.kickstarter.com/projects/louqe/ghost-s1-mkii) 
+
+### January 4, 2018 
+- [The NSX DLR and ARP Suppression | vswitchzero](https://vswitchzero.com/2018/01/04/nsx-dlr-and-arp-suppression/) 
