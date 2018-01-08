@@ -211,3 +211,6 @@ Bookmark all my links into README.md
 
 ### January 4, 2018 
 - [The NSX DLR and ARP Suppression | vswitchzero](https://vswitchzero.com/2018/01/04/nsx-dlr-and-arp-suppression/) 
+
+### January 8, 2018 
+- [Dedicated Edge cluster with vCloud Director 9.0.x and migration scenario | blog.bertello.org](http://blog.bertello.org/2018/01/dedicated-edge-cluster-with-vcloud-director-9-0-x-and-migration-scenario/) 
