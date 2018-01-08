@@ -214,3 +214,4 @@ Bookmark all my links into README.md
 
 ### January 8, 2018 
 - [Dedicated Edge cluster with vCloud Director 9.0.x and migration scenario | blog.bertello.org](http://blog.bertello.org/2018/01/dedicated-edge-cluster-with-vcloud-director-9-0-x-and-migration-scenario/) 
+- [Ten Tips for a Successful NSX Upgrade | vswitchzero](https://vswitchzero.com/2018/01/08/ten-tips-for-a-successful-nsx-upgrade/) 
