@@ -218,3 +218,6 @@ Bookmark all my links into README.md
 
 ### January 11, 2018 
 - [Visual Studio Code Can Do That? — Smashing Magazine](https://www.smashingmagazine.com/2018/01/visual-studio-code/) 
+
+### January 12, 2018 
+- [NSX Troubleshooting Scenario 3 | vswitchzero](https://vswitchzero.com/2018/01/11/nsx-troubleshooting-scenario-3/) 
