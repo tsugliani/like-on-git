@@ -221,3 +221,6 @@ Bookmark all my links into README.md
 
 ### January 12, 2018 
 - [NSX Troubleshooting Scenario 3 | vswitchzero](https://vswitchzero.com/2018/01/11/nsx-troubleshooting-scenario-3/) 
+
+### January 14, 2018 
+- [The Curious Case of the Intel Microcode Part #2 - It Gets Better — Then Worse - vNinja.net](http://vninja.net/news/curious-case-intel-microcode-part-2-gets-better-worse/) 
