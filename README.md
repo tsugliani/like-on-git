@@ -225,3 +225,6 @@ Bookmark all my links into README.md
 ### January 14, 2018 
 - [The Curious Case of the Intel Microcode Part #2 - It Gets Better — Then Worse - vNinja.net](http://vninja.net/news/curious-case-intel-microcode-part-2-gets-better-worse/) 
 - [How to sleep a million years — Idea of the day](https://idea.popcount.org/2013-07-19-how-to-sleep-a-million-years/) 
+
+### January 15, 2018 
+- [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html) 
