@@ -228,3 +228,4 @@ Bookmark all my links into README.md
 
 ### January 15, 2018 
 - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html) 
+- [vSphere 6.5 DRS and Memory Balancing in Non-Overcommitted Clusters - frankdenneman.nl](http://frankdenneman.nl/2018/01/15/vsphere-6-5-drs-memory-balancing-non-overcommitted-clusters/) 
