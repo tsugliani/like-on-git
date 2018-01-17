@@ -230,3 +230,6 @@ Bookmark all my links into README.md
 - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html) 
 - [vSphere 6.5 DRS and Memory Balancing in Non-Overcommitted Clusters - frankdenneman.nl](http://frankdenneman.nl/2018/01/15/vsphere-6-5-drs-memory-balancing-non-overcommitted-clusters/) 
 - [vSAN 6.6 Proof of Concept Guide](https://storagehub.vmware.com/#!/vmware-vsan/vsan-6-6-proof-of-concept-guide) 
+
+### January 17, 2018 
+- [Understanding kubernetes networking: pods – Google Cloud Platform — Community – Medium](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727) 
