@@ -234,3 +234,6 @@ Bookmark all my links into README.md
 ### January 17, 2018 
 - [Understanding kubernetes networking: pods – Google Cloud Platform — Community – Medium](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727) 
 - [Understanding kubernetes networking: services – Google Cloud Platform — Community – Medium](https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82) 
+
+### January 18, 2018 
+- [vSphere 6.5 DRS and Memory Balancing in Non-Overcommitted Clusters - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/01/vsphere-6-5-drs-memory-balancing-non-overcommitted-clusters.html) 
