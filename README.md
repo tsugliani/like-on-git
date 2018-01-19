@@ -237,3 +237,6 @@ Bookmark all my links into README.md
 
 ### January 18, 2018 
 - [vSphere 6.5 DRS and Memory Balancing in Non-Overcommitted Clusters - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/01/vsphere-6-5-drs-memory-balancing-non-overcommitted-clusters.html) 
+
+### January 19, 2018 
+- [Scaling Kubernetes to 2,500 Nodes](https://blog.openai.com/scaling-kubernetes-to-2500-nodes/) 
