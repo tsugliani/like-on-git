@@ -243,3 +243,4 @@ Bookmark all my links into README.md
 
 ### January 22, 2018 
 - [haproxy-auth-request – HTTP access control using subrequests · bl.duesterhus.eu](https://bl.duesterhus.eu/20180119/) 
+- [Selective deletion of tasks, events, and historical performance data in vSphere 5.x and 6.x (2110031)](https://kb.vmware.com/s/article/2110031) 
