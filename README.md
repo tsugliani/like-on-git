@@ -240,3 +240,6 @@ Bookmark all my links into README.md
 
 ### January 19, 2018 
 - [Scaling Kubernetes to 2,500 Nodes](https://blog.openai.com/scaling-kubernetes-to-2500-nodes/) 
+
+### January 22, 2018 
+- [haproxy-auth-request – HTTP access control using subrequests · bl.duesterhus.eu](https://bl.duesterhus.eu/20180119/) 
