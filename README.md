@@ -248,3 +248,6 @@ Bookmark all my links into README.md
 ### January 24, 2018 
 - [vCloud Director vApp Runtime Lease Expiration Action – Tom Fojta's Blog](https://fojta.wordpress.com/2018/01/23/vcloud-director-vapp-runtime-lease-expiration-action/) 
 - [Ansible NSX module for creating NAT rules - Virtual Elephant](http://virtualelephant.com/2018/01/23/ansible-nsx-module-for-creating-nat-rules/) 
+
+### January 29, 2018 
+- [L3 routing to the hypervisor with BGP | Vincent Bernat](https://vincent.bernat.im/en/blog/2018-l3-routing-hypervisor) 
