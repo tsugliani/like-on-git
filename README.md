@@ -251,3 +251,6 @@ Bookmark all my links into README.md
 
 ### January 29, 2018 
 - [L3 routing to the hypervisor with BGP | Vincent Bernat](https://vincent.bernat.im/en/blog/2018-l3-routing-hypervisor) 
+
+### January 30, 2018 
+- [Running Commands on Your Linux Instance at Launch - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html) 
