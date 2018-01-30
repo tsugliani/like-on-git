@@ -254,3 +254,4 @@ Bookmark all my links into README.md
 
 ### January 30, 2018 
 - [Running Commands on Your Linux Instance at Launch - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html) 
+- [Alerting on "Bootbank cannot be found at path ‘/bootbank’" in vRealize Operations - vNinja.net](http://vninja.net/vmware-2/bootbank-cannot-be-found-at-path/) 
