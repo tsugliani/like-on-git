@@ -257,3 +257,6 @@ Bookmark all my links into README.md
 - [Alerting on "Bootbank cannot be found at path ‘/bootbank’" in vRealize Operations - vNinja.net](http://vninja.net/vmware-2/bootbank-cannot-be-found-at-path/) 
 - [Routage L3 jusqu'à l'hyperviseur avec BGP | Vincent Bernat](https://vincent.bernat.im/fr/blog/2018-routage-l3-hyperviseur) 
 - [NSX Bytes: NSX 6.4 UI Enhancements and Upgrade Coordinator - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/nsx-bytes-nsx-6-4-ui-enhancements-and-upgrade-coordinator/) 
+
+### January 31, 2018 
+- [python sweetness — Mitogen, an infrastructure code baseline that...](http://pythonsweetness.tumblr.com/post/165366346547/mitogen-an-infrastructure-code-baseline-that) 
