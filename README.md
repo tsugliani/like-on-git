@@ -264,3 +264,6 @@ Bookmark all my links into README.md
 ### February 1, 2018 
 - [Using a vSphere custom TCP/IP Stack for iSCSI - Yellow Bricks](http://www.yellow-bricks.com/2018/01/31/using-vsphere-custom-tcp-ip-stack-iscsi/) 
 - [NSX Troubleshooting Scenario 4 | vswitchzero](https://vswitchzero.com/2018/01/31/nsx-troubleshooting-scenario-4/) 
+
+### February 5, 2018 
+- [Introducing The Hyperconverged Home Lab v2.0 – Virtually Sober](https://virtuallysober.com/2018/02/01/introducing-the-hyperconverged-home-lab-v2-0/) 
