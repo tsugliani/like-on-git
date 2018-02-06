@@ -267,3 +267,6 @@ Bookmark all my links into README.md
 
 ### February 5, 2018 
 - [Introducing The Hyperconverged Home Lab v2.0 – Virtually Sober](https://virtuallysober.com/2018/02/01/introducing-the-hyperconverged-home-lab-v2-0/) 
+
+### February 6, 2018 
+- [Tutorial: Part-2 : How to Manage EVC using vSphere Python SDK pyVmomi? - vThinkBeyondVM](http://vthinkbeyondvm.com/tutorial-part-2-manage-evc-using-vsphere-python-sdk-pyvmomi/) 
