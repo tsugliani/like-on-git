@@ -270,3 +270,6 @@ Bookmark all my links into README.md
 
 ### February 6, 2018 
 - [Tutorial: Part-2 : How to Manage EVC using vSphere Python SDK pyVmomi? - vThinkBeyondVM](http://vthinkbeyondvm.com/tutorial-part-2-manage-evc-using-vsphere-python-sdk-pyvmomi/) 
+
+### February 12, 2018 
+- [My Favourite Secret Weapon – strace – zwischenzugs](https://zwischenzugs.com/2011/08/29/my-favourite-secret-weapon-strace/?platform=hootsuite) 
