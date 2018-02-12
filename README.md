@@ -273,3 +273,4 @@ Bookmark all my links into README.md
 
 ### February 12, 2018 
 - [My Favourite Secret Weapon – strace – zwischenzugs](https://zwischenzugs.com/2011/08/29/my-favourite-secret-weapon-strace/?platform=hootsuite) 
+- [Some Tools to Help Learn Kubernetes - Scott's Weblog - The weblog of an IT pro specializing in cloud computing, virtualization, and networking, all with an open source view](https://blog.scottlowe.org/2018/02/12/some-tools-help-learn-kubernetes/) 
