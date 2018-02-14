@@ -286,3 +286,4 @@ Bookmark all my links into README.md
 - [The hidden costs of serverless – Amiram Shachar – Medium](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b) 
 - [Understanding and using the Kubernetes PodNodeSelector Admission Controller · Do not go gentle into this good night. Rage.](https://embano1.github.io/post/podnodesel/) 
 - [python sweetness — Mitogen, an infrastructure code baseline that...](http://pythonsweetness.tumblr.com/post/165366346547/mitogen-an-infrastructure-code-baseline-that) 
+- [Firefox does not trusts vCenter signed CA certificates - IVOBEERENS.nl](https://www.ivobeerens.nl/2018/02/13/firefox-not-trusts-vcenter-ca-signed-certificates/) 
