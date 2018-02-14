@@ -284,3 +284,4 @@ Bookmark all my links into README.md
 - [H2O - the optimized HTTP/2 server](https://h2o.examp1e.net/index.html) 
 - [Secure, Multitenant Kubernetes in Minutes: Pivotal Container Service Goes GA](https://content.pivotal.io/blog/secure-multitenant-kubernetes-in-minutes-pivotal-container-service-goes-ga) 
 - [The hidden costs of serverless – Amiram Shachar – Medium](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b) 
+- [Understanding and using the Kubernetes PodNodeSelector Admission Controller · Do not go gentle into this good night. Rage.](https://embano1.github.io/post/podnodesel/) 
