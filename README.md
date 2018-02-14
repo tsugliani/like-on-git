@@ -279,3 +279,6 @@ Bookmark all my links into README.md
 ### February 13, 2018 
 - [OVH News - OpenZFS: why is this open source storage technology still so appealing?](https://www.ovh.com/ca/en/news/articles/a2564.why-is-this-open-source-storage-technology-still-so-appealing) 
 - [HTTPS explained with carrier pigeons – freeCodeCamp](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) 
+
+### February 14, 2018 
+- [H2O - the optimized HTTP/2 server](https://h2o.examp1e.net/index.html) 
