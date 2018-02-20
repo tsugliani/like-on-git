@@ -287,3 +287,6 @@ Bookmark all my links into README.md
 - [Understanding and using the Kubernetes PodNodeSelector Admission Controller · Do not go gentle into this good night. Rage.](https://embano1.github.io/post/podnodesel/) 
 - [python sweetness — Mitogen, an infrastructure code baseline that...](http://pythonsweetness.tumblr.com/post/165366346547/mitogen-an-infrastructure-code-baseline-that) 
 - [Firefox does not trusts vCenter signed CA certificates - IVOBEERENS.nl](https://www.ivobeerens.nl/2018/02/13/firefox-not-trusts-vcenter-ca-signed-certificates/) 
+
+### February 20, 2018 
+- [Continuous Integration for DetectionLab – Chris Long – Medium](https://medium.com/@clong/continuous-integration-for-detectionlab-e13b5c2b1cb) 
