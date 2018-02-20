@@ -294,3 +294,4 @@ Bookmark all my links into README.md
 - [Maybe you don't need Rust and WASM to speed up your JS](http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html) 
 - [vRealize Operations Manager - Datastore Overprovisioning - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/02/19/vrealize-operations-manager-datastore-overprovisioning/) 
 - [VMware NSX Container Integration Demonstration with Yves Fauser - YouTube](https://www.youtube.com/watch?v=SN4eJk3C7uc&feature=youtu.be) 
+- [Swiss-Based Cloud Servers - For Developers Who Care](https://www.cloudscale.ch/en/) 
