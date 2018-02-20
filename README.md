@@ -291,3 +291,4 @@ Bookmark all my links into README.md
 ### February 20, 2018 
 - [Continuous Integration for DetectionLab – Chris Long – Medium](https://medium.com/@clong/continuous-integration-for-detectionlab-e13b5c2b1cb) 
 - [Identity Manager Clustering and Load Balancing with NSX - Pascal's Wereld](https://www.pascalswereld.nl/2018/01/29/identity-manager-clustering-nsx-edge-load-balancing/) 
+- [Maybe you don't need Rust and WASM to speed up your JS](http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html) 
