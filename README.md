@@ -300,3 +300,6 @@ Bookmark all my links into README.md
 ### February 22, 2018 
 - [Dgraph — A Distributed, Fast Graph Database](https://dgraph.io/) 
 - [Krypton - The new way to protect your private key on your phone.](https://krypt.co/) 
+
+### February 24, 2018 
+- [NSX Troubleshooting Scenario 5 | vswitchzero](https://vswitchzero.com/2018/02/23/nsx-troubleshooting-scenario-5/) 
