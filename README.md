@@ -303,3 +303,6 @@ Bookmark all my links into README.md
 
 ### February 24, 2018 
 - [NSX Troubleshooting Scenario 5 | vswitchzero](https://vswitchzero.com/2018/02/23/nsx-troubleshooting-scenario-5/) 
+
+### February 25, 2018 
+- [Using VMware Container Service Extension (CSE) – KiwiCloud.ninja](https://kiwicloud.ninja/2018/02/using-vmware-container-service-extension-cse/) 
