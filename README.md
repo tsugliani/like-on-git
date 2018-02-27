@@ -306,3 +306,6 @@ Bookmark all my links into README.md
 
 ### February 25, 2018 
 - [Using VMware Container Service Extension (CSE) – KiwiCloud.ninja](https://kiwicloud.ninja/2018/02/using-vmware-container-service-extension-cse/) 
+
+### February 27, 2018 
+- [Understanding the Proactive Storage Stress Test for vSAN (2147074)](https://kb.vmware.com/s/article/2147074) 
