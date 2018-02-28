@@ -309,3 +309,6 @@ Bookmark all my links into README.md
 
 ### February 27, 2018 
 - [Understanding the Proactive Storage Stress Test for vSAN (2147074)](https://kb.vmware.com/s/article/2147074) 
+
+### February 28, 2018 
+- [requests-HTML v0.3.4 documentation](http://html.python-requests.org/en/latest/) 
