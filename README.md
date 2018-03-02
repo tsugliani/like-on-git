@@ -314,3 +314,6 @@ Bookmark all my links into README.md
 - [requests-HTML v0.3.4 documentation](http://html.python-requests.org/en/latest/) 
 - [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/) 
 - [Setting up Kubernetes in OVH](http://kubicorn.io/documentation/ovh-walkthrough.html) 
+
+### March 2, 2018 
+- [Intel X710 NICs Are Crap - The Lone Sysadmin](https://lonesysadmin.net/2018/02/28/intel-x710-nics-are-crap/) 
