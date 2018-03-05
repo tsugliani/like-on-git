@@ -317,3 +317,6 @@ Bookmark all my links into README.md
 
 ### March 2, 2018 
 - [Intel X710 NICs Are Crap - The Lone Sysadmin](https://lonesysadmin.net/2018/02/28/intel-x710-nics-are-crap/) 
+
+### March 5, 2018 
+- [PowervRNI is now on PowerShell Gallery](https://www.vmguru.com/2018/03/powervrni-powershell-gallery/) 
