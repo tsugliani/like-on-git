@@ -320,3 +320,6 @@ Bookmark all my links into README.md
 
 ### March 5, 2018 
 - [PowervRNI is now on PowerShell Gallery](https://www.vmguru.com/2018/03/powervrni-powershell-gallery/) 
+
+### March 6, 2018 
+- [PowerCLI Collection: PowerNSX DFW Synchronization Script - Pascal's Wereld](https://www.pascalswereld.nl/2018/03/04/powercli-collection-powernsx-dfw-synchronization-script/) 
