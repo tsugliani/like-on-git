@@ -323,3 +323,4 @@ Bookmark all my links into README.md
 
 ### March 6, 2018 
 - [PowerCLI Collection: PowerNSX DFW Synchronization Script - Pascal's Wereld](https://www.pascalswereld.nl/2018/03/04/powercli-collection-powernsx-dfw-synchronization-script/) 
+- [Top vCenter Server Appliance (VCSA) troubleshooting commands - IVOBEERENS.nl](https://www.ivobeerens.nl/2018/03/06/top-vcenter-server-appliance-vcsa-troubleshooting-commands/) 
