@@ -327,3 +327,6 @@ Bookmark all my links into README.md
 
 ### March 8, 2018 
 - [Log Insight: Master versus Leader versus Workers - SFlanders.net](https://sflanders.net/2018/03/08/log-insight-master-versus-leader-versus-workers/) 
+
+### March 9, 2018 
+- [What’s New in vCloud Director 9.1 – Tom Fojta's Blog](https://fojta.wordpress.com/2018/03/09/whats-new-in-vcloud-director-9-1/) 
