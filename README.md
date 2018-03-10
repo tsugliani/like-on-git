@@ -330,3 +330,6 @@ Bookmark all my links into README.md
 
 ### March 9, 2018 
 - [What’s New in vCloud Director 9.1 – Tom Fojta's Blog](https://fojta.wordpress.com/2018/03/09/whats-new-in-vcloud-director-9-1/) 
+
+### March 10, 2018 
+- [Viewing VMware Unified Access Gateway statistics with REST | Andrew Morgan](http://andrewmorgan.ie/2018/03/viewing-vmware-unified-access-gateway-statistics-with-rest/) 
