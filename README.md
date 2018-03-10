@@ -333,3 +333,4 @@ Bookmark all my links into README.md
 
 ### March 10, 2018 
 - [Viewing VMware Unified Access Gateway statistics with REST | Andrew Morgan](http://andrewmorgan.ie/2018/03/viewing-vmware-unified-access-gateway-statistics-with-rest/) 
+- [Haptic Touch Bar - Haptic and sound feedback for Touch Bar](https://www.haptictouchbar.com/) 
