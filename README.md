@@ -337,3 +337,6 @@ Bookmark all my links into README.md
 
 ### March 11, 2018 
 - [Using vCloud Director PowerCLI and vcd-cli with Federated User Accounts – KiwiCloud.ninja](https://kiwicloud.ninja/2018/03/using-vcloud-director-powercli-and-vcd-cli-with-federated-user-accounts/) 
+
+### March 12, 2018 
+- [Configure VMs with a Custom Spec – Notes from MWhite](https://notesfrommwhite.net/2018/03/11/configure-vms-with-a-custom-spec/) 
