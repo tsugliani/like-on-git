@@ -343,3 +343,4 @@ Bookmark all my links into README.md
 
 ### March 13, 2018 
 - [vCloud Director 9.1 – Tenant Portal displays “No Datacenters are Available” after upgrade | Pigeon Nuggets](http://www.pigeonnuggets.com/2018/03/vcloud-director-9-1-tenant-portal-displays-no-datacenters-available-after-upgrade/) 
+- [Doing maintenance on a Two-Node (Direct Connect) vSAN configuration - Yellow Bricks](http://www.yellow-bricks.com/2018/03/13/doing-maintenance-on-a-two-node-direct-connect-vsan-configuration/) 
