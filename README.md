@@ -340,3 +340,6 @@ Bookmark all my links into README.md
 
 ### March 12, 2018 
 - [Configure VMs with a Custom Spec – Notes from MWhite](https://notesfrommwhite.net/2018/03/11/configure-vms-with-a-custom-spec/) 
+
+### March 13, 2018 
+- [vCloud Director 9.1 – Tenant Portal displays “No Datacenters are Available” after upgrade | Pigeon Nuggets](http://www.pigeonnuggets.com/2018/03/vcloud-director-9-1-tenant-portal-displays-no-datacenters-available-after-upgrade/) 
