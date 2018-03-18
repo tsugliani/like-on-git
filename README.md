@@ -347,3 +347,6 @@ Bookmark all my links into README.md
 
 ### March 14, 2018 
 - [CertSimple | HAProxy in 2018](https://certsimple.com/blog/haproxy-http2-dynamic-load-balancing-ssl) 
+
+### March 18, 2018 
+- [python sweetness — Quadrupling Ansible performance with Mitogen](http://pythonsweetness.tumblr.com/post/171589071872/quadrupling-ansible-performance-with-mitogen) 
