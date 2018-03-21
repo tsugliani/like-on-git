@@ -353,3 +353,4 @@ Bookmark all my links into README.md
 
 ### March 21, 2018 
 - [How to Group Mac App Icons More Prominently in Your Dock - Mac Rumors](https://www.macrumors.com/how-to/group-app-icons-macos-dock/) 
+- [Changing VMware vCloud Director Java heap size to prevent java.lang.OutOfMemoryError messages (1026355)](https://kb.vmware.com/s/article/1026355) 
