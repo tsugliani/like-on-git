@@ -350,3 +350,6 @@ Bookmark all my links into README.md
 
 ### March 18, 2018 
 - [python sweetness — Quadrupling Ansible performance with Mitogen](http://pythonsweetness.tumblr.com/post/171589071872/quadrupling-ansible-performance-with-mitogen) 
+
+### March 21, 2018 
+- [How to Group Mac App Icons More Prominently in Your Dock - Mac Rumors](https://www.macrumors.com/how-to/group-app-icons-macos-dock/) 
