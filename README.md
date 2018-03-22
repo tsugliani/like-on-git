@@ -357,3 +357,4 @@ Bookmark all my links into README.md
 
 ### March 22, 2018 
 - [Nix: A Reproducible Setup for Linux and macOS](http://nmattia.com/posts/2018-03-21-nix-reproducible-setup-linux-macos.html) 
+- [Limit Maximum vCPU/RAM Configuration of vCloud Director VM – Tom Fojta's Blog](https://fojta.wordpress.com/2018/03/21/limit-maximum-vcpu-ram-configuration-of-vcloud-director-vm/) 
