@@ -358,3 +358,6 @@ Bookmark all my links into README.md
 ### March 22, 2018 
 - [Nix: A Reproducible Setup for Linux and macOS](http://nmattia.com/posts/2018-03-21-nix-reproducible-setup-linux-macos.html) 
 - [Limit Maximum vCPU/RAM Configuration of vCloud Director VM – Tom Fojta's Blog](https://fojta.wordpress.com/2018/03/21/limit-maximum-vcpu-ram-configuration-of-vcloud-director-vm/) 
+
+### March 27, 2018 
+- [What Is OpenFaaS and How Can It Drive Innovation? An Interview with…](https://www.contino.io/insights/what-is-openfaas-and-why-is-it-an-alternative-to-aws-lambda-an-interview-with-creator-alex-ellis) 
