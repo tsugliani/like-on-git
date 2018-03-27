@@ -361,3 +361,4 @@ Bookmark all my links into README.md
 
 ### March 27, 2018 
 - [What Is OpenFaaS and How Can It Drive Innovation? An Interview with…](https://www.contino.io/insights/what-is-openfaas-and-why-is-it-an-alternative-to-aws-lambda-an-interview-with-creator-alex-ellis) 
+- [VMware + OpenFaaS - One Month In - VMware Open Source Blog](https://blogs.vmware.com/opensource/2018/03/20/vmware-openfaas-alex-ellis/?src=so_5a314d05e49f5&cid=70134000001SkJn) 
