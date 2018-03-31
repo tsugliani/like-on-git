@@ -366,3 +366,6 @@ Bookmark all my links into README.md
 
 ### March 28, 2018 
 - [Introducing the Vagrant VMware Desktop Plugin](https://www.hashicorp.com/blog/introducing-the-vagrant-vmware-desktop-plugin) 
+
+### March 31, 2018 
+- [VMware NSX Distributed Firewall Rules – Scoping and Direction Matter | NealDolson.com](https://nealdolson.com/2017/01/09/vmware-nsx-distributed-firewall-rules-scoping-and-direction-matter/) 
