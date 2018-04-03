@@ -374,3 +374,4 @@ Bookmark all my links into README.md
 - [Let’s Build an image pipeline! (part 1) | Clouds and Unicorns](https://www.cloudsandunicorns.com/2018/03/lets-build-an-image-pipeline-part-1/) 
 - [Managing Multiple Microservices with Traefik in Docker Swarm - BoxBoat Technologies](https://boxboat.com/2017/10/10/managing-multiple-microservices-with-traefik-in-docker-swarm/) 
 - [Disable DRS for a VM - Yellow Bricks](http://www.yellow-bricks.com/2018/03/28/disable-drs-for-a-vm/) 
+- [Containers Are Not The Shiny Objects Anymore? | StackSense](https://stacksense.io/krishnan/platforms/containers-are-not-the-shiny-objects-anymore/) 
