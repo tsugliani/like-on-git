@@ -376,3 +376,4 @@ Bookmark all my links into README.md
 - [Disable DRS for a VM - Yellow Bricks](http://www.yellow-bricks.com/2018/03/28/disable-drs-for-a-vm/) 
 - [Containers Are Not The Shiny Objects Anymore? | StackSense](https://stacksense.io/krishnan/platforms/containers-are-not-the-shiny-objects-anymore/) 
 - [Technology Short Take 97 - Scott's Weblog - The weblog of an IT pro specializing in cloud computing, open source, networking, and virtualization](https://blog.scottlowe.org/2018/03/30/technology-short-take-97/) 
+- [NSX 6.3.6 Now Available! | vswitchzero](https://vswitchzero.com/2018/04/03/nsx-6-3-6-now-available/) 
