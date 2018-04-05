@@ -380,3 +380,6 @@ Bookmark all my links into README.md
 
 ### April 4, 2018 
 - [Where did my host go.... - Virtual Ramblings](http://thenicholson.com/where-did-my-host-go/) 
+
+### April 5, 2018 
+- [NSX Logical Routing in the Homelab - OSPF Edition](https://www.thehumblelab.com/nsx-routing-humblelab/) 
