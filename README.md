@@ -386,3 +386,4 @@ Bookmark all my links into README.md
 - [Breaking down Cloud Silos by deploying the NEW Extensibility framework provided by VCD 9.1 – Nebulae Magazine](http://www.nebulaemagazine.com/breaking-down-cloud-silos-by-deploying-the-new-extensibility-framework-provided-by-vcd-9-1/) 
 - [GitHub - cleanbrowsing/dnsperftest: DNS Performance test](https://github.com/cleanbrowsing/dnsperftest) 
 - [Crypt32/PSPKI: PowerShell PKI Module](https://github.com/Crypt32/PSPKI) 
+- [digitalvspace.com: Resync Improvements in vSAN 6.6](https://www.digitalvspace.com/2018/04/resync-improvements-in-vsan-66.html) 
