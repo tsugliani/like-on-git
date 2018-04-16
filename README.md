@@ -390,3 +390,6 @@ Bookmark all my links into README.md
 
 ### April 9, 2018 
 - [Another reason why your Docker containers may be slow](https://hackernoon.com/another-reason-why-your-docker-containers-may-be-slow-d37207dec27f) 
+
+### April 16, 2018 
+- [Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/) 
