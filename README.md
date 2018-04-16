@@ -394,3 +394,4 @@ Bookmark all my links into README.md
 ### April 16, 2018 
 - [Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/) 
 - [vCloud Director on AWS – Tom Fojta's Blog](https://fojta.wordpress.com/2018/04/16/vcloud-director-on-aws/) 
+- [Pi-hole®: A black hole for Internet advertisements – curl -sSL https://install.pi-hole.net | bash](https://pi-hole.net/) 
