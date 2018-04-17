@@ -395,3 +395,6 @@ Bookmark all my links into README.md
 - [Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/) 
 - [vCloud Director on AWS – Tom Fojta's Blog](https://fojta.wordpress.com/2018/04/16/vcloud-director-on-aws/) 
 - [Pi-hole®: A black hole for Internet advertisements – curl -sSL https://install.pi-hole.net | bash](https://pi-hole.net/) 
+
+### April 17, 2018 
+- [What's in the vSphere and vSAN 6.7 release? - CormacHogan.com](https://cormachogan.com/2018/04/17/whats-in-the-vsphere-and-vsan-6-7-release/) 
