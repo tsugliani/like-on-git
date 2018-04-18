@@ -399,3 +399,6 @@ Bookmark all my links into README.md
 ### April 17, 2018 
 - [What's in the vSphere and vSAN 6.7 release? - CormacHogan.com](https://cormachogan.com/2018/04/17/whats-in-the-vsphere-and-vsan-6-7-release/) 
 - [Log Intelligence: Home Page - SFlanders.net](https://sflanders.net/2018/04/17/log-intelligence-home-page/) 
+
+### April 18, 2018 
+- [PowerCLI – Create routed vCloud Director Org Network - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/04/18/powercli-create-routed-vcloud-director-org-network/) 
