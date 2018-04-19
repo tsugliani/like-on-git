@@ -406,3 +406,4 @@ Bookmark all my links into README.md
 
 ### April 19, 2018 
 - [Kublr – Enterprise-ready Kubernetes out-of-the-box](https://kublr.com/) 
+- [Tyblog | Building my ideal router for $50](https://blog.tjll.net/building-my-perfect-router/) 
