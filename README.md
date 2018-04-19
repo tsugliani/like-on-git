@@ -403,3 +403,6 @@ Bookmark all my links into README.md
 ### April 18, 2018 
 - [PowerCLI – Create routed vCloud Director Org Network - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/04/18/powercli-create-routed-vcloud-director-org-network/) 
 - [Introducing vSphere with Operations Management 6.7 - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/04/introducing-vsphere-operations-management-6-7.html) 
+
+### April 19, 2018 
+- [Kublr – Enterprise-ready Kubernetes out-of-the-box](https://kublr.com/) 
