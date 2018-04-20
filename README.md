@@ -410,3 +410,6 @@ Bookmark all my links into README.md
 - [PowerCLI – Create routed vCloud Director Org Network - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/04/18/powercli-create-routed-vcloud-director-org-network/) 
 - [VMware Front Experience: ESXi-Customizer-PS](https://www.v-front.de/p/esxi-customizer-ps.html) 
 - [Initiating and managing the Podfederation in a Horizon Cloud Pod Architecture using PowerCLI & API’s – Retouw.nl](https://www.retouw.nl/powercli/initiating-and-managing-the-podfederation-in-a-horizon-cloud-pod-architecture-using-powercli-apis/) 
+
+### April 20, 2018 
+- [How to Upgrade to ESXi 6.7 Using VMware vSphere Update Manager « vMiss.net](https://vmiss.net/2018/04/19/how-to-upgrade-to-esxi-6-7-using-vmware-vsphere-update-manager/) 
