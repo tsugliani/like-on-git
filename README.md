@@ -419,3 +419,4 @@ Bookmark all my links into README.md
 - [VMware Configuration Maximum tool](https://configmax.vmware.com/guest) 
 - [Introducing vSphere 6.7 Security - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/04/introducing-vsphere-6-7-security.html) 
 - [All vSphere 6.7 release notes & download links | virtuallyGhetto](https://www.virtuallyghetto.com/2018/04/all-vsphere-6-7-release-notes-download-links.html) 
+- [All vSphere 6.7 release notes & download links | virtuallyGhetto](https://www.virtuallyghetto.com/2018/04/all-vsphere-6-7-release-notes-download-links.html) 
