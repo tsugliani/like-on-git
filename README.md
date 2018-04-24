@@ -421,3 +421,4 @@ Bookmark all my links into README.md
 - [All vSphere 6.7 release notes & download links | virtuallyGhetto](https://www.virtuallyghetto.com/2018/04/all-vsphere-6-7-release-notes-download-links.html) 
 - [All vSphere 6.7 release notes & download links | virtuallyGhetto](https://www.virtuallyghetto.com/2018/04/all-vsphere-6-7-release-notes-download-links.html) 
 - [vCenter Server 6.7 What's New Rundown - emadyounis.com](http://emadyounis.com/vcenter/vcenter-server-6-7-whats-new-rundown/) 
+- [Introducing VMware vSphere 6.7! - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/04/introducing-vmware-vsphere-6-7.html) 
