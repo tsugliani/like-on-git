@@ -427,3 +427,4 @@ Bookmark all my links into README.md
 - [Zimbra: VMware Content Library with Zimbra Collaboration templates ready to deploy – The Blog of Jorge de la Cruz](https://jorgedelacruz.uk/2017/08/07/zimbra-vmware-content-library-with-zimbra-collaboration-templates/) 
 - [New vSphere 6.7 APIs worth checking out | virtuallyGhetto](https://www.virtuallyghetto.com/2018/04/new-vsphere-6-7-apis-worth-checking-out.html) 
 - [How to set up the perfect modern dev environment on Windows - Charged](https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows) 
+- [Nested ESXi 6.7 Virtual Appliance Updates | virtuallyGhetto](https://www.virtuallyghetto.com/2018/04/nested-esxi-6-7-virtual-appliance-updates.html) 
