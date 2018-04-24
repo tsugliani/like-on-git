@@ -428,3 +428,4 @@ Bookmark all my links into README.md
 - [New vSphere 6.7 APIs worth checking out | virtuallyGhetto](https://www.virtuallyghetto.com/2018/04/new-vsphere-6-7-apis-worth-checking-out.html) 
 - [How to set up the perfect modern dev environment on Windows - Charged](https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows) 
 - [Nested ESXi 6.7 Virtual Appliance Updates | virtuallyGhetto](https://www.virtuallyghetto.com/2018/04/nested-esxi-6-7-virtual-appliance-updates.html) 
+- [#VMware #Horizon App Volumes: Hints (for Performance and Packaging) – vLenzker](https://vlenzker.net/2018/04/vmware-horizon-app-volumes-hints-for-performance-and-packaging/) 
