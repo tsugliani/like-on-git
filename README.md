@@ -413,3 +413,6 @@ Bookmark all my links into README.md
 
 ### April 20, 2018 
 - [How to Upgrade to ESXi 6.7 Using VMware vSphere Update Manager « vMiss.net](https://vmiss.net/2018/04/19/how-to-upgrade-to-esxi-6-7-using-vmware-vsphere-update-manager/) 
+
+### April 24, 2018 
+- [What's in the vSphere and vSAN 6.7 release? - CormacHogan.com](https://cormachogan.com/2018/04/17/whats-in-the-vsphere-and-vsan-6-7-release/) 
