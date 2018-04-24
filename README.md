@@ -423,3 +423,4 @@ Bookmark all my links into README.md
 - [vCenter Server 6.7 What's New Rundown - emadyounis.com](http://emadyounis.com/vcenter/vcenter-server-6-7-whats-new-rundown/) 
 - [Introducing VMware vSphere 6.7! - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/04/introducing-vmware-vsphere-6-7.html) 
 - [What's new vSAN 6.7 - Yellow Bricks](http://www.yellow-bricks.com/2018/04/17/whats-new-vsan-6-7/) 
+- [Configuring Hybrid Linked Mode (HLM) for VMware Cloud on AWS - emadyounis.com](http://emadyounis.com/vmware-cloud-on-aws/configuring-hybrid-linked-mode-hlm-for-vmware-cloud-on-aws/) 
