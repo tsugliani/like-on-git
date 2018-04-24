@@ -431,3 +431,4 @@ Bookmark all my links into README.md
 - [#VMware #Horizon App Volumes: Hints (for Performance and Packaging) – vLenzker](https://vlenzker.net/2018/04/vmware-horizon-app-volumes-hints-for-performance-and-packaging/) 
 - [Cilium 1.0: Bringing the BPF Revolution to Kubernetes Networking and Security — Cilium](https://cilium.io/blog/2018/04/24/cilium-10/) 
 - [Cilium 1.0: Bringing the BPF Revolution to Kubernetes Networking and Security — Cilium](https://cilium.io/blog/2018/04/24/cilium-10/) 
+- [Hijack of Amazon’s internet domain service used to reroute web traffic for two hours unnoticed](https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f) 
