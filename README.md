@@ -416,3 +416,4 @@ Bookmark all my links into README.md
 
 ### April 24, 2018 
 - [What's in the vSphere and vSAN 6.7 release? - CormacHogan.com](https://cormachogan.com/2018/04/17/whats-in-the-vsphere-and-vsan-6-7-release/) 
+- [VMware Configuration Maximum tool](https://configmax.vmware.com/guest) 
