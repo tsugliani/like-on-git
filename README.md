@@ -425,3 +425,4 @@ Bookmark all my links into README.md
 - [What's new vSAN 6.7 - Yellow Bricks](http://www.yellow-bricks.com/2018/04/17/whats-new-vsan-6-7/) 
 - [Configuring Hybrid Linked Mode (HLM) for VMware Cloud on AWS - emadyounis.com](http://emadyounis.com/vmware-cloud-on-aws/configuring-hybrid-linked-mode-hlm-for-vmware-cloud-on-aws/) 
 - [Zimbra: VMware Content Library with Zimbra Collaboration templates ready to deploy – The Blog of Jorge de la Cruz](https://jorgedelacruz.uk/2017/08/07/zimbra-vmware-content-library-with-zimbra-collaboration-templates/) 
+- [New vSphere 6.7 APIs worth checking out | virtuallyGhetto](https://www.virtuallyghetto.com/2018/04/new-vsphere-6-7-apis-worth-checking-out.html) 
