@@ -440,3 +440,6 @@ Bookmark all my links into README.md
 ### April 27, 2018 
 - [vCloud Director Federation with VMware Identity Manager – Tom Fojta's Blog](https://fojta.wordpress.com/2018/04/24/vcloud-director-federation-with-vmware-identity-manager/) 
 - [NSX Troubleshooting Scenario 8 | vswitchzero](https://vswitchzero.com/2018/04/26/nsx-troubleshooting-scenario-8/) 
+
+### May 4, 2018 
+- [VMware Fusion Custom Networks (vmnets) Demystified](https://www.macosxdaily.com/vmware-fusion-custom-networks-vmnets-demystified/) 
