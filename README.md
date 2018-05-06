@@ -443,3 +443,6 @@ Bookmark all my links into README.md
 
 ### May 4, 2018 
 - [VMware Fusion Custom Networks (vmnets) Demystified](https://www.macosxdaily.com/vmware-fusion-custom-networks-vmnets-demystified/) 
+
+### May 6, 2018 
+- [Juniper local-as and BGP loops](https://blog.karotte.org/2017/11/27/juniper-local-as/) 
