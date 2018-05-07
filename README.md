@@ -446,3 +446,6 @@ Bookmark all my links into README.md
 
 ### May 6, 2018 
 - [Juniper local-as and BGP loops](https://blog.karotte.org/2017/11/27/juniper-local-as/) 
+
+### May 8, 2018 
+- [Configure VM autostart in the ESXi Embedded Host Client - IVOBEERENS.nl](https://www.ivobeerens.nl/2018/05/01/configure-vm-autostart-in-the-esxi-embedded-host-client/) 
