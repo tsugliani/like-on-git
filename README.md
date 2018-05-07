@@ -451,3 +451,4 @@ Bookmark all my links into README.md
 - [Configure VM autostart in the ESXi Embedded Host Client - IVOBEERENS.nl](https://www.ivobeerens.nl/2018/05/01/configure-vm-autostart-in-the-esxi-embedded-host-client/) 
 - [Deploying Veeam Powered Network into a AWS VPC - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/deploying-veeam-powered-network-into-a-aws-vpc/) 
 - [Download – VM Troubleshooting Dashboard for vROPS 6.7 | VMignite.com](http://www.vmignite.com/2018/05/download-vm-troubleshooting-dashboard-for-vrops-6-7/) 
+- [vSphere 6.7 Security – Media Resources - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/05/vsphere-6-7-security-media-resources.html) 
