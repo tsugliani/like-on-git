@@ -453,3 +453,4 @@ Bookmark all my links into README.md
 - [Download – VM Troubleshooting Dashboard for vROPS 6.7 | VMignite.com](http://www.vmignite.com/2018/05/download-vm-troubleshooting-dashboard-for-vrops-6-7/) 
 - [vSphere 6.7 Security – Media Resources - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/05/vsphere-6-7-security-media-resources.html) 
 - [ocochard/graphpath: Graphpath generates an ASCII network diagram from the route table of a Unix/Linux](https://github.com/ocochard/graphpath) 
+- [vCenter performance improvements from vSphere 6.5 to 6.7: What does 2x mean? - VMware VROOM! Blog - VMware Blogs](https://blogs.vmware.com/performance/2018/05/vcenter67-perf-improvements.html) 
