@@ -454,3 +454,4 @@ Bookmark all my links into README.md
 - [vSphere 6.7 Security – Media Resources - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/05/vsphere-6-7-security-media-resources.html) 
 - [ocochard/graphpath: Graphpath generates an ASCII network diagram from the route table of a Unix/Linux](https://github.com/ocochard/graphpath) 
 - [vCenter performance improvements from vSphere 6.5 to 6.7: What does 2x mean? - VMware VROOM! Blog - VMware Blogs](https://blogs.vmware.com/performance/2018/05/vcenter67-perf-improvements.html) 
+- [vSphere 6.7 - Virtual Trusted Platform Modules - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/05/vsphere-6-7-virtual-trusted-platform-modules.html) 
