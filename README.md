@@ -455,3 +455,6 @@ Bookmark all my links into README.md
 - [ocochard/graphpath: Graphpath generates an ASCII network diagram from the route table of a Unix/Linux](https://github.com/ocochard/graphpath) 
 - [vCenter performance improvements from vSphere 6.5 to 6.7: What does 2x mean? - VMware VROOM! Blog - VMware Blogs](https://blogs.vmware.com/performance/2018/05/vcenter67-perf-improvements.html) 
 - [vSphere 6.7 - Virtual Trusted Platform Modules - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/05/vsphere-6-7-virtual-trusted-platform-modules.html) 
+
+### May 12, 2018 
+- [Using Traefik as a Kubernetes Ingress Controller for both internal and external traffic](https://medium.com/@trondhindenes/using-traefik-as-a-kubernetes-ingress-controller-for-both-internal-and-external-traffic-c06e4177314) 
