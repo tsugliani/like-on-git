@@ -461,3 +461,4 @@ Bookmark all my links into README.md
 
 ### May 15, 2018 
 - [Docker Engine behind proxies.md](https://gist.github.com/wenlock/1d806c9eb668ffaa2f64fa8692967359) 
+- [Provisionner simplement une stack de monitoring Telegraf + InfluxDB + Grafana avec Manala – Teke](https://teke42.wordpress.com/2018/05/11/provisionner-simplement-une-stack-de-monitoring-telegraf-influxdb-grafana-avec-manala/) 
