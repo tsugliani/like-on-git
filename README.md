@@ -475,3 +475,4 @@ Bookmark all my links into README.md
 - [Stateless datacenter load-balancing with Beamer | the morning paper](https://blog.acolyer.org/2018/05/03/stateless-datacenter-load-balancing-with-beamer/) 
 - [Traefik 1.6 — Get Our Latest tetedemoine! – containous](https://blog.containo.us/traefik-1-6-get-our-latest-tetedemoine-1859164bf521) 
 - [vCenter Server Architecture Part 1 - The Basics - emadyounis.com](http://emadyounis.com/vcenter/vcenter-server-architecture-part-1-the-basics/) 
+- [The state of debugging microservices on Kubernetes](https://radu-matei.com/blog/state-of-debugging-microservices-on-k8s/) 
