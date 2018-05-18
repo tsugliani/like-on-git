@@ -470,3 +470,4 @@ Bookmark all my links into README.md
 ### May 18, 2018 
 - [Downsampling and data retention | InfluxData Documentation](https://docs.influxdata.com/influxdb/v1.5/guides/downsampling_and_retention/) 
 - [Lunacy, Sketch for Windows](https://icons8.com/lunacy) 
+- [Kubernetes HA under X-ray – Heptio](https://blog.heptio.com/kubernetes-ha-under-x-ray-5d05f552c9f) 
