@@ -473,3 +473,4 @@ Bookmark all my links into README.md
 - [Kubernetes HA under X-ray – Heptio](https://blog.heptio.com/kubernetes-ha-under-x-ray-5d05f552c9f) 
 - [Storing the VMware NSX config in version control - Lostdomain.org](https://lostdomain.org/2018/04/30/storing-the-vmware-nsx-config-in-version-control/) 
 - [Stateless datacenter load-balancing with Beamer | the morning paper](https://blog.acolyer.org/2018/05/03/stateless-datacenter-load-balancing-with-beamer/) 
+- [Traefik 1.6 — Get Our Latest tetedemoine! – containous](https://blog.containo.us/traefik-1-6-get-our-latest-tetedemoine-1859164bf521) 
