@@ -469,3 +469,4 @@ Bookmark all my links into README.md
 
 ### May 18, 2018 
 - [Downsampling and data retention | InfluxData Documentation](https://docs.influxdata.com/influxdb/v1.5/guides/downsampling_and_retention/) 
+- [Lunacy, Sketch for Windows](https://icons8.com/lunacy) 
