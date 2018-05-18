@@ -466,3 +466,6 @@ Bookmark all my links into README.md
 ### May 17, 2018 
 - [Stretched Clusters on VMware Cloud on AWS, a Really Big Thing - frankdenneman.nl](http://frankdenneman.nl/2018/05/16/stretched-clusters-vmware-cloud-aws-really-big-thing/) 
 - [Log Insight 4.6: Raw Event Forwarding - SFlanders.net](https://sflanders.net/2018/05/17/log-insight-4-6-raw-event-forwarding/) 
+
+### May 18, 2018 
+- [Downsampling and data retention | InfluxData Documentation](https://docs.influxdata.com/influxdb/v1.5/guides/downsampling_and_retention/) 
