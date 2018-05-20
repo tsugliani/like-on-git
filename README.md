@@ -10,7 +10,7 @@ Bookmark all my links into README.md
 
 ### October 3, 2017 
 - [vSAN Operations: Maintenance Mode - No Data Evacuation - Caution When PFTT=0 - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2017/10/02/vsan-operations-maint-mode-no-data-evac-caution-pftt0/) 
-- [paunin/PostDock: PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment](https://github.com/paunin/PostDock) 
+
 - [KiwiCloud.ninja – Assorted ramblings on infrastructure and virtualisation](http://kiwicloud.ninja/) 
 - [A vSphere Focused Guide to the Intel Xeon Scalable Family - Memory Subsystem - frankdenneman.nl](http://frankdenneman.nl/2017/10/03/vsphere-focused-guide-intel-xeon-scalable-family-memory-subsystem/) 
 
@@ -20,7 +20,7 @@ Bookmark all my links into README.md
 
 ### October 5, 2017 
 - [Introduction to NSX and Kubernetes – Route to Cloud](http://www.routetocloud.com/2017/10/introduction-to-nsx-and-kubernetes/) 
-- [Understanding the Impacts of Mixed-Version vCenter Server Deployments - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2017/09/understanding-the-impacts-of-mixed-version-vcenter-server-deployments.html) 
+
 - [Using vCloud Director API for ISO/OVA Upload - Cloud Management Blog](https://cloudmanagement.navisite.com/vcloud-director-rest-api-for-isoova-upload-part-1/?platform=hootsuite) 
 
 ### October 6, 2017 
@@ -39,7 +39,7 @@ Bookmark all my links into README.md
 
 ### October 10, 2017 
 - [What is the overhead for Swap in a stretched cluster? - Yellow Bricks](http://www.yellow-bricks.com/2017/10/10/overhead-swap-stretched-cluster/) 
-- [Introduction to NSX and Kubernetes – Route to Cloud](http://www.routetocloud.com/2017/10/introduction-to-nsx-and-kubernetes/) 
+
 - [Using PowerShell to create a vCloud Director Tenant HTML Report - my cloud-(r)evolution](https://mycloudrevolution.com/2017/10/09/using-powershell-to-create-a-vcloud-director-tenant-html-report/) 
 - [TCP servers that run like clockwork | Sahil Muthoo](https://sahilm.com/tcp-servers-that-run-like-clockwork/) 
 - [Scaleway September 2017 Amsterdam Network Outage](https://blog.online.net/2017/09/22/scaleway-september-2017-amsterdam-network-outage/amp/) 
@@ -115,7 +115,7 @@ Bookmark all my links into README.md
 - [vCloud Director Automation with RES – Virtual Bonzo](https://virtualbonzo.com/2017/11/06/vcloud-director-automation-with-res/) 
 
 ### November 8, 2017 
-- [Tuning the performance of Intel Optane SSDs on Linux Operating Systems - IT Peer Network](https://itpeernetwork.intel.com/tuning-performance-intel-optane-ssds-linux-operating-systems/) 
+
 - [Using Packer to Automate vSphere Template Builds · TheHumbleLab](https://www.thehumblelab.com/automate-vsphere-template-builds-packer/) 
 - [PCIe Server Storage I/O Network Fundamentals #blogtober - StorageIOblog](https://storageioblog.com/pcie-server-storage-io-network-fundamentals-blogtober/) 
 - [Virtual Nomad: Validating NSX VTEP connectivity](http://vmnomad.blogspot.fr/2017/11/validating-nsx-vtep-connectivity.html?spref=tw) 
@@ -134,7 +134,7 @@ Bookmark all my links into README.md
 
 ### November 13, 2017 
 - [All you need to know about whiteboard markers – graphicfacilitation – Medium](https://medium.com/graphicfacilitation/all-you-need-to-know-about-whiteboard-markers-2a25d1249911) 
-- [All you need to know about whiteboard markers – graphicfacilitation – Medium](https://medium.com/graphicfacilitation/all-you-need-to-know-about-whiteboard-markers-2a25d1249911) 
+
 - [Rehoming the Hyperconverged Home Lab – Virtually Sober](https://virtuallysober.com/2017/11/13/rehoming-the-hyperconverged-home-lab/) 
 - [Waymo’s fully self-driving vehicles are here – Waymo – Medium](https://medium.com/waymo/with-waymo-in-the-drivers-seat-fully-self-driving-vehicles-can-transform-the-way-we-get-around-75e9622e829a) 
 
@@ -285,7 +285,7 @@ Bookmark all my links into README.md
 - [Secure, Multitenant Kubernetes in Minutes: Pivotal Container Service Goes GA](https://content.pivotal.io/blog/secure-multitenant-kubernetes-in-minutes-pivotal-container-service-goes-ga) 
 - [The hidden costs of serverless – Amiram Shachar – Medium](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b) 
 - [Understanding and using the Kubernetes PodNodeSelector Admission Controller · Do not go gentle into this good night. Rage.](https://embano1.github.io/post/podnodesel/) 
-- [python sweetness — Mitogen, an infrastructure code baseline that...](http://pythonsweetness.tumblr.com/post/165366346547/mitogen-an-infrastructure-code-baseline-that) 
+
 - [Firefox does not trusts vCenter signed CA certificates - IVOBEERENS.nl](https://www.ivobeerens.nl/2018/02/13/firefox-not-trusts-vcenter-ca-signed-certificates/) 
 
 ### February 20, 2018 
@@ -407,7 +407,7 @@ Bookmark all my links into README.md
 ### April 19, 2018 
 - [Kublr – Enterprise-ready Kubernetes out-of-the-box](https://kublr.com/) 
 - [Tyblog | Building my ideal router for $50](https://blog.tjll.net/building-my-perfect-router/) 
-- [PowerCLI – Create routed vCloud Director Org Network - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/04/18/powercli-create-routed-vcloud-director-org-network/) 
+
 - [VMware Front Experience: ESXi-Customizer-PS](https://www.v-front.de/p/esxi-customizer-ps.html) 
 - [Initiating and managing the Podfederation in a Horizon Cloud Pod Architecture using PowerCLI & API’s – Retouw.nl](https://www.retouw.nl/powercli/initiating-and-managing-the-podfederation-in-a-horizon-cloud-pod-architecture-using-powercli-apis/) 
 
@@ -415,10 +415,9 @@ Bookmark all my links into README.md
 - [How to Upgrade to ESXi 6.7 Using VMware vSphere Update Manager « vMiss.net](https://vmiss.net/2018/04/19/how-to-upgrade-to-esxi-6-7-using-vmware-vsphere-update-manager/) 
 
 ### April 24, 2018 
-- [What's in the vSphere and vSAN 6.7 release? - CormacHogan.com](https://cormachogan.com/2018/04/17/whats-in-the-vsphere-and-vsan-6-7-release/) 
+
 - [VMware Configuration Maximum tool](https://configmax.vmware.com/guest) 
 - [Introducing vSphere 6.7 Security - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/04/introducing-vsphere-6-7-security.html) 
-- [All vSphere 6.7 release notes & download links | virtuallyGhetto](https://www.virtuallyghetto.com/2018/04/all-vsphere-6-7-release-notes-download-links.html) 
 - [All vSphere 6.7 release notes & download links | virtuallyGhetto](https://www.virtuallyghetto.com/2018/04/all-vsphere-6-7-release-notes-download-links.html) 
 - [vCenter Server 6.7 What's New Rundown - emadyounis.com](http://emadyounis.com/vcenter/vcenter-server-6-7-whats-new-rundown/) 
 - [Introducing VMware vSphere 6.7! - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/04/introducing-vmware-vsphere-6-7.html) 
