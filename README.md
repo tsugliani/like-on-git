@@ -2,6 +2,9 @@
 
 Bookmark all my links into README.md
 
+
+### May 29, 2018 
+- [Multi-tier load-balancing with Linux | Vincent Bernat](https://vincent.bernat.im/en/blog/2018-multi-tier-loadbalancer) 
 ### October 2, 2017 
 - [New Network Load Balancer – Effortless Scaling to Millions of Requests per Second | AWS Blog](https://aws.amazon.com/blogs/aws/new-network-load-balancer-effortless-scaling-to-millions-of-requests-per-second/?utm_content=buffer4da92&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [vCloud Director 9: NSX Distributed Logical Router – Tom Fojta's Blog](https://fojta.wordpress.com/2017/10/02/vcloud-director-9-nsx-distributed-logical-router/) 
