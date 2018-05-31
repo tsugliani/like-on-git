@@ -4,6 +4,9 @@ Bookmark all my links into README.md
 
 
 
+
+### May 31, 2018 
+- [vCloud Availability – Cloud Proxy with Multiple NICs – Tom Fojta's Blog](https://fojta.wordpress.com/2018/05/30/vcloud-availability-cloud-proxy-with-multiple-nics/) 
 ### May 30, 2018 
 - [Install ESXi on a server/laptop with only USB Ethernet - DEV TTY](https://www.devtty.uk/homelab/Install-ESXi-With-USB-Ethernet-Only/) 
 ### May 29, 2018 
