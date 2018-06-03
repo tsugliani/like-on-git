@@ -5,6 +5,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 4, 2018 
+- [bnb/awesome-hyper: 🖥 Delightful Hyper plugins, themes, and resources](https://github.com/bnb/awesome-hyper) 
 ### May 31, 2018 
 - [vCloud Availability – Cloud Proxy with Multiple NICs – Tom Fojta's Blog](https://fojta.wordpress.com/2018/05/30/vcloud-availability-cloud-proxy-with-multiple-nics/) 
 - [Simple, Efficient, and Modern: VMware NSX introduces new HTML5 UI - Network Virtualization](https://blogs.vmware.com/networkvirtualization/2018/05/nsx641-html5-ui.html/) 
