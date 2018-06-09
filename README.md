@@ -6,6 +6,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 9, 2018 
+- [Avoiding the Problem of Missing IOPS In All-Flash Storage](https://blog.architecting.it/avoiding-all-flash-missing-iops/?utm_source=feedly-feed&utm_medium=rss&utm_campaign=feed) 
 ### June 4, 2018 
 - [bnb/awesome-hyper: 🖥 Delightful Hyper plugins, themes, and resources](https://github.com/bnb/awesome-hyper) 
 - [Why is the kernel community replacing iptables with BPF? — Cilium](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/) 
