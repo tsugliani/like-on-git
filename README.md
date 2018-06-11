@@ -10,6 +10,7 @@ Bookmark all my links into README.md
 
 ### June 11, 2018 
 - [Accessing Kubernetes Services Without Ingress, NodePort, or LoadBalancer](https://medium.com/@kyralak/accessing-kubernetes-services-without-ingress-nodeport-or-loadbalancer-de6061b42d72) 
+- [Dynamic secrets on Kubernetes pods using Vault – Guy Maliar – Medium](https://medium.com/@gmaliar/dynamic-secrets-on-kubernetes-pods-using-vault-35d9094d169) 
 ### June 9, 2018 
 - [Avoiding the Problem of Missing IOPS In All-Flash Storage](https://blog.architecting.it/avoiding-all-flash-missing-iops/?utm_source=feedly-feed&utm_medium=rss&utm_campaign=feed) 
 ### June 4, 2018 
