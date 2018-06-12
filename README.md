@@ -8,6 +8,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 12, 2018 
+- [Module MonitorLoop power on failed error when powering on VM on vSphere - Yellow Bricks](http://www.yellow-bricks.com/2018/06/12/module-monitorloop-power-on-error-failed-when-powering-on-vm-on-vsphere/) 
 ### June 11, 2018 
 - [Accessing Kubernetes Services Without Ingress, NodePort, or LoadBalancer](https://medium.com/@kyralak/accessing-kubernetes-services-without-ingress-nodeport-or-loadbalancer-de6061b42d72) 
 - [Dynamic secrets on Kubernetes pods using Vault – Guy Maliar – Medium](https://medium.com/@gmaliar/dynamic-secrets-on-kubernetes-pods-using-vault-35d9094d169) 
