@@ -14,6 +14,7 @@ Bookmark all my links into README.md
 - [A Bitter Guide To Open Source – Codezillas – Medium](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) 
 - [vGhetto Automated Pivotal Container Service (PKS) Lab Deployment  | virtuallyGhetto](https://www.virtuallyghetto.com/2018/06/vghetto-automated-pivotal-container-service-pks-lab-deployment.html) 
 - [Running Caddy as a reverse proxy on CentOS 7](https://blog.harrier.us/running-caddy-as-a-reverse-proxy-on-centos-7/) 
+- [Does this support using behind a reverse proxy? |VMware Communities](https://communities.vmware.com/thread/520110) 
 ### June 11, 2018 
 - [Accessing Kubernetes Services Without Ingress, NodePort, or LoadBalancer](https://medium.com/@kyralak/accessing-kubernetes-services-without-ingress-nodeport-or-loadbalancer-de6061b42d72) 
 - [Dynamic secrets on Kubernetes pods using Vault – Guy Maliar – Medium](https://medium.com/@gmaliar/dynamic-secrets-on-kubernetes-pods-using-vault-35d9094d169) 
