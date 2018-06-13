@@ -12,6 +12,7 @@ Bookmark all my links into README.md
 
 ### June 13, 2018 
 - [“tmux in practice” series of posts – freeCodeCamp](https://medium.freecodecamp.org/tmux-in-practice-series-of-posts-ae34f16cfab0) 
+- [Stick with security: YubiKey, SSH, GnuPG, macOS — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/stick-with-security-yubikey-ssh-gnupg-macos) 
 ### June 12, 2018 
 - [Module MonitorLoop power on failed error when powering on VM on vSphere - Yellow Bricks](http://www.yellow-bricks.com/2018/06/12/module-monitorloop-power-on-error-failed-when-powering-on-vm-on-vsphere/) 
 - [A Bitter Guide To Open Source – Codezillas – Medium](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) 
