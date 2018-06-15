@@ -10,6 +10,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 15, 2018 
+- [Deploy VBR using Powershell script guide](https://www.veeam.com/blog/deploy-using-powershell-guide.html) 
 ### June 13, 2018 
 - [“tmux in practice” series of posts – freeCodeCamp](https://medium.freecodecamp.org/tmux-in-practice-series-of-posts-ae34f16cfab0) 
 - [Stick with security: YubiKey, SSH, GnuPG, macOS — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/stick-with-security-yubikey-ssh-gnupg-macos) 
