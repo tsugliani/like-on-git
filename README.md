@@ -11,6 +11,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 18, 2018 
+- [The Art in the Architecture – vSAN Performance Design, Part 2 on Tohuw.Net](https://tohuw.net/articles/aia-performance-design-part2) 
 ### June 15, 2018 
 - [Deploy VBR using Powershell script guide](https://www.veeam.com/blog/deploy-using-powershell-guide.html) 
 ### June 13, 2018 
