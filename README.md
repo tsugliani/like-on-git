@@ -12,6 +12,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 19, 2018 
+- [Why Skylake CPUs Are Sometimes 50% Slower – How Intel Has Broken Existing Code – Alois Kraus](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/) 
 ### June 18, 2018 
 - [The Art in the Architecture – vSAN Performance Design, Part 2 on Tohuw.Net](https://tohuw.net/articles/aia-performance-design-part2) 
 - [Core Tunnel – SSH Tunnel 2 on the Mac App Store](https://itunes.apple.com/us/app/core-tunnel/id1354318707?ls=1&mt=12) 
