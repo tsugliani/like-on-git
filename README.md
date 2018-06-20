@@ -19,6 +19,7 @@ Bookmark all my links into README.md
 - [NSX 6.4 Custom Dashboard Widget](https://www.runecast.biz/blog/nsx-64-custom-dashboard-widget.jsp) 
 - [NSX 6.4 Custom Dashboard Widget - Part 2](https://www.runecast.biz/blog/nsx-64-custom-dashboard-widget-part-2.jsp) 
 - [Automating VMware Cloud on AWS One Host SDDC Deployments - VMware {code} - VMware Blogs](https://blogs.vmware.com/code/2018/06/20/automate-vmwonaws-1-host-sddc-deployment/) 
+- [vSphere 6.7: What is per-VM EVC and How to configure & manage it using pyVmomi? - vThinkBeyondVM](http://vthinkbeyondvm.com/vsphere-6-7-what-is-per-vm-evc-and-how-to-configure-it-using-pyvmomi/) 
 ### June 19, 2018 
 - [Why Skylake CPUs Are Sometimes 50% Slower – How Intel Has Broken Existing Code – Alois Kraus](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/) 
 ### June 18, 2018 
