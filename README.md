@@ -16,6 +16,7 @@ Bookmark all my links into README.md
 
 ### June 20, 2018 
 - [Architect, The Killer Serverless Framework – Reify](https://blog.reifyworks.com/architect-the-killer-serverless-framework-41565372811b) 
+- [NSX 6.4 Custom Dashboard Widget](https://www.runecast.biz/blog/nsx-64-custom-dashboard-widget.jsp) 
 ### June 19, 2018 
 - [Why Skylake CPUs Are Sometimes 50% Slower – How Intel Has Broken Existing Code – Alois Kraus](https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/) 
 ### June 18, 2018 
