@@ -14,6 +14,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 21, 2018 
+- [dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible#loop-over-a-variable-range-of-numbers) 
 ### June 20, 2018 
 - [Architect, The Killer Serverless Framework – Reify](https://blog.reifyworks.com/architect-the-killer-serverless-framework-41565372811b) 
 - [NSX 6.4 Custom Dashboard Widget](https://www.runecast.biz/blog/nsx-64-custom-dashboard-widget.jsp) 
