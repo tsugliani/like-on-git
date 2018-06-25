@@ -15,6 +15,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 26, 2018 
+- [✨ Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.com/@wesharehoodies/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530) 
 ### June 21, 2018 
 - [dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible#loop-over-a-variable-range-of-numbers) 
 - [HA Kubernetes with Kubeadm – Nate Baker – Medium](https://medium.com/@bambash/ha-kubernetes-cluster-via-kubeadm-b2133360b198) 
