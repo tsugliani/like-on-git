@@ -16,6 +16,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 30, 2018 
+- [Log Intelligence versus Log Insight - SFlanders.net](http://sflanders.net/2018/06/28/log-intelligence-versus-log-insight/) 
 ### June 26, 2018 
 - [✨ Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.com/@wesharehoodies/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530) 
 ### June 21, 2018 
