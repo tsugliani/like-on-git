@@ -20,6 +20,7 @@ Bookmark all my links into README.md
 
 ### July 1, 2018 
 - [Released: Veeam Availability Console Update 1 - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/released-veeam-availability-console-update-1/) 
+- [Install Let's Encrypt SSL certificates in Veeam Availability Console](https://www.virtualtothecore.com/en/install-lets-encrypt-ssl-certificates-in-veeam-availability-console/) 
 ### June 30, 2018 
 - [Log Intelligence versus Log Insight - SFlanders.net](http://sflanders.net/2018/06/28/log-intelligence-versus-log-insight/) 
 ### June 26, 2018 
