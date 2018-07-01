@@ -24,6 +24,7 @@ Bookmark all my links into README.md
 - [Serverless SDN - Network Engineering Analysis of Appswitch | networkop](https://networkop.co.uk/post/2018-05-29-appswitch-sdn/) 
 - [A Quick Intro to the AWS CLI - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2018/06/22/a-quick-intro-to-aws-cli/) 
 - [EMC VxRail Deployment Screens ~ vCloud Info](https://www.vcloudinfo.com/2018/06/emc-vxrail-deployment-screens.html) 
+- [Collecting and Visualizing vSphere Performance Metrics with PowerCLI, InfluxDB and Grafana](https://vmkdaily.ghost.io/collecting-and-visualizing-vsphere-performance-metrics-with-powercli-influxdb-and-grafana/) 
 ### June 30, 2018 
 - [Log Intelligence versus Log Insight - SFlanders.net](http://sflanders.net/2018/06/28/log-intelligence-versus-log-insight/) 
 ### June 26, 2018 
