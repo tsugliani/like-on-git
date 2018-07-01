@@ -22,6 +22,7 @@ Bookmark all my links into README.md
 - [Released: Veeam Availability Console Update 1 - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/released-veeam-availability-console-update-1/) 
 - [Install Let's Encrypt SSL certificates in Veeam Availability Console](https://www.virtualtothecore.com/en/install-lets-encrypt-ssl-certificates-in-veeam-availability-console/) 
 - [Serverless SDN - Network Engineering Analysis of Appswitch | networkop](https://networkop.co.uk/post/2018-05-29-appswitch-sdn/) 
+- [A Quick Intro to the AWS CLI - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2018/06/22/a-quick-intro-to-aws-cli/) 
 ### June 30, 2018 
 - [Log Intelligence versus Log Insight - SFlanders.net](http://sflanders.net/2018/06/28/log-intelligence-versus-log-insight/) 
 ### June 26, 2018 
