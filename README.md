@@ -21,6 +21,7 @@ Bookmark all my links into README.md
 
 ### July 3, 2018 
 - [MySQL Performance : 8.0 GA on IO-bound Sysbench OLTP with Optane -vs- SSD | DimitriK's (dim) Weblog](http://dimitrik.free.fr/blog/posts/mysql-performance-80-ga-iobound-sysbench-optane-vs-ssd.html) 
+- [The Visual Python Debugger for Jupyter Notebooks You’ve Always Wanted](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62) 
 ### July 1, 2018 
 - [Released: Veeam Availability Console Update 1 - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/released-veeam-availability-console-update-1/) 
 - [Install Let's Encrypt SSL certificates in Veeam Availability Console](https://www.virtualtothecore.com/en/install-lets-encrypt-ssl-certificates-in-veeam-availability-console/) 
