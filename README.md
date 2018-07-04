@@ -19,6 +19,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 4, 2018 
+- [Tenant Portal Displays ‘No Datacenters are available’ in vCloud Director 9.1 – KiwiCloud.ninja](https://kiwicloud.ninja/2018/07/tenant-portal-displays-no-datacenters-are-available-in-vcloud-director-9-1/) 
 ### July 3, 2018 
 - [MySQL Performance : 8.0 GA on IO-bound Sysbench OLTP with Optane -vs- SSD | DimitriK's (dim) Weblog](http://dimitrik.free.fr/blog/posts/mysql-performance-80-ga-iobound-sysbench-optane-vs-ssd.html) 
 - [The Visual Python Debugger for Jupyter Notebooks You’ve Always Wanted](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62) 
