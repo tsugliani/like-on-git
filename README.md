@@ -20,6 +20,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 5, 2018 
+- [Milko's Blog: Autoscaling with vCloud Director 9.x |VMware Communities](https://communities.vmware.com/people/mslavov/blog/2018/07/04/autoscaling-with-vcloud-director-9x) 
 ### July 4, 2018 
 - [Tenant Portal Displays ‘No Datacenters are available’ in vCloud Director 9.1 – KiwiCloud.ninja](https://kiwicloud.ninja/2018/07/tenant-portal-displays-no-datacenters-are-available-in-vcloud-director-9-1/) 
 - [Upgrading PKS with NSX-T from 1.0.x to 1.1](https://www.definit.co.uk/2018/06/upgrading-pks-with-nsx-t-from-1-0-x-to-1-1/) 
