@@ -24,6 +24,7 @@ Bookmark all my links into README.md
 
 ### July 8, 2018 
 - [vSAN Witness Appliance - Cluster Membership, Versioning, and Hosting](https://blogs.vmware.com/virtualblocks/2018/07/05/witness-membership-versioning-hosting/) 
+- [Changes in the Performance Service for vSAN 6.7](https://blogs.vmware.com/virtualblocks/2018/07/06/changes-in-the-performance-service-for-vsan-6-7/) 
 ### July 5, 2018 
 - [Milko's Blog: Autoscaling with vCloud Director 9.x |VMware Communities](https://communities.vmware.com/people/mslavov/blog/2018/07/04/autoscaling-with-vcloud-director-9x) 
 - [nbedos/termtosvg: Record terminal sessions as SVG animations](https://github.com/nbedos/termtosvg) 
