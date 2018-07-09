@@ -22,6 +22,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 9, 2018 
+- [Mech: Vagrant with VMWare Integration for free](https://blog.kchung.co/mech-vagrant-with-vmware-integration-for-free/) 
 ### July 8, 2018 
 - [vSAN Witness Appliance - Cluster Membership, Versioning, and Hosting](https://blogs.vmware.com/virtualblocks/2018/07/05/witness-membership-versioning-hosting/) 
 - [Changes in the Performance Service for vSAN 6.7](https://blogs.vmware.com/virtualblocks/2018/07/06/changes-in-the-performance-service-for-vsan-6-7/) 
