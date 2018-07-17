@@ -24,6 +24,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 17, 2018 
+- [password_recovery_viaDatastore.ps1 · master · Aaron Meyer / ESXi_RootPasswordRecovery · GitLab](https://gitlab.com/meyeaard/ESXi_5-6_root_Recovery/blob/master/password_recovery_viaDatastore.ps1) 
 ### July 10, 2018 
 - [molten: modern API framework — molten 0.2.0 documentation](https://moltenframework.com/) 
 ### July 9, 2018 
