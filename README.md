@@ -30,6 +30,7 @@ Bookmark all my links into README.md
 - [Automating VM Template management using Content Library in VMC](https://www.virtuallyghetto.com/2018/07/automating-vm-template-management-using-content-library-in-vmc.html) 
 - [Swap Object Thin Provisioning in vSAN 6.7 - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2018/07/18/swap-object-thin-provisioning-in-vsan-6-7/) 
 - [A Read Only Kubernetes Dashboard | blog.cowger.us](https://blog.cowger.us/2018/07/03/a-read-only-kubernetes-dashboard.html) 
+- [vSAN and Mac Pro 6,1 Lab Design](https://vmkdaily.ghost.io/vsan-and-mac-pro-6-1-lab-design/) 
 ### July 17, 2018 
 - [password_recovery_viaDatastore.ps1 · master · Aaron Meyer / ESXi_RootPasswordRecovery · GitLab](https://gitlab.com/meyeaard/ESXi_5-6_root_Recovery/blob/master/password_recovery_viaDatastore.ps1) 
 ### July 10, 2018 
