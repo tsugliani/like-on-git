@@ -25,6 +25,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 18, 2018 
+- [Automating VM Template management using Content Library in VMC](https://www.virtuallyghetto.com/2018/07/automating-vm-template-management-using-content-library-in-vmc.html) 
 ### July 17, 2018 
 - [password_recovery_viaDatastore.ps1 · master · Aaron Meyer / ESXi_RootPasswordRecovery · GitLab](https://gitlab.com/meyeaard/ESXi_5-6_root_Recovery/blob/master/password_recovery_viaDatastore.ps1) 
 ### July 10, 2018 
