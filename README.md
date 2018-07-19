@@ -26,6 +26,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 19, 2018 
+- [Creating and Deploying VM Templates with Packer and Powershell | Personal Blog](https://jwmoss.github.io/blog/automating-template-builds-with-packer.html) 
 ### July 18, 2018 
 - [Automating VM Template management using Content Library in VMC](https://www.virtuallyghetto.com/2018/07/automating-vm-template-management-using-content-library-in-vmc.html) 
 - [Swap Object Thin Provisioning in vSAN 6.7 - Virtual Blocks](https://blogs.vmware.com/virtualblocks/2018/07/18/swap-object-thin-provisioning-in-vsan-6-7/) 
