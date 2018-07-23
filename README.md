@@ -28,6 +28,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 23, 2018 
+- [VMware - Patch the vCloud Director cacerts file – vUptime.io – Cloud builder(s)](https://vuptime.io/2017/08/30/VMware-Patch-vCloudDirector-cacerts-file/) 
 ### July 21, 2018 
 - [hasura/graphql-engine: Blazing fast, instant GraphQL APIs on Postgres with fine grained access control](https://github.com/hasura/graphql-engine) 
 ### July 19, 2018 
