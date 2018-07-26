@@ -33,6 +33,7 @@ Bookmark all my links into README.md
 
 ### July 26, 2018 
 - [From NSX-V to NSX-T. An Adventure. – VirtualKrueger](https://virtualkrueger.com/2018/07/25/from-nsx-v-to-nsx-t-an-adventure/) 
+- [vThinking Aloud: Publish Content Library to S3 for Cross-Region/Cross-Account Replication | JonKensy.com](http://www.jonkensy.com/vthinking-aloud-publish-content-library-to-s3-for-cross-region-cross-account-replication/) 
 ### July 24, 2018 
 - [Introduction - Masonite Documentation](https://docs.masoniteproject.com/) 
 - [Milko's Blog: Serverless: Functions as a Servic... |VMware Communities](https://communities.vmware.com/people/mslavov/blog/2018/07/20/serverless-functions-as-a-service-in-vcloud-director-9x) 
