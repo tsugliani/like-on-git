@@ -31,6 +31,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 27, 2018 
+- [Creating a vSphere Content Library directly on Amazon S3](https://www.virtuallyghetto.com/2018/07/creating-a-vsphere-content-library-directly-on-amazon-s3.html) 
 ### July 26, 2018 
 - [From NSX-V to NSX-T. An Adventure. – VirtualKrueger](https://virtualkrueger.com/2018/07/25/from-nsx-v-to-nsx-t-an-adventure/) 
 - [vThinking Aloud: Publish Content Library to S3 for Cross-Region/Cross-Account Replication | JonKensy.com](http://www.jonkensy.com/vthinking-aloud-publish-content-library-to-s3-for-cross-region-cross-account-replication/) 
