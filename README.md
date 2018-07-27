@@ -37,6 +37,7 @@ Bookmark all my links into README.md
 - [What is Datrium DVX? - The SLOG – SimonLong/Blog](https://www.simonlong.co.uk/blog/2018/07/26/what-is-datrium-dvx/?utm_source=feedly&utm_medium=rss&utm_campaign=rss) 
 - [vThinking Aloud: Publish Content Library to S3 for Cross-Region/Cross-Account Replication | JonKensy.com](http://www.jonkensy.com/vthinking-aloud-publish-content-library-to-s3-for-cross-region-cross-account-replication/) 
 - [From NSX-V to NSX-T. An Adventure. – VirtualKrueger](https://virtualkrueger.com/2018/07/25/from-nsx-v-to-nsx-t-an-adventure/) 
+- [Simple cloud automation with vCD, Terraform, ZeroTier and Slack | Network Brouhaha](https://networkbrouhaha.com/2018/03/vcd-terraform-example/) 
 ### July 26, 2018 
 - [From NSX-V to NSX-T. An Adventure. – VirtualKrueger](https://virtualkrueger.com/2018/07/25/from-nsx-v-to-nsx-t-an-adventure/) 
 - [vThinking Aloud: Publish Content Library to S3 for Cross-Region/Cross-Account Replication | JonKensy.com](http://www.jonkensy.com/vthinking-aloud-publish-content-library-to-s3-for-cross-region-cross-account-replication/) 
