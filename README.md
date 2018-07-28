@@ -32,6 +32,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 28, 2018 
+- [faressoft/terminalizer: 🦄 Record your terminal and generate animated gif images](https://github.com/faressoft/terminalizer?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 ### July 27, 2018 
 - [Creating a vSphere Content Library directly on Amazon S3](https://www.virtuallyghetto.com/2018/07/creating-a-vsphere-content-library-directly-on-amazon-s3.html) 
 - [What is Datrium DVX? - The SLOG – SimonLong/Blog](https://www.simonlong.co.uk/blog/2018/07/26/what-is-datrium-dvx/?utm_source=feedly&utm_medium=rss&utm_campaign=rss) 
