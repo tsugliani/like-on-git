@@ -34,6 +34,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 2, 2018 
+- [Virtual Volumes and Array Snapshots Part I: Managed Snapshots | Cody Hosterman](https://www.codyhosterman.com/2018/07/virtual-volumes-and-array-snapshots-part-i-managed-snapshots/) 
 ### August 1, 2018 
 - [Selecting IP Subnets for Your VMware Cloud SDDC – Guest Blog by Michael Kolos | vCloudmatt's Blog – In the Clouds!](https://vcloudmatt.com/2018/07/31/selecting-ip-subnets-for-your-vmware-cloud-sddc-guest-blog-by-michael-kolos/) 
 ### July 28, 2018 
