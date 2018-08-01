@@ -33,6 +33,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 1, 2018 
+- [Selecting IP Subnets for Your VMware Cloud SDDC – Guest Blog by Michael Kolos | vCloudmatt's Blog – In the Clouds!](https://vcloudmatt.com/2018/07/31/selecting-ip-subnets-for-your-vmware-cloud-sddc-guest-blog-by-michael-kolos/) 
 ### July 28, 2018 
 - [faressoft/terminalizer: 🦄 Record your terminal and generate animated gif images](https://github.com/faressoft/terminalizer?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
 - [mkaz/termgraph: a python command-line tool which draws basic graphs in the terminal](https://github.com/mkaz/termgraph?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) 
