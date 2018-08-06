@@ -38,6 +38,7 @@ Bookmark all my links into README.md
 
 ### August 6, 2018 
 - [Invoke-VMScriptPlus v2 - LucD notes](http://www.lucd.info/2018/08/05/invoke-vmscriptplus-v2/) 
+- [vROps CLI created by Blue Medora | vPSO](https://joetietz.com/2018/08/02/vrops-cli-created-by-blue-medora/) 
 ### August 2, 2018 
 - [Virtual Volumes and Array Snapshots Part I: Managed Snapshots | Cody Hosterman](https://www.codyhosterman.com/2018/07/virtual-volumes-and-array-snapshots-part-i-managed-snapshots/) 
 - [Jumbo Frames and VXLAN Performance | vswitchzero](https://vswitchzero.com/2018/08/02/jumbo-frames-and-vxlan-performance/) 
