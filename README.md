@@ -36,6 +36,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 8, 2018 
+- [How I gained commit access to Homebrew in 30 minutes](https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab) 
 ### August 6, 2018 
 - [Invoke-VMScriptPlus v2 - LucD notes](http://www.lucd.info/2018/08/05/invoke-vmscriptplus-v2/) 
 - [vROps CLI created by Blue Medora | vPSO](https://joetietz.com/2018/08/02/vrops-cli-created-by-blue-medora/) 
