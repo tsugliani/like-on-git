@@ -37,6 +37,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 9, 2018 
+- [sloria/environs: simplified environment variable parsing](https://github.com/sloria/environs) 
 ### August 8, 2018 
 - [How I gained commit access to Homebrew in 30 minutes](https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab) 
 - [NSX-T a.k.a NSX Cloud API tips and tricks | SOSTech](https://sostechblog.com/2018/08/07/nsx-t-a-k-a-nsx-cloud-api-tips-and-tricks/) 
