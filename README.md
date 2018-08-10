@@ -38,6 +38,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 10, 2018 
+- [The pfSense Book](https://www.netgate.com/docs/pfsense/book/) 
 ### August 9, 2018 
 - [sloria/environs: simplified environment variable parsing](https://github.com/sloria/environs) 
 ### August 8, 2018 
