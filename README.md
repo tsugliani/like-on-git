@@ -39,6 +39,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 13, 2018 
+- [The Shell Introduction I Wish I Had - DEV Community 👩‍💻👨‍💻](https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k) 
 ### August 10, 2018 
 - [The pfSense Book](https://www.netgate.com/docs/pfsense/book/) 
 ### August 9, 2018 
