@@ -40,6 +40,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 25, 2018 
+- [ids/the-noobs-guide-to-nsxt-pks: A guide for setting up a VMware NSX-T Pivotal PKS home lab](https://github.com/ids/the-noobs-guide-to-nsxt-pks) 
 ### August 13, 2018 
 - [The Shell Introduction I Wish I Had - DEV Community 👩‍💻👨‍💻](https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k) 
 ### August 10, 2018 
