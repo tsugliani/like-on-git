@@ -41,6 +41,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 26, 2018 
+- [Kubernetes NFS on Synology | blog.cowger.us](https://blog.cowger.us/2018/08/03/nfs-on-synology.html) 
 ### August 25, 2018 
 - [ids/the-noobs-guide-to-nsxt-pks: A guide for setting up a VMware NSX-T Pivotal PKS home lab](https://github.com/ids/the-noobs-guide-to-nsxt-pks) 
 - [GitLab 11.2 released with live preview in the Web IDE and Android project import | GitLab](https://about.gitlab.com/2018/08/22/gitlab-11-2-released/) 
