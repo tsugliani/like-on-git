@@ -45,6 +45,7 @@ Bookmark all my links into README.md
 
 ### September 2, 2018 
 - [VMworld - VMware vSAN Announcements: vSAN 6.7 U1 and beta announced! - Yellow Bricks](http://www.yellow-bricks.com/2018/08/27/vmworld-vmware-vsan-announcements-vsan-67u1-and-beta-announced/) 
+- [VMworld - VMware vSAN Announcements: vSAN 6.7 U1 and beta announced! - Yellow Bricks](http://www.yellow-bricks.com/2018/08/27/vmworld-vmware-vsan-announcements-vsan-67u1-and-beta-announced/) 
 ### August 26, 2018 
 - [Kubernetes NFS on Synology | blog.cowger.us](https://blog.cowger.us/2018/08/03/nfs-on-synology.html) 
 ### August 25, 2018 
