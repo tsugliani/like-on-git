@@ -43,6 +43,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 3, 2018 
+- [David Pasek's Profession Blog: New with vSphere 6.7 U1 - Enhanced Load Balancing Path Selection Policy](https://www.vcdx200.com/2018/09/new-with-vsphere-67-u1-enhanced-load.html) 
 ### September 2, 2018 
 - [VMworld - VMware vSAN Announcements: vSAN 6.7 U1 and beta announced! - Yellow Bricks](http://www.yellow-bricks.com/2018/08/27/vmworld-vmware-vsan-announcements-vsan-67u1-and-beta-announced/) 
 - [VMworld - VMware vSAN Announcements: vSAN 6.7 U1 and beta announced! - Yellow Bricks](http://www.yellow-bricks.com/2018/08/27/vmworld-vmware-vsan-announcements-vsan-67u1-and-beta-announced/) 
