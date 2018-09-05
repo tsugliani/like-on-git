@@ -44,6 +44,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 5, 2018 
+- [2vcps/vmworld2018_vin3762bus: Scripts for the demo I will do during the session](https://github.com/2vcps/vmworld2018_vin3762bus) 
 ### September 3, 2018 
 - [David Pasek's Profession Blog: New with vSphere 6.7 U1 - Enhanced Load Balancing Path Selection Policy](https://www.vcdx200.com/2018/09/new-with-vsphere-67-u1-enhanced-load.html) 
 ### September 2, 2018 
