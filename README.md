@@ -46,6 +46,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 10, 2018 
+- [2vcps/vmworld2018_vin3762bus: Scripts for the demo I will do during the session](https://github.com/2vcps/vmworld2018_vin3762bus) 
 ### September 6, 2018 
 - [Manual Upgrade of NSX Host VIBs – vswitchzero](https://vswitchzero.com/2018/09/05/manual-upgrade-of-nsx-host-vibs/) 
 ### September 5, 2018 
