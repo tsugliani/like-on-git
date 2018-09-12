@@ -55,6 +55,7 @@ Bookmark all my links into README.md
 - [NSX Troubleshooting - Management and Control Plane - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/09/10/nsx-troubleshooting-management-and-control-plane/) 
 - [Six Interesting Kubernetes Sessions at VMworld 2018 - frankdenneman.nl](http://frankdenneman.nl/2018/09/07/six-interesting-kubernetes-sessions-at-vmworld-2018/) 
 - [SRM deployed as an appliance » Welcome to vSphere-land!](http://vsphere-land.com/news/srm-deployed-as-an-appliance.html) 
+- [CTO2860BU & VIN2183BU: It is all about Persistent Memory - Yellow Bricks](http://www.yellow-bricks.com/2018/09/06/cto2860bu-vin2183bu-it-is-all-about-persistent-memory/) 
 ### September 10, 2018 
 - [2vcps/vmworld2018_vin3762bus: Scripts for the demo I will do during the session](https://github.com/2vcps/vmworld2018_vin3762bus) 
 ### September 6, 2018 
