@@ -53,6 +53,7 @@ Bookmark all my links into README.md
 - [You Should Use VS Code If You're a Python Developer — Kenneth Reitz](https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer) 
 - [p-gen/smenu: Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor. Once done, your selection will be sent to standard output. More in the Wiki](https://github.com/p-gen/smenu) 
 - [NSX Troubleshooting - Management and Control Plane - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/09/10/nsx-troubleshooting-management-and-control-plane/) 
+- [Six Interesting Kubernetes Sessions at VMworld 2018 - frankdenneman.nl](http://frankdenneman.nl/2018/09/07/six-interesting-kubernetes-sessions-at-vmworld-2018/) 
 ### September 10, 2018 
 - [2vcps/vmworld2018_vin3762bus: Scripts for the demo I will do during the session](https://github.com/2vcps/vmworld2018_vin3762bus) 
 ### September 6, 2018 
