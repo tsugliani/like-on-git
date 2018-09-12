@@ -58,6 +58,7 @@ Bookmark all my links into README.md
 - [CTO2860BU & VIN2183BU: It is all about Persistent Memory - Yellow Bricks](http://www.yellow-bricks.com/2018/09/06/cto2860bu-vin2183bu-it-is-all-about-persistent-memory/) 
 - [HCI3041BU: Introducing Scalable File Storage on vSAN - Yellow Bricks](http://www.yellow-bricks.com/2018/09/06/hci3041bu-introducing-scalable-file-storage-on-vsan/) 
 - [Tech Paper DRS Enhancements in vSphere 6.7 - frankdenneman.nl](http://frankdenneman.nl/2018/09/06/tech-paper-drs-enhancements-in-vsphere-6-7/) 
+- [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d) 
 ### September 10, 2018 
 - [2vcps/vmworld2018_vin3762bus: Scripts for the demo I will do during the session](https://github.com/2vcps/vmworld2018_vin3762bus) 
 ### September 6, 2018 
