@@ -50,6 +50,7 @@ Bookmark all my links into README.md
 
 ### September 12, 2018 
 - [VSAN Managed Object Browser (MOB) in vSphere 6.7 & vSphere 6.7 Update 1](https://www.virtuallyghetto.com/2018/09/vsan-managed-object-browser-mob-in-vsphere-6-7-vsphere-6-7-update-1.html) 
+- [You Should Use VS Code If You're a Python Developer — Kenneth Reitz](https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer) 
 ### September 10, 2018 
 - [2vcps/vmworld2018_vin3762bus: Scripts for the demo I will do during the session](https://github.com/2vcps/vmworld2018_vin3762bus) 
 ### September 6, 2018 
