@@ -52,6 +52,7 @@ Bookmark all my links into README.md
 ### September 14, 2018 
 - [Fun with Windows – BGP Routing – The Packet Thrower's Blog](https://the-packet-thrower.com/2017/05/13/fun-with-windows-bgp-routing/) 
 - [Border Gateway Protocol (BGP) with Windows Server 2012 R2 | Networking Blog](https://blogs.technet.microsoft.com/networking/2013/10/11/border-gateway-protocol-bgp-with-windows-server-2012-r2/) 
+- [Serverless: Cold Start War | Mikhail Shilkov](https://mikhail.io/2018/08/serverless-cold-start-war/) 
 ### September 12, 2018 
 - [VSAN Managed Object Browser (MOB) in vSphere 6.7 & vSphere 6.7 Update 1](https://www.virtuallyghetto.com/2018/09/vsan-managed-object-browser-mob-in-vsphere-6-7-vsphere-6-7-update-1.html) 
 - [You Should Use VS Code If You're a Python Developer — Kenneth Reitz](https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer) 
