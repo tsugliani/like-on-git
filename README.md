@@ -49,6 +49,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 17, 2018 
+- [What Most Remote Companies Don’t Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945) 
 ### September 14, 2018 
 - [Fun with Windows – BGP Routing – The Packet Thrower's Blog](https://the-packet-thrower.com/2017/05/13/fun-with-windows-bgp-routing/) 
 - [Border Gateway Protocol (BGP) with Windows Server 2012 R2 | Networking Blog](https://blogs.technet.microsoft.com/networking/2013/10/11/border-gateway-protocol-bgp-with-windows-server-2012-r2/) 
