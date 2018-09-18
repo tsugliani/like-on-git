@@ -50,6 +50,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 18, 2018 
+- [Creating Policy Based Backup Jobs for vCloud Director Self Service Portal with Tenant Creation - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/creating-policy-based-backup-jobs-for-vcloud-director-self-service-portal-with-tenant-creation/) 
 ### September 17, 2018 
 - [What Most Remote Companies Don’t Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945) 
 ### September 14, 2018 
