@@ -55,6 +55,7 @@ Bookmark all my links into README.md
 ### September 20, 2018 
 - [Learning Hybrid Cloud Extension (HCX) Part 1: Overview – emadyounis.com](http://emadyounis.com/learning-hybrid-cloud-extension-hcx-part-1-overview/) 
 - [vMotion across different VDS version between onPrem and VMC](https://www.virtuallyghetto.com/2018/09/vmotion-across-different-vds-version-between-onprem-and-vmc.html) 
+- [Sublime Merge - Git, done Sublime](https://www.sublimemerge.com/) 
 ### September 18, 2018 
 - [Creating Policy Based Backup Jobs for vCloud Director Self Service Portal with Tenant Creation - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/creating-policy-based-backup-jobs-for-vcloud-director-self-service-portal-with-tenant-creation/) 
 ### September 17, 2018 
