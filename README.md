@@ -52,6 +52,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 24, 2018 
+- [vSphere Networking : Traffic Marking - NielsHagoort.com](https://nielshagoort.com/2018/09/24/vsphere-networking-traffic-marking/) 
 ### September 20, 2018 
 - [Learning Hybrid Cloud Extension (HCX) Part 1: Overview – emadyounis.com](http://emadyounis.com/learning-hybrid-cloud-extension-hcx-part-1-overview/) 
 - [vMotion across different VDS version between onPrem and VMC](https://www.virtuallyghetto.com/2018/09/vmotion-across-different-vds-version-between-onprem-and-vmc.html) 
