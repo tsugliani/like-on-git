@@ -53,6 +53,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 25, 2018 
+- [vCloud Director Dynamic Security Group with Tag - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/09/25/vcloud-director-dynamic-security-group-with-tag/) 
 ### September 24, 2018 
 - [vSphere Networking : Traffic Marking - NielsHagoort.com](https://nielshagoort.com/2018/09/24/vsphere-networking-traffic-marking/) 
 ### September 20, 2018 
