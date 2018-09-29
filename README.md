@@ -59,6 +59,7 @@ Bookmark all my links into README.md
 - [Building a Universal vSphere Performance Monitoring Kit with PowerShell Core, InfluxDB, and Grafana on Ubuntu](https://vmkdaily.ghost.io/building-a-universal-vsphere-performance-monitoring-kit-with-powershell-core-influxdb-and-grafana-on-ubuntu/) 
 - [The NSX PowerOPS Tool unleashed - Iwan’s wiki](http://www.iwan.wiki/index.php?title=The_NSX_PowerOPS_Tool_unleashed&oldid=1203) 
 - [This Baby is Loaded! What’s New with vRealize Operations 7.0 Technical Overview - VMware Cloud Management](https://blogs.vmware.com/management/2018/09/this-baby-is-loaded-whats-new-with-vrealize-operations-7-0-technical-overview.html) 
+- [Automating new Cloud Motion with vSphere Replication using Hybrid Cloud Extension (HCX) API](https://www.virtuallyghetto.com/2018/09/automating-new-cloud-motion-with-vsphere-replication-using-hybrid-cloud-extension-hcx-api.html) 
 ### September 25, 2018 
 - [vCloud Director Dynamic Security Group with Tag - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/09/25/vcloud-director-dynamic-security-group-with-tag/) 
 ### September 24, 2018 
