@@ -57,6 +57,7 @@ Bookmark all my links into README.md
 
 ### September 29, 2018 
 - [Building a Universal vSphere Performance Monitoring Kit with PowerShell Core, InfluxDB, and Grafana on Ubuntu](https://vmkdaily.ghost.io/building-a-universal-vsphere-performance-monitoring-kit-with-powershell-core-influxdb-and-grafana-on-ubuntu/) 
+- [The NSX PowerOPS Tool unleashed - Iwan’s wiki](http://www.iwan.wiki/index.php?title=The_NSX_PowerOPS_Tool_unleashed&oldid=1203) 
 ### September 25, 2018 
 - [vCloud Director Dynamic Security Group with Tag - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/09/25/vcloud-director-dynamic-security-group-with-tag/) 
 ### September 24, 2018 
