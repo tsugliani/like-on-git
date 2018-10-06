@@ -59,6 +59,7 @@ Bookmark all my links into README.md
 
 ### October 6, 2018 
 - [Houston we have a problem, NSX-T Tunnel Down Status – Livefire](https://www.livefire.solutions/nsx-t/houston-we-have-a-problem-nsx-t-tunnel-down-status/) 
+- [pulumi/kubespy: Tools for observing Kubernetes resources in real time, powered by Pulumi.](https://github.com/pulumi/kubespy) 
 ### October 1, 2018 
 - [Useful M.2 NVMe accessories for vSphere (VSAN/VMFS) Home Labs](https://www.virtuallyghetto.com/2018/10/useful-m-2-nvme-accessories-for-vsphere-vsan-vmfs-home-labs.html) 
 - [Optimising Docker Layers for Better Caching with Nix - Graham Christensen](https://grahamc.com/blog/nix-and-layered-docker-images) 
