@@ -57,6 +57,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 10, 2018 
+- [The Veeam HTML5 plug-in for vSphere Client – Notes from MWhite](https://notesfrommwhite.net/2018/10/09/the-veeam-html5-plug-in-for-vsphere-client/) 
 ### October 6, 2018 
 - [Houston we have a problem, NSX-T Tunnel Down Status – Livefire](https://www.livefire.solutions/nsx-t/houston-we-have-a-problem-nsx-t-tunnel-down-status/) 
 - [pulumi/kubespy: Tools for observing Kubernetes resources in real time, powered by Pulumi.](https://github.com/pulumi/kubespy) 
