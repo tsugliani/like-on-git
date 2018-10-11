@@ -58,6 +58,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 11, 2018 
+- [Quick Tip – How to clear all Hybrid Cloud Extension (HCX) Migrations in the vSphere UI](https://www.virtuallyghetto.com/2018/10/quick-tip-how-to-clear-all-hybrid-cloud-extension-hcx-migrations-in-the-vsphere-ui.html) 
 ### October 10, 2018 
 - [The Veeam HTML5 plug-in for vSphere Client – Notes from MWhite](https://notesfrommwhite.net/2018/10/09/the-veeam-html5-plug-in-for-vsphere-client/) 
 - [The Veeam HTML5 plug-in for vSphere Client – Notes from MWhite](https://notesfrommwhite.net/2018/10/09/the-veeam-html5-plug-in-for-vsphere-client/) 
