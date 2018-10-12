@@ -66,6 +66,7 @@ Bookmark all my links into README.md
 - [Practitioner's Guide to VMware Automation](https://grantorchard.com/tango/cloud-assembly-blueprinting-intro/) 
 - [Practitioner's Guide to VMware Automation](https://grantorchard.com/tango/cloud-assembly-blueprint-versioning/) 
 - [Practitioner's Guide to VMware Automation](https://grantorchard.com/tango/cloud-assembly-api-getting-started/) 
+- [Dropbox traffic infrastructure: Edge network | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2018/10/dropbox-traffic-infrastructure-edge-network/#.W7_1ugrertM.twitter) 
 ### October 11, 2018 
 - [Quick Tip – How to clear all Hybrid Cloud Extension (HCX) Migrations in the vSphere UI](https://www.virtuallyghetto.com/2018/10/quick-tip-how-to-clear-all-hybrid-cloud-extension-hcx-migrations-in-the-vsphere-ui.html) 
 ### October 10, 2018 
