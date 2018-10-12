@@ -59,6 +59,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 12, 2018 
+- [Reference Guide Update: Deploying NSX Data Center on an ACI Underlay - Network Virtualization](https://blogs.vmware.com/networkvirtualization/2018/09/reference-guide-update-nsx-on-aci.html/?src=so_5baac9a8457fa&cid=70134000001CUn1) 
 ### October 11, 2018 
 - [Quick Tip – How to clear all Hybrid Cloud Extension (HCX) Migrations in the vSphere UI](https://www.virtuallyghetto.com/2018/10/quick-tip-how-to-clear-all-hybrid-cloud-extension-hcx-migrations-in-the-vsphere-ui.html) 
 ### October 10, 2018 
