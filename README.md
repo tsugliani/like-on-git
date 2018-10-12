@@ -65,6 +65,7 @@ Bookmark all my links into README.md
 - [Practitioner's Guide to VMware Automation](https://grantorchard.com/tango/introducing-vmware-cloud-automation-services/) 
 - [Practitioner's Guide to VMware Automation](https://grantorchard.com/tango/cloud-assembly-blueprinting-intro/) 
 - [Practitioner's Guide to VMware Automation](https://grantorchard.com/tango/cloud-assembly-blueprint-versioning/) 
+- [Practitioner's Guide to VMware Automation](https://grantorchard.com/tango/cloud-assembly-api-getting-started/) 
 ### October 11, 2018 
 - [Quick Tip – How to clear all Hybrid Cloud Extension (HCX) Migrations in the vSphere UI](https://www.virtuallyghetto.com/2018/10/quick-tip-how-to-clear-all-hybrid-cloud-extension-hcx-migrations-in-the-vsphere-ui.html) 
 ### October 10, 2018 
