@@ -66,6 +66,7 @@ Bookmark all my links into README.md
 - [vCD UI Extensibility API Client: Part One - Preparation - vKelby](http://www.vkelby.com/2018/10/vcd-ui-extensibility-api-client-part-one-preparation/) 
 - [vCD UI Extensibility API Client: Part Two – Typed Queries - vKelby](http://www.vkelby.com/2018/10/vcd-ui-extensibility-api-client-part-two-typed-queries/) 
 - [vCD UI Extensibility API Client: Part Three - Data Management - vKelby](http://www.vkelby.com/2018/10/vcd-ui-extensibility-api-client-part-three-data-management/) 
+- [Runecast Analyzer 2.0 - First impression - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/10/22/runecast-analyzer-2-0-first-impression/) 
 ### October 15, 2018 
 - [Powershell: Everything you wanted to know about arrays](https://kevinmarquette.github.io/2018-10-15-Powershell-arrays-Everything-you-wanted-to-know/?utm_source=twitter&utm_medium=post) 
 ### October 12, 2018 
