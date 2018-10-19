@@ -64,6 +64,7 @@ Bookmark all my links into README.md
 
 ### October 19, 2018 
 - [vCD UI Extensibility API Client: Part One - Preparation - vKelby](http://www.vkelby.com/2018/10/vcd-ui-extensibility-api-client-part-one-preparation/) 
+- [vCD UI Extensibility API Client: Part Two – Typed Queries - vKelby](http://www.vkelby.com/2018/10/vcd-ui-extensibility-api-client-part-two-typed-queries/) 
 ### October 15, 2018 
 - [Powershell: Everything you wanted to know about arrays](https://kevinmarquette.github.io/2018-10-15-Powershell-arrays-Everything-you-wanted-to-know/?utm_source=twitter&utm_medium=post) 
 ### October 12, 2018 
