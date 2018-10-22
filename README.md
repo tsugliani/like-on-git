@@ -62,6 +62,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 22, 2018 
+- [Runecast Analyzer 2.0 - First impression - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/10/22/runecast-analyzer-2-0-first-impression/) 
 ### October 19, 2018 
 - [vCD UI Extensibility API Client: Part One - Preparation - vKelby](http://www.vkelby.com/2018/10/vcd-ui-extensibility-api-client-part-one-preparation/) 
 - [vCD UI Extensibility API Client: Part Two – Typed Queries - vKelby](http://www.vkelby.com/2018/10/vcd-ui-extensibility-api-client-part-two-typed-queries/) 
