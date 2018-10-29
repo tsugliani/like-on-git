@@ -67,6 +67,7 @@ Bookmark all my links into README.md
 ### October 29, 2018 
 - [vCloud Director 9.5 - Multi-Site and Cross-VDC Permissions Requirement - Clouds, etc.](https://www.paluszek.com/wp/2018/10/23/vcloud-director-9-5-multi-site-and-cross-vdc-permissions-requirement/) 
 - [Sublime Merge - Git, done Sublime](https://www.sublimemerge.com/) 
+- [Using mkcert for local and lab certs – Network Inferno](https://networkinferno.net/using-mkcert-for-local-and-lab-certs) 
 ### October 22, 2018 
 - [Runecast Analyzer 2.0 - First impression - my cloud-(r)evolution](https://mycloudrevolution.com/en/2018/10/22/runecast-analyzer-2-0-first-impression/) 
 - [BGP LLGR: robust and reactive BGP sessions | Vincent Bernat](https://vincent.bernat.ch/en/blog/2018-bgp-llgr) 
