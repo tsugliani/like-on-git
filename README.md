@@ -64,6 +64,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 30, 2018 
+- [Cloud Native DevOps: Four Horsemen of the Operations Apocalypse - The New Stack](https://thenewstack.io/cloud-native-devops-four-horsemen-of-the-operations-apocalypse/) 
 ### October 29, 2018 
 - [vCloud Director 9.5 - Multi-Site and Cross-VDC Permissions Requirement - Clouds, etc.](https://www.paluszek.com/wp/2018/10/23/vcloud-director-9-5-multi-site-and-cross-vdc-permissions-requirement/) 
 - [Sublime Merge - Git, done Sublime](https://www.sublimemerge.com/) 
