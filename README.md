@@ -65,6 +65,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 1, 2018 
+- [PowerCLI and Opaque Networks – Network Inferno](https://networkinferno.net/powercli-and-opaque-networks) 
 ### October 30, 2018 
 - [Cloud Native DevOps: Four Horsemen of the Operations Apocalypse - The New Stack](https://thenewstack.io/cloud-native-devops-four-horsemen-of-the-operations-apocalypse/) 
 - [Automating Hybrid Cloud Extension (HCX) Manager initial configuration for VMC](https://www.virtuallyghetto.com/2018/10/automating-hybrid-cloud-extension-hcx-manager-initial-configuration-for-vmc.html) 
