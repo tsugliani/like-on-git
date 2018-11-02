@@ -71,6 +71,7 @@ Bookmark all my links into README.md
 - [A closer look at EBS-backed vSAN - CormacHogan.com](https://cormachogan.com/2018/11/01/a-closer-look-at-ebs-backed-vsan/) 
 - [Ervy - Bring charts to terminal.](https://www.chunqiuyiyu.com/ervy/) 
 - [Update on running ESXi on Intel NUC Hades Canyon (NUC8i7HNK & NUC8i7HVK)](https://www.virtuallyghetto.com/2018/11/update-on-running-esxi-on-intel-nuc-hades-canyon-nuc8i7hnk-nuc8i7hvk.html) 
+- [Creating a vSAN based vSphere Cluster |](https://www.sqlpassion.at/archive/2018/10/29/creating-a-vsan-based-vsphere-cluster/) 
 ### November 1, 2018 
 - [PowerCLI and Opaque Networks – Network Inferno](https://networkinferno.net/powercli-and-opaque-networks) 
 ### October 30, 2018 
