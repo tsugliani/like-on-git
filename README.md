@@ -69,6 +69,7 @@ Bookmark all my links into README.md
 
 ### November 2, 2018 
 - [A closer look at EBS-backed vSAN - CormacHogan.com](https://cormachogan.com/2018/11/01/a-closer-look-at-ebs-backed-vsan/) 
+- [Ervy - Bring charts to terminal.](https://www.chunqiuyiyu.com/ervy/) 
 ### November 1, 2018 
 - [PowerCLI and Opaque Networks – Network Inferno](https://networkinferno.net/powercli-and-opaque-networks) 
 ### October 30, 2018 
