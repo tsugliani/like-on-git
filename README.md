@@ -67,6 +67,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 3, 2018 
+- [Large-scale network simulations in Kubernetes, Part 1 - Building a CNI plugin | networkop](https://networkop.co.uk/post/2018-11-k8s-topo-p1/) 
 ### November 2, 2018 
 - [A closer look at EBS-backed vSAN - CormacHogan.com](https://cormachogan.com/2018/11/01/a-closer-look-at-ebs-backed-vsan/) 
 - [Ervy - Bring charts to terminal.](https://www.chunqiuyiyu.com/ervy/) 
