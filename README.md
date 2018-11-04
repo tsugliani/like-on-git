@@ -68,6 +68,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 4, 2018 
+- [Large-scale network simulations in Kubernetes, Part 1 - Building a CNI plugin | networkop](https://networkop.co.uk/post/2018-11-k8s-topo-p1/) 
 ### November 3, 2018 
 - [Large-scale network simulations in Kubernetes, Part 1 - Building a CNI plugin | networkop](https://networkop.co.uk/post/2018-11-k8s-topo-p1/) 
 ### November 2, 2018 
