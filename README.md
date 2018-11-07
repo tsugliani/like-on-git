@@ -69,6 +69,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 7, 2018 
+- [GitHub - wagoodman/dive: A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive) 
 ### November 4, 2018 
 - [Large-scale network simulations in Kubernetes, Part 1 - Building a CNI plugin | networkop](https://networkop.co.uk/post/2018-11-k8s-topo-p1/) 
 ### November 3, 2018 
