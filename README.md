@@ -70,6 +70,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 8, 2018 
+- [ESXi on a Raspberry Pi](https://www.virtuallyghetto.com/2018/11/esxi-on-a-raspberry-pi.html) 
 ### November 7, 2018 
 - [GitHub - wagoodman/dive: A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive) 
 ### November 4, 2018 
