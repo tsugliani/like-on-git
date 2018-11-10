@@ -71,6 +71,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 10, 2018 
+- [Technology Short Take 106 - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2018/11/09/technology-short-take-106/) 
 ### November 8, 2018 
 - [ESXi on a Raspberry Pi](https://www.virtuallyghetto.com/2018/11/esxi-on-a-raspberry-pi.html) 
 ### November 7, 2018 
