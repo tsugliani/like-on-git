@@ -76,6 +76,7 @@ Bookmark all my links into README.md
 
 ### November 18, 2018 
 - [Kubernetes, Swap and the VMware Balloon Driver - frankdenneman.nl](http://frankdenneman.nl/2018/11/15/kubernetes-swap-and-the-vmware-balloon-driver/) 
+- [Download VMware and Pivotal Products via CLI](http://cloudmaniac.net/download-vmware-pivotal-products-using-cli/) 
 ### November 11, 2018 
 - [Demystifying Containers 101: A Deep Dive Into Container Technology for Beginners](https://medium.freecodecamp.org/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1) 
 ### November 10, 2018 
