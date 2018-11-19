@@ -77,6 +77,7 @@ Bookmark all my links into README.md
 
 ### November 19, 2018 
 - [txn2/kubefwd: Bulk port forwarding Kubernetes services for local development.](https://github.com/txn2/kubefwd) 
+- [Can a VM in the VMC Compute Network access the SDDC Management Network?](https://www.virtuallyghetto.com/2018/11/can-a-vm-in-the-vmc-compute-network-access-the-sddc-management-network.html) 
 ### November 18, 2018 
 - [Kubernetes, Swap and the VMware Balloon Driver - frankdenneman.nl](http://frankdenneman.nl/2018/11/15/kubernetes-swap-and-the-vmware-balloon-driver/) 
 - [Download VMware and Pivotal Products via CLI](http://cloudmaniac.net/download-vmware-pivotal-products-using-cli/) 
