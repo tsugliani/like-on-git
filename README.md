@@ -75,6 +75,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 21, 2018 
+- [L2VPN Options to Mitigate Looping](https://docs.vmware.com/en/VMware-NSX-Data-Center-for-vSphere/6.4/com.vmware.nsx.troubleshooting.doc/GUID-8F13151F-0D5D-4204-823B-CEC5F85CE185.html) 
 ### November 19, 2018 
 - [txn2/kubefwd: Bulk port forwarding Kubernetes services for local development.](https://github.com/txn2/kubefwd) 
 - [Can a VM in the VMC Compute Network access the SDDC Management Network?](https://www.virtuallyghetto.com/2018/11/can-a-vm-in-the-vmc-compute-network-access-the-sddc-management-network.html) 
