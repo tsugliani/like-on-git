@@ -76,6 +76,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 23, 2018 
+- [Supermicro E300-9D (SYS-E300-9D-8CN8TP) is a nice ESXi & vSAN kit](https://www.virtuallyghetto.com/2018/11/supermicro-e300-9d-sys-e300-9d-8cn8tp-is-a-nice-esxi-vsan-kit.html) 
 ### November 21, 2018 
 - [L2VPN Options to Mitigate Looping](https://docs.vmware.com/en/VMware-NSX-Data-Center-for-vSphere/6.4/com.vmware.nsx.troubleshooting.doc/GUID-8F13151F-0D5D-4204-823B-CEC5F85CE185.html) 
 ### November 19, 2018 
