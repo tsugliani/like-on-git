@@ -77,6 +77,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 25, 2018 
+- [Ingress - kubedex.com](https://kubedex.com/ingress/) 
 ### November 23, 2018 
 - [Supermicro E300-9D (SYS-E300-9D-8CN8TP) is a nice ESXi & vSAN kit](https://www.virtuallyghetto.com/2018/11/supermicro-e300-9d-sys-e300-9d-8cn8tp-is-a-nice-esxi-vsan-kit.html) 
 ### November 21, 2018 
