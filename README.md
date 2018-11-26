@@ -78,6 +78,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 26, 2018 
+- [NSX-v Edge VM has been deleted from disk/removed from inventory - How to resolve - Just Virtualise It](http://www.kanecharles.com/?p=256) 
 ### November 25, 2018 
 - [Ingress - kubedex.com](https://kubedex.com/ingress/) 
 ### November 23, 2018 
