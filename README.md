@@ -79,6 +79,9 @@ Bookmark all my links into README.md
 
 
 
+
+### December 6, 2018 
+- [Learning more about the Nitro platform which will power VMware Cloud on AWS Outposts](https://www.virtuallyghetto.com/2018/12/learning-more-about-the-nitro-platform-which-will-power-vmware-cloud-on-aws-outposts.html) 
 ### November 26, 2018 
 - [NSX-v Edge VM has been deleted from disk/removed from inventory - How to resolve - Just Virtualise It](http://www.kanecharles.com/?p=256) 
 ### November 25, 2018 
