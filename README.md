@@ -80,6 +80,9 @@ Bookmark all my links into README.md
 
 
 
+
+### December 7, 2018 
+- [Building a GlusterFS cluster (CentOS 7) – ITNEXT](https://itnext.io/building-a-glusterfs-cluster-centos-7-c68ce30459ee) 
 ### December 6, 2018 
 - [Learning more about the Nitro platform which will power VMware Cloud on AWS Outposts](https://www.virtuallyghetto.com/2018/12/learning-more-about-the-nitro-platform-which-will-power-vmware-cloud-on-aws-outposts.html) 
 ### November 26, 2018 
