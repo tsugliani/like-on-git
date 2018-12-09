@@ -81,6 +81,9 @@ Bookmark all my links into README.md
 
 
 
+
+### December 9, 2018 
+- [NSX Troubleshooting Scenario 13 – Solution – vswitchzero](https://vswitchzero.com/2018/12/07/nsx-troubleshooting-scenario-13-solution/) 
 ### December 7, 2018 
 - [Building a GlusterFS cluster (CentOS 7) – ITNEXT](https://itnext.io/building-a-glusterfs-cluster-centos-7-c68ce30459ee) 
 ### December 6, 2018 
