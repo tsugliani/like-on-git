@@ -82,6 +82,9 @@ Bookmark all my links into README.md
 
 
 
+
+### December 11, 2018 
+- [Building Virtual Machines with Packer on ESXi 6 — Nick Charlton](https://nickcharlton.net/posts/using-packer-esxi-6.html) 
 ### December 9, 2018 
 - [NSX Troubleshooting Scenario 13 – Solution – vswitchzero](https://vswitchzero.com/2018/12/07/nsx-troubleshooting-scenario-13-solution/) 
 ### December 7, 2018 
