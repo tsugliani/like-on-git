@@ -87,6 +87,7 @@ Bookmark all my links into README.md
 ### December 22, 2018 
 - [ESXi Network Troubleshooting Tools - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/12/esxi-network-troubleshooting-tools.html) 
 - [Is a DNS server still required when using a Static IP for VCSA?](https://www.virtuallyghetto.com/2018/12/is-a-dns-server-still-required-when-using-a-static-ip-for-vcsa.html) 
+- [Patching the vCenter Server Appliance (VCSA) using the REST API](https://davidstamen.com/2018/12/20/patching-the-vcenter-server-appliance-vcsa-using-the-rest-api/) 
 ### December 11, 2018 
 - [Building Virtual Machines with Packer on ESXi 6 — Nick Charlton](https://nickcharlton.net/posts/using-packer-esxi-6.html) 
 ### December 9, 2018 
