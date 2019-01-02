@@ -91,6 +91,7 @@ Bookmark all my links into README.md
 - [You don't know Junos – Behind the Socket](http://blog.eighthlayer.io/you-dont-know-junos/) 
 - [5 – 15s DNS lookups on Kubernetes? – Quentin](https://blog.quentin-machu.fr/2018/06/24/5-15s-dns-lookups-on-kubernetes/) 
 - [NFS Persistent Volumes with Kubernetes on GKE — A Case Study](https://medium.com/platformer-blog/nfs-persistent-volumes-with-kubernetes-a-case-study-ce1ed6e2c266) 
+- [DSCR for VMware and you! - LucD notes](http://www.lucd.info/2018/12/16/dscr-for-vmware-and-you/) 
 ### December 22, 2018 
 - [ESXi Network Troubleshooting Tools - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/12/esxi-network-troubleshooting-tools.html) 
 - [Is a DNS server still required when using a Static IP for VCSA?](https://www.virtuallyghetto.com/2018/12/is-a-dns-server-still-required-when-using-a-static-ip-for-vcsa.html) 
