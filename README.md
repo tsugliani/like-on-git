@@ -89,6 +89,7 @@ Bookmark all my links into README.md
 - [This host has no isolation addresses defined as required by vSphere HA - Yellow Bricks](http://www.yellow-bricks.com/2018/12/19/this-host-has-no-isolation-addresses-defined-as-required-by-vsphere-ha/) 
 - [Preparing a node for Kubernetes and NSX NCP – Network Inferno](https://networkinferno.net/preparing-a-node-for-kubernetes-and-nsx-ncp) 
 - [You don't know Junos – Behind the Socket](http://blog.eighthlayer.io/you-dont-know-junos/) 
+- [5 – 15s DNS lookups on Kubernetes? – Quentin](https://blog.quentin-machu.fr/2018/06/24/5-15s-dns-lookups-on-kubernetes/) 
 ### December 22, 2018 
 - [ESXi Network Troubleshooting Tools - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2018/12/esxi-network-troubleshooting-tools.html) 
 - [Is a DNS server still required when using a Static IP for VCSA?](https://www.virtuallyghetto.com/2018/12/is-a-dns-server-still-required-when-using-a-static-ip-for-vcsa.html) 
