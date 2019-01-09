@@ -89,6 +89,7 @@ Bookmark all my links into README.md
 ### January 9, 2019 
 - [CNA-Tech/PKS-Ninja](https://github.com/CNA-Tech/PKS-Ninja) 
 - [Building a Service Mesh with HAProxy and Consul - HAProxy Technologies](https://www.haproxy.com/blog/building-a-service-mesh-with-haproxy-and-consul/) 
+- [Setting maintenance mode for Linked Clones using API’s – Retouw.nl](https://www.retouw.nl/vexpert/setting-maintenance-mode-for-linked-clones-using-apis/) 
 ### January 2, 2019 
 - [This host has no isolation addresses defined as required by vSphere HA - Yellow Bricks](http://www.yellow-bricks.com/2018/12/19/this-host-has-no-isolation-addresses-defined-as-required-by-vsphere-ha/) 
 - [Preparing a node for Kubernetes and NSX NCP – Network Inferno](https://networkinferno.net/preparing-a-node-for-kubernetes-and-nsx-ncp) 
