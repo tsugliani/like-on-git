@@ -93,6 +93,7 @@ Bookmark all my links into README.md
 - [HCX for VMware Cloud on AWS for Newbies | | VMtoCloud.com](http://www.vmtocloud.com/hcx-for-vmware-cloud-on-aws-for-newbies/) 
 - [How is ECMP metered when configured in the Provider architecture within the VMware Cloud Provider Program? - Clouds, etc.](https://www.paluszek.com/wp/2018/12/18/how-is-ecmp-metered-when-configured-in-the-provider-architecture-within-the-vmware-cloud-provider-program/) 
 - [Functionality Updates for the vSphere Client](https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vsphere-client-65-html5-functionality-support.html) 
+- [Benchmark PostgreSQL With Linux HugePages - Percona Database Performance Blog](https://www.percona.com/blog/2018/12/20/benchmark-postgresql-with-linux-hugepages/) 
 ### January 2, 2019 
 - [This host has no isolation addresses defined as required by vSphere HA - Yellow Bricks](http://www.yellow-bricks.com/2018/12/19/this-host-has-no-isolation-addresses-defined-as-required-by-vsphere-ha/) 
 - [Preparing a node for Kubernetes and NSX NCP – Network Inferno](https://networkinferno.net/preparing-a-node-for-kubernetes-and-nsx-ncp) 
