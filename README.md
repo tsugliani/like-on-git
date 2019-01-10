@@ -86,6 +86,9 @@ Bookmark all my links into README.md
 
 
 
+
+### January 10, 2019 
+- [Kubernetes Networking: How to Write Your Own CNI Plug-in with Bash | Altoros](https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/) 
 ### January 9, 2019 
 - [CNA-Tech/PKS-Ninja](https://github.com/CNA-Tech/PKS-Ninja) 
 - [Building a Service Mesh with HAProxy and Consul - HAProxy Technologies](https://www.haproxy.com/blog/building-a-service-mesh-with-haproxy-and-consul/) 
