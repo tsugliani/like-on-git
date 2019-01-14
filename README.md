@@ -90,6 +90,7 @@ Bookmark all my links into README.md
 
 ### January 14, 2019 
 - [Dual Intel M.2 Optane 4801x in Supermicro E300-9D](https://www.virtuallyghetto.com/2019/01/dual-intel-m-2-optane-4801x-in-supermicro-e300-9d.html) 
+- [New Python Versions : “deadsnakes” team](https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa) 
 ### January 10, 2019 
 - [Kubernetes Networking: How to Write Your Own CNI Plug-in with Bash | Altoros](https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/) 
 ### January 9, 2019 
