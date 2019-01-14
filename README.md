@@ -92,6 +92,7 @@ Bookmark all my links into README.md
 - [Dual Intel M.2 Optane 4801x in Supermicro E300-9D](https://www.virtuallyghetto.com/2019/01/dual-intel-m-2-optane-4801x-in-supermicro-e300-9d.html) 
 - [New Python Versions : “deadsnakes” team](https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa) 
 - [add-apt-repository command not found – Debian & Ubuntu - Quick Fix](https://www.itzgeek.com/how-tos/mini-howtos/add-apt-repository-command-not-found-debian-ubuntu-quick-fix.html) 
+- [LumingYin/TouchBarDisabler: TouchBarDisabler allows users to manually turn off the Touch Bar on 2017 and 2016 MacBook Pro devices.](https://github.com/LumingYin/TouchBarDisabler) 
 ### January 10, 2019 
 - [Kubernetes Networking: How to Write Your Own CNI Plug-in with Bash | Altoros](https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/) 
 ### January 9, 2019 
