@@ -90,6 +90,9 @@ Bookmark all my links into README.md
 
 
 
+
+### January 21, 2019 
+- [Ne sous-estimez pas la consommation réseau de VSAN… | vBlog.io](https://vblog.io/ne-sous-estimez-pas-la-consommation-reseau-de-vsan/) 
 ### January 17, 2019 
 - [moby/buildkit: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit](https://github.com/moby/buildkit) 
 ### January 15, 2019 
