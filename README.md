@@ -95,6 +95,7 @@ Bookmark all my links into README.md
 - [Ne sous-estimez pas la consommation réseau de VSAN… | vBlog.io](https://vblog.io/ne-sous-estimez-pas-la-consommation-reseau-de-vsan/) 
 - [lamw/vmc-shorturl: List of all VMware Cloud on AWS short URLs](https://github.com/lamw/vmc-shorturl) 
 - [jimeh/tmux-themepack: A pack of various Tmux themes.](https://github.com/jimeh/tmux-themepack) 
+- [tmux-plugins/tpm: Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) 
 ### January 17, 2019 
 - [moby/buildkit: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit](https://github.com/moby/buildkit) 
 ### January 15, 2019 
