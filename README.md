@@ -96,6 +96,7 @@ Bookmark all my links into README.md
 - [dadarek/docker-wait-for-dependencies: Docker container that blocks until given endpoints are accessible over TCP](https://github.com/dadarek/docker-wait-for-dependencies) 
 - [Dynamic vSphere Health Checks in vSphere 6.7+](https://www.virtuallyghetto.com/2019/01/dynamic-vsphere-health-checks-in-vsphere-6-7.html) 
 - [Ping Power — ICMP Tunnel – InfoSec Write-ups – Medium](https://medium.com/bugbountywriteup/ping-power-icmp-tunnel-31e2abb2aaea) 
+- [Updating OVF properties for a VM using vSphere API and PowerCLI](https://www.virtuallyghetto.com/2017/10/updating-ovf-properties-for-a-vm-using-vsphere-api-and-powercli.html) 
 ### January 21, 2019 
 - [Ne sous-estimez pas la consommation réseau de VSAN… | vBlog.io](https://vblog.io/ne-sous-estimez-pas-la-consommation-reseau-de-vsan/) 
 - [lamw/vmc-shorturl: List of all VMware Cloud on AWS short URLs](https://github.com/lamw/vmc-shorturl) 
