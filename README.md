@@ -91,6 +91,9 @@ Bookmark all my links into README.md
 
 
 
+
+### January 22, 2019 
+- [dadarek/docker-wait-for-dependencies: Docker container that blocks until given endpoints are accessible over TCP](https://github.com/dadarek/docker-wait-for-dependencies) 
 ### January 21, 2019 
 - [Ne sous-estimez pas la consommation réseau de VSAN… | vBlog.io](https://vblog.io/ne-sous-estimez-pas-la-consommation-reseau-de-vsan/) 
 - [lamw/vmc-shorturl: List of all VMware Cloud on AWS short URLs](https://github.com/lamw/vmc-shorturl) 
