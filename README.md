@@ -95,6 +95,7 @@ Bookmark all my links into README.md
 
 ### January 23, 2019 
 - [JohnCoates/Aerial: Apple TV Aerial Screensaver for Mac](https://github.com/JohnCoates/Aerial) 
+- [How to Filter and Forward Events from VMware Log Intelligence to Splunk and Other SIEM Services - VMware Cloud Community](https://cloud.vmware.com/community/2018/09/24/filter-forward-events-vmware-log-intelligence-splunk-siem-services/) 
 ### January 22, 2019 
 - [dadarek/docker-wait-for-dependencies: Docker container that blocks until given endpoints are accessible over TCP](https://github.com/dadarek/docker-wait-for-dependencies) 
 - [Dynamic vSphere Health Checks in vSphere 6.7+](https://www.virtuallyghetto.com/2019/01/dynamic-vsphere-health-checks-in-vsphere-6-7.html) 
