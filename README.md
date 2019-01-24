@@ -93,6 +93,9 @@ Bookmark all my links into README.md
 
 
 
+
+### January 24, 2019 
+- [Monitoring Container VMs with vRealize Operations Manager ·](https://rguske.github.io/post/monitoring-container-vms-with-vrealize-operations-manager/) 
 ### January 23, 2019 
 - [JohnCoates/Aerial: Apple TV Aerial Screensaver for Mac](https://github.com/JohnCoates/Aerial) 
 - [How to Filter and Forward Events from VMware Log Intelligence to Splunk and Other SIEM Services - VMware Cloud Community](https://cloud.vmware.com/community/2018/09/24/filter-forward-events-vmware-log-intelligence-splunk-siem-services/) 
