@@ -97,6 +97,7 @@ Bookmark all my links into README.md
 
 ### January 28, 2019 
 - [Creating an Ubuntu 18.04 LTS cloud image for cloning on VMware - Blah, Cloud.](https://blah.cloud/kubernetes/creating-an-ubuntu-18-04-lts-cloud-image-for-cloning-on-vmware/) 
+- [Veeam Backup and Replication 9.5 Update 4 - PowerShell goodies - my cloud-(r)evolution](https://mycloudrevolution.com/en/2019/01/28/veeam-backup-and-replication-9-5-update-4-powershell-goodies/) 
 ### January 24, 2019 
 - [Monitoring Container VMs with vRealize Operations Manager ·](https://rguske.github.io/post/monitoring-container-vms-with-vrealize-operations-manager/) 
 ### January 23, 2019 
