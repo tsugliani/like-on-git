@@ -99,6 +99,7 @@ Bookmark all my links into README.md
 ### January 29, 2019 
 - [Dynamic Persistent Volumes with CSE Kubernetes and Ceph – KiwiCloud.ninja](https://kiwicloud.ninja/2019/01/dynamic-persistent-volumes-with-cse-kubernetes-and-ceph/) 
 - [Dynamic Persistent Volumes with CSE Kubernetes and Ceph – KiwiCloud.ninja](https://kiwicloud.ninja/2019/01/dynamic-persistent-volumes-with-cse-kubernetes-and-ceph/) 
+- [Automate Let's Encrypt certificate renewals with AWS Route53 DNS records - Virtual to the Core](https://www.virtualtothecore.com/en/automate-lets-encrypt-certificate-renewals-with-aws-route53-dns-records/) 
 ### January 28, 2019 
 - [Creating an Ubuntu 18.04 LTS cloud image for cloning on VMware - Blah, Cloud.](https://blah.cloud/kubernetes/creating-an-ubuntu-18-04-lts-cloud-image-for-cloning-on-vmware/) 
 - [Veeam Backup and Replication 9.5 Update 4 - PowerShell goodies - my cloud-(r)evolution](https://mycloudrevolution.com/en/2019/01/28/veeam-backup-and-replication-9-5-update-4-powershell-goodies/) 
