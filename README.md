@@ -99,6 +99,7 @@ Bookmark all my links into README.md
 
 ### January 30, 2019 
 - [VMware Cloud Foundation 3.5 Nested Deployment - Part 1 -](http://www.etgoesvirtual.com/vmware/cloud-foundation/vmware-cloud-foundation-3-5-nested-deployment-part-1/) 
+- [VMware Cloud Foundation 3.5 Nested Deployment - Part 2 -](http://www.etgoesvirtual.com/vmware/cloud-foundation/vmware-cloud-foundation-3-5-nested-deployment-part-2/) 
 ### January 29, 2019 
 - [Dynamic Persistent Volumes with CSE Kubernetes and Ceph – KiwiCloud.ninja](https://kiwicloud.ninja/2019/01/dynamic-persistent-volumes-with-cse-kubernetes-and-ceph/) 
 - [Dynamic Persistent Volumes with CSE Kubernetes and Ceph – KiwiCloud.ninja](https://kiwicloud.ninja/2019/01/dynamic-persistent-volumes-with-cse-kubernetes-and-ceph/) 
