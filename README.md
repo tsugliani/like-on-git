@@ -101,6 +101,7 @@ Bookmark all my links into README.md
 - [VMware Cloud Foundation 3.5 Nested Deployment - Part 1 -](http://www.etgoesvirtual.com/vmware/cloud-foundation/vmware-cloud-foundation-3-5-nested-deployment-part-1/) 
 - [VMware Cloud Foundation 3.5 Nested Deployment - Part 2 -](http://www.etgoesvirtual.com/vmware/cloud-foundation/vmware-cloud-foundation-3-5-nested-deployment-part-2/) 
 - [Quick Tip – Import OVF/OVA as VM Template using OVFTool 4.3 Update 1](https://www.virtuallyghetto.com/2019/01/quick-tip-import-ovf-ova-as-vm-template-using-ovftool-4-3-update-1.html) 
+- [Building Virtual Machines with Packer on ESXi 6 — Nick Charlton](https://nickcharlton.net/posts/using-packer-esxi-6.html) 
 ### January 29, 2019 
 - [Dynamic Persistent Volumes with CSE Kubernetes and Ceph – KiwiCloud.ninja](https://kiwicloud.ninja/2019/01/dynamic-persistent-volumes-with-cse-kubernetes-and-ceph/) 
 - [Dynamic Persistent Volumes with CSE Kubernetes and Ceph – KiwiCloud.ninja](https://kiwicloud.ninja/2019/01/dynamic-persistent-volumes-with-cse-kubernetes-and-ceph/) 
