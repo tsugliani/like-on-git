@@ -98,6 +98,9 @@ Bookmark all my links into README.md
 
 
 
+
+### February 7, 2019 
+- [Attacking default installs of Helm on Kubernetes](https://blog.ropnop.com/attacking-default-installs-of-helm-on-kubernetes/) 
 ### February 4, 2019 
 - [An illustrated guide to Kubernetes Networking [Part 1]](https://itnext.io/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727) 
 ### January 30, 2019 
