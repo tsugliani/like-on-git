@@ -99,6 +99,9 @@ Bookmark all my links into README.md
 
 
 
+
+### February 11, 2019 
+- [PowerShell Remoting from Linux to Windows](https://blog.quickbreach.io/ps-remote-from-linux-to-windows/) 
 ### February 7, 2019 
 - [Attacking default installs of Helm on Kubernetes](https://blog.ropnop.com/attacking-default-installs-of-helm-on-kubernetes/) 
 ### February 4, 2019 
