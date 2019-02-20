@@ -101,6 +101,9 @@ Bookmark all my links into README.md
 
 
 
+
+### February 20, 2019 
+- [How to backup & restore with VMware vCSA 6.7 - VMWARE BLOG](http://www.vmwareblog.org/backup-restore-vmware-vcsa-6-7/) 
 ### February 19, 2019 
 - [Update 4 for Service Providers - Self Service Backup through RBAC for vSphere - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/update-4-for-service-providers-self-service-backup-through-rbac-for-vsphere/) 
 ### February 11, 2019 
