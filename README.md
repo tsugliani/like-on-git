@@ -102,6 +102,9 @@ Bookmark all my links into README.md
 
 
 
+
+### February 22, 2019 
+- [AMD EPYC and vSphere vNUMA - frankdenneman.nl](http://frankdenneman.nl/2019/02/19/amd-epyc-and-vsphere-vnuma/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+frankdenneman%2FZjZC+%28frankdenneman.nl%29) 
 ### February 20, 2019 
 - [How to backup & restore with VMware vCSA 6.7 - VMWARE BLOG](http://www.vmwareblog.org/backup-restore-vmware-vcsa-6-7/) 
 ### February 19, 2019 
