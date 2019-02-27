@@ -104,6 +104,9 @@ Bookmark all my links into README.md
 
 
 
+
+### February 27, 2019 
+- [Running sk8s (Simple Kubernetes) on VMC with an AWS Elastic Load Balancer](https://www.virtuallyghetto.com/2019/02/running-sk8s-simple-kubernetes-on-vmc-with-an-aws-elastic-load-balancer.html) 
 ### February 25, 2019 
 - [How to use HCIBench and achieve Best performance on vSAN ? - virtually Sensei](http://virtuallysensei.com/achieve-best-performance-on-vsan/) 
 - [AMD EPYC and vSphere vNUMA - frankdenneman.nl](http://frankdenneman.nl/2019/02/19/amd-epyc-and-vsphere-vnuma/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+frankdenneman%2FZjZC+%28frankdenneman.nl%29) 
