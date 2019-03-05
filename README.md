@@ -108,6 +108,7 @@ Bookmark all my links into README.md
 
 ### March 5, 2019 
 - [A NSX-T active-active architecture – Dennis-X](https://datacenterdennis.wordpress.com/2019/02/27/a-nsx-t-active-active-architecture/) 
+- [DQLEN changes, what is going on? - Yellow Bricks](http://www.yellow-bricks.com/2019/03/05/dqlen-changes-what-is-going-on/) 
 ### February 27, 2019 
 - [Running sk8s (Simple Kubernetes) on VMC with an AWS Elastic Load Balancer](https://www.virtuallyghetto.com/2019/02/running-sk8s-simple-kubernetes-on-vmc-with-an-aws-elastic-load-balancer.html) 
 ### February 25, 2019 
