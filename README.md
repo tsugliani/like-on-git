@@ -111,6 +111,7 @@ Bookmark all my links into README.md
 - [DQLEN changes, what is going on? - Yellow Bricks](http://www.yellow-bricks.com/2019/03/05/dqlen-changes-what-is-going-on/) 
 - [Configuring ESXi prerequisites for Packer | blog.ukotic.net](https://blog.ukotic.net/2019/03/05/configuring-esxi-prerequisites-for-packer/) 
 - [PostgreSQL: Beware of the bloat! – Tom Fojta's Blog](https://fojta.wordpress.com/2019/03/05/postgresql-beware-of-the-bloat/) 
+- [Event-driven interactions with vSphere using Functions as a Service ·](https://rguske.github.io/post/event-driven-interactions-with-vsphere-using-functions-as-a-service/) 
 ### February 27, 2019 
 - [Running sk8s (Simple Kubernetes) on VMC with an AWS Elastic Load Balancer](https://www.virtuallyghetto.com/2019/02/running-sk8s-simple-kubernetes-on-vmc-with-an-aws-elastic-load-balancer.html) 
 ### February 25, 2019 
