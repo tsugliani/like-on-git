@@ -117,6 +117,7 @@ Bookmark all my links into README.md
 - [Automate NSX-T with PowerCLI - vMBaggum](https://www.vmbaggum.nl/2019/03/automate-nsx-t-with-powercli/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork) 
 - [A NSX-T active-active architecture – Dennis-X](https://datacenterdennis.wordpress.com/2019/02/27/a-nsx-t-active-active-architecture/) 
 - [Automate NSX-T with PowerCLI - vMBaggum](https://www.vmbaggum.nl/2019/03/automate-nsx-t-with-powercli/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork) 
+- [Automating complete HCX deployment and configuration to first cloud migration using PowerCLI](https://www.virtuallyghetto.com/2019/03/automating-complete-hcx-deployment-and-configuration-to-first-cloud-migration-using-powercli.html) 
 ### February 27, 2019 
 - [Running sk8s (Simple Kubernetes) on VMC with an AWS Elastic Load Balancer](https://www.virtuallyghetto.com/2019/02/running-sk8s-simple-kubernetes-on-vmc-with-an-aws-elastic-load-balancer.html) 
 ### February 25, 2019 
