@@ -113,6 +113,7 @@ Bookmark all my links into README.md
 - [PostgreSQL: Beware of the bloat! – Tom Fojta's Blog](https://fojta.wordpress.com/2019/03/05/postgresql-beware-of-the-bloat/) 
 - [Event-driven interactions with vSphere using Functions as a Service ·](https://rguske.github.io/post/event-driven-interactions-with-vsphere-using-functions-as-a-service/) 
 - [VMware Cloud on AWS: Get your basics right: Part 1 - VMware Cloud Community](https://cloud.vmware.com/community/2019/02/27/vmware-cloud-aws-get-basics-right-part-1/) 
+- [OpenFaaS meet Oracle Kubernetes Engine - Your Serverless Journey Made Easy](https://blog.kube-mesh.io/openfaas-meet-oracle-kubernetes-engine/) 
 ### February 27, 2019 
 - [Running sk8s (Simple Kubernetes) on VMC with an AWS Elastic Load Balancer](https://www.virtuallyghetto.com/2019/02/running-sk8s-simple-kubernetes-on-vmc-with-an-aws-elastic-load-balancer.html) 
 ### February 25, 2019 
