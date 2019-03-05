@@ -115,6 +115,7 @@ Bookmark all my links into README.md
 - [VMware Cloud on AWS: Get your basics right: Part 1 - VMware Cloud Community](https://cloud.vmware.com/community/2019/02/27/vmware-cloud-aws-get-basics-right-part-1/) 
 - [OpenFaaS meet Oracle Kubernetes Engine - Your Serverless Journey Made Easy](https://blog.kube-mesh.io/openfaas-meet-oracle-kubernetes-engine/) 
 - [Automate NSX-T with PowerCLI - vMBaggum](https://www.vmbaggum.nl/2019/03/automate-nsx-t-with-powercli/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork) 
+- [A NSX-T active-active architecture – Dennis-X](https://datacenterdennis.wordpress.com/2019/02/27/a-nsx-t-active-active-architecture/) 
 ### February 27, 2019 
 - [Running sk8s (Simple Kubernetes) on VMC with an AWS Elastic Load Balancer](https://www.virtuallyghetto.com/2019/02/running-sk8s-simple-kubernetes-on-vmc-with-an-aws-elastic-load-balancer.html) 
 ### February 25, 2019 
