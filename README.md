@@ -111,6 +111,7 @@ Bookmark all my links into README.md
 - [Provisionner un VDC sur vCloud Director via PowerCLI | vBlog.io](https://vblog.io/provisionner-un-vdc-sur-vcloud-director-via-powercli/) 
 - [Provisionner un VDC sur vCloud Director via PowerCLI | vBlog.io](https://vblog.io/provisionner-un-vdc-sur-vcloud-director-via-powercli/) 
 - [Visual Studio Code February 2019](https://code.visualstudio.com/updates/v1_32) 
+- [NSX-T Troubleshooting Scenario 1 – Solution – vswitchzero](https://vswitchzero.com/2019/03/06/nsx-t-troubleshooting-scenario-1-solution/) 
 ### March 5, 2019 
 - [A NSX-T active-active architecture – Dennis-X](https://datacenterdennis.wordpress.com/2019/02/27/a-nsx-t-active-active-architecture/) 
 - [DQLEN changes, what is going on? - Yellow Bricks](http://www.yellow-bricks.com/2019/03/05/dqlen-changes-what-is-going-on/) 
