@@ -107,6 +107,9 @@ Bookmark all my links into README.md
 
 
 
+
+### March 15, 2019 
+- [10 Most Common Reasons Kubernetes Deployments Fail (Part 1)](https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/) 
 ### March 8, 2019 
 - [Provisionner un VDC sur vCloud Director via PowerCLI | vBlog.io](https://vblog.io/provisionner-un-vdc-sur-vcloud-director-via-powercli/) 
 - [Provisionner un VDC sur vCloud Director via PowerCLI | vBlog.io](https://vblog.io/provisionner-un-vdc-sur-vcloud-director-via-powercli/) 
