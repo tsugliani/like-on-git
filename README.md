@@ -109,6 +109,9 @@ Bookmark all my links into README.md
 
 
 
+
+### March 22, 2019 
+- [What’s New in vCloud Director 9.5 – Tom Fojta's Blog](https://fojta.wordpress.com/2018/10/05/whats-new-in-vcloud-director-9-5/) 
 ### March 18, 2019 
 - [Powershell Module for FreeNas and TrueNas servers](https://jm2k69.github.io/2019-03-18-PowerShell-Module-for-FreeNas-and-TrueNas/) 
 ### March 15, 2019 
