@@ -112,6 +112,9 @@ Bookmark all my links into README.md
 
 
 
+
+### March 26, 2019 
+- [Jessie Frazelle's Blog: Defining a Distinguished Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/) 
 ### March 25, 2019 
 - [jasonrivers/nginx-rtmp - Docker Hub](https://hub.docker.com/r/jasonrivers/nginx-rtmp/) 
 ### March 23, 2019 
