@@ -117,6 +117,7 @@ Bookmark all my links into README.md
 ### April 1, 2019 
 - [Use PowerCLI to set your SDDC Firewall rules - VMware Cloud Community](https://cloud.vmware.com/community/2019/03/26/use-powercli-set-sddc-firewall-rules/) 
 - [vCloud Director 9.5.0.3 (critical security update) - Update instructions - Yves' - comdivision:blog](https://blog.comdivision.com/blog/2019/04/vcloud-director-9-5-0-3-critical-security-update-update-instructions) 
+- [Upgrade PostgreSQL database (from 9.x to 10) and vCloud Director to 9.5 - Yves' - comdivision:blog](https://blog.comdivision.com/blog/2019/04/upgrade-postgresql-database-from-9-x-to-10-and-vcloud-director-to-9-5) 
 ### March 26, 2019 
 - [Jessie Frazelle's Blog: Defining a Distinguished Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/) 
 - [Maybe You Don't Need Kubernetes](https://matthias-endler.de/2019/maybe-you-dont-need-kubernetes/) 
