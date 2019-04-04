@@ -117,6 +117,7 @@ Bookmark all my links into README.md
 
 ### April 4, 2019 
 - [Update 4 for Service Providers - Targeting vCloud Director with Cloud Connect Replication - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/update-4-for-service-providers-targeting-vcloud-director-for-cloud-connect-replication/) 
+- [How to immediately refresh the network GuestInfo using VMware Tools?](https://www.virtuallyghetto.com/2019/04/how-to-immediately-refresh-the-network-guestinfo-using-vmware-tools.html) 
 ### April 1, 2019 
 - [Use PowerCLI to set your SDDC Firewall rules - VMware Cloud Community](https://cloud.vmware.com/community/2019/03/26/use-powercli-set-sddc-firewall-rules/) 
 - [vCloud Director 9.5.0.3 (critical security update) - Update instructions - Yves' - comdivision:blog](https://blog.comdivision.com/blog/2019/04/vcloud-director-9-5-0-3-critical-security-update-update-instructions) 
