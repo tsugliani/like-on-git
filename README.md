@@ -116,6 +116,9 @@ Bookmark all my links into README.md
 
 
 
+
+### April 6, 2019 
+- [39 – DCNM 11.1 and VXLAN EVPN Multi-site Update | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1805) 
 ### April 5, 2019 
 - [Utilizing Central Point of Management (CPoM) in VMware vCloud Director 9.7 - Clouds, etc.](https://www.paluszek.com/wp/2019/04/05/utilizing-central-point-of-management-cpom-in-vmware-vcloud-director-9-7/) 
 ### April 4, 2019 
