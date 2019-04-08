@@ -122,6 +122,7 @@ Bookmark all my links into README.md
 - [K8s Clusters? Oh Biff ‘em Popeye! – Fernand Galiana – Medium](https://medium.com/@fernand.galiana/k8s-clusters-oh-biff-em-popeye-637e9312963) 
 - [vSAN Stretched Cluster failure scenarios and component votes - Yellow Bricks](http://www.yellow-bricks.com/2019/04/03/vsan-stretched-cluster-failure-scenarios-and-component-votes/) 
 - [Optimize-VMwarePKS - LucD notes](http://www.lucd.info/2019/04/03/optimize-vmwarepks/) 
+- [Harbor Delivers a Trusted Cloud Native Registry - Cloud Native Apps](https://blogs.vmware.com/cloudnative/2018/06/14/harbor-delivers-a-trusted-cloud-native-registry/) 
 ### April 6, 2019 
 - [39 – DCNM 11.1 and VXLAN EVPN Multi-site Update | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1805) 
 ### April 5, 2019 
