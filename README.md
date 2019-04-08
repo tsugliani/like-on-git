@@ -123,6 +123,7 @@ Bookmark all my links into README.md
 - [vSAN Stretched Cluster failure scenarios and component votes - Yellow Bricks](http://www.yellow-bricks.com/2019/04/03/vsan-stretched-cluster-failure-scenarios-and-component-votes/) 
 - [Optimize-VMwarePKS - LucD notes](http://www.lucd.info/2019/04/03/optimize-vmwarepks/) 
 - [Harbor Delivers a Trusted Cloud Native Registry - Cloud Native Apps](https://blogs.vmware.com/cloudnative/2018/06/14/harbor-delivers-a-trusted-cloud-native-registry/) 
+- [Enhanced vCenter Server Audit Event & Logging in vSphere 6.7 Update 2](https://www.virtuallyghetto.com/2019/04/enhanced-vcenter-server-audit-event-logging-in-vsphere-6-7-update-2.html) 
 ### April 6, 2019 
 - [39 – DCNM 11.1 and VXLAN EVPN Multi-site Update | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1805) 
 ### April 5, 2019 
