@@ -122,6 +122,7 @@ Bookmark all my links into README.md
 ### April 10, 2019 
 - [Storing Multi-Line Strings in JSON](https://www.gun.io/blog/multi-line-strings-in-json) 
 - [Deleting Stubborn Interconnect Configuration in HCX](http://www.vstellar.com/2019/04/10/deleting-stubborn-interconnect-configuration-in-hcx/) 
+- [100 days of algorithms – Medium](https://medium.com/100-days-of-algorithms) 
 ### April 8, 2019 
 - [K8s Clusters? Oh Biff ‘em Popeye! – Fernand Galiana – Medium](https://medium.com/@fernand.galiana/k8s-clusters-oh-biff-em-popeye-637e9312963) 
 - [vSAN Stretched Cluster failure scenarios and component votes - Yellow Bricks](http://www.yellow-bricks.com/2019/04/03/vsan-stretched-cluster-failure-scenarios-and-component-votes/) 
