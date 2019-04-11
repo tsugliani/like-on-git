@@ -119,6 +119,9 @@ Bookmark all my links into README.md
 
 
 
+
+### April 11, 2019 
+- [rubrik-extension-for-vcd/quick-start.md at master · rubrikinc/rubrik-extension-for-vcd](https://github.com/rubrikinc/rubrik-extension-for-vcd/blob/master/docs/quick-start.md) 
 ### April 10, 2019 
 - [Storing Multi-Line Strings in JSON](https://www.gun.io/blog/multi-line-strings-in-json) 
 - [Deleting Stubborn Interconnect Configuration in HCX](http://www.vstellar.com/2019/04/10/deleting-stubborn-interconnect-configuration-in-hcx/) 
