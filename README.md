@@ -120,6 +120,9 @@ Bookmark all my links into README.md
 
 
 
+
+### April 13, 2019 
+- [Terraform your physical network with YANG | networkop](https://networkop.co.uk/post/2019-04-tf-yang/) 
 ### April 11, 2019 
 - [rubrik-extension-for-vcd/quick-start.md at master · rubrikinc/rubrik-extension-for-vcd](https://github.com/rubrikinc/rubrik-extension-for-vcd/blob/master/docs/quick-start.md) 
 ### April 10, 2019 
