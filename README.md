@@ -124,6 +124,7 @@ Bookmark all my links into README.md
 
 ### April 15, 2019 
 - [Mixing versions of ESXi in the same vSphere / vSAN cluster? - Yellow Bricks](http://www.yellow-bricks.com/2019/04/15/mixing-versions-of-esxi-in-the-same-vsphere-vsan-cluster/) 
+- [The Fargate Illusion](http://leebriggs.co.uk/blog/2019/04/13/the-fargate-illusion.html) 
 ### April 13, 2019 
 - [Terraform your physical network with YANG | networkop](https://networkop.co.uk/post/2019-04-tf-yang/) 
 ### April 11, 2019 
