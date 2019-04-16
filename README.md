@@ -122,6 +122,9 @@ Bookmark all my links into README.md
 
 
 
+
+### April 16, 2019 
+- [Google's Private Kubernetes Cloud Still Relies On VMware For Local Storage](https://www.forbes.com/sites/paulteich/2019/04/15/googles-private-kubernetes-cloud-still-relies-on-vmware-for-local-storage/#6d7c09925012) 
 ### April 15, 2019 
 - [Mixing versions of ESXi in the same vSphere / vSAN cluster? - Yellow Bricks](http://www.yellow-bricks.com/2019/04/15/mixing-versions-of-esxi-in-the-same-vsphere-vsan-cluster/) 
 - [The Fargate Illusion](http://leebriggs.co.uk/blog/2019/04/13/the-fargate-illusion.html) 
