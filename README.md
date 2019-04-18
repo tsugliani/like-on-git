@@ -123,6 +123,9 @@ Bookmark all my links into README.md
 
 
 
+
+### April 18, 2019 
+- [Announcing Packer v.1.4.0](https://www.hashicorp.com/blog/announcing-packer-v-1-4-0) 
 ### April 16, 2019 
 - [Google's Private Kubernetes Cloud Still Relies On VMware For Local Storage](https://www.forbes.com/sites/paulteich/2019/04/15/googles-private-kubernetes-cloud-still-relies-on-vmware-for-local-storage/#6d7c09925012) 
 - [Introduction to Istio – Service Mesh – Route to Cloud](http://www.routetocloud.com/2019/04/introduction-to-istio-service-mesh/) 
