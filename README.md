@@ -136,6 +136,7 @@ Bookmark all my links into README.md
 - [vCloud Availability 3.0 – Cloud Deployment & Configuration – KiwiCloud.ninja](https://kiwicloud.ninja/2019/04/vcloud-availability-3-0-cloud-deployment-configuration/) 
 - [vCloud Availability 3.0 – Site Pairing & vCAv Policies – KiwiCloud.ninja](https://kiwicloud.ninja/2019/04/vcloud-availability-3-0-site-pairing-vcav-policies/) 
 - [vCloud Availability 3.0 – On-Premise Deployment & Configuration – KiwiCloud.ninja](https://kiwicloud.ninja/2019/04/vcloud-availability-3-0-on-premise-deployment-configuration/) 
+- [Le manuel du parfait plombier VSAN (maj continue) | vBlog.io](https://vblog.io/le-manuel-du-parfait-plombier-vsan-maj-continue/) 
 ### April 18, 2019 
 - [Announcing Packer v.1.4.0](https://www.hashicorp.com/blog/announcing-packer-v-1-4-0) 
 ### April 16, 2019 
