@@ -131,6 +131,7 @@ Bookmark all my links into README.md
 - [Nested ESXi Templates - EverythingShouldBeVirtual](https://everythingshouldbevirtual.com/virtualization/Nested-ESXi-Templates/) 
 - [80 Characters per Line Is a Standard Worth Sticking to Even Today — Nick Janetakis](https://nickjanetakis.com/blog/80-characters-per-line-is-a-standard-worth-sticking-to-even-today) 
 - [On Simplicity | Max Böck - Frontend Web Developer](https://mxb.dev/blog/on-simplicity/) 
+- [Synchronizing Servers with NTP - Selectel Blog](https://blog.selectel.com/synchronizing-servers-ntp/) 
 ### April 18, 2019 
 - [Announcing Packer v.1.4.0](https://www.hashicorp.com/blog/announcing-packer-v-1-4-0) 
 ### April 16, 2019 
