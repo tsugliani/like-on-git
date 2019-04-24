@@ -135,6 +135,7 @@ Bookmark all my links into README.md
 - [vCloud Availability 3.0 – Introduction – KiwiCloud.ninja](https://kiwicloud.ninja/2019/04/vcloud-availability-3-0-introduction/) 
 - [vCloud Availability 3.0 – Cloud Deployment & Configuration – KiwiCloud.ninja](https://kiwicloud.ninja/2019/04/vcloud-availability-3-0-cloud-deployment-configuration/) 
 - [vCloud Availability 3.0 – Site Pairing & vCAv Policies – KiwiCloud.ninja](https://kiwicloud.ninja/2019/04/vcloud-availability-3-0-site-pairing-vcav-policies/) 
+- [vCloud Availability 3.0 – On-Premise Deployment & Configuration – KiwiCloud.ninja](https://kiwicloud.ninja/2019/04/vcloud-availability-3-0-on-premise-deployment-configuration/) 
 ### April 18, 2019 
 - [Announcing Packer v.1.4.0](https://www.hashicorp.com/blog/announcing-packer-v-1-4-0) 
 ### April 16, 2019 
