@@ -124,6 +124,9 @@ Bookmark all my links into README.md
 
 
 
+
+### April 24, 2019 
+- [Revisiting Rancher – baeke.info](https://blog.baeke.info/2019/04/20/revisiting-rancher/) 
 ### April 18, 2019 
 - [Announcing Packer v.1.4.0](https://www.hashicorp.com/blog/announcing-packer-v-1-4-0) 
 ### April 16, 2019 
