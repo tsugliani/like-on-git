@@ -128,6 +128,7 @@ Bookmark all my links into README.md
 ### April 24, 2019 
 - [Revisiting Rancher – baeke.info](https://blog.baeke.info/2019/04/20/revisiting-rancher/) 
 - [Back to Traefik 2.0 – containous](https://blog.containo.us/back-to-traefik-2-0-2f9aa17be305) 
+- [Nested ESXi Templates - EverythingShouldBeVirtual](https://everythingshouldbevirtual.com/virtualization/Nested-ESXi-Templates/) 
 ### April 18, 2019 
 - [Announcing Packer v.1.4.0](https://www.hashicorp.com/blog/announcing-packer-v-1-4-0) 
 ### April 16, 2019 
