@@ -133,6 +133,7 @@ Bookmark all my links into README.md
 - [On Simplicity | Max Böck - Frontend Web Developer](https://mxb.dev/blog/on-simplicity/) 
 - [Synchronizing Servers with NTP - Selectel Blog](https://blog.selectel.com/synchronizing-servers-ntp/) 
 - [vCloud Availability 3.0 – Introduction – KiwiCloud.ninja](https://kiwicloud.ninja/2019/04/vcloud-availability-3-0-introduction/) 
+- [vCloud Availability 3.0 – Cloud Deployment & Configuration – KiwiCloud.ninja](https://kiwicloud.ninja/2019/04/vcloud-availability-3-0-cloud-deployment-configuration/) 
 ### April 18, 2019 
 - [Announcing Packer v.1.4.0](https://www.hashicorp.com/blog/announcing-packer-v-1-4-0) 
 ### April 16, 2019 
