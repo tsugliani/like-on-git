@@ -125,6 +125,9 @@ Bookmark all my links into README.md
 
 
 
+
+### April 28, 2019 
+- [What do companies expect from Python devs in 2019? - CV Compiler Blog](https://cvcompiler.com/blog/what-do-companies-expect-from-python-devs-in-2019/) 
 ### April 24, 2019 
 - [Revisiting Rancher – baeke.info](https://blog.baeke.info/2019/04/20/revisiting-rancher/) 
 - [Back to Traefik 2.0 – containous](https://blog.containo.us/back-to-traefik-2-0-2f9aa17be305) 
