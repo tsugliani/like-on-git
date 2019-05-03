@@ -126,6 +126,9 @@ Bookmark all my links into README.md
 
 
 
+
+### May 3, 2019 
+- [Go by Example](https://gobyexample.com/) 
 ### April 28, 2019 
 - [What do companies expect from Python devs in 2019? - CV Compiler Blog](https://cvcompiler.com/blog/what-do-companies-expect-from-python-devs-in-2019/) 
 ### April 24, 2019 
