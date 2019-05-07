@@ -127,6 +127,9 @@ Bookmark all my links into README.md
 
 
 
+
+### May 7, 2019 
+- [NSX-T Policy PowerShell Community Module for VMC - VMware Cloud Community](https://cloud.vmware.com/community/2019/05/02/nsx-t-policy-powershell-community-module-vmc/?src=so_5a314d05e49f5&cid=70134000001SkJn) 
 ### May 3, 2019 
 - [Go by Example](https://gobyexample.com/) 
 ### April 28, 2019 
