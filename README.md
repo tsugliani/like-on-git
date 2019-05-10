@@ -129,6 +129,9 @@ Bookmark all my links into README.md
 
 
 
+
+### May 10, 2019 
+- [It's time to replace GIFs with AV1 video!](https://www.singhkays.com/blog/its-time-replace-gifs-with-av1-video/) 
 ### May 9, 2019 
 - [IP Geolocation API with country information](https://ipgeolocationapi.com/) 
 - [Weather map - amCharts](https://www.amcharts.com/demos/weather-map/) 
