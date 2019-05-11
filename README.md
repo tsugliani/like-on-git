@@ -130,6 +130,9 @@ Bookmark all my links into README.md
 
 
 
+
+### May 11, 2019 
+- [vCloud Availability 3.0 – Working with the vCAV API – KiwiCloud.ninja](https://kiwicloud.ninja/2019/05/vcloud-availability-3-0-working-with-the-vcav-api/) 
 ### May 10, 2019 
 - [It's time to replace GIFs with AV1 video!](https://www.singhkays.com/blog/its-time-replace-gifs-with-av1-video/) 
 ### May 9, 2019 
