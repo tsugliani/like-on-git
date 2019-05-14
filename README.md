@@ -131,6 +131,9 @@ Bookmark all my links into README.md
 
 
 
+
+### May 14, 2019 
+- [Deploying, configuring and testing HCX based migration between my home lab and VMC on AWS - Iwan’s wiki](http://www.iwan.wiki/Deploying,_configuring_and_testing_HCX_based_migration_between_my_home_lab_and_VMC_on_AWS) 
 ### May 11, 2019 
 - [vCloud Availability 3.0 – Working with the vCAV API – KiwiCloud.ninja](https://kiwicloud.ninja/2019/05/vcloud-availability-3-0-working-with-the-vcav-api/) 
 ### May 10, 2019 
