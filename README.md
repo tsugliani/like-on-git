@@ -135,6 +135,7 @@ Bookmark all my links into README.md
 
 ### May 20, 2019 
 - [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/) 
+- [Build a JSON API With Hugo's Custom Output Formats | Forestry.io](https://forestry.io/blog/build-a-json-api-with-hugo/) 
 ### May 14, 2019 
 - [Deploying, configuring and testing HCX based migration between my home lab and VMC on AWS - Iwan’s wiki](http://www.iwan.wiki/Deploying,_configuring_and_testing_HCX_based_migration_between_my_home_lab_and_VMC_on_AWS) 
 ### May 11, 2019 
