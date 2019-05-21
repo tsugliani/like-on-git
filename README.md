@@ -133,6 +133,9 @@ Bookmark all my links into README.md
 
 
 
+
+### May 21, 2019 
+- [Building and running Windows Terminal | blog.ukotic.net](https://blog.ukotic.net/2019/05/20/building-and-running-windows-terminal/) 
 ### May 20, 2019 
 - [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/) 
 - [Build a JSON API With Hugo's Custom Output Formats | Forestry.io](https://forestry.io/blog/build-a-json-api-with-hugo/) 
