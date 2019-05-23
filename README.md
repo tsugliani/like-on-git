@@ -134,6 +134,9 @@ Bookmark all my links into README.md
 
 
 
+
+### May 23, 2019 
+- [vCloud Director 9.7 Appliance Tips – Tom Fojta's Blog](https://fojta.wordpress.com/2019/05/23/vcloud-director-9-7-appliance-tips/) 
 ### May 21, 2019 
 - [Building and running Windows Terminal | blog.ukotic.net](https://blog.ukotic.net/2019/05/20/building-and-running-windows-terminal/) 
 ### May 20, 2019 
