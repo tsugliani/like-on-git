@@ -135,6 +135,9 @@ Bookmark all my links into README.md
 
 
 
+
+### May 24, 2019 
+- [Transforming VMware into an as-a-Service Company – #RUNVMC](https://nicovibert.com/2019/05/23/transforming-vmware-into-an-as-a-service-company/) 
 ### May 23, 2019 
 - [vCloud Director 9.7 Appliance Tips – Tom Fojta's Blog](https://fojta.wordpress.com/2019/05/23/vcloud-director-9-7-appliance-tips/) 
 ### May 21, 2019 
