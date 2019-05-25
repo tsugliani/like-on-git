@@ -136,6 +136,9 @@ Bookmark all my links into README.md
 
 
 
+
+### May 25, 2019 
+- [vRops – Custom vRO workflows | vMan](https://vman.ch/vrops-custom-vro-workflows/) 
 ### May 24, 2019 
 - [Transforming VMware into an as-a-Service Company – #RUNVMC](https://nicovibert.com/2019/05/23/transforming-vmware-into-an-as-a-service-company/) 
 ### May 23, 2019 
