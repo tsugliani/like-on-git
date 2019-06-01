@@ -137,6 +137,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 1, 2019 
+- [Learn how to automate VMWare with Python | VirtualizePlanet](http://read.virtualizeplanet.com/?p=1846) 
 ### May 25, 2019 
 - [vRops – Custom vRO workflows | vMan](https://vman.ch/vrops-custom-vro-workflows/) 
 ### May 24, 2019 
