@@ -145,6 +145,7 @@ Bookmark all my links into README.md
 - [Direct Connect with VMware Cloud on AWS with VPN as a back-up – #RUNVMC](https://nicovibert.com/2019/05/15/direct-connect-with-vmware-cloud-on-aws-with-vpn-as-a-back-up/) 
 - [Learn these two simple techniques that will dramatically improve your whiteboard skills](https://medium.com/graphicfacilitation/two-simple-techniques-to-dramatically-improve-your-whiteboard-skills-a391534a8140) 
 - [Automating VMware Site Recovery (DRaaS) with VMC](https://www.virtuallyghetto.com/2019/05/automating-vmware-site-recovery-draas-with-vmc.html) 
+- [M80ARM - Virtualization Warrior: Scaling up your single node VMC SDDC](https://www.m80arm.co.uk/2019/05/scaling-up-your-single-node-vmc-sddc.html) 
 ### June 1, 2019 
 - [Learn how to automate VMWare with Python | VirtualizePlanet](http://read.virtualizeplanet.com/?p=1846) 
 ### May 25, 2019 
