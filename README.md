@@ -138,6 +138,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 3, 2019 
+- [ECS Secrets Done Right – Hacker Noon](https://hackernoon.com/ecs-secrets-done-right-9e094cfa6200) 
 ### June 1, 2019 
 - [Learn how to automate VMWare with Python | VirtualizePlanet](http://read.virtualizeplanet.com/?p=1846) 
 ### May 25, 2019 
