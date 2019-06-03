@@ -143,6 +143,7 @@ Bookmark all my links into README.md
 - [ECS Secrets Done Right – Hacker Noon](https://hackernoon.com/ecs-secrets-done-right-9e094cfa6200) 
 - [PowerCli: bulk change ESXi root passwords with vCenter – Dennis-X](https://datacenterdennis.wordpress.com/2019/05/28/powercli-bulk-change-esxi-root-passwords-with-vcenter/) 
 - [Direct Connect with VMware Cloud on AWS with VPN as a back-up – #RUNVMC](https://nicovibert.com/2019/05/15/direct-connect-with-vmware-cloud-on-aws-with-vpn-as-a-back-up/) 
+- [Learn these two simple techniques that will dramatically improve your whiteboard skills](https://medium.com/graphicfacilitation/two-simple-techniques-to-dramatically-improve-your-whiteboard-skills-a391534a8140) 
 ### June 1, 2019 
 - [Learn how to automate VMWare with Python | VirtualizePlanet](http://read.virtualizeplanet.com/?p=1846) 
 ### May 25, 2019 
