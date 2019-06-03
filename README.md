@@ -142,6 +142,7 @@ Bookmark all my links into README.md
 ### June 3, 2019 
 - [ECS Secrets Done Right – Hacker Noon](https://hackernoon.com/ecs-secrets-done-right-9e094cfa6200) 
 - [PowerCli: bulk change ESXi root passwords with vCenter – Dennis-X](https://datacenterdennis.wordpress.com/2019/05/28/powercli-bulk-change-esxi-root-passwords-with-vcenter/) 
+- [Direct Connect with VMware Cloud on AWS with VPN as a back-up – #RUNVMC](https://nicovibert.com/2019/05/15/direct-connect-with-vmware-cloud-on-aws-with-vpn-as-a-back-up/) 
 ### June 1, 2019 
 - [Learn how to automate VMWare with Python | VirtualizePlanet](http://read.virtualizeplanet.com/?p=1846) 
 ### May 25, 2019 
