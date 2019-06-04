@@ -139,6 +139,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 4, 2019 
+- [Forwarding VMC Events to Slack using Log Intelligence Webhook](https://www.virtuallyghetto.com/2019/06/forwarding-vmc-events-to-slack-using-log-intelligence-webhook.html) 
 ### June 3, 2019 
 - [ECS Secrets Done Right – Hacker Noon](https://hackernoon.com/ecs-secrets-done-right-9e094cfa6200) 
 - [PowerCli: bulk change ESXi root passwords with vCenter – Dennis-X](https://datacenterdennis.wordpress.com/2019/05/28/powercli-bulk-change-esxi-root-passwords-with-vcenter/) 
