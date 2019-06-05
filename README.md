@@ -143,6 +143,7 @@ Bookmark all my links into README.md
 
 ### June 5, 2019 
 - [Digging through logs is over: Plugin Management UI in the vSphere Client – Plugins Blog](https://pluginsblog.com/2019/06/03/digging-through-logs-is-over-plugin-management-ui-in-the-vsphere-client/) 
+- [10 Things To Know About vSphere Certificate Management - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2019/06/10-things-about-vsphere-certificate-management.html?utm_campaign=06-05-19---Are-you-dealing&utm_source=Message&utm_medium=Twitter) 
 ### June 4, 2019 
 - [Forwarding VMC Events to Slack using Log Intelligence Webhook](https://www.virtuallyghetto.com/2019/06/forwarding-vmc-events-to-slack-using-log-intelligence-webhook.html) 
 ### June 3, 2019 
