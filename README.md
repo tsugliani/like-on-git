@@ -141,6 +141,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 6, 2019 
+- [vCloud Director T-Shirt Sizing – VMTECHIE](https://vmtechie.blog/2019/04/09/vcloud-director-t-shirt-sizing/) 
 ### June 5, 2019 
 - [Digging through logs is over: Plugin Management UI in the vSphere Client – Plugins Blog](https://pluginsblog.com/2019/06/03/digging-through-logs-is-over-plugin-management-ui-in-the-vsphere-client/) 
 - [10 Things To Know About vSphere Certificate Management - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2019/06/10-things-about-vsphere-certificate-management.html?utm_campaign=06-05-19---Are-you-dealing&utm_source=Message&utm_medium=Twitter) 
