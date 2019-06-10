@@ -145,6 +145,7 @@ Bookmark all my links into README.md
 
 ### June 10, 2019 
 - [Using cloud-init for VM templating on vSphere - Blah, Cloud.](https://blah.cloud/infrastructure/using-cloud-init-for-vm-templating-on-vsphere/) 
+- [Configuring a Proxy in Photon OS – vswitchzero](https://vswitchzero.com/2018/03/05/configuring-a-proxy-in-photon-os/) 
 ### June 6, 2019 
 - [vCloud Director T-Shirt Sizing – VMTECHIE](https://vmtechie.blog/2019/04/09/vcloud-director-t-shirt-sizing/) 
 ### June 5, 2019 
