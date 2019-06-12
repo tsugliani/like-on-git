@@ -147,6 +147,7 @@ Bookmark all my links into README.md
 
 ### June 12, 2019 
 - [Enhanced vMotion Compatibility (EVC) Explained - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2019/06/enhanced-vmotion-compatibility-evc-explained.html) 
+- [Resetting expired admin password on NSX-T – My Software Defined Data Center](https://my-sddc.net/2019/06/11/resetting-expired-admin-password-on-nsx-t/) 
 ### June 11, 2019 
 - [How to recover a manually deleted worker node in Enterprise PKS – Virtual Me](http://blog.jgriffiths.org/how-to-recover-a-manually-deleted-worker-node-in-enterprise-pks/) 
 ### June 10, 2019 
