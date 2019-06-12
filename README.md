@@ -144,6 +144,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 12, 2019 
+- [Enhanced vMotion Compatibility (EVC) Explained - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2019/06/enhanced-vmotion-compatibility-evc-explained.html) 
 ### June 11, 2019 
 - [How to recover a manually deleted worker node in Enterprise PKS – Virtual Me](http://blog.jgriffiths.org/how-to-recover-a-manually-deleted-worker-node-in-enterprise-pks/) 
 ### June 10, 2019 
