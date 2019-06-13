@@ -145,6 +145,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 13, 2019 
+- [Enterprise Manager 9.5 U4a issues when logging into the Self Service Backup Portal as a vCloud Tenant – Head in the Clouds](http://stevenonofaro.com/enterprise-manager-9-5-u4a-issues-when-logging-into-the-self-service-backup-portal-as-a-vcloud-tenant/) 
 ### June 12, 2019 
 - [Enhanced vMotion Compatibility (EVC) Explained - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2019/06/enhanced-vmotion-compatibility-evc-explained.html) 
 - [Resetting expired admin password on NSX-T – My Software Defined Data Center](https://my-sddc.net/2019/06/11/resetting-expired-admin-password-on-nsx-t/) 
