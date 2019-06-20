@@ -148,6 +148,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 20, 2019 
+- [NSX DFW Quick Tip: Tag and Trace |](https://rutgerblom.com/2019/06/20/nsx-dfw-quick-tip-tag-and-trace/) 
 ### June 19, 2019 
 - [robcowart/elastiflow: Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack](https://github.com/robcowart/elastiflow) 
 - [(9) WTFlow?! Are you really still paying for commercial solutions to collect and analyze network flow data? | LinkedIn](https://www.linkedin.com/pulse/wtflow-you-really-still-paying-commercial-solutions-collect-cowart/) 
