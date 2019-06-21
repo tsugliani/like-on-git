@@ -149,6 +149,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 21, 2019 
+- [The proper way of configuring syslog services on NSX-T components - Iwan’s wiki](http://www.iwan.wiki/The_proper_way_of_configuring_syslog_services_on_NSX-T_components) 
 ### June 20, 2019 
 - [NSX DFW Quick Tip: Tag and Trace |](https://rutgerblom.com/2019/06/20/nsx-dfw-quick-tip-tag-and-trace/) 
 ### June 19, 2019 
