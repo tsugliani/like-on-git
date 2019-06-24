@@ -150,6 +150,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 24, 2019 
+- [Deploying vRealize Network Insight via Ovftool - Lostdomain](https://lostdomain.org/2019/06/23/deploying-vrealize-network-insight-via-ovftool/) 
 ### June 21, 2019 
 - [The proper way of configuring syslog services on NSX-T components - Iwan’s wiki](http://www.iwan.wiki/The_proper_way_of_configuring_syslog_services_on_NSX-T_components) 
 ### June 20, 2019 
