@@ -151,6 +151,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 27, 2019 
+- [Staying Motivated by Sending Status Updates to Nobody - mtlynch.io](https://mtlynch.io/status-updates-to-nobody/) 
 ### June 24, 2019 
 - [Deploying vRealize Network Insight via Ovftool - Lostdomain](https://lostdomain.org/2019/06/23/deploying-vrealize-network-insight-via-ovftool/) 
 - [Cold Starts in AWS Lambda | Mikhail Shilkov](https://mikhail.io/serverless/coldstarts/aws/) 
