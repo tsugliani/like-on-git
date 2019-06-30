@@ -156,6 +156,7 @@ Bookmark all my links into README.md
 
 ### June 30, 2019 
 - [VMware Cloud on AWS with Transit Gateway - YouTube](https://www.youtube.com/watch?v=OJgGNCz4tVs) 
+- [Network Ports in VMware Horizon 7: VMware Horizon 7 version 7.8](https://techzone.vmware.com/resource/network-ports-vmware-horizon-7#section1) 
 ### June 28, 2019 
 - [GitHub - PowerShell/xDnsServer](https://github.com/PowerShell/xDnsServer) 
 ### June 27, 2019 
