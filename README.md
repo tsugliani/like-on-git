@@ -153,6 +153,9 @@ Bookmark all my links into README.md
 
 
 
+
+### June 30, 2019 
+- [VMware Cloud on AWS with Transit Gateway - YouTube](https://www.youtube.com/watch?v=OJgGNCz4tVs) 
 ### June 28, 2019 
 - [GitHub - PowerShell/xDnsServer](https://github.com/PowerShell/xDnsServer) 
 ### June 27, 2019 
