@@ -154,6 +154,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 1, 2019 
+- [Automating HCX Multi-Site Service Mesh configuration using the new HCX PowerCLI cmdlets](https://www.virtuallyghetto.com/2019/07/automating-hcx-multi-site-service-mesh-configuration-using-the-new-hcx-powercli-cmdlets.html) 
 ### June 30, 2019 
 - [VMware Cloud on AWS with Transit Gateway - YouTube](https://www.youtube.com/watch?v=OJgGNCz4tVs) 
 - [Network Ports in VMware Horizon 7: VMware Horizon 7 version 7.8](https://techzone.vmware.com/resource/network-ports-vmware-horizon-7#section1) 
