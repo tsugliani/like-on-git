@@ -155,6 +155,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 3, 2019 
+- [Understanding RTs and RDs – Das Blinken Lichten](http://www.dasblinkenlichten.com/understanding-rts-and-rds/) 
 ### July 1, 2019 
 - [Automating HCX Multi-Site Service Mesh configuration using the new HCX PowerCLI cmdlets](https://www.virtuallyghetto.com/2019/07/automating-hcx-multi-site-service-mesh-configuration-using-the-new-hcx-powercli-cmdlets.html) 
 ### June 30, 2019 
