@@ -162,6 +162,7 @@ Bookmark all my links into README.md
 - [Quick Post: vSphere 6.7 – Sporadic VM Resets by vSphere HA | Virtual Tassie](https://virtualtassie.com/2019/quick-post-vsphere-6-7-sporadic-vm-resets-by-vsphere-ha/) 
 - [AWS Direct Connect – Deep Dive and Integration with VMware Cloud on AWS - VMware Cloud Community](https://cloud.vmware.com/community/2019/07/03/aws-direct-connect-deep-dive-integration-vmware-cloud-aws/) 
 - [Understanding Kafka with Factorio - HackerNoon.com](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181) 
+- [Understanding RTs and RDs – Das Blinken Lichten](http://www.dasblinkenlichten.com/understanding-rts-and-rds/) 
 ### July 3, 2019 
 - [Understanding RTs and RDs – Das Blinken Lichten](http://www.dasblinkenlichten.com/understanding-rts-and-rds/) 
 ### July 1, 2019 
