@@ -159,6 +159,7 @@ Bookmark all my links into README.md
 
 ### July 6, 2019 
 - [Integrating NSX-T with Active Directory for RBAC (through VMware Identity Manager)](https://my-sddc.net/2019/07/03/integrating-nsx-t-with-active-directory-for-rbac-through-vmware-identity-manager/) 
+- [Quick Post: vSphere 6.7 – Sporadic VM Resets by vSphere HA | Virtual Tassie](https://virtualtassie.com/2019/quick-post-vsphere-6-7-sporadic-vm-resets-by-vsphere-ha/) 
 ### July 3, 2019 
 - [Understanding RTs and RDs – Das Blinken Lichten](http://www.dasblinkenlichten.com/understanding-rts-and-rds/) 
 ### July 1, 2019 
