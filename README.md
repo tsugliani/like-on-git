@@ -158,6 +158,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 11, 2019 
+- [NSX-T two APIs. How do they relate? – Luca's Blog](https://lucacamarda.blog/2019/07/11/nsx-t-two-apis-how-do-they-relate/) 
 ### July 9, 2019 
 - [Building my own virtual lab in vCloud Director with Terraform - Virtual to the Core](https://www.virtualtothecore.com/building-my-own-virtual-lab-in-vcloud-director-with-terraform/) 
 - [Building my own virtual lab in vCloud Director with Terraform - Virtual to the Core](https://www.virtualtothecore.com/building-my-own-virtual-lab-in-vcloud-director-with-terraform/) 
