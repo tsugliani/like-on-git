@@ -164,6 +164,7 @@ Bookmark all my links into README.md
 - [Interacting with the NSX-T Policy API – Luca's Blog](https://lucacamarda.blog/2019/07/17/interacting-with-the-nsx-t-policy-api/) 
 - [Forwarding vCloud Availability logs to a remote syslog daemon | Pigeon Nuggets](https://pigeonnuggets.com/blog/Forwarding-vCAV-Logs-Syslog/) 
 - [Automate vSphere Virtual Machine and OVA Appliance Deployments Using Ansible – SimplyGeek.co.uk](https://www.simplygeek.co.uk/2019/07/18/automate-vsphere-virtual-machine-and-ova-appliance-deployments-using-ansible/) 
+- [Automate vSphere Virtual Machine and OVA Appliance Deployments Using Ansible – SimplyGeek.co.uk](https://www.simplygeek.co.uk/2019/07/18/automate-vsphere-virtual-machine-and-ova-appliance-deployments-using-ansible/) 
 ### July 11, 2019 
 - [NSX-T two APIs. How do they relate? – Luca's Blog](https://lucacamarda.blog/2019/07/11/nsx-t-two-apis-how-do-they-relate/) 
 - [Introduction to the NSX-T Policy API – Luca's Blog](https://lucacamarda.blog/2019/07/09/introduction-to-the-nsx-t-policy-api/) 
