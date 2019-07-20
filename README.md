@@ -160,6 +160,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 20, 2019 
+- [Sustainable Python scripts | Vincent Bernat](https://vincent.bernat.ch/en/blog/2019-sustainable-python-script) 
 ### July 18, 2019 
 - [Interacting with the NSX-T Policy API – Luca's Blog](https://lucacamarda.blog/2019/07/17/interacting-with-the-nsx-t-policy-api/) 
 - [Forwarding vCloud Availability logs to a remote syslog daemon | Pigeon Nuggets](https://pigeonnuggets.com/blog/Forwarding-vCAV-Logs-Syslog/) 
