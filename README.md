@@ -161,6 +161,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 24, 2019 
+- [When a rewrite isn’t: rebuilding Slack on the desktop](https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4) 
 ### July 20, 2019 
 - [Sustainable Python scripts | Vincent Bernat](https://vincent.bernat.ch/en/blog/2019-sustainable-python-script) 
 ### July 18, 2019 
