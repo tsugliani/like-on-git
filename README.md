@@ -162,6 +162,9 @@ Bookmark all my links into README.md
 
 
 
+
+### July 26, 2019 
+- [vCloud Director Object Storage Extension – Deep Look – Tom Fojta's Blog](https://fojta.wordpress.com/2019/07/26/vcloud-director-object-storage-extension-deep-look/) 
 ### July 24, 2019 
 - [When a rewrite isn’t: rebuilding Slack on the desktop](https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4) 
 ### July 20, 2019 
