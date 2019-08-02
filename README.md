@@ -163,6 +163,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 2, 2019 
+- [Port forward collision error with Vagrant and VMWare Fusion - Cryptica](https://www.cryptica.me/blog/port-forward-collision/) 
 ### July 26, 2019 
 - [vCloud Director Object Storage Extension – Deep Look – Tom Fojta's Blog](https://fojta.wordpress.com/2019/07/26/vcloud-director-object-storage-extension-deep-look/) 
 ### July 24, 2019 
