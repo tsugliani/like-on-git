@@ -167,6 +167,7 @@ Bookmark all my links into README.md
 
 ### August 5, 2019 
 - [IaC for vRealize: Deploying vRealize Build Tools To Allow Infrastructure As Code for vRA and vRO – SimplyGeek.co.uk](https://www.simplygeek.co.uk/2019/06/12/deploying-vrealize-build-tools-to-allow-infrastructure-as-code-for-vra-and-vro/) 
+- [vCloud Director – Storage IOPS Management – Tom Fojta's Blog](https://fojta.wordpress.com/2019/08/01/vcloud-director-storage-iops-management/) 
 ### August 2, 2019 
 - [Port forward collision error with Vagrant and VMWare Fusion - Cryptica](https://www.cryptica.me/blog/port-forward-collision/) 
 - [Photon OS Deep Dive Part 1 – Dr.vSAN](https://doctorvsan.com/photon-os-deep-dive-part-1/) 
