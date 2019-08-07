@@ -165,6 +165,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 7, 2019 
+- [docker run vic-machine ·](https://rguske.github.io/post/docker-run-vic-machine/) 
 ### August 5, 2019 
 - [IaC for vRealize: Deploying vRealize Build Tools To Allow Infrastructure As Code for vRA and vRO – SimplyGeek.co.uk](https://www.simplygeek.co.uk/2019/06/12/deploying-vrealize-build-tools-to-allow-infrastructure-as-code-for-vra-and-vro/) 
 - [vCloud Director – Storage IOPS Management – Tom Fojta's Blog](https://fojta.wordpress.com/2019/08/01/vcloud-director-storage-iops-management/) 
