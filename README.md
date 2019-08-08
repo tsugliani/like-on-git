@@ -166,6 +166,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 8, 2019 
+- [VMware | OCTO Blog](https://octo.vmware.com/vmware-nsx-service-mesh-purpose-built-enterprise/) 
 ### August 7, 2019 
 - [docker run vic-machine ·](https://rguske.github.io/post/docker-run-vic-machine/) 
 ### August 5, 2019 
