@@ -167,6 +167,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 9, 2019 
+- [NSX-T Troubleshooting Scenario 3 – vswitchzero](https://vswitchzero.com/2019/08/07/nsx-t-troubleshooting-scenario-3/) 
 ### August 8, 2019 
 - [VMware | OCTO Blog](https://octo.vmware.com/vmware-nsx-service-mesh-purpose-built-enterprise/) 
 - [Creating Isolated Networks with Ubiquiti UniFi · vNinja.net](https://vninja.net/2019/08/08/creating-isolated-networks-ubiquiti/) 
