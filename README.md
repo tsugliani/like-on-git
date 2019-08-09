@@ -172,6 +172,7 @@ Bookmark all my links into README.md
 - [NSX-T Troubleshooting Scenario 3 – vswitchzero](https://vswitchzero.com/2019/08/07/nsx-t-troubleshooting-scenario-3/) 
 - [BGP route summarization with AWS Transit Gateway - Edge Cloud](https://www.edge-cloud.net/2019/08/07/bgp-route-summary-with-tgw/#customer-gateway-route-filtering) 
 - [Oh, shit, git!](https://ohshitgit.com/) 
+- [Setting up Velero 1.0.0 to backup K8s on vSphere/PKS - CormacHogan.com](https://cormachogan.com/2019/08/08/setting-up-velero-1-0-0-to-backup-k8s-on-vsphere-pks/) 
 ### August 8, 2019 
 - [VMware | OCTO Blog](https://octo.vmware.com/vmware-nsx-service-mesh-purpose-built-enterprise/) 
 - [Creating Isolated Networks with Ubiquiti UniFi · vNinja.net](https://vninja.net/2019/08/08/creating-isolated-networks-ubiquiti/) 
