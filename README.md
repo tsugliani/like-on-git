@@ -168,6 +168,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 13, 2019 
+- [Troubleshooting NSX Host Preparation Error “Agency Already Exist For Cluster”](http://www.vstellar.com/2019/08/13/troubleshooting-nsx-host-preparation-error-agency-already-exist-for-cluster/) 
 ### August 9, 2019 
 - [NSX-T Troubleshooting Scenario 3 – vswitchzero](https://vswitchzero.com/2019/08/07/nsx-t-troubleshooting-scenario-3/) 
 - [BGP route summarization with AWS Transit Gateway - Edge Cloud](https://www.edge-cloud.net/2019/08/07/bgp-route-summary-with-tgw/#customer-gateway-route-filtering) 
