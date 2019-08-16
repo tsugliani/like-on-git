@@ -175,6 +175,7 @@ Bookmark all my links into README.md
 - [Automating cleaning up NSX-T with PKS protected objects - Lostdomain](https://lostdomain.org/2019/08/15/automating-cleaning-up-nsx-t-with-pks-protected-objects/) 
 - [[Short Tip] Exclude files in Git diff – /home/liquidat](https://liquidat.wordpress.com/2019/08/14/short-tip-exclude-files-in-git-diff/) 
 - [A Stream Processing API for Go - Vladimir Vivien - Medium](https://medium.com/@vladimirvivien/a-stream-processing-api-for-go-842676efe315) 
+- [The Strategy Bottleneck – Coté](https://cote.io/2019/08/08/strategy-bottleneck/) 
 ### August 13, 2019 
 - [Troubleshooting NSX Host Preparation Error “Agency Already Exist For Cluster”](http://www.vstellar.com/2019/08/13/troubleshooting-nsx-host-preparation-error-agency-already-exist-for-cluster/) 
 ### August 9, 2019 
