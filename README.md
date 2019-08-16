@@ -169,6 +169,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 16, 2019 
+- [Automated deployment of a routed network with VMware Cloud Assembly and NSX-T | viktorious.nl – Virtualization & Cloud Management](https://www.viktorious.nl/2019/08/15/automatically-deploy-a-routed-network-with-vmware-cloud-assembly-and-nsx-t/) 
 ### August 13, 2019 
 - [Troubleshooting NSX Host Preparation Error “Agency Already Exist For Cluster”](http://www.vstellar.com/2019/08/13/troubleshooting-nsx-host-preparation-error-agency-already-exist-for-cluster/) 
 ### August 9, 2019 
