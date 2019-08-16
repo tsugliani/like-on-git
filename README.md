@@ -177,6 +177,7 @@ Bookmark all my links into README.md
 - [A Stream Processing API for Go - Vladimir Vivien - Medium](https://medium.com/@vladimirvivien/a-stream-processing-api-for-go-842676efe315) 
 - [The Strategy Bottleneck – Coté](https://cote.io/2019/08/08/strategy-bottleneck/) 
 - [Introducing vSphere Cloud Native Storage (CNS) - CormacHogan.com](https://cormachogan.com/2019/08/15/introducing-vmware-cloud-native-storage-cns/) 
+- [Announcing VMware Enterprise PKS 1.5 with Enhanced Features For Production Workloads - Cloud Native Apps Blog](https://blogs.vmware.com/cloudnative/2019/08/15/vmware-enterprise-pks-1-5-production-workloads/?src=so_5a314d05e49f5&cid=70134000001SkJn) 
 ### August 13, 2019 
 - [Troubleshooting NSX Host Preparation Error “Agency Already Exist For Cluster”](http://www.vstellar.com/2019/08/13/troubleshooting-nsx-host-preparation-error-agency-already-exist-for-cluster/) 
 ### August 9, 2019 
