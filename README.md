@@ -170,6 +170,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 20, 2019 
+- [Installing vRealize Lifecycle Manager 2.1 – Notes from MWhite](https://notesfrommwhite.net/2019/08/18/installing-vrealize-lifecycle-manager-2-1/) 
 ### August 16, 2019 
 - [Automated deployment of a routed network with VMware Cloud Assembly and NSX-T | viktorious.nl – Virtualization & Cloud Management](https://www.viktorious.nl/2019/08/15/automatically-deploy-a-routed-network-with-vmware-cloud-assembly-and-nsx-t/) 
 - [Automating cleaning up NSX-T with PKS protected objects - Lostdomain](https://lostdomain.org/2019/08/15/automating-cleaning-up-nsx-t-with-pks-protected-objects/) 
