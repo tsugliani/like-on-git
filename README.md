@@ -175,6 +175,7 @@ Bookmark all my links into README.md
 - [Installing vRealize Lifecycle Manager 2.1 – Notes from MWhite](https://notesfrommwhite.net/2019/08/18/installing-vrealize-lifecycle-manager-2-1/) 
 - [The Complete Cisco Nexus vPC Guide. Features & Advantages, Design Guidelines, Configuration, Failure Scenarios, Troubleshooting, VSS vs vPC](http://www.firewall.cx/cisco-technical-knowledgebase/cisco-data-center/1208-nexus-vpc-configuration-design-operation-troubleshooting.html) 
 - [ipmitool 1.8.11 vib for ESXi – vswitchzero](https://vswitchzero.com/ipmitool-vib/) 
+- [Cilium 1.6: KVstore-free operation, 100% kube-proxy replacement, Socket-based load-balancing, Generic CNI Chaining, Native AWS ENI support, ... — Cilium](https://cilium.io/blog/2019/08/20/cilium-16/) 
 ### August 16, 2019 
 - [Automated deployment of a routed network with VMware Cloud Assembly and NSX-T | viktorious.nl – Virtualization & Cloud Management](https://www.viktorious.nl/2019/08/15/automatically-deploy-a-routed-network-with-vmware-cloud-assembly-and-nsx-t/) 
 - [Automating cleaning up NSX-T with PKS protected objects - Lostdomain](https://lostdomain.org/2019/08/15/automating-cleaning-up-nsx-t-with-pks-protected-objects/) 
