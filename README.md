@@ -174,6 +174,7 @@ Bookmark all my links into README.md
 
 ### August 23, 2019 
 - [Limit PIP (Promises In Progress) | @johncutlefish's blog](https://cutle.fish/blog/limit-pip-promises-in-progress) 
+- [What's New with VMware vCloud Director 10.0? (1/2) - Clouds, etc.](https://www.paluszek.com/wp/2019/08/23/whats-new-with-vmware-vcloud-director-10-0-1-2/) 
 ### August 20, 2019 
 - [Installing vRealize Lifecycle Manager 2.1 – Notes from MWhite](https://notesfrommwhite.net/2019/08/18/installing-vrealize-lifecycle-manager-2-1/) 
 - [The Complete Cisco Nexus vPC Guide. Features & Advantages, Design Guidelines, Configuration, Failure Scenarios, Troubleshooting, VSS vs vPC](http://www.firewall.cx/cisco-technical-knowledgebase/cisco-data-center/1208-nexus-vpc-configuration-design-operation-troubleshooting.html) 
