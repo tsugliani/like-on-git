@@ -172,6 +172,9 @@ Bookmark all my links into README.md
 
 
 
+
+### August 29, 2019 
+- [How to Install WSL 2 on Windows Server - Thomas Maurer](https://www.thomasmaurer.ch/2019/08/how-to-install-wsl-2-on-windows-server/) 
 ### August 23, 2019 
 - [Limit PIP (Promises In Progress) | @johncutlefish's blog](https://cutle.fish/blog/limit-pip-promises-in-progress) 
 - [What's New with VMware vCloud Director 10.0? (1/2) - Clouds, etc.](https://www.paluszek.com/wp/2019/08/23/whats-new-with-vmware-vcloud-director-10-0-1-2/) 
