@@ -176,6 +176,7 @@ Bookmark all my links into README.md
 
 ### September 3, 2019 
 - [Introducing Project Magna - Artificial Intelligence and Machine Learning for vSphere self-driving operations - CormacHogan.com](https://cormachogan.com/2019/09/02/introducing-project-magna-artificial-intelligence-and-machine-learning-for-vsphere/) 
+- [Operationalize Your World 7.5 - virtual red dot](http://virtual-red-dot.info/operationalize-your-world-7-5/) 
 ### August 29, 2019 
 - [How to Install WSL 2 on Windows Server - Thomas Maurer](https://www.thomasmaurer.ch/2019/08/how-to-install-wsl-2-on-windows-server/) 
 - [VMware | OCTO Blog](https://octo.vmware.com/vmware-nsx-service-mesh-purpose-built-enterprise/) 
