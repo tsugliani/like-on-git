@@ -175,6 +175,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 8, 2019 
+- [Creating a highly available, cross AZ, loadbalanced ETCD cluster in AWS with Terraform – Virtual Thoughts](https://www.virtualthoughts.co.uk/2019/09/08/creating-a-highly-available-cross-az-loadbalanced-etcd-cluster-in-aws-with-terraform/) 
 ### September 5, 2019 
 - [At Your Fingertips - LucD notes](http://www.lucd.info/2019/09/05/at-your-fingertips/) 
 ### September 3, 2019 
