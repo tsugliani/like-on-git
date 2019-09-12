@@ -177,6 +177,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 12, 2019 
+- [NSX-T Multitenancy – Object-Based RBAC with Principal Identities and Policy API – Luca's Blog](https://lucacamarda.blog/2019/09/11/nsx-t-multitenancy-object-based-rbac-with-principal-identities-and-policy-api/) 
 ### September 11, 2019 
 - [NSX-T Edge Maintenance Mode - Spill the NSX-T](https://www.spillthensxt.com/nsx-t-edge-maintenance-mode/) 
 ### September 8, 2019 
