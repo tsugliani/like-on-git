@@ -183,6 +183,7 @@ Bookmark all my links into README.md
 
 ### September 18, 2019 
 - [NSX-T Edge Maintenance Mode 2 - Spill the NSX-T](https://www.spillthensxt.com/nsx-t-edge-maintenance-mode-2/) 
+- [08 Building Webster's Lab – Additional vCenter Configuration | Carl Webster](https://carlwebster.com/08-building-websters-lab-additional-vcenter-configuration/) 
 ### September 17, 2019 
 - [NSX-T Recoverability – Part 1 |](https://rutgerblom.com/2019/09/15/nsx-t-recoverability-part-1/) 
 - [NSX-T Recoverability – Part 1 |](https://rutgerblom.com/2019/09/15/nsx-t-recoverability-part-1/) 
