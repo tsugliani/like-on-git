@@ -181,6 +181,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 20, 2019 
+- [Using NSX-T to Test NSX-T and Virtual Machine Recovery with Automation – Conceptual | vWilmo](https://vwilmo.wordpress.com/2019/09/17/using-nsx-t-to-test-nsx-t-and-virtual-machine-recovery-with-automation-conceptual/) 
 ### September 18, 2019 
 - [NSX-T Edge Maintenance Mode 2 - Spill the NSX-T](https://www.spillthensxt.com/nsx-t-edge-maintenance-mode-2/) 
 - [08 Building Webster's Lab – Additional vCenter Configuration | Carl Webster](https://carlwebster.com/08-building-websters-lab-additional-vcenter-configuration/) 
