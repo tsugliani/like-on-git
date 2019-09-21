@@ -182,6 +182,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 21, 2019 
+- [Using NSX-T to Test NSX-T and Virtual Machine Recovery with Automation – Conceptual | vWilmo](https://vwilmo.wordpress.com/2019/09/17/using-nsx-t-to-test-nsx-t-and-virtual-machine-recovery-with-automation-conceptual/) 
 ### September 20, 2019 
 - [Using NSX-T to Test NSX-T and Virtual Machine Recovery with Automation – Conceptual | vWilmo](https://vwilmo.wordpress.com/2019/09/17/using-nsx-t-to-test-nsx-t-and-virtual-machine-recovery-with-automation-conceptual/) 
 - [Automate the VMware SDDC using a Multi-Stage Environment Using Ansible – SimplyGeek.co.uk](https://www.simplygeek.co.uk/2019/09/13/automate-the-vmware-sddc-using-a-multi-stage-environment-using-ansible/) 
