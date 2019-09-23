@@ -183,6 +183,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 23, 2019 
+- [Troubleshooting NUMA Node Inbalance Problems |](https://www.sqlpassion.at/archive/2019/09/23/troubleshooting-numa-node-inbalance-problems/) 
 ### September 21, 2019 
 - [Using NSX-T to Test NSX-T and Virtual Machine Recovery with Automation – Conceptual | vWilmo](https://vwilmo.wordpress.com/2019/09/17/using-nsx-t-to-test-nsx-t-and-virtual-machine-recovery-with-automation-conceptual/) 
 ### September 20, 2019 
