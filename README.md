@@ -184,6 +184,9 @@ Bookmark all my links into README.md
 
 
 
+
+### September 27, 2019 
+- [Securing BGP on the host with origin validation | APNIC Blog](https://blog.apnic.net/2019/09/24/securing-bgp-on-the-host-with-origin-validation/) 
 ### September 23, 2019 
 - [Troubleshooting NUMA Node Inbalance Problems |](https://www.sqlpassion.at/archive/2019/09/23/troubleshooting-numa-node-inbalance-problems/) 
 ### September 21, 2019 
