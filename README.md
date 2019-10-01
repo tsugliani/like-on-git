@@ -185,6 +185,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 1, 2019 
+- [Veeam ONE unattended installation with Ansible - my cloud-(r)evolution](https://mycloudrevolution.com/en/2019/09/30/veeam-one-unattended-installation-with-ansible/) 
 ### September 27, 2019 
 - [Securing BGP on the host with origin validation | APNIC Blog](https://blog.apnic.net/2019/09/24/securing-bgp-on-the-host-with-origin-validation/) 
 ### September 23, 2019 
