@@ -186,6 +186,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 2, 2019 
+- [Installing the Pure Storage vSphere Plugin with vRealize Orchestrator | Cody Hosterman](https://www.codyhosterman.com/2019/10/installing-the-pure-storage-vsphere-plugin-with-vrealize-orchestrator/) 
 ### October 1, 2019 
 - [Veeam ONE unattended installation with Ansible - my cloud-(r)evolution](https://mycloudrevolution.com/en/2019/09/30/veeam-one-unattended-installation-with-ansible/) 
 - [Git Aliases I Use (Because I'm Lazy) - victorzhou.com](https://victorzhou.com/blog/git-aliases/) 
