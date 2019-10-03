@@ -187,6 +187,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 3, 2019 
+- [IaC for vRealize: Deploying vRealize Build Tools To Allow Infrastructure As Code for vRA and vRO – SimplyGeek.co.uk](https://www.simplygeek.co.uk/2019/06/12/deploying-vrealize-build-tools-to-allow-infrastructure-as-code-for-vra-and-vro/) 
 ### October 2, 2019 
 - [Installing the Pure Storage vSphere Plugin with vRealize Orchestrator | Cody Hosterman](https://www.codyhosterman.com/2019/10/installing-the-pure-storage-vsphere-plugin-with-vrealize-orchestrator/) 
 ### October 1, 2019 
