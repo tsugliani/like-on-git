@@ -188,6 +188,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 7, 2019 
+- [Deploying Kubernetes ClusterAPI on vSphere](https://thehumblelab.com/deploying-clusterapi-on-vsphere-capv/) 
 ### October 3, 2019 
 - [IaC for vRealize: Deploying vRealize Build Tools To Allow Infrastructure As Code for vRA and vRO – SimplyGeek.co.uk](https://www.simplygeek.co.uk/2019/06/12/deploying-vrealize-build-tools-to-allow-infrastructure-as-code-for-vra-and-vro/) 
 ### October 2, 2019 
