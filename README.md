@@ -190,6 +190,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 21, 2019 
+- [vCloud Director 10 et NSX-T (2/2) : il ne lui manque que les règles DFW … | vBlog.io](https://vblog.io/vcloud-director-10-et-nsx-t-2-2-il-ne-lui-manque-que-les-regles-dfw/) 
 ### October 18, 2019 
 - [Automate disabling @channel & @here notifications using private Slack API](https://www.virtuallyghetto.com/2019/10/automate-disabling-channel-here-notifications-using-private-slack-api.html) 
 ### October 7, 2019 
