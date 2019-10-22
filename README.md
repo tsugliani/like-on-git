@@ -191,6 +191,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 22, 2019 
+- [Multisite vCloud Director With Global Load Balancing | NotThe.Blog](https://notthe.blog/2019/10/multisite-vcloud-director-with-global-load-balancing/) 
 ### October 21, 2019 
 - [vCloud Director 10 et NSX-T (2/2) : il ne lui manque que les règles DFW … | vBlog.io](https://vblog.io/vcloud-director-10-et-nsx-t-2-2-il-ne-lui-manque-que-les-regles-dfw/) 
 - [Transparent Proxying](https://docs.mitmproxy.org/stable/howto-transparent/) 
