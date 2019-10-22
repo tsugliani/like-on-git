@@ -196,6 +196,7 @@ Bookmark all my links into README.md
 - [Multisite vCloud Director With Global Load Balancing | NotThe.Blog](https://notthe.blog/2019/10/multisite-vcloud-director-with-global-load-balancing/) 
 - [Network Reliability Engineering | Going Bare-Metal with NRE Labs](https://networkreliability.engineering/2019/10/going-bare-metal-with-nre-labs/) 
 - [Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python](https://realpython.com/python-f-strings/) 
+- [Infrastructure as Code with Pulumi and vSphere](https://www.thehumblelab.com/iac-vsphere-pulumi/) 
 ### October 21, 2019 
 - [vCloud Director 10 et NSX-T (2/2) : il ne lui manque que les règles DFW … | vBlog.io](https://vblog.io/vcloud-director-10-et-nsx-t-2-2-il-ne-lui-manque-que-les-regles-dfw/) 
 - [Transparent Proxying](https://docs.mitmproxy.org/stable/howto-transparent/) 
