@@ -192,6 +192,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 23, 2019 
+- [Advanced Protection for vCD with Rubrik and PowerShell](https://www.rubrik.com/blog/vcd-rubrik-powershell-advanced-protection/?utm_source=twitter&utm_medium=organic-social-media) 
 ### October 22, 2019 
 - [Multisite vCloud Director With Global Load Balancing | NotThe.Blog](https://notthe.blog/2019/10/multisite-vcloud-director-with-global-load-balancing/) 
 - [Network Reliability Engineering | Going Bare-Metal with NRE Labs](https://networkreliability.engineering/2019/10/going-bare-metal-with-nre-labs/) 
