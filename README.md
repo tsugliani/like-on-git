@@ -193,6 +193,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 24, 2019 
+- [41 – Interconnecting Traditional DCs with DCNM using VXLAN EVPN Multi-site | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1936) 
 ### October 23, 2019 
 - [Advanced Protection for vCD with Rubrik and PowerShell](https://www.rubrik.com/blog/vcd-rubrik-powershell-advanced-protection/?utm_source=twitter&utm_medium=organic-social-media) 
 ### October 22, 2019 
