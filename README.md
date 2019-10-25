@@ -194,6 +194,9 @@ Bookmark all my links into README.md
 
 
 
+
+### October 26, 2019 
+- [How to debug NSX-T API Automation with PowerCLI?](https://www.virtuallyghetto.com/2019/10/how-to-debug-nsx-t-api-automation-with-powercli.html) 
 ### October 24, 2019 
 - [41 – Interconnecting Traditional DCs with DCNM using VXLAN EVPN Multi-site | Data Center Virtualization and DC Interconnect](http://yves-louis.com/DCI/?p=1936) 
 ### October 23, 2019 
