@@ -199,6 +199,7 @@ Bookmark all my links into README.md
 ### October 30, 2019 
 - [Enhance your #homelab by re-enabling transparent page sharing – v(e)Xpertise](http://vxpertise.net/2015/05/enhance-your-homelab-with-re-enabling-transparent-page-sharing/) 
 - [Nesting vSphere vDS on NSX-T N-VDS – doOdzZZ'sNotes](http://notes.doodzzz.net/2019/10/27/nesting-vsphere-vds-on-nsx-t-n-vds/) 
+- [DNS Encryption Explained](https://blog.cloudflare.com/dns-encryption-explained/) 
 ### October 26, 2019 
 - [How to debug NSX-T API Automation with PowerCLI?](https://www.virtuallyghetto.com/2019/10/how-to-debug-nsx-t-api-automation-with-powercli.html) 
 ### October 24, 2019 
