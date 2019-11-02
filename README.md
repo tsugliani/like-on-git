@@ -196,6 +196,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 2, 2019 
+- [List all Unassociated/Orphaned vSAN Objects using PowerCLI](https://gist.github.com/lamw/2a10d4941baf140f94d15f68d951c4c9) 
 ### October 30, 2019 
 - [Enhance your #homelab by re-enabling transparent page sharing – v(e)Xpertise](http://vxpertise.net/2015/05/enhance-your-homelab-with-re-enabling-transparent-page-sharing/) 
 - [Nesting vSphere vDS on NSX-T N-VDS – doOdzZZ'sNotes](http://notes.doodzzz.net/2019/10/27/nesting-vsphere-vds-on-nsx-t-n-vds/) 
