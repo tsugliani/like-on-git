@@ -197,6 +197,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 6, 2019 
+- [Kubernetes with VMware Cloud Director and Nirmata - Clouds, etc.](https://www.paluszek.com/wp/2019/11/05/kubernetes-with-vmware-cloud-director-and-nirmata/) 
 ### November 2, 2019 
 - [List all Unassociated/Orphaned vSAN Objects using PowerCLI](https://gist.github.com/lamw/2a10d4941baf140f94d15f68d951c4c9) 
 ### October 30, 2019 
