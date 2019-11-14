@@ -198,6 +198,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 14, 2019 
+- ["Internal error occurs during vSphere ESX Agent Manager pre-upgrade checks" upgrading the vCenter Server Appliance (50113982)](https://kb.vmware.com/s/article/50113982) 
 ### November 6, 2019 
 - [Kubernetes with VMware Cloud Director and Nirmata - Clouds, etc.](https://www.paluszek.com/wp/2019/11/05/kubernetes-with-vmware-cloud-director-and-nirmata/) 
 ### November 2, 2019 
