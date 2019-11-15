@@ -199,6 +199,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 15, 2019 
+- [Enterprise PKS on VMware Cloud Foundation - NSX-T Principal Identity Cleanup - blog.shiplett.org](https://blog.shiplett.org/enterprise-pks-on-vmware-cloud-foundation-nsx-t-principal-identity-cleanup/) 
 ### November 14, 2019 
 - ["Internal error occurs during vSphere ESX Agent Manager pre-upgrade checks" upgrading the vCenter Server Appliance (50113982)](https://kb.vmware.com/s/article/50113982) 
 - [OpenShift 4.2 vSphere Install with Static IPs – Red Hat OpenShift Blog](https://blog.openshift.com/openshift-4-2-vsphere-install-with-static-ips/) 
