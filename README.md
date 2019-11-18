@@ -200,6 +200,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 18, 2019 
+- [Invoke-VMScriptPlus v3 - LucD notes](http://www.lucd.info/2019/11/17/invoke-vmscriptplus-v3/) 
 ### November 15, 2019 
 - [Enterprise PKS on VMware Cloud Foundation - NSX-T Principal Identity Cleanup - blog.shiplett.org](https://blog.shiplett.org/enterprise-pks-on-vmware-cloud-foundation-nsx-t-principal-identity-cleanup/) 
 ### November 14, 2019 
