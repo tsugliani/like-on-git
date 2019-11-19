@@ -201,6 +201,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 19, 2019 
+- [CNS - not just for vSAN - CormacHogan.com](https://cormachogan.com/2019/11/18/cns-not-just-for-vsan/) 
 ### November 18, 2019 
 - [Invoke-VMScriptPlus v3 - LucD notes](http://www.lucd.info/2019/11/17/invoke-vmscriptplus-v3/) 
 ### November 15, 2019 
