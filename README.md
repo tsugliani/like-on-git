@@ -202,6 +202,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 22, 2019 
+- [GraphQL vs REST: What You Need to Know](https://www.rubrik.com/blog/graphql-vs-rest-apis/?utm_source=twitter&utm_medium=organic-social-media) 
 ### November 19, 2019 
 - [CNS - not just for vSAN - CormacHogan.com](https://cormachogan.com/2019/11/18/cns-not-just-for-vsan/) 
 ### November 18, 2019 
