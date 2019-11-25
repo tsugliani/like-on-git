@@ -203,6 +203,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 25, 2019 
+- [Technology Short Take 120 - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2019/11/22/technology-short-take-120/) 
 ### November 22, 2019 
 - [GraphQL vs REST: What You Need to Know](https://www.rubrik.com/blog/graphql-vs-rest-apis/?utm_source=twitter&utm_medium=organic-social-media) 
 ### November 19, 2019 
