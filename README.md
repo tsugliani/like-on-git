@@ -204,6 +204,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 26, 2019 
+- [Packer reference for building PhotonOS Virtual Appliance using OVF properties](https://www.virtuallyghetto.com/2019/11/packer-reference-for-building-photonos-virtual-appliance-using-ovf-properties.html) 
 ### November 25, 2019 
 - [Technology Short Take 120 - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2019/11/22/technology-short-take-120/) 
 ### November 22, 2019 
