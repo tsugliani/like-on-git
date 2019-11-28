@@ -205,6 +205,9 @@ Bookmark all my links into README.md
 
 
 
+
+### November 28, 2019 
+- [Dask: Scalable analytics in Python](https://dask.org/) 
 ### November 26, 2019 
 - [Packer reference for building PhotonOS Virtual Appliance using OVF properties](https://www.virtuallyghetto.com/2019/11/packer-reference-for-building-photonos-virtual-appliance-using-ovf-properties.html) 
 ### November 25, 2019 
