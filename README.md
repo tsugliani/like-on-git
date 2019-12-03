@@ -211,6 +211,7 @@ Bookmark all my links into README.md
 ### December 3, 2019 
 - [alyssaxuu/flowy: The minimal javascript library to create flowcharts ✨](https://github.com/alyssaxuu/flowy) 
 - [Traefik 2.0 — Wildcard Let’s Encrypt Certificates - Containeroo - Medium](https://medium.com/@containeroo/traefik-2-0-wildcard-lets-encrypt-certificates-1658370adc68) 
+- [Configuring DNS Forwarding in NSX-T - Spill the NSX-T](https://www.spillthensxt.com/configuring-dns-forwarding-in-nsx-t/) 
 ### December 2, 2019 
 - [M80ARM - Virtualization Warrior: VMware Cloud on AWS vCenter Alarms](https://www.m80arm.co.uk/2019/12/vmware-cloud-on-aws-vcenter-alarms.html) 
 ### November 28, 2019 
