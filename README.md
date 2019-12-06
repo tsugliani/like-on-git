@@ -212,6 +212,7 @@ Bookmark all my links into README.md
 ### December 6, 2019 
 - [Cloud-init - Part 1 - The Basics - LucD notes](http://www.lucd.info/2019/12/06/cloud-init-part-1-the-basics/) 
 - [Replacing Orange Livebox router by a Linux box | Vincent Bernat](https://vincent.bernat.ch/en/blog/2019-orange-livebox-linux) 
+- [Installer un serveur mail en moins de 10 minutes](https://www.julienmousqueton.fr/installer-un-serveur-mail-sous-ubuntu-en-moins-de-10-min/) 
 ### December 3, 2019 
 - [alyssaxuu/flowy: The minimal javascript library to create flowcharts ✨](https://github.com/alyssaxuu/flowy) 
 - [Traefik 2.0 — Wildcard Let’s Encrypt Certificates - Containeroo - Medium](https://medium.com/@containeroo/traefik-2-0-wildcard-lets-encrypt-certificates-1658370adc68) 
