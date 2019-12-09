@@ -209,6 +209,9 @@ Bookmark all my links into README.md
 
 
 
+
+### December 9, 2019 
+- [Cloud-init - Part 3 - Photon OS - LucD notes](http://www.lucd.info/2019/12/08/cloud-init-part-3-photon-os/) 
 ### December 6, 2019 
 - [Cloud-init - Part 1 - The Basics - LucD notes](http://www.lucd.info/2019/12/06/cloud-init-part-1-the-basics/) 
 - [Replacing Orange Livebox router by a Linux box | Vincent Bernat](https://vincent.bernat.ch/en/blog/2019-orange-livebox-linux) 
