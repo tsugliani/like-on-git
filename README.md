@@ -210,6 +210,9 @@ Bookmark all my links into README.md
 
 
 
+
+### December 10, 2019 
+- [Chunking Optimizations: Let the Knife Do the Work « null program](https://nullprogram.com/blog/2019/12/09/) 
 ### December 9, 2019 
 - [Cloud-init - Part 3 - Photon OS - LucD notes](http://www.lucd.info/2019/12/08/cloud-init-part-3-photon-os/) 
 ### December 6, 2019 
