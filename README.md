@@ -211,6 +211,9 @@ Bookmark all my links into README.md
 
 
 
+
+### December 11, 2019 
+- [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments) 
 ### December 10, 2019 
 - [Chunking Optimizations: Let the Knife Do the Work « null program](https://nullprogram.com/blog/2019/12/09/) 
 - [packer-esxi/local.sh at master · chrisipa/packer-esxi](https://github.com/chrisipa/packer-esxi/blob/master/local.sh) 
