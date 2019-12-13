@@ -212,6 +212,9 @@ Bookmark all my links into README.md
 
 
 
+
+### December 13, 2019 
+- [Running nested NSX-T on NSX-T – SneakU](https://www.sneaku.com/2019/12/11/running-nested-nsx-t-on-nsx-t/) 
 ### December 11, 2019 
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments) 
 ### December 10, 2019 
