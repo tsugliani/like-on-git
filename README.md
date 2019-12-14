@@ -213,6 +213,9 @@ Bookmark all my links into README.md
 
 
 
+
+### December 14, 2019 
+- [HCX Network Port Diagrams – HCX ⦿ DESIGN](https://hcx.design/2019/12/13/hcx-network-port-diagrams/) 
 ### December 13, 2019 
 - [Running nested NSX-T on NSX-T – SneakU](https://www.sneaku.com/2019/12/11/running-nested-nsx-t-on-nsx-t/) 
 ### December 11, 2019 
