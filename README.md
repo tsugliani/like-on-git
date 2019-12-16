@@ -218,6 +218,7 @@ Bookmark all my links into README.md
 ### December 16, 2019 
 - [AWS Transitive routing with Transit Gateways in the same region](http://www.gilles.cloud/2019/12/aws-transitive-routing-with-transit.html) 
 - [AWS Transitive routing with Transit Gateways in the same region](http://www.gilles.cloud/2019/12/aws-transitive-routing-with-transit.html) 
+- [Routing to multiple docker-compose setups using traefik | Holger Woltersdorf's blog](https://hollo.me/devops/routing-to-multiple-docker-compose-development-setups-with-traefik.html) 
 ### December 14, 2019 
 - [HCX Network Port Diagrams – HCX ⦿ DESIGN](https://hcx.design/2019/12/13/hcx-network-port-diagrams/) 
 ### December 13, 2019 
