@@ -215,6 +215,9 @@ Bookmark all my links into README.md
 
 
 
+
+### December 17, 2019 
+- [(5) Introducing Terraform and the vCloud Provider | LinkedIn](https://www.linkedin.com/pulse/introducing-terraform-vcloud-provider-alex-smith/) 
 ### December 16, 2019 
 - [AWS Transitive routing with Transit Gateways in the same region](http://www.gilles.cloud/2019/12/aws-transitive-routing-with-transit.html) 
 - [AWS Transitive routing with Transit Gateways in the same region](http://www.gilles.cloud/2019/12/aws-transitive-routing-with-transit.html) 
